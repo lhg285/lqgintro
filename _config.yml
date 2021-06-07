@@ -1,1 +1,7 @@
-theme: jekyll-theme-midnight
+title: Your awesome title
+author:
+  name: GitHub User
+  email: your-email@domain.com
+description: > 
+
+theme : minima
