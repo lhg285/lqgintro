@@ -1,7 +1,9 @@
 title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+
 description: > 
 
 theme : minima
+
+header_pages:
+  - all_papers.md
+  - this_week_papers.md
