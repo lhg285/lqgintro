@@ -1,1 +1,7 @@
-$on-large:         1000px !default;
+$content-width:    1200px !default;
+
+$on-palm:          800px !default;
+$on-laptop:        1200px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         $on-laptop !default;
