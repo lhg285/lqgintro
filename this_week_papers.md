@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly new papers
+title: Weekly latest e-prints
 permalink: /this_week_papers/
 ---
 
@@ -10,8 +10,8 @@ permalink: /this_week_papers/
 
 #### Keyword: loop quantum gravity
 
-There is no result 
+There is no new paper today
 #### Keyword: spin foam
 
-There is no result 
+There is no new paper today 
 
