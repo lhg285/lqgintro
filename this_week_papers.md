@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pages
 title: Weekly latest e-prints
 permalink: /this_week_papers/
 ---

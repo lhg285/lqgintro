@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pages
 title: E-prints 2021
 permalink: /all_papers/
 ---
