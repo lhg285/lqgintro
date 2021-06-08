@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 These pages are mainly used to gather latest Loop Quantum Gravity (LQG) related e-prints from [ArXiv](arxiv.org).
 
