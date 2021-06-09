@@ -16,6 +16,19 @@ There is no new related paper today
 There is no new related paper today 
 
 
+
+#### other related papers
+
+1. [[2106.04141]](https://arxiv.org/abs/2106.04141) - *Maximal momentum GUP leads to Stelle gravity* - Vijay Nenmeli, S. Shankaranarayanan (IIT Bombay), Vasil Todorinov, Saurya Das (University of Lethbridge)
+
+1. [[2106.04226]](https://arxiv.org/abs/2106.04226) - *Constraints on Global Symmetry Breaking in Quantum Gravity from Cosmic  Birefringence Measurements* - James Alvey, Miguel Escudero Abenza
+
+1. [[2106.04532]](https://arxiv.org/abs/2106.04532) - *The two-sphere partition function in two-dimensional quantum gravity at  fixed area* - Beatrix Mühlmann
+
+
+
+
+
 ### Tue - 06/08/21
 
 #### Keyword: loop quantum gravity
