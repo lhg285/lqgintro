@@ -5,6 +5,16 @@ permalink: /this_week_papers/
 ---
 
 
+### Wed - 06/09/21
+
+#### Keyword: loop quantum gravity
+
+There is no new related paper today 
+
+#### Keyword: spin foam
+
+There is no new related paper today 
+
 
 ### Tue - 06/08/21
 
