@@ -27,3 +27,5 @@ The following are recommended series of lectures on Loop Quantum Gravity:
 [June 21 – July 2, 2021] [Strings 2021](https://www.ictp-saifr.org/strings2021/)
 
 [July 12 – 16, 2021] [Higher Structures in QFT and String Theory: A Virtual Conference for Junior Researchers](https://sites.google.com/view/jrqftconf2021/home)
+
+[August 23 - 3 September, 2021 ] [Integrability, dualities and deformations - School and Conferences](https://indico.cern.ch/event/1001393/)
