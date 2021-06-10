@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Weekly latest e-prints
+title: New e-prints this week
 permalink: /this_week_papers/
 ---
 
