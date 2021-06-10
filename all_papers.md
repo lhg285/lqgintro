@@ -9,11 +9,8 @@ permalink: /all_papers/
 
 
 
-<!--06/10/21-->
-1. [[2106.04870]](https://arxiv.org/abs/2106.04870) - *Spin current in BF theory* - Malik Matwi
 
-<!--06/09/21-->
-
+1. [[2106.04870]](https://arxiv.org/abs/2106.04870) - *Spin current in BF theory* - Malik Matwi 
 
 1. [[2106.02481]](http://arxiv.org/abs/2106.02481v1) - *Cosmic tangle: Loop quantum cosmology and CMB anomalies* - Martin Bojowald
 
