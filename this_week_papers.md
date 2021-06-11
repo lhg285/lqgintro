@@ -9,6 +9,31 @@ permalink: /this_week_papers/
 
 #### Loop quantum gravity related papers
 
+#### **Primordial perturbations in kinetically dominated regimes of general  relativity and hybrid quantum cosmology**
+ - **Authors:** Beatriz Elizaga Navascués, Rafael Jiménez-Llamas, Guillermo A. Mena Marugán
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2106.05628](https://arxiv.org/abs/2106.05628)
+ - **Abstract**
+ Scalar fields with an energy density dominated by its kinetic part may have played a relevant role in the very early stages of the Universe. Compared to the standard inflationary paradigm, they may lead to modifications in observable quantities, e.g. the anisotropies found in the cosmic microwave background. Kinetically dominated regimes arise in classical fast-roll scenarios as well as in quantum bouncing cosmologies. For instance, kinetic dominance is typical in interesting preinflationary phases of Loop Quantum Cosmology. In this work, we analyze the leading-order effects that the presence of a scalar field potential causes on the primordial cosmological perturbations in these kinetically dominated epochs. These effects can be grouped in two sets, namely, those that affect the effective mass of the perturbations and those that affect the choice of their vacuum state. The effective mass is modified directly by terms that include the potential, but also indirectly by the change in the background dynamics and the relation between the parameterization of these dynamics and the conformal time, usually employed to describe the evolution of the perturbations. On the other hand, away from de Sitter inflation, the Bunch-Davies state is no longer the most natural vacuum at all scales. Recent proposals suggest to modify it by carrying out certain Hamiltonian diagonalization with a suitable asymptotic behavior at large wavenumber scales. Both this diagonalization condition and the imposed asymptotic behavior depend on the effective mass of the perturbations, and therefore the selected vacuum state varies in the presence of the scalar field potential. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2106.05926]](https://arxiv.org/abs/2106.05926) - *Scalar Curvature Invariants in Classical and Quantum Gravity* - B. Shakerin, D.D. McNutt, B. Mattingly, A. Kar, W. Julius, M. Gorban, C. Watson, P. Brown, J.S. Lee, E. W. Davis, G.B. Cleaver
+
+1. [[2106.05912]](https://arxiv.org/abs/2106.05912) - *Causality and gravity* - John F. Donoghue, Gabriel Menezes
+
+
+
+### Thu - 06/10/21
+
+#### Loop quantum gravity related papers
+
 There is no new related paper today 
 
 #### Spin foam related papers
