@@ -5,7 +5,7 @@ permalink: /this_week_papers/
 ---
 
 
-### Thu - 06/10/21
+### Fri - 06/11/21
 
 #### Loop quantum gravity related papers
 
@@ -27,6 +27,10 @@ There is no new related paper today
 1. [[2106.05926]](https://arxiv.org/abs/2106.05926) - *Scalar Curvature Invariants in Classical and Quantum Gravity* - B. Shakerin, D.D. McNutt, B. Mattingly, A. Kar, W. Julius, M. Gorban, C. Watson, P. Brown, J.S. Lee, E. W. Davis, G.B. Cleaver
 
 1. [[2106.05912]](https://arxiv.org/abs/2106.05912) - *Causality and gravity* - John F. Donoghue, Gabriel Menezes
+
+
+
+
 
 
 

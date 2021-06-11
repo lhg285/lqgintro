@@ -12,6 +12,7 @@ permalink: /all_papers/
 1. [[2106.05628]](https://arxiv.org/abs/2106.05628) - *Primordial perturbations in kinetically dominated regimes of general  relativity and hybrid quantum cosmology* - Beatriz Elizaga Navascués, Rafael Jiménez-Llamas, Guillermo A. Mena Marugán
 
 
+
 1. [[2106.04870]](https://arxiv.org/abs/2106.04870) - *Spin current in BF theory* - Malik Matwi 
 
 1. [[2106.02481]](http://arxiv.org/abs/2106.02481v1) - *Cosmic tangle: Loop quantum cosmology and CMB anomalies* - Martin Bojowald
