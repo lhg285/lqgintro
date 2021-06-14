@@ -20,3 +20,5 @@ There is no new related paper today
 
 There is no new related paper today 
 
+[Pre-print last week]({{ site.baseurl }}{%/_post/2021-06-14-weekly_papers.md %})
+
