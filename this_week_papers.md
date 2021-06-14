@@ -5,6 +5,16 @@ permalink: /this_week_papers/
 ---
 
 
+### Mon - 06/14/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Fri - 06/11/21
 
 #### Loop quantum gravity related papers
@@ -28,7 +38,7 @@ There is no new related paper today
 
 1. [[2106.05912]](https://arxiv.org/abs/2106.05912) - *Causality and gravity* - John F. Donoghue, Gabriel Menezes
 
-
+2. [[2106.05803]](https://arxiv.org/abs/2106.05803) - *Pure Lorentz spin connection theories and uniqueness of General Relativity* - Kirill Krasnov, Ermis Mitsou
 
 
 
