@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 06/15/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2106.07128]](https://arxiv.org/abs/2106.07128) - *Black hole perturbations in DHOST theories: Master variables, gradient  instability, and strong coupling* - Kazufumi Takahashi, Hayato Motohashi
+
+
+
 
 
 
