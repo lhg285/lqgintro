@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 1. [[2106.06043]](http://arxiv.org/abs/2106.06043v1) - *Backreaction in Cosmology* - S. Schander, T. Thiemann
 
+1. [[2106.08202]](https://arxiv.org/abs/2106.08202) - *Reduced Phase Space Quantization of Black Hole, Path Integral, and  Effective Dynamics* - Cong Zhang
+
 1. [[2106.05628]](https://arxiv.org/abs/2106.05628) - *Primordial perturbations in kinetically dominated regimes of general  relativity and hybrid quantum cosmology* - Beatriz Elizaga Navascués, Rafael Jiménez-Llamas, Guillermo A. Mena Marugán
 
 
