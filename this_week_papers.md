@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/17/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2106.08739]](https://arxiv.org/abs/2106.08739) - *Cosmological particle production in quantum gravity* - Yaser Tavakoli
+
+
+
 ### Wed - 06/16/21
 
 #### Loop quantum gravity related papers
