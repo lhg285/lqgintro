@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/18/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2106.09037]](https://arxiv.org/abs/2106.09037) - *Conformal Rigidity from Focusing* - Åsmund Folkestad, Sergio Hernández-Cuenca
+
+1. [[2106.09048]](https://arxiv.org/abs/2106.09048) - *Quantum Gravity Microstates from Fredholm Determinants* - Clifford V. Johnson
+
+
+
 ### Thu - 06/17/21
 
 #### Loop quantum gravity related papers
