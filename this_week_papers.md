@@ -20,6 +20,8 @@ There is no new related paper today
 
 #### Other related papers
 
+1. [[2106.09466]](http://arxiv.org/abs/2106.09466v1) - *A Rigorous Derivation of the Functional Renormalisation Group Equation* - Jobst Ziebell
+
 1. [[2106.09037]](https://arxiv.org/abs/2106.09037) - *Conformal Rigidity from Focusing* - Åsmund Folkestad, Sergio Hernández-Cuenca
 
 1. [[2106.09048]](https://arxiv.org/abs/2106.09048) - *Quantum Gravity Microstates from Fredholm Determinants* - Clifford V. Johnson
