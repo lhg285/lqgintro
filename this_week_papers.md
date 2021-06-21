@@ -33,4 +33,4 @@ There is no new related paper today
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-print/2021/06/21/weekly_papers.html)
+[New papers last week]({{site.url}}/lqgintro/archived/weekly/pre-print/2021/06/21/archived_weekly_papers.html)
