@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/24/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2106.12050]](https://arxiv.org/abs/2106.12050) - *Classical and quantum $f(R)$ cosmology: The big rip, the little rip and  the little sibling of the big rip* - Teodor Borislavov Vasilev, Mariam Bouhmadi-López, Prado Martín-Moruno
+
+1. [[2106.12195]](https://arxiv.org/abs/2106.12195) - *New advancements in AdS/CFT in lower dimensions* - Yolanda Lozano, Anayeli Ramirez
+
+1. [[2106.12260]](https://arxiv.org/abs/2106.12260) - *The Abrikosov Vortex in Curved Space* - Jan Albert
+
+
+
 ### Wed - 06/23/21
 
 #### Loop quantum gravity related papers
