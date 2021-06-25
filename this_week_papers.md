@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/25/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2106.12585]](https://arxiv.org/abs/2106.12585) - *Sewing spacetime with Lorentzian threads: complexity and the emergence  of time in quantum gravity* - Juan F. Pedraza, Andrea Russo, Andrew Svesko, Zachary Weller-Davies
+
+1. [[2106.12696]](https://arxiv.org/abs/2106.12696) - *Comment on Coleman-DeLuccia Instantons* - Tom Banks, Bingnan Zhang
+
+1. [[2106.12760]](https://arxiv.org/abs/2106.12760) - *Wormholes and Spectral Statistics in the Narain Ensemble* - Scott Collier, Alexander Maloney
+
+1. [[2106.13198]](https://arxiv.org/abs/2106.13198) - *Gauged 2-form Symmetries in 6D SCFTs Coupled to Gravity* - Andreas P. Braun, Paul-Konstantin Oehlmann, Magdalena Larfors
+
+
+
 ### Thu - 06/24/21
 
 #### Loop quantum gravity related papers
