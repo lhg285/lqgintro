@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 06/30/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2106.15430]](https://arxiv.org/abs/2106.15430) - *Classical and quantum gravity with fractional operators* - Gianluca Calcagni
+
+1. [[2106.14896]](https://arxiv.org/abs/2106.14896) - *Entanglement Wedge in Flat Holography and Entanglement Negativity* - Debarshi Basu, Ashish Chandra, Vinayak Raj, Gautam Sengupta
+
+1. [[2106.14971]](https://arxiv.org/abs/2106.14971) - *TQFT at work for IR-renormalons, resurgence and Lefschetz decomposition* - Mithat Ünsal
+
+
+
 ### Tue - 06/29/21
 
 #### Loop quantum gravity related papers
