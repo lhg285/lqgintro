@@ -14,7 +14,13 @@ There is no new related paper today
 
 #### Spin foam related papers
 
-There is no new related paper today 
+#### **Asymptotic analysis of spin-foams with time-like faces in a new  parameterisation**
+ - **Authors:** José Diogo Simão, Sebastian Steinhaus
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2106.15635](https://arxiv.org/abs/2106.15635)
+ - **Abstract**
+ In this article we study the Conrady-Hnybida extension of the Lorentzian Engle-Pereira-Rovelli-Livine spin-foam model, which admits time-like cells rather than just space-like ones. Our focus is on the asymptotic analysis of the model's vertex amplitude. We propose a new parameterisation for states associated to time-like 3-cells, from which we derive a closed-form expression for their amplitudes. This allows us to revisit the conditions under which critical points of the amplitudes occur, and we find Regge-like geometrical critical points in agreement with the literature. However, we find also evidence for non-geometrical points which are not dynamically suppressed without further assumptions; the model then does not strictly asymptote to the Regge action, contrary to what one would expect. We moreover prove Minkowski and rigidity theorems for Minkowskian polyhedra, extending the asymptotic analysis to non-simplicial spin-foams. Lastly, we present evidence that the so-called "Cosine Problem" is not present for 4-cells containing both space- and time-like 3-cells. 
+
 
 ### Wed - 06/30/21
 
