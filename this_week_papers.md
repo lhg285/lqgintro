@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/02/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.00087]](https://arxiv.org/abs/2107.00087) - *The Swampland Conjectures: A bridge from Quantum Gravity to Particle  Physics* - Mariana Graña, Alvaro Herráez
+
+
+
 ### Thu - 07/01/21
 
 #### Loop quantum gravity related papers
