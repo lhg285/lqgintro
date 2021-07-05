@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2107.01115]](https://arxiv.org/abs/2107.01115) - *Black Hole Shadows: How to Fixthe Extended Gravity Theory* - V.Prokopova, S.Alexeyeva, O.Zenin
+
 1. [[2106.15635]](https://arxiv.org/abs/2106.15635) - *Asymptotic analysis of spin-foams with time-like faces in a new  parameterisation* - José Diogo Simão, Sebastian Steinhaus
 
 1. [[2106.14188]](https://arxiv.org/abs/2106.14188) - *Including topology change in Loop Quantum Gravity with topspin network  formalism with application to homogeneous and isotropic cosmology* - Mattia Villani
