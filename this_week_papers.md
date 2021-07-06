@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 07/06/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.01866]](https://arxiv.org/abs/2107.01866) - *Thermodynamic Geometry of Bardeen Black Holes* - Yang Guo, Yan-Gang Miao
+
+1. [[2107.02077]](https://arxiv.org/abs/2107.02077) - *Baryon Asymmetry from the Generalized Uncertainty Principle* - Saurya Das, Mitja Fridman, Gaetano Lambiase, Elias C. Vagenas
+
+1. [[2107.01371]](https://arxiv.org/abs/2107.01371) - *On Unimodular Gauge of Quantum Gravity* - Ryuichi Nakayama
+
+1. [[2107.01423]](https://arxiv.org/abs/2107.01423) - *Vainshtein Mechanism in Generalised Massive Gravity* - A. Emir Gumrukcuoglu, Rampei Kimura, Michael Kenna-Allison, Kazuya Koyama
+
+1. [[2107.01732]](https://arxiv.org/abs/2107.01732) - *Gauge Theory and the Analytic Form of the Geometric Langlands Program* - Davide Gaiotto, Edward Witten
+
+1. [[2107.01788]](https://arxiv.org/abs/2107.01788) - *Integrability of the conformal loop ensemble* - Morris Ang, Xin Sun
+
+
+
 ### Mon - 07/05/21
 
 #### Loop quantum gravity related papers
