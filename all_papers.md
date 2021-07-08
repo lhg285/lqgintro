@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2107.03293]](https://arxiv.org/abs/2107.03293) - *Hawking radiation by spherically-symmetric static black holes for all  spins: II -- Numerical emission rates, analytical limits and new constraints* - Alexandre Arbey, Jérémy Auffinger, Marc Geiller, Etera R. Livine, Francesco Sartini
+
+1. [[2107.03264]](https://arxiv.org/abs/2107.03264) - *The Ponzano-Regge cylinder and Propagator for 3d quantum gravity* - Etera R. Livine
+
 1. [[2107.01115]](https://arxiv.org/abs/2107.01115) - *Black Hole Shadows: How to Fixthe Extended Gravity Theory* - V.Prokopova, S.Alexeyeva, O.Zenin
 
 1. [[2106.15635]](https://arxiv.org/abs/2106.15635) - *Asymptotic analysis of spin-foams with time-like faces in a new  parameterisation* - José Diogo Simão, Sebastian Steinhaus

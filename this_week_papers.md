@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/08/21
+
+#### Loop quantum gravity related papers
+
+#### **Hawking radiation by spherically-symmetric static black holes for all  spins: II -- Numerical emission rates, analytical limits and new constraints**
+ - **Authors:** Alexandre Arbey, Jérémy Auffinger, Marc Geiller, Etera R. Livine, Francesco Sartini
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2107.03293](https://arxiv.org/abs/2107.03293)
+ - **Abstract**
+ In the companion paper [Phys. Rev. D 103 (2021) 10, [2101.02951]] we have derived the short-ranged potentials for the Teukolsky equations for massless spins $(0,1/2,1,2)$ in general spherically-symmetric and static metrics. Here we apply these results to numerically compute the Hawking radiation spectra of such particles emitted by black holes (BHs) in three different ansatz: charged BHs, higher-dimensional BHs, and polymerized BHs arising from models of quantum gravity. In order to ensure the robustness of our numerical procedure, we show that it agrees with newly derived analytic formulas for the cross-sections in the high and low energy limits. We show how the short-ranged potentials and precise Hawking radiation rates can be used inside the code $\texttt{BlackHawk}$ to predict future primordial BH evaporation signals for a very wide class of BH solutions, including the promising regular BH solutions derived from loop quantum gravity. In particular, we derive the first Hawking radiation constraints on polymerized BHs from AMEGO. We prove that the mass window $10^{16}-10^{18}\,$g for all dark matter into primordial BHs can be reopened with high values of the polymerization parameter, which encodes the typical scale and strength of quantum gravity corrections. 
+
+#### Spin foam related papers
+
+#### **The Ponzano-Regge cylinder and Propagator for 3d quantum gravity**
+ - **Authors:** Etera R. Livine
+ - **Subjects:** High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2107.03264](https://arxiv.org/abs/2107.03264)
+ - **Abstract**
+ We investigate the propagator of 3d quantum gravity, formulated as a discrete topological path integral. We define it as the Ponzano-Regge amplitude of the solid cylinder swept by a 2d disk evolving in time. Quantum states for a 2d disk live in the tensor products of N spins, where N is the number of holonomy insertions connecting to the disk boundary. We formulate the cylindric amplitude in terms of a transfer matrix and identify its eigen-modes in terms of spin recoupling. We show that the propagator distinguishes the subspaces with different total spin and may select the vanishing total spin sector at late time depending on the chosen cylinder boundary data. We discuss applications to quantum circuits and the possibility of experimental simulations of this 3d quantum gravity propagator. 
+
 ### Wed - 07/07/21
 
 #### Loop quantum gravity related papers
