@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/09/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.03406]](https://arxiv.org/abs/2107.03406) - *A nested sequence of comoving Rindler frames, the corresponding vacuum  states, and the local nature of acceleration temperature* - Kinjalk Lochan, T. Padmanabhan
+
+1. [[2107.03456]](https://arxiv.org/abs/2107.03456) - *Disformal mappings of spherical DHOST geometries* - Valerio Faraoni, Alexandre Leblanc
+
+
+
 ### Thu - 07/08/21
 
 #### Loop quantum gravity related papers
