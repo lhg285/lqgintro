@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2107.05443]](https://arxiv.org/abs/2107.05443) - *Electromagnetic duality and central charge from first order formulation* - Marc Geiller, Puttarak Jai-akson, Abdulmajid Osumanu, Daniele Pranzetti
+
 1. [[2107.03293]](https://arxiv.org/abs/2107.03293) - *Hawking radiation by spherically-symmetric static black holes for all  spins: II -- Numerical emission rates, analytical limits and new constraints* - Alexandre Arbey, Jérémy Auffinger, Marc Geiller, Etera R. Livine, Francesco Sartini
 
 1. [[2107.03264]](https://arxiv.org/abs/2107.03264) - *The Ponzano-Regge cylinder and Propagator for 3d quantum gravity* - Etera R. Livine
