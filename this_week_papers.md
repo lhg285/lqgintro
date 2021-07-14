@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/14/21
+
+#### Loop quantum gravity related papers
+
+#### **Non-singular quantum gravitational dynamics of an LTB dust shell model:  the role of quantization prescriptions**
+ - **Authors:** Kristina Giesel, Bao-Fei Li, Parampreet Singh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO)
+ - **Arxiv link:** [https://arxiv.org/abs/2107.05797](https://arxiv.org/abs/2107.05797)
+ - **Abstract**
+ We study some consequences of the loop quantization of the outermost dust shell in the Lema\^itre-Tolman-Bondi spacetime with a homogeneous dust density using different quantization strategies motivated by loop quantum gravity. Prior work has dealt with loop quantizing this model by employing holonomies and the triads, following the procedure in standard loop quantum cosmology. In this work we compare this quantization with the one in which holonomies and gauge-covariant fluxes are used. While both of the quantization schemes resolve the central singularity, they lead to different mass gaps at which a trapped surface forms. This trapped surface which is matched to an exterior generalized Vaidya spacetime disappears when the density of the dust shell is in the Planck regime. We find that the quantization based on holonomies and gauge-covariant fluxes generically results in an asymmetric evolution of the dust shell in which the effective mass associated with the white hole as seen by an external observer is $2/\pi$ of the one for the black hole. This effective difference in masses results from difference in the classical limits in pre- and post-bounce regimes in the two quantizations. This distinctive feature rules out formation of any black hole-white hole twin in presence of gauge-covariant flux modifications which is in contrast to the quantization using holonomies and triads where the gravitational collapse always leads to a black hole-white hole twins. In another striking difference, for the quantization based on holonomies and gauge-covariant fluxes there can be situations in which during a non-singular collapse only a black hole forms without a white hole. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.05662]](https://arxiv.org/abs/2107.05662) - *On the assumptions leading to the information loss paradox* - Luca Buoninfante, Francesco Di Filippo, Shinji Mukohyama
+
+
+
 ### Tue - 07/13/21
 
 #### Loop quantum gravity related papers

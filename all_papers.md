@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2107.05797]](https://arxiv.org/abs/2107.05797) - *Non-singular quantum gravitational dynamics of an LTB dust shell model:  the role of quantization prescriptions* - Kristina Giesel, Bao-Fei Li, Parampreet Singh
+
 1. [[2107.05443]](https://arxiv.org/abs/2107.05443) - *Electromagnetic duality and central charge from first order formulation* - Marc Geiller, Puttarak Jai-akson, Abdulmajid Osumanu, Daniele Pranzetti
 
 1. [[2107.03293]](https://arxiv.org/abs/2107.03293) - *Hawking radiation by spherically-symmetric static black holes for all  spins: II -- Numerical emission rates, analytical limits and new constraints* - Alexandre Arbey, Jérémy Auffinger, Marc Geiller, Etera R. Livine, Francesco Sartini
