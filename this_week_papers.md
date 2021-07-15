@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/15/21
+
+#### Loop quantum gravity related papers
+
+#### **Quantization of topological-holomorphic field theories: local aspects**
+ - **Authors:** Owen Gwilliam, Eugene Rabinovich, Brian R. Williams
+ - **Subjects:** Mathematical Physics (math-ph); High Energy Physics - Theory (hep-th); Differential Geometry (math.DG)
+ - **Arxiv link:** [https://arxiv.org/abs/2107.06734](https://arxiv.org/abs/2107.06734)
+ - **Abstract**
+ In both mathematics and physics, topological field theories and holomorphic field theories appear naturally, but there are interesting theories that are hybrids -- looking topological in some directions and holomorphic in others -- such as twists of supersymmetric field theories or Costello's 4-dimensional Chern--Simons theory. In this paper we construct perturbative, one-loop quantizations rigorously on the model manifold $\mathbb{R}^m \times \mathbb{C}^n$, and find a remarkable vanishing result about anomalies: the one-loop obstruction to quantization on $\mathbb{R}^m\times \mathbb{C}^n$ vanishes when $m\geq 1$. A concrete consequence of our results is the existence of exact and finite quantizations at one-loop for twists of pure $\mathcal{N} =2$ four-dimensional supersymmetric Yang--Mills theory. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.06693]](https://arxiv.org/abs/2107.06693) - *The Spacetime Picture in Quantum Gravity II* - Alejandro Ascárate
+
+1. [[2107.06286]](https://arxiv.org/abs/2107.06286) - *The volume of the black hole interior at late times* - Luca V. Iliesiu, Márk Mezei, Gábor Sárosi
+
+
+
 ### Wed - 07/14/21
 
 #### Loop quantum gravity related papers
