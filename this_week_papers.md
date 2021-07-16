@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/16/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.07033]](https://arxiv.org/abs/2107.07033) - *Infrared behavior of Weyl Gravity* - Lesław Rachwał, Stefano Giaccari
+
+
+
 ### Thu - 07/15/21
 
 #### Loop quantum gravity related papers
