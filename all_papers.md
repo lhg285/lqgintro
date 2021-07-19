@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2107.07777]](https://arxiv.org/abs/2107.07777) - *Effective Actions for Loop Quantum Cosmology in Fourth-Order Gravity* - Marcello Miranda, Daniele Vernieri, Salvatore Capozziello, Francisco S. N. Lobo
+
+1. [[2107.07879]](https://arxiv.org/abs/2107.07879) - *Let Loop Quantum Gravity and Affine Quantum Gravity Examine Each Other* - John R. Klauder
+
 1. [[2107.06734]](https://arxiv.org/abs/2107.06734) - *Quantization of topological-holomorphic field theories: local aspects* - Owen Gwilliam, Eugene Rabinovich, Brian R. Williams
 
 1. [[2107.05797]](https://arxiv.org/abs/2107.05797) - *Non-singular quantum gravitational dynamics of an LTB dust shell model:  the role of quantization prescriptions* - Kristina Giesel, Bao-Fei Li, Parampreet Singh
