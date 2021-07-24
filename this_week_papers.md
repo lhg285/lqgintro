@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Sat - 07/24/21
+
+#### Loop quantum gravity related papers
+
+#### **Loop quantum deparametrized Schwarzschild interior and discrete black  hole mass**
+ - **Authors:** Cong Zhang, Yongge Ma, Shupeng Song, Xiangdong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2107.10579](https://arxiv.org/abs/2107.10579)
+ - **Abstract**
+ We present the detailed analyses of a model of loop quantum Schwarzschild interior coupled to a massless scalar field and extend the results in our previous rapid communication \cite{zhang2020loop} to more general schemes. It is shown that the spectrum of the black hole mass is discrete and does not contain zero. This indicates the existence of a black hole remnant after Hawking evaporation due to loop quantum gravity effects. Besides to show the existence of a stable black hole remnant in the vacuum case, the quantum dynamics for the non-vacuum case is also solved and compared with the effective one. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.10758]](https://arxiv.org/abs/2107.10758) - *Testing Kerr Black Hole Mimickers with Quasi-Periodic Oscillations from  GRO J1655-40* - Xin Jiang, Peng Wang, Houwen Wu, Haitang Yang
+
+
+
 ### Mon - 07/19/21
 
 #### Loop quantum gravity related papers
