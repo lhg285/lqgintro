@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 07/27/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.12163]](https://arxiv.org/abs/2107.12163) - *Gravity Effects on Hawking Radiation from Charged Black Strings in  Rastall Theory* - Riasat Ali, Rimsha Babar, Muhammad Asgher, Syed Asif Ali Shah
+
+1. [[2107.11872]](https://arxiv.org/abs/2107.11872) - *Entanglement entropy in Jackiw-Teitelboim gravity with matter* - Jennifer Lin
+
+1. [[2107.12251]](https://arxiv.org/abs/2107.12251) - *Probing Quantization Via Branes* - Davide Gaiotto, Edward Witten
+
+1. [[2107.11464]](https://arxiv.org/abs/2107.11464) - *Tensor RG approach to high-temperature fixed point* - Tom Kennedy, Slava Rychkov
+
+
+
 ### Mon - 07/26/21
 
 #### Loop quantum gravity related papers
