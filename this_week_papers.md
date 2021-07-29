@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/29/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2107.13130]](https://arxiv.org/abs/2107.13130) - *Comments on wormholes and factorization* - Phil Saad, Stephen Shenker, Shunyu Yao
+
+1. [[2107.13248]](https://arxiv.org/abs/2107.13248) - *The Large $N$ Limit of icMERA and Holography* - Jose J. Fernandez-Melgarejo, Javier Molina-Vilaplana
+
+
+
 ### Wed - 07/28/21
 
 #### Loop quantum gravity related papers
