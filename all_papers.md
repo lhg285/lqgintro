@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2107.13952]](https://arxiv.org/abs/2107.13952) - *A high-performance code for EPRL spin foam amplitudes* - Francesco Gozzini
+
 1. [[2107.11054]](https://arxiv.org/abs/2107.11054) - *Non-oscillating vacuum states and the quantum homogeneity and isotropy  hypothesis in Loop Quantum Cosmology* - Beatriz Elizaga Navascués, Guillermo A. Mena Marugán, Santiago Prado
 
 1. [[2107.10579]](https://arxiv.org/abs/2107.10579) - *Loop quantum deparametrized Schwarzschild interior and discrete black  hole mass* - Cong Zhang, Yongge Ma, Shupeng Song, Xiangdong Zhang

@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/30/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **A high-performance code for EPRL spin foam amplitudes**
+ - **Authors:** Francesco Gozzini
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2107.13952](https://arxiv.org/abs/2107.13952)
+ - **Abstract**
+ We present $\mathtt{\text{sl2cfoam-next}}$, a high-performance software library for computing Lorentzian EPRL spin foam amplitudes. The library improves on previous codes by many orders of magnitude in single-core performance, can be parallelized on a large number of CPUs and on the GPU, and can be used interactively. We describe the techniques used in the code and provide many usage examples. As first applications, we use $\mathtt{\text{sl2cfoam-next}}$ to complete the numerical test of the Lorentzian single-vertex asymptotics and to confirm the presence of the "flatness problem" of spin foam models in the BF and EPRL cases. 
+
 ### Thu - 07/29/21
 
 #### Loop quantum gravity related papers
