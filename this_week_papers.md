@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 08/03/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.00011]](https://arxiv.org/abs/2108.00011) - *Distinguishing Random and Black Hole Microstates* - Jonah Kudler-Flam, Vladimir Narovlansky, Shinsei Ryu
+
+1. [[2108.00068]](https://arxiv.org/abs/2108.00068) - *The Dual of a Tidal Force in the D1D5 CFT* - Bin Guo, Shaun Hampton
+
+
+
 ### Mon - 08/02/21
 
 #### Loop quantum gravity related papers
