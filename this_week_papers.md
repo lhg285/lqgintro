@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/04/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.01339]](https://arxiv.org/abs/2108.01339) - *Scalar and Tensor Perturbations in DHOST Bounce Cosmology* - Mian Zhu, Amara Ilyas, Yunlong Zheng, Yi-Fu Cai, Emmanuel N.Saridakis
+
+1. [[2108.01203]](https://arxiv.org/abs/2108.01203) - *General null asymptotics and superrotation-compatible configuration  spaces in $d\ge4$* - Federico Capone
+
+
+
 ### Tue - 08/03/21
 
 #### Loop quantum gravity related papers
