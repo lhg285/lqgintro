@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/06/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.02553]](https://arxiv.org/abs/2108.02553) - *On the Behavior of Superconductors of High Critical Temperatures Outside  Schwarzchild Black Holes in AdS Space* - D. R. Musk
+
+
+
 ### Thu - 08/05/21
 
 #### Loop quantum gravity related papers
