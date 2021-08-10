@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 08/10/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.04083]](https://arxiv.org/abs/2108.04083) - *A Simple Factor in Canonical Quantization yields Affine Quantization  Even for Quantum Gravity* - John R. Klauder
+
+
+
 ### Mon - 08/09/21
 
 #### Loop quantum gravity related papers
