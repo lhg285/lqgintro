@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2108.05330]](https://arxiv.org/abs/2108.05330) - *Annihilation-to-nothing: DeWitt boundary condition inside a black hole* - Suddhasattwa Brahma, Che-Yu Chen, Dong-han Yeom
+
 1. [[2107.14462]](https://arxiv.org/abs/2107.14462) - *Quantum stability of gauge theories on $κ$-Minkowski space* - Kilian Hersent, Philippe Mathieu, Jean-Christophe Wallet
 
 1. [[2107.14462]](https://arxiv.org/abs/2107.14462) - *Quantum stability of gauge theories on $κ$-Minkowski space* - Kilian Hersent, Philippe Mathieu, Jean-Christophe Wallet

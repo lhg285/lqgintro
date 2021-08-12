@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/12/21
+
+#### Loop quantum gravity related papers
+
+#### **Annihilation-to-nothing: DeWitt boundary condition inside a black hole**
+ - **Authors:** Suddhasattwa Brahma, Che-Yu Chen, Dong-han Yeom
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2108.05330](https://arxiv.org/abs/2108.05330)
+ - **Abstract**
+ In canonical quantum gravity, the wave function for a hypersurface inside a Schwarzschild black hole can be obtained by solving the Wheeler-DeWitt equation. What is of prime importance is the behavior of the wave function for the future boundary near the singularity, and the DeWitt boundary condition implies that it should vanish here. In this paper, we provide several generalizations, and new interpretations, of the DeWitt boundary condition. First, we summarize existing works on the wave function inside the black hole to justify the DeWitt boundary condition. Next, we investigate the wave function for the collapsing null shell to show that due to the reflection symmetry in space and time, there exists a destructive interference near the singularity and hence a vanishing boundary condition can be natural. If we extend this point of view to the black hole spacetime itself, then the DeWitt boundary condition is equivalent to saying that there exists a symmetric anti-black hole contribution, such that eventually these two geometries are \textit{annihilated-to-nothing} near the quantum transition surface. This symmetric model can be realized within black hole models of loop quantum gravity with a novel interpretation for the arrow(s) of time. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 08/11/21
 
 #### Loop quantum gravity related papers
