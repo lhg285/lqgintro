@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/13/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.05744]](https://arxiv.org/abs/2108.05744) - *Future Boundaries and the Black Hole Information Paradox* - Malcolm J. Perry
+
+
+
 ### Thu - 08/12/21
 
 #### Loop quantum gravity related papers
