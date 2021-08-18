@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2108.07489]](https://arxiv.org/abs/2108.07489) - *A Brief Overview of Results about Uniqueness of the Quantization in  Cosmology* - Jerónimo Cortez, Guillermo A. Mena Marugán, José M. Velhinho
+
 1. [[2108.07023]](https://arxiv.org/abs/2108.07023) - *Loop quantum gravity with optimal control path integral, and application  to black hole tunneling* - Quentin Ansel
 
 1. [[2108.06218]](https://arxiv.org/abs/2108.06218) - *Initial conditions of pre-inflation with Hilltop potential in loop  quantum cosmology* - M. Shahalam, Kuralay Yesmakhanova, Zhanar Umurzakhova

@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/18/21
+
+#### Loop quantum gravity related papers
+
+#### **A Brief Overview of Results about Uniqueness of the Quantization in  Cosmology**
+ - **Authors:** Jerónimo Cortez, Guillermo A. Mena Marugán, José M. Velhinho
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2108.07489](https://arxiv.org/abs/2108.07489)
+ - **Abstract**
+ The purpose of this review is to provide a brief overview of some recent conceptual developments about possible criteria to guarantee the uniqueness of the quantization in a variety of situations that are found in cosmological systems. These criteria impose some conditions on the representation of a group of physically relevant linear transformations. Generally, this group contains any existing symmetry of the spatial sections. These symmetries may or may not be sufficient for the purpose of uniqueness and may have to be complemented with other remaining symmetries that affect the time direction, or with dynamical transformations that in fact are not symmetries. We discuss the extent to which a unitary implementation of the resulting group suffices to fix the quantization, a demand that can be seen as a weaker version of the requirement of invariance. In particular, a strict invariance under certain transformations may eliminate some physically interesting possibilities in the passage to the quantum theory. This is the first review in which this unified perspective is adopted to discuss otherwise rather different uniqueness criteria proposed either in homogeneous loop quantum cosmology or in the Fock quantization of inhomogeneous cosmologies. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.07607]](https://arxiv.org/abs/2108.07607) - *Potential consequences of wormhole-mediated entanglement* - Edward Wilson-Ewing
+
+1. [[2108.07766]](https://arxiv.org/abs/2108.07766) - *Nonlinear electrodynamics effects on the black hole shadow, deflection  angle, quasinormal modes and greybody factors* - Mert Okyay, Ali Övgün
+
+
+
 ### Tue - 08/17/21
 
 #### Loop quantum gravity related papers
