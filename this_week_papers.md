@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/19/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.07912]](https://arxiv.org/abs/2108.07912) - *Schwarzschild-like Wormholes in Asymptotically Safe Gravity* - M.Nilton, G. Alencar
+
+1. [[2108.07824]](https://arxiv.org/abs/2108.07824) - *Schrödinger evolution of two-dimensional black holes* - Steven B. Giddings
+
+1. [[2108.07986]](https://arxiv.org/abs/2108.07986) - *Tests of Standard Cosmology in Horava Gravity* - Nils A. Nilsson, Mu-In Park
+
+
+
 ### Wed - 08/18/21
 
 #### Loop quantum gravity related papers
