@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/20/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.08438]](https://arxiv.org/abs/2108.08438) - *Testing the equivalence principle and discreteness of spacetime through  the $t^3$ gravitational phase with quantum information technology* - Fabrizio Tamburini, Ignazio Licata
+
+1. [[2108.08308]](https://arxiv.org/abs/2108.08308) - *Product of Random States and Spatial (Half-)Wormholes* - Kanato Goto, Yuya Kusuki, Kotaro Tamaoka, Tomonori Ugajin
+
+1. [[2108.08322]](https://arxiv.org/abs/2108.08322) - *Fractons and exotic symmetries from branes* - Hao Geng, Shamit Kachru, Andreas Karch, Richard Nally, Brandon C. Rayhaun
+
+
+
 ### Thu - 08/19/21
 
 #### Loop quantum gravity related papers
