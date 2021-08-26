@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/26/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.10979]](https://arxiv.org/abs/2108.10979) - *No Ward-Takahashi identity violation for an Abelian tensorial group  field theories with closure constraint* - Vincent Lahoche, Bêm-Biéri Barthélémy Natta, Dine Ousmane Samary
+
+
+
 ### Wed - 08/25/21
 
 #### Loop quantum gravity related papers
