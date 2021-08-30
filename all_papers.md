@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2108.12362]](https://arxiv.org/abs/2108.12362) - *Glimmers of a post-geometric perspective* - Federico Piazza
+
 1. [[2108.11936]](https://arxiv.org/abs/2108.11936) - *Space-time physics in background-independent theories of quantum gravity* - Martin Bojowald
 
 1. [[2108.07489]](https://arxiv.org/abs/2108.07489) - *A Brief Overview of Results about Uniqueness of the Quantization in  Cosmology* - Jerónimo Cortez, Guillermo A. Mena Marugán, José M. Velhinho
