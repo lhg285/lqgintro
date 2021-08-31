@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2108.12553]](https://arxiv.org/abs/2108.12553) - *Quantum gravity might restrict a cyclic evolution* - Bao-Fei Li, Parampreet Singh
+
+1. [[2108.12556]](https://arxiv.org/abs/2108.12556) - *Nonclassical cosmological dynamics in the low-energy limit of loop  quantum scalar-tensor theory* - Yu Han
+
 1. [[2108.12362]](https://arxiv.org/abs/2108.12362) - *Glimmers of a post-geometric perspective* - Federico Piazza
 
 1. [[2108.11936]](https://arxiv.org/abs/2108.11936) - *Space-time physics in background-independent theories of quantum gravity* - Martin Bojowald
