@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/01/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2108.13427]](https://arxiv.org/abs/2108.13427) - *Circuit Complexity in Topological Quantum Field Theory* - Josiah Couch, Yale Fan, Sanjit Shashi
+
+
+
 ### Tue - 08/31/21
 
 #### Loop quantum gravity related papers
