@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/02/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Four-dimensional Spinfoam Quantum Gravity with Cosmological Constant:  Finiteness and Semiclassical Limit**
+ - **Authors:** Muxin Han
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Geometric Topology (math.GT)
+ - **Arxiv link:** [https://arxiv.org/abs/2109.00034](https://arxiv.org/abs/2109.00034)
+ - **Abstract**
+ We present an improved formulation of 4-dimensional Lorentzian spinfoam quantum gravity with cosmological constant. The construction of spinfoam amplitudes uses the state-integral model of PSL(2,$\mathbb{C}$) Chern-Simons theory and the implementation of simplicity constraint. The formulation has 2 key features: (1) spinfoam amplitudes are all finite, and (2) With suitable boundary data, the semiclassical asymptotics of the vertex amplitude has two oscillatory terms, with phase plus or minus the 4-dimensional Lorentzian Regge action with cosmological constant for the constant curvature 4-simplex. 
+
+
+
+#### Other related papers
+
+1. [[2109.00017]](https://arxiv.org/abs/2109.00017) - *Integrable deformations of AdS/CFT* - Marius de Leeuw, Anton Pribytok, Ana L. Retore, Paul Ryan
+
+
+
 ### Wed - 09/01/21
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2109.00034]](https://arxiv.org/abs/2109.00034) - *Four-dimensional Spinfoam Quantum Gravity with Cosmological Constant:  Finiteness and Semiclassical Limit* - Muxin Han
+
 1. [[2108.12553]](https://arxiv.org/abs/2108.12553) - *Quantum gravity might restrict a cyclic evolution* - Bao-Fei Li, Parampreet Singh
 
 1. [[2108.12556]](https://arxiv.org/abs/2108.12556) - *Nonclassical cosmological dynamics in the low-energy limit of loop  quantum scalar-tensor theory* - Yu Han
