@@ -6,6 +6,43 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/03/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Lorentzian quantum cosmology goes simplicial**
+ - **Authors:** Bianca Dittrich, Steffen Gielen, Susanne Schander
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2109.00875](https://arxiv.org/abs/2109.00875)
+ - **Abstract**
+ We employ the methods of discrete (Lorentzian) Regge calculus for analysing Lorentzian quantum cosmology models with a special focus on discrete analogues of the no-boundary proposal for the early universe. We use a simple 4-polytope, a subdivided 4-polytope and shells of discrete 3-spheres as triangulations to model a closed universe with cosmological constant, and examine the semiclassical path integral for these different choices. We find that the shells give good agreement with continuum results for small values of the scale factor and in particular for finer discretisations of the boundary 3-sphere, while the simple and subdivided 4-polytopes can only be compared with the continuum in certain regimes, and in particular are not able to capture a transition from Euclidean geometry with small scale factor to a large Lorentzian one. Finally, we consider a closed universe filled with dust particles and discretised by shells of 3-spheres. This model can approximate the continuum case quite well. Our results embed the no-boundary proposal in a discrete setting where it is possibly more naturally defined, and prepare for its discussion within the realm of spin foams. 
+
+#### **Causal structure in spin-foams**
+ - **Authors:** Eugenio Bianchi, Pierre Martin-Dussaud
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2109.00986](https://arxiv.org/abs/2109.00986)
+ - **Abstract**
+ The metric field of general relativity is almost fully determined by its causal structure. Yet, in spin-foam models for quantum gravity, the role played by the causal structure is still largely unexplored. The goal of this paper is to clarify how causality is encoded in such models. The quest unveils the physical meaning of the orientation of the two-complex and its role as a dynamical variable. We propose a causal version of the EPRL spin-foam model and discuss the role of the causal structure in the reconstruction of a semiclassical spacetime geometry. 
+
+#### **Higher Dimensional Polytopal Universe in Regge Calculus**
+ - **Authors:** Ren Tsuda, Takanori Fujiwara
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Lattice (hep-lat); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2109.01075](https://arxiv.org/abs/2109.01075)
+ - **Abstract**
+ Higher dimensional closed Friedmann-Lema\^itre-Robertson-Walker (FLRW) universe with positive cosmological constant is investigated by Regge calculus. A Cauchy surface of discretized FLRW universe is replaced by a regular polytope in accordance with the Collins-Williams (CW) formalism. Polytopes in an arbitrary dimensions can be systematically dealt with by a set of five integers integrating the Schl\"afli symbol of the polytope. Regge action in continuum time limit is given. It possesses reparameterization invariance of the time variable. Variational principle for edge lengths and struts yields Hamiltonian constraint and evolution equation. They describe oscillating universe in dimensions larger than three. To go beyond the approximation by regular polytopes, we propose pseudo-regular polytopes with fractional Schl\"afli symbols as a substitute for geodesic domes in higher dimensions. We examine the pseudo-regular polytope model as an effective theory of Regge calculus for the geodesic domes. In the infinite frequency limit, the pseudo-regular polytope model reduces to the continuum FLRW universe. 
+
+
+
+#### Other related papers
+
+1. [[2109.00564]](https://arxiv.org/abs/2109.00564) - *Curved accretion disks around rotating black holes without reflection  symmetry* - Che-Yu Chen, Hsiang-Yi Karen Yang
+
+
+
 ### Thu - 09/02/21
 
 #### Loop quantum gravity related papers

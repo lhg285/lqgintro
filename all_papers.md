@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2109.00875]](https://arxiv.org/abs/2109.00875) - *Lorentzian quantum cosmology goes simplicial* - Bianca Dittrich, Steffen Gielen, Susanne Schander
+
+1. [[2109.00986]](https://arxiv.org/abs/2109.00986) - *Causal structure in spin-foams* - Eugenio Bianchi, Pierre Martin-Dussaud
+
+1. [[2109.01075]](https://arxiv.org/abs/2109.01075) - *Higher Dimensional Polytopal Universe in Regge Calculus* - Ren Tsuda, Takanori Fujiwara
+
 1. [[2109.00034]](https://arxiv.org/abs/2109.00034) - *Four-dimensional Spinfoam Quantum Gravity with Cosmological Constant:  Finiteness and Semiclassical Limit* - Muxin Han
 
 1. [[2108.12553]](https://arxiv.org/abs/2108.12553) - *Quantum gravity might restrict a cyclic evolution* - Bao-Fei Li, Parampreet Singh
