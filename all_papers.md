@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2109.02861]](https://arxiv.org/abs/2109.02861) - *Extended geometry of Gambini-Olmedo-Pullin polymer black hole and its  quasinormal spectrum* - Yu-Chen Liu, Jia-Xi Feng, Fu-Wen Shu, Anzhong Wang
+
 1. [[2109.00875]](https://arxiv.org/abs/2109.00875) - *Lorentzian quantum cosmology goes simplicial* - Bianca Dittrich, Steffen Gielen, Susanne Schander
 
 1. [[2109.00986]](https://arxiv.org/abs/2109.00986) - *Causal structure in spin-foams* - Eugenio Bianchi, Pierre Martin-Dussaud

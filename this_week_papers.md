@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/08/21
+
+#### Loop quantum gravity related papers
+
+#### **Extended geometry of Gambini-Olmedo-Pullin polymer black hole and its  quasinormal spectrum**
+ - **Authors:** Yu-Chen Liu, Jia-Xi Feng, Fu-Wen Shu, Anzhong Wang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2109.02861](https://arxiv.org/abs/2109.02861)
+ - **Abstract**
+ In this paper we systematically study a model of spherically symmetric polymer black holes recently proposed by Gambini, Olmedo, and Pullin (GOP). Within the framework of loop quantum gravity, the quantum parameters in the GOP model depend on the minimal area gap and the size of the discretization of the physical states. In this model, a spacelike transition surface takes place of the classical singularity. By means of coordinate transformations, we first extend the metric to the white hole region, and find that the geometric structure of the quantum black hole is similar to the wormhole structure, and the radius of the most quantum region is equal to the wormhole radius. In addition, we show that the energy conditions are violated not only at throat, but also at horizons and the spatial infinities. In order to show how the quantum effects affect the spacetimes, we calculate the Ricci and Kretschmann scalars at different places. It turns out that, as expected, the most quantum region is at the throat. Finally, we consider the quasinormal modes (QNMs) of massless scalar field perturbations, electromagnetic field perturbations, and axial gravitational perturbations. QNMs in the Eikonal limits are also considered. As anticipated, the spectrum of QNMs deviates from that of the classical case due to quantum effects. Interestingly, our results show that the quasinormal frequencies of the perturbations share the same qualitative tendency while setting quantum parameters with various values in this effective model, even if the potential deviations are different with different spins. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2109.02660]](https://arxiv.org/abs/2109.02660) - *Unitarity, clock dependence and quantum recollapse in quantum cosmology* - Steffen Gielen, Lucía Menéndez-Pidal
+
+1. [[2109.03176]](https://arxiv.org/abs/2109.03176) - *Thermodynamic geometry of static and rotating regular black holes in  conformal massive gravity* - Saheb Soroushfar, Reza Saffari, Amare Abebe, Haidar Sheikhahmadi
+
+1. [[2109.02649]](https://arxiv.org/abs/2109.02649) - *Negativity Spectra in Random Tensor Networks and Holography* - Jonah Kudler-Flam, Vladimir Narovlansky, Shinsei Ryu
+
+
+
 ### Tue - 09/07/21
 
 #### Loop quantum gravity related papers
