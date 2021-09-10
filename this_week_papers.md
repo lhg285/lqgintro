@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/10/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2109.03838]](https://arxiv.org/abs/2109.03838) - *A Euclidean Perspective on Completeness and Weak Gravity* - Daniel Harlow, Hirosi Ooguri
+
+1. [[2109.04414]](https://arxiv.org/abs/2109.04414) - *The cylinder amplitude in the Hard Dimer model on 2D Causal Dynamical  Triangulations* - John F. Wheater, P.D. Xavier
+
+
+
 ### Wed - 09/08/21
 
 #### Loop quantum gravity related papers
