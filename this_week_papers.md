@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/17/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2109.07850]](https://arxiv.org/abs/2109.07850) - *Constraints on Quantum Gravity and the Photon Mass from Gamma Ray Bursts* - Deaglan J. Bartlett, Harry Desmond, Pedro G. Ferreira, Jens Jasche
+
+1. [[2109.07516]](https://arxiv.org/abs/2109.07516) - *Exact quantization and analytic continuation* - Barak Gabai, Xi Yin
+
+1. [[2109.07770]](https://arxiv.org/abs/2109.07770) - *From Quantum Groups to Liouville and Dilaton Quantum Gravity* - Yale Fan, Thomas G. Mertens
+
+
+
 ### Mon - 09/13/21
 
 #### Loop quantum gravity related papers
