@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/21/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2109.08696]](https://arxiv.org/abs/2109.08696) - *Bouncing with shear: Implications from quantum cosmology* - Karthik Rajeev, Vikramaditya Mondal, Sumanta Chakraborty
+
+1. [[2109.09638]](https://arxiv.org/abs/2109.09638) - *Time-space duality in 2D quantum gravity* - Ding Jia
+
+1. [[2109.09364]](https://arxiv.org/abs/2109.09364) - *Non-linear sigma models on constant curvature target manifolds: a  functional renormalization group approach* - Alexander N. Efremov, Adam Rançon
+
+1. [[2109.09496]](https://arxiv.org/abs/2109.09496) - *Background Independent Field Quantization with Sequences of  Gravity-Coupled Approximants II: Metric Fluctuations* - Maximilian Becker, Martin Reuter
+
+
+
 ### Mon - 09/20/21
 
 #### Loop quantum gravity related papers
