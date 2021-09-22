@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/22/21
+
+#### Loop quantum gravity related papers
+
+#### **Quantum Holography from Fermion Fields**
+ - **Authors:** Paola Zizzi
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2109.10236](https://arxiv.org/abs/2109.10236)
+ - **Abstract**
+ We demonstrate, in the context of Loop Quantum Gravity, the Quantum Holographic Principle, according to which the area of the boundary surface enclosing a region of space encodes a qubit per Planck unit. To this aim, we introduce fermion fields in the bulk, whose boundary surface is the two-dimensional sphere. The doubling of the fermionic degrees of freedom and the use of the Bogoljubov transformations lead to pairs of spin network's edges piercing the boundary surface with double punctures, giving rise to pixels of area encoding a qubit. The proof is also valid in the case of a fuzzy sphere. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2109.09814]](https://arxiv.org/abs/2109.09814) - *Dynamics and Observational Signatures of Shell-like Black Hole Mimickers* - Ulf Danielsson, Luis Lehner, Frans Pretorius
+
+1. [[2109.10017]](https://arxiv.org/abs/2109.10017) - *Black holes as frozen stars* - Ram Brustein, A.J.M. Medved, Tamar Simhon
+
+1. [[2109.09753]](https://arxiv.org/abs/2109.09753) - *Graviton corrections to the Newtonian potential using invariant  observables* - M. B. Fröb, C. Rein, R. Verch
+
+
+
 ### Tue - 09/21/21
 
 #### Loop quantum gravity related papers
