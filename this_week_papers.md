@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/23/21
+
+#### Loop quantum gravity related papers
+
+#### **The Physical Relevance of the Fiducial Cell in Loop Quantum Cosmology**
+ - **Authors:** Fabio M. Mele, Johannes Münch
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2109.10663](https://arxiv.org/abs/2109.10663)
+ - **Abstract**
+ A common way to avoid divergent integrals in homogeneous spatially non-compact gravitational systems, as e.g. cosmology, is to introduce a fiducial cell by cutting-off the spatial slice at a finite region $V_o$. This is usually considered as an auxiliary integral regulator to be removed after performing computations by sending it to infinity. In this paper, we analyse the dependence of the classical and quantum theory of homogeneous, isotropic and spatially flat cosmology on this fiducial cell. We show that each fixed $V_o$ regularisation leads to a different canonically independent theory. At the classical level, the dynamics of observables is not affected by the regularisation choice on-shell. For the quantum theory, however, this leads to a family of regulator dependent quantum representations labelled by $V_o$ and the limit $V_o\to\infty$ becomes then more subtle. First, we construct a novel isomorphism between different $V_o$-regularisations, which allows us to identify states in the different $V_o$-labelled Hilbert spaces to ensure equivalent dynamics for any value of the regulator. The $V_o \rightarrow \infty$ limit would then correspond to choosing a state for which the volume assigned to the fiducial cell becomes infinite. As second main result of our analysis, by looking at observables respectively smeared over the fiducial cell $V_o$ and subregions $V$, we find that quantum fluctuations of the latter explicitly depend on the size of the fiducial cell. Physically relevant fluctuations for a finite region, as e.g. in the early time regime, would then be unreasonably suppressed in the limit where the volume of the fiducial cell becomes infinite. Our results suggest that the fiducial cell is not playing the role of a mere regularisation but is physically relevant at the quantum level and complement previous statements in the literature based on different arguments. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2109.10749]](https://arxiv.org/abs/2109.10749) - *If time had no beginning: growth dynamics for past-infinite causal sets* - Bruno Valeixo Bento, Fay Dowker, Stav Zalel
+
+
+
 ### Wed - 09/22/21
 
 #### Loop quantum gravity related papers

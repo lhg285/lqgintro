@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2109.10663]](https://arxiv.org/abs/2109.10663) - *The Physical Relevance of the Fiducial Cell in Loop Quantum Cosmology* - Fabio M. Mele, Johannes Münch
+
 1. [[2109.10236]](https://arxiv.org/abs/2109.10236) - *Quantum Holography from Fermion Fields* - Paola Zizzi
 
 1. [[2109.08645]](https://arxiv.org/abs/2109.08645) - *An Overview on the Nature of the Bounce in LQC and PQM* - Gabriele Barca, Eleonora Giovannetti, Giovanni Montani
