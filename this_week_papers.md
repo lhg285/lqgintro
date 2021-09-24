@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/24/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2109.10932]](https://arxiv.org/abs/2109.10932) - *Violent nonlinear collapse in the interior of charged hairy black holes* - Maxime Van de Moortel
+
+1. [[2109.11092]](https://arxiv.org/abs/2109.11092) - *Angular correlations of causally-coherent primordial quantum  perturbations* - Craig Hogan, Stephan S. Meyer
+
+1. [[2109.10961]](https://arxiv.org/abs/2109.10961) - *Swampland Constraints on Neutrino Masses* - E. Gonzalo, L.E. Ibáñez, I. Valenzuela
+
+
+
 ### Thu - 09/23/21
 
 #### Loop quantum gravity related papers
