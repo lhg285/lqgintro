@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2109.12938]](https://arxiv.org/abs/2109.12938) - *Modified regular black holes with time delay and 1-loop quantum  correction* - Yi Ling, Meng-He Wu
+
 1. [[2109.10663]](https://arxiv.org/abs/2109.10663) - *The Physical Relevance of the Fiducial Cell in Loop Quantum Cosmology* - Fabio M. Mele, Johannes Münch
 
 1. [[2109.10236]](https://arxiv.org/abs/2109.10236) - *Quantum Holography from Fermion Fields* - Paola Zizzi
