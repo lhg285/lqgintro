@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/29/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Higher form Yang-Mills as higher BFYM theories**
+ - **Authors:** Danhua Song, Kai Lou, Ke Wu, Jie Yang
+ - **Subjects:** Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2109.13443](https://arxiv.org/abs/2109.13443)
+ - **Abstract**
+ We give a brief overview how to generalize a BF theory to 2BF and 3BF theories within the higher gauge theory framework. We find that, for the BF theory, there is a deformation giving the formulation of the standard Yang-Mills theory. In this work we study the generalizations of the Yang-Mills theory to the 2-form Yang-Mills theory and construct the 3-form Yang-Mills theory. Then, for the 2BF and 3BF theories, we give good deformed models, 2BFYM and 3BFYM, describing the corresponding dynamics of 2-form Yang-Mills and 3-form Yang-Mills. 
+
+
+
+#### Other related papers
+
+1. [[2109.13556]](https://arxiv.org/abs/2109.13556) - *Acoustic regular black hole in fluid and its similarity and diversity to  a conformally related black hole* - Chen Lan, Yan-Gang Miao, Yi-Xiong Zang
+
+1. [[2109.13784]](https://arxiv.org/abs/2109.13784) - *Effective actions and bubble nucleation from holography* - Fëanor Reuben Ares, Oscar Henriksson, Mark Hindmarsh, Carlos Hoyos, Niko Jokela
+
+
+
 ### Tue - 09/28/21
 
 #### Loop quantum gravity related papers
