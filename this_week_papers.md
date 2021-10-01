@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/01/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2109.14826]](https://arxiv.org/abs/2109.14826) - *Hubble tension bounds the GUP and EUP parameters* - S. Aghababaei, H. Moradpour, Elias C. Vagenas
+
+1. [[2109.15054]](https://arxiv.org/abs/2109.15054) - *Thin accretion disk in the Simpson-Visser black-bounce and wormhole  spacetime* - Parth Bambhaniya, Saurabh K, Kimet Jusufi, Pankaj S. Joshi
+
+1. [[2109.15070]](https://arxiv.org/abs/2109.15070) - *Holography, Supergravity, and the Weak Gravity Conjecture* - Brian McPeak
+
+1. [[2109.15259]](https://arxiv.org/abs/2109.15259) - *Generalized Uncertainty Principle: from the harmonic oscillator to a QFT  toy model* - Pasquale Bosso, Giuseppe Gaetano Luciano
+
+
+
 ### Wed - 09/29/21
 
 #### Loop quantum gravity related papers
