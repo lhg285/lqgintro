@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2110.01091]](https://arxiv.org/abs/2110.01091) - *Finiteness of spinfoam vertex amplitude with timelike polyhedra, and the  full amplitude* - Muxin Han, Wojciech Kaminski, Hongguang Liu
+
+1. [[2110.01317]](https://arxiv.org/abs/2110.01317) - *Twisted geometry coherent states in all dimensional loop quantum  gravity: I. Construction and Peakedness properties* - Gaoping Long, Xiangdong Zhang, Cong Zhang
+
 1. [[2109.13443]](https://arxiv.org/abs/2109.13443) - *Higher form Yang-Mills as higher BFYM theories* - Danhua Song, Kai Lou, Ke Wu, Jie Yang
 
 1. [[2109.12938]](https://arxiv.org/abs/2109.12938) - *Modified regular black holes with time delay and 1-loop quantum  correction* - Yi Ling, Meng-He Wu
