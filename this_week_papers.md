@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/06/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2110.01785]](https://arxiv.org/abs/2110.01785) - *Induced quantum gravitational interaction between two objects with  permanent quadrupoles in external gravitational fields* - Yongshun Hu, Jiawei Hu, Hongwei Yu
+
+1. [[2110.02133]](https://arxiv.org/abs/2110.02133) - *Strict deformation quantization of abelian lattice gauge fields* - T.D.H. van Nuland
+
+
+
 ### Tue - 10/05/21
 
 #### Loop quantum gravity related papers
