@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2110.02242]](https://arxiv.org/abs/2110.02242) - *Report on the session Loop Quantum Gravity: Cosmology and Black Holes of  the 16th Marcel Grossmann Meeting* - Jorge Pullin, Parampreet Singh
+
+1. [[2110.02340]](https://arxiv.org/abs/2110.02340) - *Modified dispersion relations and a potential explanation of the EDGES  anomaly* - Saurya Das, Mitja Fridman, Gaetano Lambiase, Antonio Stabile, Elias C. Vagenas
+
 1. [[2110.01091]](https://arxiv.org/abs/2110.01091) - *Finiteness of spinfoam vertex amplitude with timelike polyhedra, and the  full amplitude* - Muxin Han, Wojciech Kaminski, Hongguang Liu
 
 1. [[2110.01317]](https://arxiv.org/abs/2110.01317) - *Twisted geometry coherent states in all dimensional loop quantum  gravity: I. Construction and Peakedness properties* - Gaoping Long, Xiangdong Zhang, Cong Zhang

@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/07/21
+
+#### Loop quantum gravity related papers
+
+#### **Report on the session Loop Quantum Gravity: Cosmology and Black Holes of  the 16th Marcel Grossmann Meeting**
+ - **Authors:** Jorge Pullin, Parampreet Singh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO)
+ - **Arxiv link:** [https://arxiv.org/abs/2110.02242](https://arxiv.org/abs/2110.02242)
+ - **Abstract**
+ We summarize the main results of 19 talks presented at the QG3 session (loop quantum gravity: cosmology and black holes) of the 16th Marcel Grossmann Meeting held online from July $5^{\mathrm{th}}$-10$^{\mathrm{th}}$, 2021. 
+
+#### **Modified dispersion relations and a potential explanation of the EDGES  anomaly**
+ - **Authors:** Saurya Das, Mitja Fridman, Gaetano Lambiase, Antonio Stabile, Elias C. Vagenas
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2110.02340](https://arxiv.org/abs/2110.02340)
+ - **Abstract**
+ The Experiment to Detect the Global Epoch of Reionisation Signature (EDGES) collaboration has recently reported an important result related to the absorption signal in the Cosmic Microwave Background radiation spectrum. This signal corresponds to the red-shifted 21-cm line at $z \simeq 17.2$, whose amplitude is about twice the expected value. This represents a deviation of approximately $3.8\sigma$ from the predictions of the standard model of cosmology, i.e. the $\Lambda$CDM model. This opens a window for testing new physics beyond both the standard model of particle physics and the $\Lambda$CDM model. In this work, we explore the possibility of explaining the EDGES anomaly in terms of modified dispersion relations. The latter are typically induced in unified theories and theories of quantum gravity, such as String/M-theories and Loop Quantum Gravity. These modified dispersion relations affect the density of states per unit volume and thus the thermal spectrum of the Cosmic Microwave Background photons. The temperature of the 21-cm brightness temperature is modified accordingly giving a potential explanation of the EDGES anomaly. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2110.02542]](https://arxiv.org/abs/2110.02542) - *Can we detect the quantum nature of weak gravitational fields?* - Francesco Coradeschi, Antonia Micol Frassino, Thiago Guerreiro, Jennifer Rittenhouse West, Enrico Junior Schioppa
+
+
+
 ### Wed - 10/06/21
 
 #### Loop quantum gravity related papers
