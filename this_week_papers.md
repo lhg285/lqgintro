@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/08/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2110.03069]](https://arxiv.org/abs/2110.03069) - *Rainbow Black Hole From Quantum Gravitational Collapse* - Aliasghar Parvizi, Tomasz Pawłowski, Yaser Tavakoli, Jerzy Lewandowski
+
+1. [[2110.03194]](https://arxiv.org/abs/2110.03194) - *Nonlinear definition of the shadowy mode in higher-order scalar-tensor  theories* - Antonio De Felice, Shinji Mukohyama, Kazufumi Takahashi
+
+1. [[2110.03388]](https://arxiv.org/abs/2110.03388) - *Emergence of Minkowski-Spacetime by Simple Deterministic Graph Rewriting* - Gabriel Leuenberger
+
+1. [[2110.03129]](https://arxiv.org/abs/2110.03129) - *$α'$-corrections to Near Extremal Dyonic Strings and Weak Gravity  Conjecture* - Liang Ma, Yi Pang, H. Lü
+
+1. [[2110.03188]](https://arxiv.org/abs/2110.03188) - *Spacing Statistics of Energy Spectra: Random Matrices, Black Hole  Thermalization, and Echoes* - Krishan Saraswat, Niayesh Afshordi
+
+1. [[2110.03197]](https://arxiv.org/abs/2110.03197) - *Holography in de Sitter Space via Chern-Simons Gauge Theory* - Yasuaki Hikida, Tatsuma Nishioka, Tadashi Takayanagi, Yusuke Taki
+
+
+
 ### Thu - 10/07/21
 
 #### Loop quantum gravity related papers
