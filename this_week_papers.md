@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/14/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2110.06247]](https://arxiv.org/abs/2110.06247) - *Infrared signatures of quantum bounce in collapsing geometry* - Harkirat Singh Sahota, Kinjalk Lochan
+
+1. [[2110.06677]](https://arxiv.org/abs/2110.06677) - *Quantized Noncommutative Geometry from Multitrace Matrix Models* - Badis Ydri, Ramda Khaled, Cherine Soudani
+
+
+
 ### Wed - 10/13/21
 
 #### Loop quantum gravity related papers
