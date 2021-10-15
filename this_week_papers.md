@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/15/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **A spin foam framework for the black-to-white hole transition**
+ - **Authors:** Farshid Soltani
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2110.07589](https://arxiv.org/abs/2110.07589)
+ - **Abstract**
+ Black holes formation and evolution have been extensively studied at the classical level. However, not much is known regarding the end of their lives, a phase that requires to consider the quantum nature of the gravitational field. A black-to-white hole transition can capture the physics of this phenomenon, in particular the physics of the residual small black holes at the end of the Hawking evaporation. This work shows how the spin foam formalism is able to describe this non-perturbative phenomenon. A thorough examination of the black hole spacetime region in which quantum effects cannot be neglected indicates that the scenario in which the black hole geometry undergoes a quantum transition in a white hole geometry is natural and conservative. This quantum transition is then studied using the spin foam formalism and the resulting transition amplitude is explicitly computed. 
+
+
+
+#### Other related papers
+
+1. [[2110.07194]](https://arxiv.org/abs/2110.07194) - *Light curves of the hot spots on circular orbits around generic regular  black holes related to non-linear electrodynamics with Maxwellian weak-field  Limit* - Dmitriy Ovchinnikov, Jan Schee, Zdenek Stuchlík, Bobomurat Ahmedov
+
+1. [[2110.06949]](https://arxiv.org/abs/2110.06949) - *Euclidean D-branes in Type IIB string theory on Calabi-Yau threefolds* - Sergei Alexandrov, Ashoke Sen, Bogdan Stefański jr
+
+1. [[2110.07300]](https://arxiv.org/abs/2110.07300) - *Comments on the Transplanckian Censorship Conjecture* - Michael Dine, Yan Yu
+
+
+
 ### Thu - 10/14/21
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2110.07589]](https://arxiv.org/abs/2110.07589) - *A spin foam framework for the black-to-white hole transition* - Farshid Soltani
+
 1. [[2110.05397]](https://arxiv.org/abs/2110.05397) - *Effective black hole interior and the Raychadhuri equation* - Keagan Blanchette, Saurya Das, Samantha Hergott, Saeed Rastgoo
 
 1. [[2110.02242]](https://arxiv.org/abs/2110.02242) - *Report on the session Loop Quantum Gravity: Cosmology and Black Holes of  the 16th Marcel Grossmann Meeting* - Jorge Pullin, Parampreet Singh
