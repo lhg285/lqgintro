@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 10/19/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2110.08715]](https://arxiv.org/abs/2110.08715) - *Summing Inflationary Logarithms in Nonlinear Sigma Models* - S. P. Miao (National Cheng Kung University), N. C. Tsamis (University of Crete), R. P. Woodard (University of Florida)
+
+1. [[2110.09184]](https://arxiv.org/abs/2110.09184) - *Quantum gravity phenomenology induced in the propagation of UHECR, a  kinematical solution in Finsler and generalized Finsler spacetime* - Marco Danilo Claudio Torri
+
+1. [[2110.08479]](https://arxiv.org/abs/2110.08479) - *Wormhole interaction in 2d Horava-Lifshitz quantum gravity* - Jan Ambjørn, Yuki Hiraga, Yoshiyasu Ito, Yuki Sato
+
+1. [[2110.08546]](https://arxiv.org/abs/2110.08546) - *Critical Non-Abelian Vortex and Holography for Little String Theory* - E. Ievlev, A. Yung
+
+1. [[2110.08703]](https://arxiv.org/abs/2110.08703) - *Emergence of Kinematic Space from Quantum Modular Geometric Tensor* - Xing Huang, Chen-Te Ma
+
+1. [[2110.08833]](https://arxiv.org/abs/2110.08833) - *A note on ensemble holography for rational tori* - Joris Raeymaekers
+
+
+
 ### Mon - 10/18/21
 
 #### Loop quantum gravity related papers
