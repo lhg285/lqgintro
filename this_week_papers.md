@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/20/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2110.10008]](https://arxiv.org/abs/2110.10008) - *Non-local gravity in bouncing cosmology scenarios* - D. Jackson, R. Bufalo
+
+1. [[2110.09649]](https://arxiv.org/abs/2110.09649) - *Massive Higher-Spin Multiplets and Asymptotic Freedom in Quantum Gravity* - Marco Piva
+
+1. [[2110.10104]](https://arxiv.org/abs/2110.10104) - *Disc partition function of 2d $R^2$ gravity from DWG matrix model* - Vladimir Kazakov, Fedor Levkovich-Maslyuk
+
+
+
 ### Tue - 10/19/21
 
 #### Loop quantum gravity related papers
