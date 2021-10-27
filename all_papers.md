@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2110.13756]](https://arxiv.org/abs/2110.13756) - *Group quantization of the black hole minisuperspace* - Francesco Sartini
+
 1. [[2110.07589]](https://arxiv.org/abs/2110.07589) - *A spin foam framework for the black-to-white hole transition* - Farshid Soltani
 
 1. [[2110.05397]](https://arxiv.org/abs/2110.05397) - *Effective black hole interior and the Raychadhuri equation* - Keagan Blanchette, Saurya Das, Samantha Hergott, Saeed Rastgoo
