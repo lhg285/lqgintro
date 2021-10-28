@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/28/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2110.14201]](https://arxiv.org/abs/2110.14201) - *The center of a regular AdS black hole as a holographic RG fixed point* - Yang Li, Yan-Gang Miao
+
+1. [[2110.14263]](https://arxiv.org/abs/2110.14263) - *Universal leading quantum correction to the Newton potential* - Tibério de Paula Netto, Ilya L. Shapiro, Leonardo Modesto
+
+
+
 ### Wed - 10/27/21
 
 #### Loop quantum gravity related papers
