@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2110.14736]](https://arxiv.org/abs/2110.14736) - *Effects of a Quantum or Classical Scalar Field on the Entanglement  Entropy of a Pair of Universes* - Samuel Barroso Bellido
+
+1. [[2110.15336]](https://arxiv.org/abs/2110.15336) - *Phase transitions in tensorial group field theories: Landau-Ginzburg  analysis of models with both local and non-local degrees of freedom* - Luca Marchetti, Daniele Oriti, Andreas G. A. Pithis, Johannes Thürigen
+
+1. [[2110.15166]](https://arxiv.org/abs/2110.15166) - *Bulk area law for boundary entanglement in spin network states: entropy  corrections and horizon-like regions from volume correlations* - Goffredo Chirco, Eugenia Colafranceschi, Daniele Oriti
+
 1. [[2110.13756]](https://arxiv.org/abs/2110.13756) - *Group quantization of the black hole minisuperspace* - Francesco Sartini
 
 1. [[2110.07589]](https://arxiv.org/abs/2110.07589) - *A spin foam framework for the black-to-white hole transition* - Farshid Soltani
