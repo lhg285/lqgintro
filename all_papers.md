@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2110.15373]](https://arxiv.org/abs/2110.15373) - *Does loop quantum $μ_o$ scheme permit a black hole formation?* - Bao-Fei Li, Parampreet Singh
+
 1. [[2110.14736]](https://arxiv.org/abs/2110.14736) - *Effects of a Quantum or Classical Scalar Field on the Entanglement  Entropy of a Pair of Universes* - Samuel Barroso Bellido
 
 1. [[2110.15336]](https://arxiv.org/abs/2110.15336) - *Phase transitions in tensorial group field theories: Landau-Ginzburg  analysis of models with both local and non-local degrees of freedom* - Luca Marchetti, Daniele Oriti, Andreas G. A. Pithis, Johannes Thürigen
