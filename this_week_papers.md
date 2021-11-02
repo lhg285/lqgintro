@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/02/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.00015]](https://arxiv.org/abs/2111.00015) - *Finiteness and the Swampland* - Yuta Hamada, Miguel Montero, Cumrun Vafa, Irene Valenzuela
+
+
+
 ### Mon - 11/01/21
 
 #### Loop quantum gravity related papers
