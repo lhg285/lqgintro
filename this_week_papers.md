@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/03/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.01278]](https://arxiv.org/abs/2111.01278) - *Baryon Asymmetry and Minimum Length* - Saurya Das, Mitja Fridman, Gaetano Lambiase, Elias C. Vagenas
+
+1. [[2111.01139]](https://arxiv.org/abs/2111.01139) - *Non-Invertible Duality Defects in 3+1 Dimensions* - Yichul Choi, Clay Cordova, Po-Shen Hsin, Ho Tat Lam, Shu-Heng Shao
+
+
+
 ### Tue - 11/02/21
 
 #### Loop quantum gravity related papers
