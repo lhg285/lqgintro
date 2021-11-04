@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2111.02129]](https://arxiv.org/abs/2111.02129) - *Polymer Quantization of the Isotropic Universe: comparison with the  Bounce of Loop Quantum Cosmology* - Gabriele Barca, Eleonora Giovannetti, Federico Mandini, Giovanni Montani
+
 1. [[2110.15373]](https://arxiv.org/abs/2110.15373) - *Does loop quantum $μ_o$ scheme permit a black hole formation?* - Bao-Fei Li, Parampreet Singh
 
 1. [[2110.14736]](https://arxiv.org/abs/2110.14736) - *Effects of a Quantum or Classical Scalar Field on the Entanglement  Entropy of a Pair of Universes* - Samuel Barroso Bellido

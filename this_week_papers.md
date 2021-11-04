@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/04/21
+
+#### Loop quantum gravity related papers
+
+#### **Polymer Quantization of the Isotropic Universe: comparison with the  Bounce of Loop Quantum Cosmology**
+ - **Authors:** Gabriele Barca, Eleonora Giovannetti, Federico Mandini, Giovanni Montani
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2111.02129](https://arxiv.org/abs/2111.02129)
+ - **Abstract**
+ We implement Polymer Quantum Mechanics on the Hamiltonian formulation of the isotropic Universe in both the representations of the standard Ashtekar-Barbero-Immirzi connection and of a new generalized coordinate conjugate to the Universe volume. The resulting dynamics is a bouncing cosmology; when quantizing the volume-like variable the Big Bounce is an intrinsic cut-off on the cosmological dynamics, while when using the standard connection the Bounce density results to be dependent on the initial conditions of the prepared wave packet. Then we compare the nature of the resulting Bounce with what emerges in Loop Quantum Cosmology, where the dependence of the critical density on the initial conditions is present when the minimum area eigenvalue is implemented in a comoving representation instead of the physical one. We conclude that, if one hand the preferable scenario should be a Big Bounce whose density depends on initial conditions in view of the privileged SU(2) character that the Ashtekar-Barbero-Immirzi connection possesses in the full Loop Quantum Gravity, on the other hand the equivalence demonstrated in the context of polymer cosmology can be a hint in favour of the viability of the improved scheme of Loop Quantum Cosmology even though it is not expressed through the privileged set of variables. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.02137]](https://arxiv.org/abs/2111.02137) - *On a Quantum Weyl Curvature Hypothesis* - Claus Kiefer
+
+
+
 ### Wed - 11/03/21
 
 #### Loop quantum gravity related papers
