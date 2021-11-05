@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/05/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.02894]](https://arxiv.org/abs/2111.02894) - *Bouncing cosmology in extended gravity and its reconstruction as dark  energy model* - A.S. Agrawal, Francisco Tello-Ortiz, B.Mishra, S.K. Tripathy
+
+1. [[2111.02858]](https://arxiv.org/abs/2111.02858) - *A ribbon graph derivation of the algebra of functional renormalization  for random multi-matrices with multi-trace interactions* - Carlos I. Perez-Sanchez
+
+
+
 ### Thu - 11/04/21
 
 #### Loop quantum gravity related papers
