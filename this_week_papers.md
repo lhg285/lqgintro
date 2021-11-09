@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/09/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.04291]](https://arxiv.org/abs/2111.04291) - *Non-local $R^2$-like inflation, Gravitational Waves and  Non-Gaussianities* - K. Sravan Kumar
+
+1. [[2111.04405]](https://arxiv.org/abs/2111.04405) - *Path Integral Complexity and Kasner singularities* - Pawel Caputa, Diptarka Das, Sumit R. Das
+
+1. [[2111.04696]](https://arxiv.org/abs/2111.04696) - *Asymptotic freedom and safety in quantum gravity* - Saswato Sen, Christof Wetterich, Masatoshi Yamada
+
+
+
 ### Fri - 11/05/21
 
 #### Loop quantum gravity related papers
