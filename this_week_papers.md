@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/10/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.05018]](https://arxiv.org/abs/2111.05018) - *Black Hole Remnants from Dynamical Dimensional Reduction?* - Frank Saueressig, Amir Khosravi
+
+1. [[2111.05151]](https://arxiv.org/abs/2111.05151) - *The averaged null energy condition on holographic evaporating black  holes* - Akihiro Ishibashi, Kengo Maeda
+
+1. [[2111.05295]](https://arxiv.org/abs/2111.05295) - *Contrasting the fuzzball and wormhole paradigms for black holes* - Bin Guo, Marcel R. R. Hughes, Samir D. Mathur, Madhur Mehta
+
+
+
 ### Tue - 11/09/21
 
 #### Loop quantum gravity related papers
