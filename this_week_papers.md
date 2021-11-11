@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/11/21
+
+#### Loop quantum gravity related papers
+
+#### **Thermodynamics in new model of loop quantum cosmology**
+ - **Authors:** Xiangdong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2111.05660](https://arxiv.org/abs/2111.05660)
+ - **Abstract**
+ The thermodynamic properties of loop quantum cosmology (LQC) without considering the Lorentz term were established in \cite{Zhu09}. In this paper, we extend this result to the recent proposed new model of LQC with the Lorentz term. We investigate the thermodynamics of LQC on the apparent horizon of the Friedmann-Lematre-Robertson-Walker universe. The result shows that the effective density and effective pressure in the modified Friedmann equation of LQC not only determines the evolution of the universe but can also serve as the thermodynamic quantities. Moreover, with the help of the Misner-Sharp energy, the first law of thermodynamics of the LQC is still valid as expected. This in turn endows precise physical meaning to the effective matter density $\rho_{eff}$ and the effective pressure $P_{eff}$. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.05355]](https://arxiv.org/abs/2111.05355) - *Holevo Information and Ensemble Theory of Gravity* - Xiao-Liang Qi, Zhou Shangnan, Zhenbin Yang
+
+
+
 ### Wed - 11/10/21
 
 #### Loop quantum gravity related papers
