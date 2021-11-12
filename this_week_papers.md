@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/12/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.05878]](https://arxiv.org/abs/2111.05878) - *Natural evidence for fuzzy sphere noncommutative geometry:  super-Chandrasekhar white dwarfs* - Surajit Kalita, T. R. Govindarajan, Banibrata Mukhopadhyay
+
+1. [[2111.05879]](https://arxiv.org/abs/2111.05879) - *Insights on Entanglement Entropy in $1+1$ Dimensional Causal Sets* - Théo Keseman, Hans J. Muneesamy, Yasaman K. Yazdi
+
+1. [[2111.05984]](https://arxiv.org/abs/2111.05984) - *On generalization of 2d gravity with the simplest non-invariant states* - Damir Sadekov
+
+1. [[2111.06298]](https://arxiv.org/abs/2111.06298) - *The Entanglement Wedge of Unknown Couplings* - Ahmed Almheiri, Henry W. Lin
+
+
+
 ### Thu - 11/11/21
 
 #### Loop quantum gravity related papers
