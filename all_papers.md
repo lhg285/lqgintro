@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2111.06876]](https://arxiv.org/abs/2111.06876) - *Towards the Finite-$N$ Twisted Holography from the Geometry of Phase  Space* - Seyed Faroogh Moosavian, Yehao Zhou
+
 1. [[2111.05660]](https://arxiv.org/abs/2111.05660) - *Thermodynamics in new model of loop quantum cosmology* - Xiangdong Zhang
 
 1. [[2111.02129]](https://arxiv.org/abs/2111.02129) - *Polymer Quantization of the Isotropic Universe: comparison with the  Bounce of Loop Quantum Cosmology* - Gabriele Barca, Eleonora Giovannetti, Federico Mandini, Giovanni Montani
