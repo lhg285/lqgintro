@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2111.07223]](https://arxiv.org/abs/2111.07223) - *Gravitational lensing by a black hole in effective loop quantum gravity* - Qi-Ming Fu, Xin Zhang
+
+1. [[2111.07835]](https://arxiv.org/abs/2111.07835) - *Power spectrum for perturbations in an inflationary model for a closed  universe* - Claus Kiefer, Tatevik Vardanyan
+
 1. [[2111.06876]](https://arxiv.org/abs/2111.06876) - *Towards the Finite-$N$ Twisted Holography from the Geometry of Phase  Space* - Seyed Faroogh Moosavian, Yehao Zhou
 
 1. [[2111.05660]](https://arxiv.org/abs/2111.05660) - *Thermodynamics in new model of loop quantum cosmology* - Xiangdong Zhang
