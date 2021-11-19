@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/19/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.09331]](https://arxiv.org/abs/2111.09331) - *Embedding Causal Sets into Minkowski Spacetime* - Steven Johnston
+
+
+
 ### Tue - 11/16/21
 
 #### Loop quantum gravity related papers
