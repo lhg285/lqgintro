@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2111.11844]](https://arxiv.org/abs/2111.11844) - *The effective dynamics of weak coupling loop quantum gravity* - Gaoping Long, Yongge Ma
+
 1. [[2111.07223]](https://arxiv.org/abs/2111.07223) - *Gravitational lensing by a black hole in effective loop quantum gravity* - Qi-Ming Fu, Xin Zhang
 
 1. [[2111.07835]](https://arxiv.org/abs/2111.07835) - *Power spectrum for perturbations in an inflationary model for a closed  universe* - Claus Kiefer, Tatevik Vardanyan
