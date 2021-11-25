@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/25/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.12329]](https://arxiv.org/abs/2111.12329) - *The eye of the storm: A regular Kerr black hole* - Alex Simpson, Matt Visser
+
+1. [[2111.12365]](https://arxiv.org/abs/2111.12365) - *Form Factors in Quantum Gravity - contrasting non-local, ghost-free  gravity and Asymptotic Safety* - Benjamin Knorr, Chris Ripken, Frank Saueressig
+
+
+
 ### Wed - 11/24/21
 
 #### Loop quantum gravity related papers
