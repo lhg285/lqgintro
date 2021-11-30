@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/30/21
+
+#### Loop quantum gravity related papers
+
+#### **Spinor Representation of the Hamiltonian Constraint in 3D LQG with a  Non-zero Cosmological Constant**
+ - **Authors:** Valentin Bonzom, Maïté Dupuis, Qiaoyin Pan
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2111.14471](https://arxiv.org/abs/2111.14471)
+ - **Abstract**
+ We develop in a companion article the kinematics of three-dimensional loop quantum gravity in Euclidean signature and with a negative cosmological constant, focusing in particular on the spinorial representation which is well-known at zero cosmological constant. In this article, we put this formalism to the test by quantizing the Hamiltonian constraint on the dual of a triangulation. The Hamiltonian constraints are obtained by projecting the flatness constraints onto spinors, as done in the flat case by the first author and Livine. Quantization then relies on $q$-deformed spinors. The quantum Hamiltonian constraint acts in the $q$-deformed spin network basis as difference equations on physical states, which are thus the Wheeler-DeWitt equations in this framework. Moreover, we study how physical states transform under Pachner moves of the canonical surface. We find that those transformations are in fact $q$-deformations of the transition amplitudes of the flat case as found by Noui and Perez. Our quantum Hamiltonian constraints therefore build a Turaev-Viro model at real $q$. 
+
+#### **Spin Networks, Wilson Loops and 3nj Wigner Identities**
+ - **Authors:** Manu Mathur, Atul Rathor
+ - **Subjects:** Mathematical Physics (math-ph); High Energy Physics - Lattice (hep-lat); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2111.14685](https://arxiv.org/abs/2111.14685)
+ - **Abstract**
+ We exploit the spin network properties of the magnetic eigenstates of SU(2) Hamiltonian lattice gauge theory and use the Wilson loop operators to obtain a wide class of new identities amongst 3nj Wigner coefficients. We also show that the topological ground states of the SU(2) toric code Hamiltonian lead to Wigner 3nj identities with non-trivial phases. The method is very general and involves only the eigenvalue equations of any gauge invariant operator and their solutions. Therefore, it can be extended to any higher dimensional spin networks as well as larger SU(N) groups. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.14749]](https://arxiv.org/abs/2111.14749) - *A method of distinguishing between black holes and wormholes* - Wei Hong, Jun Tao, Tongjie Zhang
+
+
+
 ### Mon - 11/29/21
 
 #### Loop quantum gravity related papers
