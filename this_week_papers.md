@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/01/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2111.14996]](https://arxiv.org/abs/2111.14996) - *The running vacuum in effective quantum gravity* - Breno L. Giacchini, Tiberio de Paula Netto, Ilya L. Shapiro
+
+1. [[2111.15230]](https://arxiv.org/abs/2111.15230) - *Holographic topological defects in a ring: role of diverse boundary  conditions* - Zhi-Hong Li, Han-Qing Shi, Hai-Qing Zhang
+
+1. [[2111.14864]](https://arxiv.org/abs/2111.14864) - *Conformal Hypergeometry and Integrability* - Volker Schomerus
+
+
+
 ### Tue - 11/30/21
 
 #### Loop quantum gravity related papers
