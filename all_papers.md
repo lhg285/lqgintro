@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2112.00091]](https://arxiv.org/abs/2112.00091) - *Emergent Cosmology from Quantum Gravity in the Lorentzian Barrett-Crane  Tensorial Group Field Theory Model* - Alexander F. Jercher, Daniele Oriti, Andreas G. A. Pithis
+
 1. [[2111.14471]](https://arxiv.org/abs/2111.14471) - *Spinor Representation of the Hamiltonian Constraint in 3D LQG with a  Non-zero Cosmological Constant* - Valentin Bonzom, Maïté Dupuis, Qiaoyin Pan
 
 1. [[2111.14685]](https://arxiv.org/abs/2111.14685) - *Spin Networks, Wilson Loops and 3nj Wigner Identities* - Manu Mathur, Atul Rathor

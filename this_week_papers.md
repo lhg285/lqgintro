@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/02/21
+
+#### Loop quantum gravity related papers
+
+#### **Emergent Cosmology from Quantum Gravity in the Lorentzian Barrett-Crane  Tensorial Group Field Theory Model**
+ - **Authors:** Alexander F. Jercher, Daniele Oriti, Andreas G. A. Pithis
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2112.00091](https://arxiv.org/abs/2112.00091)
+ - **Abstract**
+ We study the cosmological sector of the Lorentzian Barrett-Crane (BC) model coupled to a free massless scalar field in its Group Field Theory (GFT) formulation, corresponding to the mean-field hydrodynamics obtained from coherent condensate states. The relational evolution of the condensate with respect to the scalar field yields effective dynamics of homogeneous and isotropic cosmologies, similar to those previously obtained in $\text{SU}(2)$-based EPRL-like models. Also in this manifestly Lorentzian setting, in which only continuous $\text{SL}(2,\mathbb{C})$-representations are used, we obtain generalized Friedmann equations that generically exhibit a quantum bounce, and can reproduce all of the features of the cosmological dynamics of EPRL-like models. This lends support to the expectation that the EPRL-like and BC models may lie in the same continuum universality class, and that the quantum gravity mechanism producing effective bouncing scenarios may not depend directly on the discretization of geometric observables. 
+
+#### Spin foam related papers
+
+#### **Emergent Cosmology from Quantum Gravity in the Lorentzian Barrett-Crane  Tensorial Group Field Theory Model**
+ - **Authors:** Alexander F. Jercher, Daniele Oriti, Andreas G. A. Pithis
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2112.00091](https://arxiv.org/abs/2112.00091)
+ - **Abstract**
+ We study the cosmological sector of the Lorentzian Barrett-Crane (BC) model coupled to a free massless scalar field in its Group Field Theory (GFT) formulation, corresponding to the mean-field hydrodynamics obtained from coherent condensate states. The relational evolution of the condensate with respect to the scalar field yields effective dynamics of homogeneous and isotropic cosmologies, similar to those previously obtained in $\text{SU}(2)$-based EPRL-like models. Also in this manifestly Lorentzian setting, in which only continuous $\text{SL}(2,\mathbb{C})$-representations are used, we obtain generalized Friedmann equations that generically exhibit a quantum bounce, and can reproduce all of the features of the cosmological dynamics of EPRL-like models. This lends support to the expectation that the EPRL-like and BC models may lie in the same continuum universality class, and that the quantum gravity mechanism producing effective bouncing scenarios may not depend directly on the discretization of geometric observables. 
+
+
+
+#### Other related papers
+
+1. [[2112.00199]](https://arxiv.org/abs/2112.00199) - *From Quantum Codes to Gravity: A Journey of Gravitizing Quantum  Mechanics* - ChunJun Cao
+
+1. [[2112.00576]](https://arxiv.org/abs/2112.00576) - *Symmetries and Conservation Laws in Horava Gravity* - Deniz O. Devecioglu, Mu-In Park
+
+
+
 ### Wed - 12/01/21
 
 #### Loop quantum gravity related papers
