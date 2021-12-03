@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/03/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2112.00918]](https://arxiv.org/abs/2112.00918) - *A Quantum Informational Approach to the Problem of Time* - Salman Sajad Wani, James Q. Quach, Mir Faizal
+
+1. [[2112.00919]](https://arxiv.org/abs/2112.00919) - *Jackiw-Teitelboim and Kantowski-Sachs quantum cosmology* - Georgios Fanaras, Alexander Vilenkin
+
+1. [[2112.01429]](https://arxiv.org/abs/2112.01429) - *Ultraviolet dimensional reduction of spacetime with zero-point length* - Vikramaditya Mondal
+
+1. [[2112.00937]](https://arxiv.org/abs/2112.00937) - *Topological Order of Quantum Gravity in $AdS_3$ Spacetime* - JIngbo Wang
+
+
+
 ### Thu - 12/02/21
 
 #### Loop quantum gravity related papers
