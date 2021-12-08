@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/08/21
+
+#### Loop quantum gravity related papers
+
+#### **Perfect discretizations as a gateway to one-loop partition functions for  4D gravity**
+ - **Authors:** Seth K. Asante, Bianca Dittrich
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2112.03307](https://arxiv.org/abs/2112.03307)
+ - **Abstract**
+ Lattice actions and amplitudes that perfectly mirror continuum physics are known as perfect discretizations. Such perfect discretizations naturally preserve the symmetries of the continuum. This is a key concern for general relativity, where diffeomorphism symmetry and dynamics are deeply connected, and diffeomorphisms play a crucial role in quantization. In this work we construct for the first time a perfect discretizations for four-dimensional linearized gravity. We show how the perfect discretizations do lead to a straightforward construction of the one-loop quantum corrections for manifolds with boundary. This will also illustrate, that for manifolds with boundaries, gauge modes that affect the boundary, need to be taken into account for the computation of the one-loop correction. This work provides therefore an evaluation of the boundary action for the diffeomorphism modes for a general class of backgrounds. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2112.03778]](https://arxiv.org/abs/2112.03778) - *Emergent time, cosmological constant and boundary dimension at infinity  in combinatorial quantum gravity* - Carlo A. Trugenberger
+
+1. [[2112.03793]](https://arxiv.org/abs/2112.03793) - *One-dimensional Quantum Gravity and the Schwarzian theory* - Dionysios Anninos, Diego M. Hofman, Stathis Vitouladitis
+
+
+
 ### Tue - 12/07/21
 
 #### Loop quantum gravity related papers
