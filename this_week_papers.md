@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/09/21
+
+#### Loop quantum gravity related papers
+
+#### **On propagation in Loop Quantum Gravity**
+ - **Authors:** Thomas Thiemann, Madhavan Varadarajan
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Lattice (hep-lat); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2112.03992](https://arxiv.org/abs/2112.03992)
+ - **Abstract**
+ A rigorous implementation of the Wheeler-Dewitt equations was derived in the context of Loop Quantum Gravity (LQG) and was coined Quantum Spin Dynamics (QSD). The Hamiltonian constraint of QSD was criticised as being too local and to prevent "propagation" in canonical LQG. That criticism was based on an algorithm developed for QSD for generating solutions to the Wheeler-DeWitt equations. The fine details of that algorithm could not be worked out because the QSD Hamiltonian constraint makes crucial use of the volume operator which cannot be diagonalised analytically. In this paper, we consider the U(1)$^3$ model for Euclidean vacuum LQG which consists in replacing the structure group SU(2) by U(1)$^3$ and otherwise keeps all properties of the SU(2) theory intact. This enables analytical calculations and the fine details of the algorithm {\it can} be worked out. By considering one of the simplest possible non-trivial class of solutions based on very small graphs, we show that 1. an infinite number of solutions {\it exist} which are 2. generically {\it not normalisable} with respect to the inner product on the space of spatially diffeomorphism invariant distributions and 3. generically display {\it propagation}. Due to the closeness of the U(1)$^3$ model to Euclidean LQG, it is extremely likely that all three properties hold also in the SU(2) case and even more so in physical Lorentzian LQG. These arguments can in principle be made water tight using modern numerical (e.g. ML or QC) methods combined with the techniques developed in this paper which we reserve for future work. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2112.03954]](https://arxiv.org/abs/2112.03954) - *Black Holes in Klein Space* - Erin Crawley, Alfredo Guevara, Noah Miller, Andrew Strominger
+
+
+
 ### Wed - 12/08/21
 
 #### Loop quantum gravity related papers

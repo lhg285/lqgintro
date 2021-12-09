@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2112.03992]](https://arxiv.org/abs/2112.03992) - *On propagation in Loop Quantum Gravity* - Thomas Thiemann, Madhavan Varadarajan
+
 1. [[2112.03307]](https://arxiv.org/abs/2112.03307) - *Perfect discretizations as a gateway to one-loop partition functions for  4D gravity* - Seth K. Asante, Bianca Dittrich
 
 1. [[2112.01597]](https://arxiv.org/abs/2112.01597) - *Quantum speed limit and stability of coherent states in quantum gravity* - Klaus Liegener, Łukasz Rudnicki
