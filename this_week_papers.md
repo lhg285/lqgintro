@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/10/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2112.04609]](https://arxiv.org/abs/2112.04609) - *Minimal Length Phenomenology and the Black Body Radiation* - Pasquale Bosso, Juan Manuel López Vega
+
+1. [[2112.04647]](https://arxiv.org/abs/2112.04647) - *Astrophysically viable Kerr-like spacetime -- into the eye of the storm* - Alex Simpson, Matt Visser
+
+
+
 ### Thu - 12/09/21
 
 #### Loop quantum gravity related papers
