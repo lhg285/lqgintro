@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/15/21
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2112.06956]](https://arxiv.org/abs/2112.06956) - *Nonperturbative Negative Geometries: Amplitudes at Strong Coupling and  the Amplituhedron* - Nima Arkani-Hamed, Johannes Henn, Jaroslav Trnka
+
+
+
 ### Tue - 12/14/21
 
 #### Loop quantum gravity related papers
