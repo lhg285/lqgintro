@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2112.07786]](https://arxiv.org/abs/2112.07786) - *Consequences of regularization ambiguities in Loop Quantum Cosmology* - Maciej Kowalczyk
+
+1. [[2112.08019]](https://arxiv.org/abs/2112.08019) - *Black Holes, Gravitational Waves and Quantum Gravity* - W. F. Chagas-Filho
+
+1. [[2112.08316]](https://arxiv.org/abs/2112.08316) - *Lattice BF Theory, Dumbbells, and Composite Fermions* - Tom Banks, Bingnan Zhang
+
 1. [[2112.03992]](https://arxiv.org/abs/2112.03992) - *On propagation in Loop Quantum Gravity* - Thomas Thiemann, Madhavan Varadarajan
 
 1. [[2112.03307]](https://arxiv.org/abs/2112.03307) - *Perfect discretizations as a gateway to one-loop partition functions for  4D gravity* - Seth K. Asante, Bianca Dittrich
