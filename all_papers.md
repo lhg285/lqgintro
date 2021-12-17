@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2112.08528]](https://arxiv.org/abs/2112.08528) - *Studying the EPRL spinfoam self-energy* - Pietropaolo Frisoni
+
+1. [[2112.08865]](https://arxiv.org/abs/2112.08865) - *Fermion coupling to loop quantum gravity: canonical formulation* - Jerzy Lewandowski, Cong Zhang
+
+1. [[2112.08905]](https://arxiv.org/abs/2112.08905) - *Comparison of the Semiclassical and Quantum Dynamics of the Bianchi I  Cosmology in the Polymer and GUP Extended Paradigms* - Gabriele Barca, Eleonora Giovannetti, Giovanni Montani
+
 1. [[2112.07786]](https://arxiv.org/abs/2112.07786) - *Consequences of regularization ambiguities in Loop Quantum Cosmology* - Maciej Kowalczyk
 
 1. [[2112.08019]](https://arxiv.org/abs/2112.08019) - *Black Holes, Gravitational Waves and Quantum Gravity* - W. F. Chagas-Filho

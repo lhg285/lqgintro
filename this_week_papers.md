@@ -6,6 +6,49 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/17/21
+
+#### Loop quantum gravity related papers
+
+#### **Fermion coupling to loop quantum gravity: canonical formulation**
+ - **Authors:** Jerzy Lewandowski, Cong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2112.08865](https://arxiv.org/abs/2112.08865)
+ - **Abstract**
+ In the model of fermion field coupled to loop quantum gravity, we consider the Gauss and the Hamiltonian constraints. According to the explicit solutions to the Gauss constraint, the fermion spins and the gravitational spin networks intertwine with each other so that the fermion spins contribute to the volume of the spin network vertices. For the Hamiltonian constraint, the regularization and quantization procedures are presented in detail. By introducing an adapted vertex Hilbert space to remove the regulator, we propose a diffeomorphism covariant graph-changing Hamiltonian constraint operator. This operator shows how fermions move in the loop quantum gravity spacetime and simultaneously influences the background quantum geometry. 
+
+#### **Comparison of the Semiclassical and Quantum Dynamics of the Bianchi I  Cosmology in the Polymer and GUP Extended Paradigms**
+ - **Authors:** Gabriele Barca, Eleonora Giovannetti, Giovanni Montani
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2112.08905](https://arxiv.org/abs/2112.08905)
+ - **Abstract**
+ We compare in some detail Polymer Quantum Mechanics and the Generalized Uncertainty Principle approach to clarify to what extent we can treat them on the same footing. We show that, while on a semiclassical level they may be formulated as similar modifications of the Poisson algebra, on a quantum level they intrinsically differ because PQM implies no absolute minimal uncertainty on position. Then we implement these schemes to Bianchi I cosmology on a semiclassical level deforming only the algebra of the Universe volume, searching for alternative formulations able to account for the modified Friedmann equations emerging in Brane Cosmology and Loop Quantum Cosmology. On a pure quantum level, we implement the two approaches through their original setups and reduce the two resulting Wheeler-DeWitt equations to the same morphological structure, showing how the polymer formalism is associated with a bouncing dynamics while in the Generalized Uncertainty Principle case the singularity is still present. The implications of the wavepacket spreading are also discussed in both approaches, outlining that, when the singularity survives, the Planckian era must necessarily be approached by a fully quantum (non-peaked) state of the Universe. 
+
+#### Spin foam related papers
+
+#### **Studying the EPRL spinfoam self-energy**
+ - **Authors:** Pietropaolo Frisoni
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Computational Physics (physics.comp-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2112.08528](https://arxiv.org/abs/2112.08528)
+ - **Abstract**
+ I present some recent progresses in the study of the EPRL self-energy amplitude. New numerical methods allow to analyze how the divergence scales, for which previous works provided very different lower and upper bounds. I discuss the role that the Immirzi parameter plays in the asymptotic behavior, and the dependence of the scaling on some boundary data. Finally, I discuss the dynamical expectation values of some relevant geometric boundary observables. 
+
+
+
+#### Other related papers
+
+1. [[2112.08531]](https://arxiv.org/abs/2112.08531) - *Four Attitudes Towards Singularities in the Search for a Theory of  Quantum Gravity* - Karen Crowther, Sebastian De Haro
+
+1. [[2112.08383]](https://arxiv.org/abs/2112.08383) - *Taming the Landscape of Effective Theories* - Thomas W. Grimm
+
+1. [[2112.08422]](https://arxiv.org/abs/2112.08422) - *Holographic approach to compact stars and their binary mergers* - Carlos Hoyos, Niko Jokela, Aleksi Vuorinen
+
+1. [[2112.08715]](https://arxiv.org/abs/2112.08715) - *Flavored ABJM theory on the sphere and holographic F-functions* - Niko Jokela, Jani Kastikainen, Elias Kiritsis, Francesco Nitti
+
+1. [[2112.09122]](https://arxiv.org/abs/2112.09122) - *Reflected entropy in random tensor networks* - Chris Akers, Thomas Faulkner, Simon Lin, Pratik Rath
+
+
+
 ### Thu - 12/16/21
 
 #### Loop quantum gravity related papers
