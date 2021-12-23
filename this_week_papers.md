@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/23/21
+
+#### Loop quantum gravity related papers
+
+#### **An effective model for the quantum Schwarzschild black hole**
+ - **Authors:** Asier Alonso-Bardaji, David Brizuela, Raül Vera
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2112.12110](https://arxiv.org/abs/2112.12110)
+ - **Abstract**
+ We present an effective theory to describe the quantization of spherically symmetric vacuum in loop quantum gravity. We include anomaly-free holonomy corrections through a canonical transformation of the Hamiltonian of general relativity, such that the modified constraint algebra closes. The system is then provided with a fully covariant and unambigous geometric description, independent of the gauge choice on the phase space. The resulting spacetime corresponds to a singularity-free (black-hole/white-hole) interior and two asymptotically flat exterior regions of equal mass. The interior region contains a minimal smooth spacelike surface that replaces the Schwarzschild singularity. We find the global causal structure and the maximal analytical extension. Both Minkowski and Schwarzschild spacetimes are directly recovered as particular limits of the model. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2112.11467]](https://arxiv.org/abs/2112.11467) - *The Desert and the Swampland* - Cody Long, Miguel Montero, Cumrun Vafa, Irene Valenzuela
+
+1. [[2112.11614]](https://arxiv.org/abs/2112.11614) - *Why Does Quantum Field Theory In Curved Spacetime Make Sense? And What  Happens To The Algebra of Observables In The Thermodynamic Limit?* - Edward Witten
+
+1. [[2112.12025]](https://arxiv.org/abs/2112.12025) - *Homogeneous Yang-Baxter deformations as undeformed yet twisted models* - Riccardo Borsato, Sibylle Driezen, J. Luis Miramontes
+
+
+
 ### Wed - 12/22/21
 
 #### Loop quantum gravity related papers
