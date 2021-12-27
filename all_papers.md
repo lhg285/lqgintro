@@ -11,6 +11,8 @@ permalink: /all_papers/
 
 1. [[2112.12677]](https://arxiv.org/abs/2112.12677) - *Effective dynamics of scalar cosmological perturbations from quantum  gravity* - Luca Marchetti, Daniele Oriti
 
+1. [[2112.12677]](https://arxiv.org/abs/2112.12677) - *Effective dynamics of scalar cosmological perturbations from quantum  gravity* - Luca Marchetti, Daniele Oriti
+
 1. [[2112.12110]](https://arxiv.org/abs/2112.12110) - *An effective model for the quantum Schwarzschild black hole* - Asier Alonso-Bardaji, David Brizuela, Raül Vera
 
 1. [[2112.08528]](https://arxiv.org/abs/2112.08528) - *Studying the EPRL spinfoam self-energy* - Pietropaolo Frisoni
