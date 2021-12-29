@@ -11,6 +11,8 @@ permalink: /all_papers/
 
 1. [[2112.13823]](https://arxiv.org/abs/2112.13823) - *On the discrete version of the Reissner-Nordström solution* - V.M. Khatsymovsky
 
+1. [[2112.13823]](https://arxiv.org/abs/2112.13823) - *On the discrete version of the Reissner-Nordström solution* - V.M. Khatsymovsky
+
 1. [[2112.12677]](https://arxiv.org/abs/2112.12677) - *Effective dynamics of scalar cosmological perturbations from quantum  gravity* - Luca Marchetti, Daniele Oriti
 
 1. [[2112.12677]](https://arxiv.org/abs/2112.12677) - *Effective dynamics of scalar cosmological perturbations from quantum  gravity* - Luca Marchetti, Daniele Oriti
