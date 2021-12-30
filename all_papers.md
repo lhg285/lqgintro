@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2112.13860]](https://arxiv.org/abs/2112.13860) - *On consistent gauge fixing conditions in polymerized gravitational  systems* - Kristina Giesel, Bao-Fei Li, Parampreet Singh, Stefan Andreas Weigl
+
 1. [[2112.13823]](https://arxiv.org/abs/2112.13823) - *On the discrete version of the Reissner-Nordström solution* - V.M. Khatsymovsky
 
 1. [[2112.13823]](https://arxiv.org/abs/2112.13823) - *On the discrete version of the Reissner-Nordström solution* - V.M. Khatsymovsky
