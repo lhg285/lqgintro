@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2112.14781]](https://arxiv.org/abs/2112.14781) - *Numerical analysis of the self-energy in covariant LQG* - Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
+
+1. [[2112.15077]](https://arxiv.org/abs/2112.15077) - *Non-extensive Statistical Mechanics and the Thermodynamic Stability of  FRW Universe* - Yang Liu
+
 1. [[2112.13860]](https://arxiv.org/abs/2112.13860) - *On consistent gauge fixing conditions in polymerized gravitational  systems* - Kristina Giesel, Bao-Fei Li, Parampreet Singh, Stefan Andreas Weigl
 
 1. [[2112.13860]](https://arxiv.org/abs/2112.13860) - *On consistent gauge fixing conditions in polymerized gravitational  systems* - Kristina Giesel, Bao-Fei Li, Parampreet Singh, Stefan Andreas Weigl
