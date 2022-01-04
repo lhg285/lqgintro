@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/04/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Simplicial Quantum Gravity**
+ - **Authors:** James B. Hartle
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); History and Philosophy of Physics (physics.hist-ph); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2201.00226](https://arxiv.org/abs/2201.00226)
+ - **Abstract**
+ Simplicial approximation and the ideas associated with the Regge calculus.provide a concrete way of implementing a sum over histories formulation ofquantum gravity. A four-dimensional simplicial geometry is made up of flat four-simplices joined together.A sum over simplicial geometries is a sum over thedifferent ways the simplices can be joined together with an integral over their edge lengths.Theconstruction of the simplicial Euclidean action for this approach to quantum general relativity is illustrated. The recovery of the diffeomorphism group in the continuum limit is discussed. Some possible classes of simplicial complexes with which to define a sum over topologies are described. 
+
+
+
+#### Other related papers
+
+1. [[2201.00679]](https://arxiv.org/abs/2201.00679) - *Deciphering signatures of Bardeen black holes from the observed  quasi-periodic oscillations* - Indrani Banerjee
+
+1. [[2201.00026]](https://arxiv.org/abs/2201.00026) - *From Chern-Tenenblat to Jackiw-Teitelboim via sine-Gordon* - Jeff Murugan
+
+1. [[2201.00105]](https://arxiv.org/abs/2201.00105) - *Phase transitions in Skyrme holography* - Casey Cartwright, Benjamin Harms, Matthias Kaminski
+
+1. [[2201.00562]](https://arxiv.org/abs/2201.00562) - *Q-curvature and Path Integral Complexity* - Hugo A. Camargo, Pawel Caputa, Pratik Nandy
+
+
+
 ### Mon - 01/03/22
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2201.00226]](https://arxiv.org/abs/2201.00226) - *Simplicial Quantum Gravity* - James B. Hartle
+
 1. [[2112.14781]](https://arxiv.org/abs/2112.14781) - *Numerical analysis of the self-energy in covariant LQG* - Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
 
 1. [[2112.15077]](https://arxiv.org/abs/2112.15077) - *Non-extensive Statistical Mechanics and the Thermodynamic Stability of  FRW Universe* - Yang Liu
