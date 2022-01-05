@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/05/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2201.00903]](https://arxiv.org/abs/2201.00903) - *Comments on Summing over bordisms in TQFT* - Anindya Banerjee, Gregory W. Moore
+
+
+
 ### Tue - 01/04/22
 
 #### Loop quantum gravity related papers
