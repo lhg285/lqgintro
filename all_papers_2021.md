@@ -1,17 +1,13 @@
 ---
 layout: pages
 title: E-prints 2021
-permalink: /all_papers/
+permalink: /all_papers_2021/
 ---
 
 
 
 
-
-
-1. [[2201.03381]](https://arxiv.org/abs/2201.03381) - *Destroying the event horizon of a nonsingular rotating quantum-corrected  black hole* - Si-Jiang Yang, Yu-Peng Zhang, Shao-Wen Wei, Yu-Xiao Liu
-
-1. [[2201.00226]](https://arxiv.org/abs/2201.00226) - *Simplicial Quantum Gravity* - James B. Hartle
+1. [[2112.15387]](https://arxiv.org/abs/2112.15387) - *Complex actions and causality violations: Applications to Lorentzian quantum cosmology* - Seth K. Asante, Bianca Dittrich, José Padua-Argüelles
 
 1. [[2112.14781]](https://arxiv.org/abs/2112.14781) - *Numerical analysis of the self-energy in covariant LQG* - Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
 
