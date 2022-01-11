@@ -1,6 +1,8 @@
 
 These pages are mainly used to collect latest Loop Quantum Gravity (LQG) related e-prints from [ArXiv](arxiv.org).
 
+[Summary-2021]({{site.url}}/all_papers)  [Summary-2021]({{site.url}}/all_papers_2021)
+
 If you find your or someone's papers are missing, please submit an issue [here](https://github.com/lhg285/lqgintro/issues)
 
 See [REFERENCES](https://hamsyn.github.io/LQG-group/reference) for some recommended references on Loop Quantum Gravity.
