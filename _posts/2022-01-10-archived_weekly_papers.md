@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Archived weekly pre-print 22-01-03'
-date: '2022-01-03 03:00:05 -0400'
+title: 'Archived weekly pre-print 22-01-10'
+date: '2022-01-10 03:00:05 -0400'
 categories: Archived weekly pre-print
 ---
 
