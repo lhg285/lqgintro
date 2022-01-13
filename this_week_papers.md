@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/13/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2201.04218]](https://arxiv.org/abs/2201.04218) - *A Defect in AdS3/CFT2 Duality* - Emil J. Martinec
+
+
+
 ### Tue - 01/11/22
 
 #### Loop quantum gravity related papers
