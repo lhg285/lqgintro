@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/14/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2201.04694]](https://arxiv.org/abs/2201.04694) - *Observables from spherically symmetric modified dispersion relations* - Dagmar Läänemets, Manuel Hohmann, Christian Pfeifer
+
+1. [[2201.05054]](https://arxiv.org/abs/2201.05054) - *Mapping SYK to the Sky* - Sabrina Pasterski, Herman Verlinde
+
+1. [[2201.05067]](https://arxiv.org/abs/2201.05067) - *On the Differential Representation and Color-Kinematics Duality of AdS  Boundary Correlators* - Aidan Herderschee, Radu Roiban, Fei Teng
+
+1. [[2201.05093]](https://arxiv.org/abs/2201.05093) - *Harnessing S-Duality in $\mathcal{N}=4$ SYM & Supergravity as  $SL(2,\mathbb{Z})$-Averaged Strings* - Scott Collier, Eric Perlmutter
+
+
+
 ### Thu - 01/13/22
 
 #### Loop quantum gravity related papers
