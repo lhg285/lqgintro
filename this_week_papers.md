@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/21/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2201.07919]](https://arxiv.org/abs/2201.07919) - *Decoherence limit of quantum systems obeying generalized uncertainty  principle: new paradigm for Tsallis thermostatistics* - Petr Jizba, Gaetano Lambiase, Giuseppe Gaetano Luciano, Luciano Petruzziello
+
+1. [[2201.08293]](https://arxiv.org/abs/2201.08293) - *Quantum Gravitational Corrections to the Entropy of a  Reissner-Nordström Black Hole* - Ruben Campos Delgado
+
+1. [[2201.08380]](https://arxiv.org/abs/2201.08380) - *The Weak Gravity Conjecture: A Review* - Daniel Harlow, Ben Heidenreich, Matthew Reece, Tom Rudelius
+
+
+
 ### Thu - 01/20/22
 
 #### Loop quantum gravity related papers
