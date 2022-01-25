@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2201.09143]](https://arxiv.org/abs/2201.09143) - *Quantum Geometry II : The Mathematics of Loop Quantum Gravity Three  dimensional quantum gravity* - J.Manuel García-Islas
+
+1. [[2201.09584]](https://arxiv.org/abs/2201.09584) - *Isospectrality of quasinormal modes in nonrotating loop quantum gravity  black holes* - Daniel del-Corral, Javier Olmedo
+
 1. [[2201.07693]](https://arxiv.org/abs/2201.07693) - *Abelianized structures in spherically symmetric hypersurface  deformations: Inconsistency of a quantum notion of covariance in models of  loop quantum gravity* - Martin Bojowald
 
 1. [[2201.07300]](https://arxiv.org/abs/2201.07300) - *3-dimensional mixed BF theory and Hitchin's integrable system* - Benoit Vicedo, Jennifer Winstone
