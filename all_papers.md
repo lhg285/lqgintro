@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2201.09902]](https://arxiv.org/abs/2201.09902) - *Numerical evaluation of spin foam amplitudes beyond simplices* - Courtney Allen, Florian Girelli, Sebastian Steinhaus
+
+1. [[2201.10202]](https://arxiv.org/abs/2201.10202) - *Observational tests of a black hole in effective loop quantum gravity* - Yun-Long Liu, Zhao-Qing Feng, Xiang-Dong Zhang
+
 1. [[2201.09143]](https://arxiv.org/abs/2201.09143) - *Quantum Geometry II : The Mathematics of Loop Quantum Gravity Three  dimensional quantum gravity* - J.Manuel García-Islas
 
 1. [[2201.09584]](https://arxiv.org/abs/2201.09584) - *Isospectrality of quasinormal modes in nonrotating loop quantum gravity  black holes* - Daniel del-Corral, Javier Olmedo

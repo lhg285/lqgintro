@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/26/22
+
+#### Loop quantum gravity related papers
+
+#### **Observational tests of a black hole in effective loop quantum gravity**
+ - **Authors:** Yun-Long Liu, Zhao-Qing Feng, Xiang-Dong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2201.10202](https://arxiv.org/abs/2201.10202)
+ - **Abstract**
+ A new polymer black hole solution in loop quantum gravity was proposed recently. The difference between the polymer black hole and Schwarzschild black hole is captured by a quantum parameter $A$. In order to get the constraints on parameter $A$, we consider the observational constraints imposed on $A$ by using the Solar System experiments and calculate the deflection of light, Shapiro time delay, perihelion precession and obtain the effects associated with parameter $A$. Moreover, the parameterized post-Newtonian approach of this loop quantum gravity black hole was also carried out. It turns out the tightest constraint on $A$ can be improved to $0<A<4.0\times10^{-6}$. 
+
+#### Spin foam related papers
+
+#### **Numerical evaluation of spin foam amplitudes beyond simplices**
+ - **Authors:** Courtney Allen, Florian Girelli, Sebastian Steinhaus
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2201.09902](https://arxiv.org/abs/2201.09902)
+ - **Abstract**
+ We present the first numerical calculation of the 4D Euclidean spin foam vertex amplitude for vertices with hypercubic combinatorics. Concretely, we compute the amplitude for coherent boundary data peaked on cuboid and frustum shapes. We present the numerical algorithms to explicitly compute the vertex amplitude and compare the results in different cases to the semi-classical approximation of the amplitude. Overall we find good qualitative agreement of the amplitudes and evidence of convergence of the asymptotic formula to the full amplitude already at fairly small spins, yet also differences in the frequency of oscillations and a phase shift absent in the 4-simplex case. However, due to rapidly growing numerical costs, we cannot reach sufficiently high spins to prove agreement of both amplitudes. Lastly, this setup allows us to explore non-uniform vertex amplitudes, where some representations are small while others are large; we find indications that scenarios might exist in which the semi-classical amplitude is a valid approximation even if some spins remain small. This suggests that the transition of the quantum to the semi-classical regime (for a single vertex amplitude) is intricate. 
+
+
+
+#### Other related papers
+
+1. [[2201.10554]](https://arxiv.org/abs/2201.10554) - *Novel aspects of integrability for NLSMs in symmetric spaces* - Dimitrios Katsinis
+
+
+
 ### Tue - 01/25/22
 
 #### Loop quantum gravity related papers
