@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/27/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2201.10870]](https://arxiv.org/abs/2201.10870) - *Fractional Klein-Gordon Equation on AdS$_{2+1}$* - Pablo Basteiro, Janine Elfert, Johanna Erdmenger, Haye Hinrichsen
+
+
+
 ### Wed - 01/26/22
 
 #### Loop quantum gravity related papers
