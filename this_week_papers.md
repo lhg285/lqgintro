@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/28/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2201.11402]](https://arxiv.org/abs/2201.11402) - *Nonvanishing gravitational contribution to matter beta functions for  vanishing dimensionful regulators* - Gustavo P. de Brito, Astrid Eichhorn
+
+1. [[2201.11575]](https://arxiv.org/abs/2201.11575) - *On Unitarity of Tree-Level String Amplitudes* - Nima Arkani-Hamed, Lorenz Eberhardt, Yu-tin Huang, Sebastian Mizera
+
+1. [[2201.11658]](https://arxiv.org/abs/2201.11658) - *The Universe as a Quantum Encoder* - Jordan Cotler, Andrew Strominger
+
+1. [[2201.11730]](https://arxiv.org/abs/2201.11730) - *The Page Curve for Reflected Entropy* - Chris Akers, Thomas Faulkner, Simon Lin, Pratik Rath
+
+
+
 ### Thu - 01/27/22
 
 #### Loop quantum gravity related papers
