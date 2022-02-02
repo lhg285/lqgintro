@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/02/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.00023]](https://arxiv.org/abs/2202.00023) - *Timeholes and remnants in dilaton gravity* - Maxim Fitkevich
+
+1. [[2202.00594]](https://arxiv.org/abs/2202.00594) - *Views, variety and celestial spheres* - Lee Smolin
+
+1. [[2202.00375]](https://arxiv.org/abs/2202.00375) - *Exploring the $θ$-vacuum structure in the functional  renormalization group approach* - Kenji Fukushima, Takuya Shimazaki, Yuya Tanizaki
+
+
+
 ### Tue - 02/01/22
 
 #### Loop quantum gravity related papers
