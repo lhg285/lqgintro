@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/03/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.00671]](https://arxiv.org/abs/2202.00671) - *Equivalence principle and HBAR entropy of an atom falling into a quantum  corrected black hole* - Soham Sen, Rituparna Mandal, Sunandan Gangopadhyay
+
+
+
 ### Wed - 02/02/22
 
 #### Loop quantum gravity related papers
