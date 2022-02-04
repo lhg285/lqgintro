@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/04/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.01216]](https://arxiv.org/abs/2202.01216) - *Sifting quantum black holes through the principle of least action* - Benjamin Knorr, Alessia Platania
+
+1. [[2202.01372]](https://arxiv.org/abs/2202.01372) - *No Ensemble Averaging Below the Black Hole Threshold* - Jean-Marc Schlenker, Edward Witten
+
+1. [[2202.01626]](https://arxiv.org/abs/2202.01626) - *Target Space Entanglement in Quantum Mechanics of Fermions and Matrices* - Sotaro Sugishita
+
+
+
 ### Thu - 02/03/22
 
 #### Loop quantum gravity related papers
