@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 02/08/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.02486]](https://arxiv.org/abs/2202.02486) - *Discrete Gravity with Local Lorentz Invariance* - Eugene Kur, Alexander S. Glasser
+
+1. [[2202.02584]](https://arxiv.org/abs/2202.02584) - *Black Holes in Quantum Gravity* - Xavier Calmet, Folkert Kuipers
+
+1. [[2202.03357]](https://arxiv.org/abs/2202.03357) - *A note on continuous entropy* - Roberto Longo, Edward Witten
+
+
+
 ### Mon - 02/07/22
 
 #### Loop quantum gravity related papers
