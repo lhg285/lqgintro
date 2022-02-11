@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2202.05116]](https://arxiv.org/abs/2202.05116) - *Holographic entanglement in spin network states: a focused review* - Eugenia Colafranceschi, Gerardo Adesso
+
+1. [[2202.05117]](https://arxiv.org/abs/2202.05117) - *Exploratory applications of the Fröhlich-Morchio-Strocchi mechanism in  quantum gravity* - Axel Maas, Markus Markl, Michael Müller
+
 1. [[2202.04360]](https://arxiv.org/abs/2202.04360) - *How-To compute EPRL spin foam amplitudes* - Pietro Dona, Pietropaolo Frisoni
 
 1. [[2201.09902]](https://arxiv.org/abs/2201.09902) - *Numerical evaluation of spin foam amplitudes beyond simplices* - Courtney Allen, Florian Girelli, Sebastian Steinhaus
