@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/16/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.06951]](https://arxiv.org/abs/2202.06951) - *Implications of a holographic density of states on inflation* - Satish Ramakrishna
+
+1. [[2202.07163]](https://arxiv.org/abs/2202.07163) - *Snowmass White Paper: Bootstrapping String Theory* - Rajesh Gopakumar, Eric Perlmutter, Silviu S. Pufu, Xi Yin
+
+
+
 ### Tue - 02/15/22
 
 #### Loop quantum gravity related papers
