@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/17/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.07807]](https://arxiv.org/abs/2202.07807) - *Creating stars orbiting in AdS* - Youka Kaku, Keiju Murata, Jun Tsujimura
+
+
+
 ### Wed - 02/16/22
 
 #### Loop quantum gravity related papers
