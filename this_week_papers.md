@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/18/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.08292]](https://arxiv.org/abs/2202.08292) - *The deepest problem: some perspectives on quantum gravity* - Steven B. Giddings
+
+1. [[2202.08298]](https://arxiv.org/abs/2202.08298) - *Analysis of Unitarity in Conformal Quantum Gravity* - Jisuke Kubo, Jeffrey Kuntz
+
+1. [[2202.08826]](https://arxiv.org/abs/2202.08826) - *Gravitational quasinormal modes for Lifshitz black branes* - Tomas Andrade, Christiana Pantelidou
+
+
+
 ### Thu - 02/17/22
 
 #### Loop quantum gravity related papers
