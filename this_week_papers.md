@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 02/22/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.08893]](https://arxiv.org/abs/2202.08893) - *Warped compactifications and holographic duality* - Joel Giedt
+
+
+
 ### Mon - 02/21/22
 
 #### Loop quantum gravity related papers
