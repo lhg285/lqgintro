@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/23/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.10483]](https://arxiv.org/abs/2202.10483) - *Fakeons versus Lee-Wick ghosts: physical Pauli-Villars fields, finite  QED and quantum gravity* - Damiano Anselmi
+
+1. [[2202.11012]](https://arxiv.org/abs/2202.11012) - *Snowmass White Paper: The Analytic Conformal Bootstrap* - Thomas Hartman, Dalimil Mazac, David Simmons-Duffin, Alexander Zhiboedov
+
+
+
 ### Tue - 02/22/22
 
 #### Loop quantum gravity related papers
