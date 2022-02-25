@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2202.11906]](https://arxiv.org/abs/2202.11906) - *The effect of loop quantum gravitational rainbow functions on the  formation of naked singularities* - Moh Vaseem Akram, Imtiyaz Ahmad Bhat, Anver Aziz, Mir Faizal
+
 1. [[2202.05116]](https://arxiv.org/abs/2202.05116) - *Holographic entanglement in spin network states: a focused review* - Eugenia Colafranceschi, Gerardo Adesso
 
 1. [[2202.05117]](https://arxiv.org/abs/2202.05117) - *Exploratory applications of the Fröhlich-Morchio-Strocchi mechanism in  quantum gravity* - Axel Maas, Markus Markl, Michael Müller
