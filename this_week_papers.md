@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 03/01/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2202.12360]](https://arxiv.org/abs/2202.12360) - *Stability of the microcanonical ensemble in Euclidean Quantum Gravity* - Donald Marolf, Jorge E. Santos
+
+1. [[2202.12676]](https://arxiv.org/abs/2202.12676) - *The E10 Wheeler-DeWitt operator at low levels* - Axel Kleinschmidt, Hermann Nicolai
+
+1. [[2202.12698]](https://arxiv.org/abs/2202.12698) - *Aspects of Nonrelativistic Strings* - Gerben Oling, Ziqi Yan
+
+
+
 ### Mon - 02/28/22
 
 #### Loop quantum gravity related papers
