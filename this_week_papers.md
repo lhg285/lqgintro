@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/02/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.00105]](https://arxiv.org/abs/2203.00105) - *Parameterizations of black-hole spacetimes beyond circularity* - Héloïse Delaporte, Astrid Eichhorn, Aaron Held
+
+1. [[2203.00566]](https://arxiv.org/abs/2203.00566) - *Measuring the propagation speed of gravitational waves with LISA* - Tessa Baker, Gianluca Calcagni, Anson Chen, Matteo Fasiello, Lucas Lombriser, Katarina Martinovic, Mauro Pieroni, Mairi Sakellariadou, Gianmassimo Tasinato, Daniele Bertacca, Ippocratis D. Saltas
+
+1. [[2203.00319]](https://arxiv.org/abs/2203.00319) - *Entanglement Renormalization of a $T\bar{T}$-deformed CFT* - Biel Cardona, Javier Molina-Vilaplana
+
+
+
 ### Tue - 03/01/22
 
 #### Loop quantum gravity related papers
