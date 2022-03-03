@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/03/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.01062]](https://arxiv.org/abs/2203.01062) - *Is Bianchi I a Bouncing Cosmology in the Wheeler-DeWitt picture?* - Eleonora Giovannetti, Giovanni Montani
+
+1. [[2203.01195]](https://arxiv.org/abs/2203.01195) - *Properties of the linearised functional renormalization group* - Tim R. Morris
+
+
+
 ### Wed - 03/02/22
 
 #### Loop quantum gravity related papers
