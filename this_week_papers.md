@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/04/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.01335]](https://arxiv.org/abs/2203.01335) - *Quivers, Lattice Gauge Theories and Fractons* - Sebastian Franco, Diego Rodriguez-Gomez
+
+
+
 ### Thu - 03/03/22
 
 #### Loop quantum gravity related papers
