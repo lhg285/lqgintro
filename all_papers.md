@@ -11,6 +11,8 @@ permalink: /all_papers/
 
 1. [[2203.02409]](https://arxiv.org/abs/2203.02409) - *From spin foams to area metric dynamics to gravitons* - Bianca Dittrich, Athanasios Kogios
 
+1. [[2203.02409]](https://arxiv.org/abs/2203.02409) - *From spin foams to area metric dynamics to gravitons* - Bianca Dittrich, Athanasios Kogios
+
 1. [[2202.11906]](https://arxiv.org/abs/2202.11906) - *The effect of loop quantum gravitational rainbow functions on the  formation of naked singularities* - Moh Vaseem Akram, Imtiyaz Ahmad Bhat, Anver Aziz, Mir Faizal
 
 1. [[2202.05116]](https://arxiv.org/abs/2202.05116) - *Holographic entanglement in spin network states: a focused review* - Eugenia Colafranceschi, Gerardo Adesso
