@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2203.04238]](https://arxiv.org/abs/2203.04238) - *On the fate of quantum black holes* - Viqar Husain, Jarod George Kelly, Robert Santacruz, Edward Wilson-Ewing
+
 1. [[2203.02409]](https://arxiv.org/abs/2203.02409) - *From spin foams to area metric dynamics to gravitons* - Bianca Dittrich, Athanasios Kogios
 
 1. [[2203.02409]](https://arxiv.org/abs/2203.02409) - *From spin foams to area metric dynamics to gravitons* - Bianca Dittrich, Athanasios Kogios

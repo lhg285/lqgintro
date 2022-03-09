@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/09/22
+
+#### Loop quantum gravity related papers
+
+#### **On the fate of quantum black holes**
+ - **Authors:** Viqar Husain, Jarod George Kelly, Robert Santacruz, Edward Wilson-Ewing
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2203.04238](https://arxiv.org/abs/2203.04238)
+ - **Abstract**
+ We study the quantum dynamics of the Lema\^itre-Tolman-Bondi space-times using a polymer quantization prescription based on loop quantum cosmology that incorporates fundamental discreteness. By solving an effective equation derived from this quantization, we find analytical solutions for the Oppenheimer-Snyder and thin-shell collapse models, and numerical solutions for a variety of asymptotically flat collapsing dust profiles. Our study (i) tracks the formation, evolution and disappearance of dynamical horizons, (ii) shows that matter undergoes a non-singular bounce that results in an outgoing shock wave, (iii) determines black hole lifetime to be proportional to the square its mass, and (iv) provides a conformal diagram that substantially modifies the standard "information loss" picture by resolving the singularity and replacing the event horizon by transient apparent horizons. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.03633]](https://arxiv.org/abs/2203.03633) - *Tensors and Algebras: An algebraic spacetime interpretation for tensor  models* - Dennis Obster
+
+
+
 ### Tue - 03/08/22
 
 #### Loop quantum gravity related papers
