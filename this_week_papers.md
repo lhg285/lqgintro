@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/10/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.04918]](https://arxiv.org/abs/2203.04918) - *Bouncing Cosmology in Fourth-Order Gravity* - Marcello Miranda, Daniele Vernieri, Salvatore Capozziello, Francisco S. N. Lobo
+
+1. [[2203.04817]](https://arxiv.org/abs/2203.04817) - *BV quantization of dynamical fuzzy spectral triples* - James Gaunt, Hans Nguyen, Alexander Schenkel
+
+
+
 ### Wed - 03/09/22
 
 #### Loop quantum gravity related papers
