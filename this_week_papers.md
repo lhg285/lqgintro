@@ -6,6 +6,48 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/11/22
+
+#### Loop quantum gravity related papers
+
+#### **A New Guest in the Third Quantized Multiverse**
+ - **Authors:** Samuel Barroso Bellido, Fabian Wagner
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2203.05387](https://arxiv.org/abs/2203.05387)
+ - **Abstract**
+ In the present article we point out a conceptual issue of the Third Quantization formalism for Canonical Quantum Gravity. Based on earlier results on interuniversal entanglement, the theory and with it the picture of noninteracting universe-antiuniverse pairs is incomplete. In particular, the variation of the entanglement entropy with the scale factor, understood as a measure of time, implies either an interaction between pairs of universes or universes with a heat bath. We propose a simple solution to the problem by adding a new quantum field to the formalism. Correspondingly, particles of this field mediate interactions between universes -- depending on the model at tree level or one loop -- and may further provide a heat bath in the background. 
+
+#### **PQM and the GUP: Implications of Lattice Dynamics and Minimal  Uncertainties in Quantum Mechanics and Cosmology**
+ - **Authors:** Gabriele Barca, Eleonora Giovannetti, Giovanni Montani
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2203.05398](https://arxiv.org/abs/2203.05398)
+ - **Abstract**
+ We compare two alternative representations of quantum mechanics: Polymer Quantum Mechanics (PQM), which presents features similar to Loop Quantum Gravity and Loop Quantum Cosmology, and the Generalized Uncertainty Principle (GUP) representation, that through a modified Algebra yields an alternative uncertainty principle similar to those derived in String Theories and Brane Cosmology. These formalisms can be recast to apparently look similar, but while the GUP yields an absolute minimal uncertainty on position, PQM implements some kind of ultraviolet cut-off through a lattice and does not have a minimal uncertainty. Then we implement them on the anisotropic Bianchi I model in Misner-like variables on a semiclassical level: PQM always implies a removal of the singularities, while the GUP fails to do so, highlighting once again how the two representations are fundamentally incompatible. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.05475]](https://arxiv.org/abs/2203.05475) - *Surprises in Lorentzian path-integral of Gauss-Bonnet gravity* - Gaurav Narain
+
+1. [[2203.04968]](https://arxiv.org/abs/2203.04968) - *Projective measurement of black holes* - Beni Yoshida
+
+1. [[2203.04973]](https://arxiv.org/abs/2203.04973) - *The Spacetime Geometry of Fixed-Area States in Gravitational Systems* - Xi Dong, Donald Marolf, Pratik Rath, Amirhossein Tajdini, Zhencheng Wang
+
+1. [[2203.04981]](https://arxiv.org/abs/2203.04981) - *Snowmass White Paper: Micro- and Macro-Structure of Black Holes* - Iosif Bena, Emil J. Martinec, Samir D. Mathur, Nicholas P. Warner
+
+1. [[2203.05023]](https://arxiv.org/abs/2203.05023) - *AdS black brane coupled to non-abelian logarithmic gauge theory and  color DC conductivity* - Mehdi Sadeghi
+
+1. [[2203.05491]](https://arxiv.org/abs/2203.05491) - *Balanced Partial Entanglement in Flat Holography* - Debarshi Basu
+
+1. [[2203.05559]](https://arxiv.org/abs/2203.05559) - *Weak gravity versus scale separation* - Niccolò Cribiori, Gianguido Dall'Agata
+
+
+
 ### Thu - 03/10/22
 
 #### Loop quantum gravity related papers

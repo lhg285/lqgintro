@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2203.05387]](https://arxiv.org/abs/2203.05387) - *A New Guest in the Third Quantized Multiverse* - Samuel Barroso Bellido, Fabian Wagner
+
+1. [[2203.05398]](https://arxiv.org/abs/2203.05398) - *PQM and the GUP: Implications of Lattice Dynamics and Minimal  Uncertainties in Quantum Mechanics and Cosmology* - Gabriele Barca, Eleonora Giovannetti, Giovanni Montani
+
 1. [[2203.04238]](https://arxiv.org/abs/2203.04238) - *On the fate of quantum black holes* - Viqar Husain, Jarod George Kelly, Robert Santacruz, Edward Wilson-Ewing
 
 1. [[2203.02409]](https://arxiv.org/abs/2203.02409) - *From spin foams to area metric dynamics to gravitons* - Bianca Dittrich, Athanasios Kogios
