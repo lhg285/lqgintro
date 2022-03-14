@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2203.06049]](https://arxiv.org/abs/2203.06049) - *Comment on "Towards a quantum notion of covariance in spherically  symmetric loop quantum gravity"* - Martin Bojowald
+
 1. [[2203.05387]](https://arxiv.org/abs/2203.05387) - *A New Guest in the Third Quantized Multiverse* - Samuel Barroso Bellido, Fabian Wagner
 
 1. [[2203.05398]](https://arxiv.org/abs/2203.05398) - *PQM and the GUP: Implications of Lattice Dynamics and Minimal  Uncertainties in Quantum Mechanics and Cosmology* - Gabriele Barca, Eleonora Giovannetti, Giovanni Montani
