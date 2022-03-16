@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/16/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.07854]](https://arxiv.org/abs/2203.07854) - *Light ray fluctuations in simplicial quantum gravity* - Ding Jia
+
+1. [[2203.07384]](https://arxiv.org/abs/2203.07384) - *Alpha states demystified: Towards microscopic models of AdS$_2$  holography* - Andreas Blommaert, Luca V. Iliesiu, Jorrit Kruthoff
+
+1. [[2203.07533]](https://arxiv.org/abs/2203.07533) - *Warped Compactifications in Particle Physics, Cosmology and Quantum  Gravity* - Prateek Agrawal, Cari Cesarotti, Andreas Karch, Rashmish K. Mishra, Lisa Randall, Raman Sundrum
+
+1. [[2203.07587]](https://arxiv.org/abs/2203.07587) - *Further swampland constraint on Dirac Neutrino* - Taiga Harada, Yu Nakayama
+
+1. [[2203.08003]](https://arxiv.org/abs/2203.08003) - *The Spectral Geometry of de Sitter Space in Asymptotic Safety* - Renata Ferrero, Martin Reuter
+
+
+
 ### Tue - 03/15/22
 
 #### Loop quantum gravity related papers
