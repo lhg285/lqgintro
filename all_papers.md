@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2203.08558]](https://arxiv.org/abs/2203.08558) - *The Immirzi field in modified gravity: superentropic black holes with  scalar hair* - Simon Boudet
+
 1. [[2203.06049]](https://arxiv.org/abs/2203.06049) - *Comment on "Towards a quantum notion of covariance in spherically  symmetric loop quantum gravity"* - Martin Bojowald
 
 1. [[2203.06049]](https://arxiv.org/abs/2203.06049) - *Comment on "Towards a quantum notion of covariance in spherically  symmetric loop quantum gravity"* - Martin Bojowald

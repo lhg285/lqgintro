@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/17/22
+
+#### Loop quantum gravity related papers
+
+#### **The Immirzi field in modified gravity: superentropic black holes with  scalar hair**
+ - **Authors:** Simon Boudet
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2203.08558](https://arxiv.org/abs/2203.08558)
+ - **Abstract**
+ In the context of f(R) generalizations to the Holst action, endowed with a dynamical Immirzi field, we derive an analytic solution describing asymptotically anti-de Sitter black holes with hyperbolic horizon. These exhibit a scalar hair of the second kind which ultimately depends on the Immirzi field radial behaviour. In particular, we show how the Immirzi field modifies the usual entropy law associated to the black hole. We also verify that the Immirzi field boils down to a constant value in the asymptotic region, thus restoring the standard loop quantum gravity picture. We finally prove the violation of the reverse isoperimetric inequality, resulting in the superentropic nature of the black hole, and we discuss in detail the thermodynamic stability of the solution. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 03/16/22
 
 #### Loop quantum gravity related papers
