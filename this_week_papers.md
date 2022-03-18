@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/18/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.09252]](https://arxiv.org/abs/2203.09252) - *Study of quantum gravity correction to the accretion onto the black hole  in the GUP framework* - Anisur Rahaman
+
+
+
 ### Thu - 03/17/22
 
 #### Loop quantum gravity related papers
