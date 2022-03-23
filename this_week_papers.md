@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/23/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.11326]](https://arxiv.org/abs/2203.11326) - *Effect of Snyder-de Sitter model on the Black hole thermodynamics in the  context of rainbow gravity* - B. Hamil, B. C. Lütfüoğlu
+
+1. [[2203.11557]](https://arxiv.org/abs/2203.11557) - *The wave function of the universe in the presence of trans-Planckian  censorship* - Vikramaditya Mondal
+
+1. [[2203.11240]](https://arxiv.org/abs/2203.11240) - *At the End of the World: Local Dynamical Cobordism* - Roberta Angius, José Calderón-Infante, Matilda Delgado, Jesús Huertas, Angel M. Uranga
+
+1. [[2203.11403]](https://arxiv.org/abs/2203.11403) - *Quantum Gravity Constraints on Fine Structure Constant from GUP in  Braneworlds* - A. S. Lemos, F. A. Brito
+
+
+
 ### Tue - 03/22/22
 
 #### Loop quantum gravity related papers
