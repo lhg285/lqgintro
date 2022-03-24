@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/24/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.12313]](https://arxiv.org/abs/2203.12313) - *Effective Actions for Regge Piecewise Flat Quantum Gravity* - Aleksandar Mikovic
+
+1. [[2203.12332]](https://arxiv.org/abs/2203.12332) - *Microscopic black holes as probes for quantum gravity* - Samuel Kováčik
+
+1. [[2203.11954]](https://arxiv.org/abs/2203.11954) - *Large and Small Corrections to the JLMS Formula from Replica Wormholes* - Jonah Kudler-Flam, Pratik Rath
+
+
+
 ### Wed - 03/23/22
 
 #### Loop quantum gravity related papers
