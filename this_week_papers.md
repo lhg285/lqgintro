@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/30/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.14970]](https://arxiv.org/abs/2203.14970) - *On local conservation of information content in Schwarzschild black  holes* - Godwill Mbiti Kanyolo, Titus Masese
+
+
+
 ### Tue - 03/29/22
 
 #### Loop quantum gravity related papers
