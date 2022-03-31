@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/31/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.16399]](https://arxiv.org/abs/2203.16399) - *Spacetime Stochasticity and Second Order Geometry* - Folkert Kuipers
+
+1. [[2203.16052]](https://arxiv.org/abs/2203.16052) - *Review of Twisted Poincare Symmetry* - A. P. Balachandran, S. Kurkcuoglu, S. Vaidya
+
+
+
 ### Wed - 03/30/22
 
 #### Loop quantum gravity related papers
