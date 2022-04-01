@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/01/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2203.16731]](https://arxiv.org/abs/2203.16731) - *Symmetries of the Primordial Sky* - Craig Hogan
+
+1. [[2203.17137]](https://arxiv.org/abs/2203.17137) - *Gravitizing the Quantum* - Per Berglund, Tristan Hübsch, David Mattingly, Djordje Minic
+
+1. [[2203.17057]](https://arxiv.org/abs/2203.17057) - *Scaling exponents of Mellin amplitudes for deriving bounds on flat space  S-matrices from bounds on chaos* - Mitsuhiro Nishida
+
+1. [[2203.17091]](https://arxiv.org/abs/2203.17091) - *String theory, $\mathcal{N}=4$ SYM and Riemann hypothesis* - Masazumi Honda, Takuya Yoda
+
+1. [[2203.17157]](https://arxiv.org/abs/2203.17157) - *Broken R-symmetry and defect conformal manifolds* - Nadav Drukker, Ziwen Kong, Georgios Sakkas
+
+
+
 ### Thu - 03/31/22
 
 #### Loop quantum gravity related papers
