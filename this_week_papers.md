@@ -6,125 +6,39 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 04/01/22
+### Mon - 04/04/22
 
 #### Loop quantum gravity related papers
 
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2203.16731]](https://arxiv.org/abs/2203.16731) - *Symmetries of the Primordial Sky* - Craig Hogan
-
-1. [[2203.17137]](https://arxiv.org/abs/2203.17137) - *Gravitizing the Quantum* - Per Berglund, Tristan Hübsch, David Mattingly, Djordje Minic
-
-1. [[2203.17057]](https://arxiv.org/abs/2203.17057) - *Scaling exponents of Mellin amplitudes for deriving bounds on flat space  S-matrices from bounds on chaos* - Mitsuhiro Nishida
-
-1. [[2203.17091]](https://arxiv.org/abs/2203.17091) - *String theory, $\mathcal{N}=4$ SYM and Riemann hypothesis* - Masazumi Honda, Takuya Yoda
-
-1. [[2203.17157]](https://arxiv.org/abs/2203.17157) - *Broken R-symmetry and defect conformal manifolds* - Nadav Drukker, Ziwen Kong, Georgios Sakkas
-
-
-
-### Thu - 03/31/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2203.16399]](https://arxiv.org/abs/2203.16399) - *Spacetime Stochasticity and Second Order Geometry* - Folkert Kuipers
-
-1. [[2203.16052]](https://arxiv.org/abs/2203.16052) - *Review of Twisted Poincare Symmetry* - A. P. Balachandran, S. Kurkcuoglu, S. Vaidya
-
-
-
-### Wed - 03/30/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2203.14970]](https://arxiv.org/abs/2203.14970) - *On local conservation of information content in Schwarzschild black  holes* - Godwill Mbiti Kanyolo, Titus Masese
-
-
-
-### Tue - 03/29/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-#### **Topological BF description of 2D accelerated chiral edge modes**
- - **Authors:** Erica Bertolini, Filippo Fecit, Nicola Maggiore
- - **Subjects:** High Energy Physics - Theory (hep-th); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
- - **Arxiv link:** [https://arxiv.org/abs/2203.13520](https://arxiv.org/abs/2203.13520)
+#### **Classical dynamics for Loop Gravity: The 2-vertex model**
+ - **Authors:** Eneko Aranguren, Iñaki Garay, Etera R. Livine
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.00307](https://arxiv.org/abs/2204.00307)
  - **Abstract**
- We consider the topological abelian BF theory with radial boundary on a generic 3D manifold. Our aim is to study if, where and how the boundary keeps memory of the details of the background metric. We find that some features are topologically protected and do not depend on the bulk metric. The 2D action holographically induced on the boundary depends on two scalar fields, and can be decoupled in two Luttinger actions describing two chiral bosons moving on the edge of the 3D bulk. The outcome is that these edge excitations are accelerated, as a direct consequence of the non-flat nature of the bulk spacetime. The chiral velocities of the edge modes, indeed, acquire a local dependence through the determinant of the induced metric on the boundary. We find three possibilities for the motion of the edge quasiparticles: same directions, opposite directions and a single-moving mode. But, requiring that the Hamiltonian of the 2D theory is bounded by below, the case of edge modes moving in the same direction is ruled out: systems involving parallel Hall currents (for instance Fractional Quantum Hall Effect with $\nu=2/5$) cannot be described by a BF theory with boundary, independently from the geometry of the bulk spacetime, because of positive energy considerations. We are therefore left with physical situations characterized by edge excitations moving with opposite velocities (examples are FQHE with $\nu=1-1/n$, with $n$ positive integer, and Helical Luttinger Liquids phenomena) or a single-moving mode (Quantum Anomalous Hall). A strong restriction is obtained by requiring Time Reversal symmetry, which uniquely identifies modes with equal and opposite velocities, and we know that this is the case of Topological Insulators. The novelty, with respect to the flat bulk background, is that the modes have local velocities, which corresponds to Topological Insulators with accelerated edge modes. 
+ The study of toy models in loop quantum gravity (LQG), defined as truncations of the full theory, is relevant to both the development of the LQG phenomenology, in cosmology and astrophysics, and the progress towards the resolution of the open issues of the theory, in particular the implementation of the dynamics. Here, we study the dynamics of spin network states of quantum geometry defined on the family of graphs consisting in 2 vertices linked by an arbitrary number of edges, or 2-vertex model in short. A symmetry reduced sector of this model -- to isotropic and homogeneous geometries -- was successfully studied in the past, where interesting cosmological insights were found. We now study the evolution of the classical trajectories for this system in the general case, for arbitrary number of edges with random initial configurations. We use the spinorial formalism and its clear interpretation of spin networks in terms of discrete twisted geometries, with the quantum 3d space made of superpositions of polyhedra glued together by faces of equal area. Remarkably, oscillatory and divergent regimes are found with a universal dependence on the coupling constants of the Hamiltonian and independent of the initial spinors or the number of edges. Furthermore, we explore the evolution of the associated polyhedra as well as their volumes and areas. 
 
-
-
-#### Other related papers
-
-1. [[2203.13295]](https://arxiv.org/abs/2203.13295) - *Detectable universes inside regular black holes* - Zacharias Roupas
-
-1. [[2203.13515]](https://arxiv.org/abs/2203.13515) - *The Effective Theory of Quantum Black Holes* - Emanuele Binetti, Manuel Del Piano, Stefan Hohenegger, Franco Pezzella, Francesco Sannino
-
-1. [[2203.13726]](https://arxiv.org/abs/2203.13726) - *Resurgent Stokes Data for Painleve Equations and Two-Dimensional Quantum  (Super) Gravity* - Salvatore Baldino, Ricardo Schiappa, Maximilian Schwick, Roberto Vega
-
-
-
-### Mon - 03/28/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
+#### **Cauchy Slice Holography: A New AdS/CFT Dictionary**
+ - **Authors:** Goncalo Araujo-Regado, Rifath Khan, Aron C. Wall
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.00591](https://arxiv.org/abs/2204.00591)
+ - **Abstract**
+ We investigate a new approach to holography in asymptotically AdS spacetimes, in which time rather than space is the emergent dimension. By making a sufficiently large T^2-deformation of a Euclidean CFT, we define a holographic theory that lives on Cauchy slices of the Lorentzian bulk. (More generally, for an arbitrary Hamiltonian constraint equation that closes, we show how to obtain it by an irrelevant deformation from a CFT with suitable anomalies.) The partition function of this theory defines a natural map between the bulk canonical quantum gravity theory Hilbert space, and the Hilbert space of the usual (undeformed) boundary CFT. We argue for the equivalence of the ADM and CFT Hamiltonians. We also explain how bulk unitarity emerges naturally, even though the boundary theory is not reflection-positive. This allows us to reformulate the holographic principle in the language of Wheeler-DeWitt canonical quantum gravity. Along the way, we outline a procedure for obtaining a bulk Hilbert space from the gravitational path integral with Dirichlet boundary conditions. Following previous conjectures, we postulate that this finite-cutoff gravitational path integral agrees with the T^2-deformed theory living on an arbitrary boundary manifold -- at least near the semiclassical regime. However, the T^2-deformed theory may be easier to UV complete, in which case it would be natural to take it as the definition of nonperturbative quantum gravity. 
 
 #### Spin foam related papers
 
-#### **Topological BF description of 2D accelerated chiral edge modes**
- - **Authors:** Erica Bertolini, Filippo Fecit, Nicola Maggiore
- - **Subjects:** High Energy Physics - Theory (hep-th); Mesoscale and Nanoscale Physics (cond-mat.mes-hall)
- - **Arxiv link:** [https://arxiv.org/abs/2203.13520](https://arxiv.org/abs/2203.13520)
- - **Abstract**
- We consider the topological abelian BF theory with radial boundary on a generic 3D manifold. Our aim is to study if, where and how the boundary keeps memory of the details of the background metric. We find that some features are topologically protected and do not depend on the bulk metric. The 2D action holographically induced on the boundary depends on two scalar fields, and can be decoupled in two Luttinger actions describing two chiral bosons moving on the edge of the 3D bulk. The outcome is that these edge excitations are accelerated, as a direct consequence of the non-flat nature of the bulk spacetime. The chiral velocities of the edge modes, indeed, acquire a local dependence through the determinant of the induced metric on the boundary. We find three possibilities for the motion of the edge quasiparticles: same directions, opposite directions and a single-moving mode. But, requiring that the Hamiltonian of the 2D theory is bounded by below, the case of edge modes moving in the same direction is ruled out: systems involving parallel Hall currents (for instance Fractional Quantum Hall Effect with $\nu=2/5$) cannot be described by a BF theory with boundary, independently from the geometry of the bulk spacetime, because of positive energy considerations. We are therefore left with physical situations characterized by edge excitations moving with opposite velocities (examples are FQHE with $\nu=1-1/n$, with $n$ positive integer, and Helical Luttinger Liquids phenomena) or a single-moving mode (Quantum Anomalous Hall). A strong restriction is obtained by requiring Time Reversal symmetry, which uniquely identifies modes with equal and opposite velocities, and we know that this is the case of Topological Insulators. The novelty, with respect to the flat bulk background, is that the modes have local velocities, which corresponds to Topological Insulators with accelerated edge modes. 
+There is no new related paper today 
 
 
 
 #### Other related papers
 
-1. [[2203.13295]](https://arxiv.org/abs/2203.13295) - *Detectable universes inside regular black holes* - Zacharias Roupas
+1. [[2204.00384]](https://arxiv.org/abs/2204.00384) - *Schrödinger's Black Hole Cat* - Joshua Foo, Robert B. Mann, Magdalena Zych
 
-1. [[2203.13515]](https://arxiv.org/abs/2203.13515) - *The Effective Theory of Quantum Black Holes* - Emanuele Binetti, Manuel Del Piano, Stefan Hohenegger, Franco Pezzella, Francesco Sannino
-
-1. [[2203.13726]](https://arxiv.org/abs/2203.13726) - *Resurgent Stokes Data for Painleve Equations and Two-Dimensional Quantum  (Super) Gravity* - Salvatore Baldino, Ricardo Schiappa, Maximilian Schwick, Roberto Vega
+1. [[2204.00021]](https://arxiv.org/abs/2204.00021) - *Looking for structure in the cobordism conjecture* - David Andriot, Nils Carqueville, Niccolò Cribiori
 
 
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2022/03/28/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2022/04/04/archived_weekly_papers.html)

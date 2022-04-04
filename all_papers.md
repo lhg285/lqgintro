@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2204.00307]](https://arxiv.org/abs/2204.00307) - *Classical dynamics for Loop Gravity: The 2-vertex model* - Eneko Aranguren, Iñaki Garay, Etera R. Livine
+
+1. [[2204.00591]](https://arxiv.org/abs/2204.00591) - *Cauchy Slice Holography: A New AdS/CFT Dictionary* - Goncalo Araujo-Regado, Rifath Khan, Aron C. Wall
+
 1. [[2203.13520]](https://arxiv.org/abs/2203.13520) - *Topological BF description of 2D accelerated chiral edge modes* - Erica Bertolini, Filippo Fecit, Nicola Maggiore
 
 1. [[2203.13520]](https://arxiv.org/abs/2203.13520) - *Topological BF description of 2D accelerated chiral edge modes* - Erica Bertolini, Filippo Fecit, Nicola Maggiore
