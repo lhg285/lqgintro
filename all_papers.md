@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2204.01661]](https://arxiv.org/abs/2204.01661) - *Towards black hole entropy in chiral loop quantum supergravity* - Konstantin Eder, Hanno Sahlmann
+
 1. [[2204.00307]](https://arxiv.org/abs/2204.00307) - *Classical dynamics for Loop Gravity: The 2-vertex model* - Eneko Aranguren, Iñaki Garay, Etera R. Livine
 
 1. [[2204.00591]](https://arxiv.org/abs/2204.00591) - *Cauchy Slice Holography: A New AdS/CFT Dictionary* - Goncalo Araujo-Regado, Rifath Khan, Aron C. Wall

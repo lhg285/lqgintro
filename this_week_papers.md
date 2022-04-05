@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 04/05/22
+
+#### Loop quantum gravity related papers
+
+#### **Towards black hole entropy in chiral loop quantum supergravity**
+ - **Authors:** Konstantin Eder, Hanno Sahlmann
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.01661](https://arxiv.org/abs/2204.01661)
+ - **Abstract**
+ Recently, many geometric aspects of $\mathcal{N}$-extended AdS supergravity in chiral variables have been encountered and clarified. In particular, if the theory is supposed to be invariant under SUSY transformations also on boundaries, the boundary term has to be the action of a $\mathrm{OSp}(\mathcal{N}|2)_{\mathbb{C}}$ super Chern-Simons theory, and particular boundary conditions must be met. Based on this, we propose a way to calculate an entropy $S$ for surfaces, presumably including black hole horizons, in the supersymmetric version of loop quantum gravity for the minimal case $\mathcal{N}=1$. It proceeds in analogy to the non-supersymmetric theory, by calculating dimensions of quantum state spaces of the super Chern-Simons theory with punctures, for fixed quantum (super) area of the surface. We find $S = a_H/4$ for large areas and determine the subleading correction. Due to the non-compactness of $\mathrm{OSp}(1|2)_{\mathbb{C}}$ and the corresponding difficulties with the Chern-Simons quantum theory, we use analytic continuation from the Verlinde formula for a compact real form, $\mathrm{UOSp}(1|2)$, in analogy to work by Noui et al. This also entails studying some properties of $\mathrm{OSp}(1|2)_{\mathbb{C}}$ representations that we have not found elsewhere in the literature. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.00859]](https://arxiv.org/abs/2204.00859) - *Elementary Quantum Geometry* - Jan Ambjorn
+
+1. [[2204.01177]](https://arxiv.org/abs/2204.01177) - *A product picture for quantum electrodynamics* - Bernard S. Kay (York)
+
+1. [[2204.00687]](https://arxiv.org/abs/2204.00687) - *Self-adjoint extensions for a $p^{4}$-corrected Hamiltonian of a  particle on a finite interval* - B. B. Dilem, J. C. Fabris, J. A. Nogueira
+
+
+
 ### Mon - 04/04/22
 
 #### Loop quantum gravity related papers
