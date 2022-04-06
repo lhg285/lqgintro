@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/06/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.01718]](https://arxiv.org/abs/2204.01718) - *Are There Any Real Problems With Quantum Gravity?* - Vlatko Vedral
+
+1. [[2204.02032]](https://arxiv.org/abs/2204.02032) - *Built-in scordatura in U-DHOST* - Antonio De Felice, Shinji Mukohyama, Kazufumi Takahashi
+
+1. [[2204.01747]](https://arxiv.org/abs/2204.01747) - *The S-Matrix of 2D Type 0B String Theory Part 2: D-Instanton Effects* - Bruno Balthazar, Victor A. Rodriguez, Xi Yin
+
+1. [[2204.01764]](https://arxiv.org/abs/2204.01764) - *Baby Universes born from the Void* - Panos Betzios, Nava Gaddam, Olga Papadoulaki
+
+1. [[2204.01989]](https://arxiv.org/abs/2204.01989) - *Bulk reconstruction from a scalar CFT at the boundary by the smearing  with the flow equation* - Sinya Aoki, Janos Balog, Tetsuya Onogi, Shuichi Yokoyama
+
+1. [[2204.02266]](https://arxiv.org/abs/2204.02266) - *Combinatoric topological string theories and group theory algorithms* - Sanjaye Ramgoolam, Eric Sharpe
+
+
+
 ### Tue - 04/05/22
 
 #### Loop quantum gravity related papers
