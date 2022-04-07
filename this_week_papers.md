@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 04/07/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.02429]](https://arxiv.org/abs/2204.02429) - *Universal signatures of singularity-resolving physics in photon rings of  black holes and horizonless objects* - Astrid Eichhorn, Aaron Held, Philipp-Vincent Johannsen
+
+1. [[2204.02454]](https://arxiv.org/abs/2204.02454) - *$\mathcal{R}^2$ Quantum Corrected Scalar Field Inflation* - V.K. Oikonomou, Ifigeneia Giannakoudi
+
+1. [[2204.02723]](https://arxiv.org/abs/2204.02723) - *Baryogenesis in non-extensive Tsallis Cosmology* - Giuseppe Gaetano Luciano, Jaume Gine
+
+
+
 ### Wed - 04/06/22
 
 #### Loop quantum gravity related papers
