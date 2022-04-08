@@ -6,6 +6,47 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/08/22
+
+#### Loop quantum gravity related papers
+
+#### **Twisted geometry coherent states in all dimensional loop quantum  gravity: II. Ehrenfest Property**
+ - **Authors:** Gaoping Long
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.03056](https://arxiv.org/abs/2204.03056)
+ - **Abstract**
+ In the preceding paper of this series of articles we constructed the twisted geometry coherent states in all dimensional loop quantum gravity and established their peakedness properties. In this paper we establish the "Ehrenfest property" of these states which are labelled by the twisted geometry parameters. By this we mean that the expectation values of the polynomials of the elementary operators as well as the operators which is not a polynomial function of the elementary operators, reproduce, to zeroth order in $\hbar$, the values of the corresponding classical and simplicity resloved functions at the point in the twisted geometry parametrized phase space where the coherent state is peaked. 
+
+#### **Intertwiner Entanglement Excitation and Holonomy Operator**
+ - **Authors:** Qian Chen, Etera R. Livine
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.03093](https://arxiv.org/abs/2204.03093)
+ - **Abstract**
+ In the loop quantum gravity framework, spin network states carry entanglement between quantum excitations of the geometry at different space points. This intertwiner entanglement is gauge-invariant and comes from quantum superposition of spins and intertwiners. Bipartite entanglement can be interpreted as a witness of distance, while multipartite entanglement reflects the curvature of the quantum geometry. The present work investigates how the bipartite and multipartite intertwiner entanglement changes under the action of the holonomy operator, which is the basic building block of loop quantum gravity's dynamics. We reveal the relation between entanglement excitation and the dispersion of the holonomy operator. This leads to a new interesting connection between bulk geometry and boundary observables via the dynamics of entanglement. 
+
+#### **Quasinormal Modes of Self-dual Black Holes in Loop Quantum Gravity**
+ - **Authors:** Mehrab Momennia
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.03259](https://arxiv.org/abs/2204.03259)
+ - **Abstract**
+ We study the evolution of a test scalar field on the background geometry of a regular loop quantum black hole (LQBH) characterized by two loop quantum gravity (LQG) correction parameters, namely, the polymeric function and the minimum area gap. The calculations of quasinormal frequencies in asymptotically flat spacetime are performed with the help of higher-order WKB expansion and related Pad\'{e} approximants, the improved asymptotic iteration method (AIM), and time-domain integration. The effects of free parameters of the theory on the quasinormal modes are studied and deviations from those of the Schwarzschild BHs are investigated. We show that the LQG correction parameters have opposite effects on the quasinormal frequencies and the LQBHs are dynamically stable. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.03043]](https://arxiv.org/abs/2204.03043) - *Time Evolution in Quantum Cosmology* - Anne-Katherine Burns, David E. Kaplan, Tom Melia, Surjeet Rajendran
+
+1. [[2204.02981]](https://arxiv.org/abs/2204.02981) - *D-instanton Induced Superpotential* - Sergei Alexandrov, Atakan Hilmi Fırat, Manki Kim, Ashoke Sen, Bogdan Stefański jr
+
+1. [[2204.03192]](https://arxiv.org/abs/2204.03192) - *Improved proof-by-contraction method and relative homologous entropy  inequalities* - Nan Li, Chuan-Shi Dong, Dong-Hui Du, Fu-Wen Shu
+
+
+
 ### Thu - 04/07/22
 
 #### Loop quantum gravity related papers

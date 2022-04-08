@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2204.03056]](https://arxiv.org/abs/2204.03056) - *Twisted geometry coherent states in all dimensional loop quantum  gravity: II. Ehrenfest Property* - Gaoping Long
+
+1. [[2204.03093]](https://arxiv.org/abs/2204.03093) - *Intertwiner Entanglement Excitation and Holonomy Operator* - Qian Chen, Etera R. Livine
+
+1. [[2204.03259]](https://arxiv.org/abs/2204.03259) - *Quasinormal Modes of Self-dual Black Holes in Loop Quantum Gravity* - Mehrab Momennia
+
 1. [[2204.01661]](https://arxiv.org/abs/2204.01661) - *Towards black hole entropy in chiral loop quantum supergravity* - Konstantin Eder, Hanno Sahlmann
 
 1. [[2204.00307]](https://arxiv.org/abs/2204.00307) - *Classical dynamics for Loop Gravity: The 2-vertex model* - Eneko Aranguren, Iñaki Garay, Etera R. Livine
