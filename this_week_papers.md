@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 04/12/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.05054]](https://arxiv.org/abs/2204.05054) - *Black hole perturbations in higher-order scalar-tensor theories: initial  value problem and dynamical stability* - Keisuke Nakashi, Masashi Kimura, Hayato Motohashi, Kazufumi Takahashi
+
+1. [[2204.04538]](https://arxiv.org/abs/2204.04538) - *New results in AdS/CFT in low dimensions from massive Type IIA* - Yolanda Lozano, Nicolò Petri, Anayeli Ramirez
+
+
+
 ### Mon - 04/11/22
 
 #### Loop quantum gravity related papers
