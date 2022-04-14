@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 04/14/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.06342]](https://arxiv.org/abs/2204.06342) - *On the holographic domain-wall/cosmology correspondence and scalar  one-point functions* - Jean-François Vaduret
+
+
+
 ### Wed - 04/13/22
 
 #### Loop quantum gravity related papers
