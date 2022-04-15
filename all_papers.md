@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2204.07119]](https://arxiv.org/abs/2204.07119) - *Loop representation and r-Fock measures for $SU(N)$ gauge theories* - Mehdi Assanioussi, Jerzy Lewandowski
+
 1. [[2204.03056]](https://arxiv.org/abs/2204.03056) - *Twisted geometry coherent states in all dimensional loop quantum  gravity: II. Ehrenfest Property* - Gaoping Long
 
 1. [[2204.03093]](https://arxiv.org/abs/2204.03093) - *Intertwiner Entanglement Excitation and Holonomy Operator* - Qian Chen, Etera R. Livine

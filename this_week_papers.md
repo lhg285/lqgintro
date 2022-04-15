@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/15/22
+
+#### Loop quantum gravity related papers
+
+#### **Loop representation and r-Fock measures for $SU(N)$ gauge theories**
+ - **Authors:** Mehdi Assanioussi, Jerzy Lewandowski
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.07119](https://arxiv.org/abs/2204.07119)
+ - **Abstract**
+ In this article we continue the work on translating elements of the perturbative quantum field theory defined on Minkowski spacetime into the background independent framework of Loop Quantum Gravity. We present the construction of r-Fock measures for $SU(N)$ gauge theories and provide a relation between these new r-Fock measures and the difeomorphism invariant measure used in loop quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 04/14/22
 
 #### Loop quantum gravity related papers
