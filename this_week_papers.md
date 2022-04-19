@@ -6,6 +6,37 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 04/19/22
+
+#### Loop quantum gravity related papers
+
+#### **Loop quantum cosmology and its gauge-covariant avatar: a weak curvature  relationship**
+ - **Authors:** Bao-Fei Li, Parampreet Singh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.07589](https://arxiv.org/abs/2204.07589)
+ - **Abstract**
+ We explore the relationship between the effective dynamics in standard loop quantum cosmology (LQC) based on holonomies and triads obtained from gauge-fixing fluxes, and a modification of LQC based on holonomies and gauge-covariant fluxes (referred to as gLQC). Both the models yield singularity resolution via a bounce because of non-perturbative quantum geometric effects resulting in a maximum for energy density. In LQC, the bounce is extremely well captured by a $\rho^2$ term in energy density with a negative sign which emerges as a non-perturbative modification to the classical Friedmann and Raychaudhuri equations. But, details of such modifications in gLQC have remained hidden due to an arduous nature of gauge-covariant flux modifications which do not allow writing above equations in a closed form. To extract these modifications we explore the large volume, weak curvature limit for matter with a fixed equation of state and obtain higher order corrections to the classical theory. We find that in the weak curvature limit of gLQC, in the post-bounce branch, the first order correction beyond classical theory fully recovers the form of modified Friedmann and Raychaudhuri equations of LQC. In contrast, due to an asymmetric bounce in gLQC, the weak curvature limit of the pre-bounce branch exhibits a novel structure with a $\rho^{3/2}$ term as a first order correction beyond classical theory while the $\rho^2$ term appears as a second order correction. Our work shows that gLQC has a far richer structure which includes the form of dynamical equations with non-perturbative modifications in LQC in its weak curvature limit. This indicates that more general loop quantizations of cosmological sectors can reveal LQC at some truncation, and possibly there exist a tower of potentially interesting higher order modifications from quantum geometry which are hidden in the setting of LQC. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.08113]](https://arxiv.org/abs/2204.08113) - *Rotating regular black holes and rotating stars with a Tolman type  potential as a regular interior for the Kerr metric* - Angel D. Masa, Vilson T. Zanchin
+
+1. [[2204.08371]](https://arxiv.org/abs/2204.08371) - *The solution to the problem of time in quantum gravity also solves the  time of arrival problem in quantum mechanics* - Rodolfo Gambini, Jorge Pullin
+
+1. [[2204.07590]](https://arxiv.org/abs/2204.07590) - *Deforming Symmetric Product Orbifolds: A tale of moduli and higher spin  currents* - Luis Apolo, Alexandre Belin, Suzanne Bintanja, Alejandra Castro, Christoph A. Keller
+
+1. [[2204.07694]](https://arxiv.org/abs/2204.07694) - *Sandwiched Renyi Relative Entropy in AdS/CFT* - Reginald J. Caginalp
+
+1. [[2204.08007]](https://arxiv.org/abs/2204.08007) - *Renormalizable and unitary Lorentz invariant model of quantum gravity* - S.A. Larin
+
+
+
 ### Mon - 04/18/22
 
 #### Loop quantum gravity related papers
