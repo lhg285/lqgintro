@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/20/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.08480]](https://arxiv.org/abs/2204.08480) - *Probing Quadratic Gravity with the Event Horizon Telescope* - Jesse Daas, Kolja Kuijpers, Frank Saueressig, Michael F. Wondrak, Heino Falcke
+
+1. [[2204.08841]](https://arxiv.org/abs/2204.08841) - *Event Horizon of a Charged Black Hole Binary Merger* - D. Marín Pina, M. Orselli, D. Pica
+
+1. [[2204.08564]](https://arxiv.org/abs/2204.08564) - *Safe essential scalar-tensor theories* - Benjamin Knorr
+
+
+
 ### Tue - 04/19/22
 
 #### Loop quantum gravity related papers
