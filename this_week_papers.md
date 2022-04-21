@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 04/21/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.09444]](https://arxiv.org/abs/2204.09444) - *Effective models of non-singular quantum black holes* - Mariano Cadoni, Mauro Oi, Andrea Pierfrancesco Sanna
+
+
+
 ### Wed - 04/20/22
 
 #### Loop quantum gravity related papers
