@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/22/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Higher spin JT gravity and a matrix model dual**
+ - **Authors:** Jorrit Kruthoff
+ - **Subjects:** High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2204.09685](https://arxiv.org/abs/2204.09685)
+ - **Abstract**
+ We propose a generalization of the Saad-Shenker-Stanford duality relating matrix models and JT gravity to the case in which the bulk includes higher spin fields. Using a $\textsf{PSL}(N,\mathbb{R})$ BF theory we compute the disk and generalization of the trumpet partition function in this theory. We then study higher genus corrections and show how this differs from the usual JT gravity calculations. In particular, the usual quotient by the mapping class group is not enough to ensure finite answers and so we propose to extend this group with additional elements that make the gluing integrals finite. These elements can be thought of as large higher spin diffeomorphisms. The cylinder contribution to the spectral form factor then behaves as $T^{N-1}$ at late times $T$, signaling a deviation from conventional random matrix theory. To account for this deviation, we propose that the bulk theory is dual to a matrix model consisting of $N-1$ commuting matrices associated to the $N-1$ conserved higher spin charges. We find further evidence for the existence of the additional mapping class group elements by interpreting the bulk gauge theory geometrically and employing the formalism developed by Gomis et al. in the nineties. This formalism introduces additional (auxiliary) boundary times so that each conserved charge generates translations in those new directions. This allows us to find an explicit description for the $\textsf{PSL}(3,\mathbb{R})$ Schwarzian theory for the disk and trumpet and view the additional mapping class group elements as ordinary Dehn twists, but in higher dimensions. 
+
+
+
+#### Other related papers
+
+1. [[2204.10150]](https://arxiv.org/abs/2204.10150) - *Light Deflection by Rotating Regular Black Holes with a Cosmological  Constant* - A. Belhaj, H. Belmahi, M. Benali, H. El Moumni
+
+1. [[2204.09993]](https://arxiv.org/abs/2204.09993) - *Type IIB S-folds: flat deformations, holography and stability* - Adolfo Guarino, Colin Sterckx
+
+1. [[2204.10249]](https://arxiv.org/abs/2204.10249) - *Celestial Amplitudes as AdS-Witten Diagrams* - Eduardo Casali, Walker Melton, Andrew Strominger
+
+
+
 ### Thu - 04/21/22
 
 #### Loop quantum gravity related papers
