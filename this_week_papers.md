@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/27/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.12304]](https://arxiv.org/abs/2204.12304) - *Is singularity resolution trivial?* - Ding Jia
+
+1. [[2204.12149]](https://arxiv.org/abs/2204.12149) - *Wilson lines construction of $\mathfrak{osp}(1|2)$ conformal blocks* - Vladimir Belavin, J. Ramos Cabezas
+
+
+
 ### Tue - 04/26/22
 
 #### Loop quantum gravity related papers
