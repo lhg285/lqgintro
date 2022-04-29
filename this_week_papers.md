@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/29/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2204.13133]](https://arxiv.org/abs/2204.13133) - *Modest holography and bulk reconstruction in asymptotically flat  spacetimes* - Erickson Tjoa, Finnian Gray
+
+1. [[2204.13113]](https://arxiv.org/abs/2204.13113) - *Fuzzballs and Microstate Geometries: Black-Hole Structure in String  Theory* - Iosif Bena, Emil J. Martinec, Samir D. Mathur, Nicholas P. Warner
+
+
+
 ### Thu - 04/28/22
 
 #### Loop quantum gravity related papers
