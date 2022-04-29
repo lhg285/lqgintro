@@ -19,7 +19,8 @@ The following are recommended series of lectures on Loop Quantum Gravity:
 
 [Non-local QG seminars](https://qglyon.wordpress.com/seminars/)
 
-### Upcoming conferences and summer schools
+### Upcoming conferences and schools
 
-- [Jan 09 - 22, 2022] [Kavli Asian Winter School](https://www.icts.res.in/program/KAWS2022)
-- [Feb 14 - 18, 2022] [Tux Workshop]
+- [Jun 06, 2022 - Jul 15, 2022]  [Reconstructing the Gravitational Hologram with Quantum Information](https://www.ggi.infn.it/showevent.pl?id=367)
+- [Jul 11 - 15, 2022] [Loops summer School](https://sites.google.com/view/loops-22-summer-school/home)
+- [Feb 14 - 18, 2022] [Loops 22](https://indico.cern.ch/event/1100970/)
