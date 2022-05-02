@@ -6,7 +6,7 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 04/29/22
+### Mon - 05/02/22
 
 #### Loop quantum gravity related papers
 
@@ -20,75 +20,15 @@ There is no new related paper today
 
 #### Other related papers
 
-1. [[2204.13133]](https://arxiv.org/abs/2204.13133) - *Modest holography and bulk reconstruction in asymptotically flat  spacetimes* - Erickson Tjoa, Finnian Gray
+1. [[2204.14122]](https://arxiv.org/abs/2204.14122) - *Path integral in position-deformed Heisenberg algebra with strong  quantum gravitational measurement* - Latévi M. Lawson, Prince K. Osei, Komi Sodoga, Fred Soglohu
 
-1. [[2204.13113]](https://arxiv.org/abs/2204.13113) - *Fuzzballs and Microstate Geometries: Black-Hole Structure in String  Theory* - Iosif Bena, Emil J. Martinec, Samir D. Mathur, Nicholas P. Warner
+1. [[2204.14216]](https://arxiv.org/abs/2204.14216) - *From Noncommutative Geometry to Random Matrix Theory* - Hamed Hessam, Masoud Khalkhali, Nathan Pagliaroli
 
-
-
-### Thu - 04/28/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Wed - 04/27/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2204.12304]](https://arxiv.org/abs/2204.12304) - *Is singularity resolution trivial?* - Ding Jia
-
-1. [[2204.12149]](https://arxiv.org/abs/2204.12149) - *Wilson lines construction of $\mathfrak{osp}(1|2)$ conformal blocks* - Vladimir Belavin, J. Ramos Cabezas
-
-
-
-### Tue - 04/26/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2204.11274]](https://arxiv.org/abs/2204.11274) - *Quantum dynamics corresponding to the classical BKL scenario* - Andrzej Góźdź, Aleksandra Pȩdrak, Włodzimierz Piechocki
-
-1. [[2204.11558]](https://arxiv.org/abs/2204.11558) - *Thermodynamic stability of a new three dimensional regular black hole* - S. H. Hendi, S. Hajkhalili, S. Mahmoudi
-
-1. [[2204.11200]](https://arxiv.org/abs/2204.11200) - *Quantum Theory of Weyl Invariant Scalar-tensor Gravity* - Ichiro Oda
-
-
-
-### Mon - 04/25/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
+1. [[2204.14206]](https://arxiv.org/abs/2204.14206) - *Double scaling limits of Dirac ensembles and Liouville quantum gravity* - Hamed Hessam, Masoud Khalkhali, Nathan Pagliaroli
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2022/04/25/archived_weekly_papers.html)
+
+
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2022/05/02/archived_weekly_papers.html)
