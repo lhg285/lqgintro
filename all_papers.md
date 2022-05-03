@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2205.00298]](https://arxiv.org/abs/2205.00298) - *Space-like Singularities of General Relativity: A Phantom menace?* - Abhay Ashtekar, Adrián del Río, Marc Schneider
+
 1. [[2204.09685]](https://arxiv.org/abs/2204.09685) - *Higher spin JT gravity and a matrix model dual* - Jorrit Kruthoff
 
 1. [[2204.07589]](https://arxiv.org/abs/2204.07589) - *Loop quantum cosmology and its gauge-covariant avatar: a weak curvature  relationship* - Bao-Fei Li, Parampreet Singh
