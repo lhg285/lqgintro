@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/04/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.01106]](https://arxiv.org/abs/2205.01106) - *On the Equivalence between SRS and PCO Formulations of Superstring  Perturbation Theory* - Charles Wang, Xi Yin
+
+1. [[2205.01119]](https://arxiv.org/abs/2205.01119) - *Axion wormholes with massive dilaton* - Stefano Andriolo, Gary Shiu, Pablo Soler, Thomas Van Riet
+
+1. [[2205.01567]](https://arxiv.org/abs/2205.01567) - *Snowmass White Paper: Higher Spin Gravity and Higher Spin symmetry* - Xavier Bekaert, Nicolas Boulanger, Andrea Campoleoni, Marco Chiodaroli, Dario Francia, Maxim Grigoriev, Ergin Sezgin, Evgeny Skvortsov
+
+
+
 ### Tue - 05/03/22
 
 #### Loop quantum gravity related papers
