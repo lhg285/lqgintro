@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/05/22
+
+#### Loop quantum gravity related papers
+
+#### **A nonsingular spherically symmetric black-hole model with holonomy  corrections**
+ - **Authors:** Asier Alonso-Bardaji, David Brizuela, Raül Vera
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2205.02098](https://arxiv.org/abs/2205.02098)
+ - **Abstract**
+ We present a covariant model of a spherically symmetric black hole with corrections motivated by loop quantum gravity. The effective modifications, parametrized by a positive constant $\lambda$, are implemented through a canonical transformation and a linear combination of the constraints of general relativity, in such a way that the theory remains free of anomalies and general relativity is recovered for $\lambda=0$. In addition, the corresponding metric is constructed in a fully covariant way to ensure that gauge transformations on phase space correspond to coordinate changes. The solution for each gauge choice provides a chart and corresponding line element of a spacetime solution whose geometry is unambiguously determined in terms of the parameter $\lambda$ and a constant of motion $m$. For positive values of $m$, the solution is asymptotically flat and contains a globally hyperbolic black-hole/white-hole region with a minimal spacelike hypersurface that replaces the Schwarzschild singularity. The corresponding exterior regions are isometric and, in particular, allow the computation of the ADM mass. The procedure to obtain the global causal structure of the solution yields, also, its maximal analytic extension. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.01799]](https://arxiv.org/abs/2205.01799) - *Snowmass 2021 White Paper: Observational Signatures of Quantum Gravity* - Kathryn M. Zurek
+
+1. [[2205.01967]](https://arxiv.org/abs/2205.01967) - *Complementarity-Entanglement Tradeoff in Quantum Gravity* - Yusef Maleki, Alireza Maleki
+
+1. [[2205.02044]](https://arxiv.org/abs/2205.02044) - *Deformations of the canonical commutation relation and Lorentz symmetry  violation* - André H. Gomes
+
+
+
 ### Wed - 05/04/22
 
 #### Loop quantum gravity related papers
