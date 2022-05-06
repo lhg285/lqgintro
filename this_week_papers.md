@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/06/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.02229]](https://arxiv.org/abs/2205.02229) - *Weak Deflection Angle and Greybody Bound of Magnetized Regular Black  Hole* - Wajiha Javed, Sibgha Riaz, Ali Övgün
+
+1. [[2205.02794]](https://arxiv.org/abs/2205.02794) - *GUP inspired asymptotic safety in the radiation process of thin  accretion disk around a Schwarzschild-like black hole* - Himangshu Barman, Anisur Rahaman
+
+1. [[2205.02240]](https://arxiv.org/abs/2205.02240) - *A Celestial Matrix Model* - Arjun Kar, Lampros Lamprou, Charles Marteau, Felipe Rosso
+
+1. [[2205.02436]](https://arxiv.org/abs/2205.02436) - *Effect of RGUP on the nonlinear Klein-Gordon model with spontaneous  symmetry breaking* - S. Miraboutalebi, F. Ahmadi, A. Jahangiri
+
+
+
 ### Thu - 05/05/22
 
 #### Loop quantum gravity related papers
