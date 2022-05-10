@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2205.03799]](https://arxiv.org/abs/2205.03799) - *Probing the interior of the Schwarzschild black hole using congruences:  LQG vs GUP* - Saeed Rastgoo, Saurya Das
+
+1. [[2205.03675]](https://arxiv.org/abs/2205.03675) - *Aspects of self-dual Yang-Mills and self-dual gravity* - Pratik Chattopadhyay
+
 1. [[2205.02098]](https://arxiv.org/abs/2205.02098) - *A nonsingular spherically symmetric black-hole model with holonomy  corrections* - Asier Alonso-Bardaji, David Brizuela, Raül Vera
 
 1. [[2205.00298]](https://arxiv.org/abs/2205.00298) - *Space-like Singularities of General Relativity: A Phantom menace?* - Abhay Ashtekar, Adrián del Río, Marc Schneider
