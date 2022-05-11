@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/11/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.05064]](https://arxiv.org/abs/2205.05064) - *Holography of the Photon Ring* - Shahar Hadar, Daniel Kapec, Alexandru Lupsasca, Andrew Strominger
+
+1. [[2205.04532]](https://arxiv.org/abs/2205.04532) - *Large Field Distances from EFT strings* - Stefano Lanza, Fernando Marchesano, Luca Martucci, Irene Valenzuela
+
+
+
 ### Tue - 05/10/22
 
 #### Loop quantum gravity related papers
