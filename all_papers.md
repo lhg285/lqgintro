@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2205.05079]](https://arxiv.org/abs/2205.05079) - *On 3-Dimensional Quantum Gravity and Quasi-Local Holography in Spin Foam  Models and Group Field Theory* - Gabriel Schmid
+
 1. [[2205.03799]](https://arxiv.org/abs/2205.03799) - *Probing the interior of the Schwarzschild black hole using congruences:  LQG vs GUP* - Saeed Rastgoo, Saurya Das
 
 1. [[2205.03675]](https://arxiv.org/abs/2205.03675) - *Aspects of self-dual Yang-Mills and self-dual gravity* - Pratik Chattopadhyay
