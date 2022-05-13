@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/13/22
+
+#### Loop quantum gravity related papers
+
+#### **Group field theory on 2-groups**
+ - **Authors:** Florian Girelli, Matteo Laudonio, Adrian Tanasa, Panagiotis Tsimiklis
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2205.05837](https://arxiv.org/abs/2205.05837)
+ - **Abstract**
+ Group field theories are quantum field theories built on groups. They can be seen as a tool to generate topological state-sums or quantum gravity models. For four dimensional manifolds, different arguments have pointed towards 2-groups (such as crossed modules) as the relevant symmetry structure to probe four dimensional topological features. Here, we introduce a group field theory built on crossed modules which generate a four dimensional topological model, as we prove that the Feynman diagram amplitudes can be related by Pachner moves. This model is presumably the dual version of the Yetter-Mackaay model. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.05935]](https://arxiv.org/abs/2205.05935) - *Singularities of regular black holes and the art of monodromy method for  asymptotic quasinormal modes* - Chen Lan, Yi-Fan Wang
+
+1. [[2205.05693]](https://arxiv.org/abs/2205.05693) - *Towards Explicit Discrete Holography: Aperiodic Spin Chains from  Hyperbolic Tilings* - Pablo Basteiro, Giuseppe Di Giulio, Johanna Erdmenger, Jonathan Karl, René Meyer, Zhuo-Yu Xian
+
+1. [[2205.05705]](https://arxiv.org/abs/2205.05705) - *Computing spacetime* - Juan F. Pedraza, Andrea Russo, Andrew Svesko, Zachary Weller-Davies
+
+
+
 ### Thu - 05/12/22
 
 #### Loop quantum gravity related papers
