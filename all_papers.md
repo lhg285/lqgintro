@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2205.07817]](https://arxiv.org/abs/2205.07817) - *$T\bar{T}$ in JT Gravity and BF Gauge Theory* - Stephen Ebert, Christian Ferko, Hao-Yu Sun, Zhengdi Sun
+
 1. [[2205.05837]](https://arxiv.org/abs/2205.05837) - *Group field theory on 2-groups* - Florian Girelli, Matteo Laudonio, Adrian Tanasa, Panagiotis Tsimiklis
 
 1. [[2205.05079]](https://arxiv.org/abs/2205.05079) - *On 3-Dimensional Quantum Gravity and Quasi-Local Holography in Spin Foam  Models and Group Field Theory* - Gabriel Schmid

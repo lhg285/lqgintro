@@ -6,6 +6,39 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 05/17/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **$T\bar{T}$ in JT Gravity and BF Gauge Theory**
+ - **Authors:** Stephen Ebert, Christian Ferko, Hao-Yu Sun, Zhengdi Sun
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2205.07817](https://arxiv.org/abs/2205.07817)
+ - **Abstract**
+ JT gravity has a first-order formulation as a two-dimensional BF theory, which can be viewed as the dimensional reduction of the Chern-Simons description of 3d gravity. We consider $T\bar{T}$-type deformations of the $(0+1)$-dimensional dual to this $2d$ BF theory and interpret the deformation as a modification of the BF theory boundary conditions. The fundamental observables in this deformed BF theory, and in its $3d$ Chern-Simons lift, are Wilson lines and loops. In the $3d$ Chern-Simons setting, we study modifications to correlators involving boundary-anchored Wilson lines which are induced by a $T\bar{T}$ deformation on the $2d$ boundary; results are presented at both the classical level (using modified boundary conditions) and the quantum-mechanical level (using conformal perturbation theory). Finally, we calculate the analogous deformed Wilson line correlators in $2d$ BF theory below the Hagedorn temperature where the principal series dominates over the discrete series. 
+
+
+
+#### Other related papers
+
+1. [[2205.06878]](https://arxiv.org/abs/2205.06878) - *Effective field theory from Relativistic Generalized Uncertainty* - Vasil Todorinov, Saurya Das, Pasquale Bosso
+
+1. [[2205.07701]](https://arxiv.org/abs/2205.07701) - *A Discrete Analog of General Covariance -- Part 2: Despite what you've  heard, a perfectly Lorentzian lattice theory* - Daniel Grimmer
+
+1. [[2205.07746]](https://arxiv.org/abs/2205.07746) - *On the effective metric of axial black hole perturbations in DHOST  gravity* - David Langlois, Karim Noui, Hugo Roussille
+
+1. [[2205.07029]](https://arxiv.org/abs/2205.07029) - *Scaling solution for field-dependent gauge couplings in quantum gravity* - C. Wetterich
+
+1. [[2205.07382]](https://arxiv.org/abs/2205.07382) - *JT Gravity Coupled to Fermions* - Tom Banks, Patrick Draper, Bingnan Zhang
+
+1. [[2205.07436]](https://arxiv.org/abs/2205.07436) - *All-order Resurgence from Complexified Path Integral in a Quantum  Mechanical System with Integrability* - Toshiaki Fujimori, Syo Kamata, Tatsuhiro Misumi, Muneto Nitta, Norisuke Sakai
+
+
+
 ### Mon - 05/16/22
 
 #### Loop quantum gravity related papers
