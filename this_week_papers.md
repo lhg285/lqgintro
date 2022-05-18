@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/18/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **A Simple Model for Quantum Gravity: the one-dimensional case**
+ - **Authors:** Ricardo Paszko
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2205.08496](https://arxiv.org/abs/2205.08496)
+ - **Abstract**
+ Group theory is used to construct a model for quantum gravity and exact results are obtained in one dimension. Comparison with Regge calculus shows that the results agree in the strong cosmological constant limit for an open curve. In the closed case, the average edge length has a minimum value and this give us a clue for higher dimensions. 
+
+
+
+#### Other related papers
+
+1. [[2205.08469]](https://arxiv.org/abs/2205.08469) - *A dialog on the fate of information in black hole evaporation* - Alejandro Perez, Daniel Sudarsky
+
+1. [[2205.07923]](https://arxiv.org/abs/2205.07923) - *Holography from Singular Supertranslations on a Black Hole Horizon* - Ratindranath Akhoury, Sangmin Choi, Malcolm J. Perry
+
+
+
 ### Tue - 05/17/22
 
 #### Loop quantum gravity related papers

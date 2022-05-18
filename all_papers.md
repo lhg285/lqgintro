@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2205.08496]](https://arxiv.org/abs/2205.08496) - *A Simple Model for Quantum Gravity: the one-dimensional case* - Ricardo Paszko
+
 1. [[2205.07817]](https://arxiv.org/abs/2205.07817) - *$T\bar{T}$ in JT Gravity and BF Gauge Theory* - Stephen Ebert, Christian Ferko, Hao-Yu Sun, Zhengdi Sun
 
 1. [[2205.05837]](https://arxiv.org/abs/2205.05837) - *Group field theory on 2-groups* - Florian Girelli, Matteo Laudonio, Adrian Tanasa, Panagiotis Tsimiklis
