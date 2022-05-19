@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/19/22
+
+#### Loop quantum gravity related papers
+
+#### **Early and late universe holographic cosmology from a new generalized  entropy**
+ - **Authors:** Shin'ichi Nojiri, Sergei D. Odintsov, Tanmoy Paul
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2205.08876](https://arxiv.org/abs/2205.08876)
+ - **Abstract**
+ We propose a new four-parameter entropy function that generalizes the Tsallis, R\'{e}nyi, Barrow, Sharma-Mittal, Kaniadakis and Loop Quantum Gravity entropies for suitable limits of the parameters. Consequently, we address the early and late universe cosmology corresponding to the proposed four-parameter entropy function. As a result, it turns out that the entropic cosmology from the generalized entropy function can unify the early inflation to the late dark energy era of the universe. In such a unified scenario, we find that -- (1) the inflation era is described by a quasi de-Sitter evolution of the Hubble parameter, which has an exit at around 58 e-folding number, (2) the inflationary observable quantities like the spectral index for primordial scalar perturbation and the tensor-to-scalar ratio are simultaneously compatible with the recent Planck data, and (3) regarding the late time cosmology, the dark energy EoS parameter is found to be consistent with the Planck result for the same values of the entropy parameters that lead to the viable inflation during the early universe. Furthermore, we show that the entropic cosmology from the proposed entropy function is equivalent to holographic cosmology, where the respective holographic cut-offs are determined in terms of either particle horizon and its derivative or future horizon and its derivative. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.08919]](https://arxiv.org/abs/2205.08919) - *The shadow of regular black holes with asymptotically Minkowski core* - Yi Ling, Meng-He Wu
+
+1. [[2205.08931]](https://arxiv.org/abs/2205.08931) - *Gravitational Analysis of Rotating Charged Black Hole-Like Solution in  Einstein-Gauss-Bonnet Gravity* - Riasat Ali, Rimsha Babar, Muhammad Asgher
+
+
+
 ### Wed - 05/18/22
 
 #### Loop quantum gravity related papers
