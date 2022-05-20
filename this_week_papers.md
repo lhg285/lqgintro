@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/20/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.09147]](https://arxiv.org/abs/2205.09147) - *Beyond semiclassical time* - Leonardo Chataignier
+
+1. [[2205.09144]](https://arxiv.org/abs/2205.09144) - *Anyon Scattering from Lightcone Hamiltonian: the Singlet Channel* - Barak Gabai, Joshua Sandor, Xi Yin
+
+1. [[2205.09704]](https://arxiv.org/abs/2205.09704) - *Quantum chaos in supersymmetric quantum mechanics: an exact  diagonalization study* - P. V. Buividovich
+
+
+
 ### Thu - 05/19/22
 
 #### Loop quantum gravity related papers
