@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2205.09984]](https://arxiv.org/abs/2205.09984) - *The thermodynamics of isolated horizon in higher dimensional loop  quantum gravity* - Shupeng Song, Gaoping Long, Cong Zhang, Xiangdong Zhang
+
 1. [[2205.08876]](https://arxiv.org/abs/2205.08876) - *Early and late universe holographic cosmology from a new generalized  entropy* - Shin'ichi Nojiri, Sergei D. Odintsov, Tanmoy Paul
 
 1. [[2205.08496]](https://arxiv.org/abs/2205.08496) - *A Simple Model for Quantum Gravity: the one-dimensional case* - Ricardo Paszko
