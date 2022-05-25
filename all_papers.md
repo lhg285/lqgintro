@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2205.12208]](https://arxiv.org/abs/2205.12208) - *Fermions on Quantum Geometry and Resolution of Doubling Problem* - Cong Zhang, Hongguang Liu, Muxin Han
+
 1. [[2205.10779]](https://arxiv.org/abs/2205.10779) - *Anomaly free quantum dynamics for Euclidean LQG* - Madhavan Varadarajan
 
 1. [[2205.11205]](https://arxiv.org/abs/2205.11205) - *Spin network entanglement: coarse-graining* - Qian Chen

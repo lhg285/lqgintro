@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/25/22
+
+#### Loop quantum gravity related papers
+
+#### **Fermions on Quantum Geometry and Resolution of Doubling Problem**
+ - **Authors:** Cong Zhang, Hongguang Liu, Muxin Han
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Lattice (hep-lat); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2205.12208](https://arxiv.org/abs/2205.12208)
+ - **Abstract**
+ The fermion doubling problem has an important impact on quantum gravity, by revealing the tension between fermion and the fundamental discreteness of quantum spacetime. In this work, we discover that in Loop Quantum Gravity, the quantum geometry involving superposition of states associated with lattice refinements provides a resolution to the fermion doubling problem. We construct and analyze the fermion propagator on the quantum geometry, and we show that all fermion doubler modes are suppressed in the propagator. Our result suggests that the superposition nature of quantum geometry should resolve the tension between fermion and the fundamental discreteness, and relate to the continuum limit of quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.12030]](https://arxiv.org/abs/2205.12030) - *AdS/CFT and dS/CFT correspondences emerging from Asymptotic Safety ?* - Renata Ferrero, Martin Reuter
+
+
+
 ### Tue - 05/24/22
 
 #### Loop quantum gravity related papers
