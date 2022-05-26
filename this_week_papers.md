@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/26/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.12812]](https://arxiv.org/abs/2205.12812) - *Cooling process of substellar objects in scalar-tensor gravity* - Aleksander Kozak, Kärt Soieva, Aneta Wojnar
+
+1. [[2205.12272]](https://arxiv.org/abs/2205.12272) - *Gravity as a gapless phase and biform symmetries* - Kurt Hinterbichler, Diego M. Hofman, Austin Joyce, Grégoire Mathys
+
+1. [[2205.12293]](https://arxiv.org/abs/2205.12293) - *The Dark Dimension and the Swampland* - Miguel Montero, Cumrun Vafa, Irene Valenzuela
+
+
+
 ### Wed - 05/25/22
 
 #### Loop quantum gravity related papers
