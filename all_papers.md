@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2205.13312]](https://arxiv.org/abs/2205.13312) - *Group field theory on quantum groups* - Florian Girelli, Matteo Laudonio
+
 1. [[2205.12208]](https://arxiv.org/abs/2205.12208) - *Fermions on Quantum Geometry and Resolution of Doubling Problem* - Cong Zhang, Hongguang Liu, Muxin Han
 
 1. [[2205.10779]](https://arxiv.org/abs/2205.10779) - *Anomaly free quantum dynamics for Euclidean LQG* - Madhavan Varadarajan

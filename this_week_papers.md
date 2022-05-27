@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/27/22
+
+#### Loop quantum gravity related papers
+
+#### **Group field theory on quantum groups**
+ - **Authors:** Florian Girelli, Matteo Laudonio
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2205.13312](https://arxiv.org/abs/2205.13312)
+ - **Abstract**
+ We introduce the framework of Hopf algebra field theory (HAFT) which generalizes the notion of group field theory to the quantum group (Hopf algebra) case. We focus in particular on the 3d case and show how the HAFT we considered is topological. The highlight of the construction is the notion of plane-wave which leads, in the specific example of SUq (2) with q real, to a discretization of the Euclidian BF action with a negative cosmological constant. This work can be viewed as the generalization of the seminal work by Baratin and Oriti: we have a (non-commutative) formulation of simplicial 3d gravity in the presence of a non-zero cosmological constant. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2205.13404]](https://arxiv.org/abs/2205.13404) - *Stationary and Free-fall frame Kerr black hole in gravity's rainbow* - Yuzhou Tao, Benrong Mu, Siyuan Hui, Jun Tao
+
+1. [[2205.12968]](https://arxiv.org/abs/2205.12968) - *A precision test of averaging in AdS/CFT* - Jordan Cotler, Kristan Jensen
+
+1. [[2205.13250]](https://arxiv.org/abs/2205.13250) - *UV completion of extradimensional Yang-Mills theory for Gauge-Higgs  unification* - Álvaro Pastor-Gutiérrez, Masatoshi Yamada
+
+
+
 ### Thu - 05/26/22
 
 #### Loop quantum gravity related papers
