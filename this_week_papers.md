@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/03/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2206.00753]](https://arxiv.org/abs/2206.00753) - *Remarks on the effects of the quintessence on regular black holes* - R. V. Maluf, C. R Muniz, A. C. L. Santos
+
+1. [[2206.01150]](https://arxiv.org/abs/2206.01150) - *Primordial black hole formation in $F(R)$ bouncing cosmology* - Shreya Banerjee, Theodoros Papanikolaou, Emmanuel N. Saridakis
+
+
+
 ### Mon - 05/30/22
 
 #### Loop quantum gravity related papers
