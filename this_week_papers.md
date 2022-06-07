@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 06/07/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2206.02259]](https://arxiv.org/abs/2206.02259) - *Quantum gravity on finite spacetimes and dynamical mass* - J.N. Argota-Quiroz, S. Majid
+
+
+
 ### Mon - 06/06/22
 
 #### Loop quantum gravity related papers
