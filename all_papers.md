@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2206.02783]](https://arxiv.org/abs/2206.02783) - *Matter Bounce Scenario in Extended Symmetric Teleparallel Gravity* - A.S. Agrawal, B. Mishra, P.K. Agrawal
+
 1. [[2205.13312]](https://arxiv.org/abs/2205.13312) - *Group field theory on quantum groups* - Florian Girelli, Matteo Laudonio
 
 1. [[2205.12208]](https://arxiv.org/abs/2205.12208) - *Fermions on Quantum Geometry and Resolution of Doubling Problem* - Cong Zhang, Hongguang Liu, Muxin Han
