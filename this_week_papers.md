@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/09/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2206.03729]](https://arxiv.org/abs/2206.03729) - *Testing regular black holes with X-ray and GW data* - Shafqat Riaz, Swarnim Shashank, Rittick Roy, Askar B. Abdikamalov, Dimitry Ayzenberg, Cosimo Bambi, Zuobin Zhang, Menglei Zhou
+
+1. [[2206.03814]](https://arxiv.org/abs/2206.03814) - *Some remarks on non-singular spherically symmetric space-times* - Lorenzo Sebastiani, Sergio Zerbini
+
+1. [[2206.03509]](https://arxiv.org/abs/2206.03509) - *Wigner meets 't Hooft near the black hole horizon* - Clifford V. Johnson
+
+1. [[2206.03763]](https://arxiv.org/abs/2206.03763) - *Topological T-duality for bundles of strongly self-absorbing C*-algebras  and some physical applications* - Ashwin S. Pande
+
+
+
 ### Wed - 06/08/22
 
 #### Loop quantum gravity related papers
