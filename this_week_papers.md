@@ -6,6 +6,37 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/10/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Towards "matter matters" in spin foam quantum gravity**
+ - **Authors:** Masooma Ali, Sebastian Steinhaus
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2206.04076](https://arxiv.org/abs/2206.04076)
+ - **Abstract**
+ Any approach to pure quantum gravity must eventually face the question of coupling quantum matter to the theory. In the past, several ways of coupling matter to spin foam quantum gravity have been proposed, but the dynamics of the coupled matter-gravity system is challenging to explore. To take first steps towards uncovering the influence quantum matter has on spin foam models, we couple free, massive scalar lattice field theory to a restricted, semi-classical 4d spin foam model, called quantum cuboids. This model can be understood as a superposition of hypercuboidal (and thus irregular) lattices. Both theories are coupled by defining scalar lattice field theory on irregular lattices via discrete exterior calculus and then superimposing these theories by summing over spin foam configurations. We compute expectation values of geometric and matter observables using Markov Chain Monte Carlo techniques. From the observables, we identify a regime in parameter space, in which the spin foam possesses a finite total volume and looks on average like a regular lattice with an emergent lattice spacing dependent on the mass of the scalar field. We also measure the 2-point correlation function and correlation length of the scalar field in relation to the geodesic distance encoded in the spin foam. Our results are consistent with the correlation function of ordinary scalar lattice field theory defined on a fixed regular lattice with the emergent lattice spacing and the same mass. We conclude that in this regime of the model, the scalar field is not sensitive to the fluctuations of the spin foam and effectively behaves as if it is defined on a fixed regular lattice. 
+
+
+
+#### Other related papers
+
+1. [[2206.04464]](https://arxiv.org/abs/2206.04464) - *Early evolution of fully convective stars in scalar-tensor gravity* - Débora Aguiar Gomes, Aneta Wojnar
+
+1. [[2206.04505]](https://arxiv.org/abs/2206.04505) - *Generalised Hayward spacetimes: geometry, matter and scalar quasinormal  modes* - Poulami Dutta Roy, Sayan Kar (IIT Kharagpur)
+
+1. [[2206.04063]](https://arxiv.org/abs/2206.04063) - *Sharpening the Distance Conjecture in Diverse Dimensions* - Muldrow Etheredge, Ben Heidenreich, Sami Kaya, Yue Qiu, Tom Rudelius
+
+1. [[2206.04072]](https://arxiv.org/abs/2206.04072) - *Causality, unitarity and stability in quantum gravity: a  non-perturbative perspective* - Alessia Platania
+
+1. [[2206.04407]](https://arxiv.org/abs/2206.04407) - *Effect of Minimal Length on Landau Diamagnetism and de Haas-van Alphen  Effect* - Md. Abhishek, Bhabani Prasad Mandal
+
+
+
 ### Thu - 06/09/22
 
 #### Loop quantum gravity related papers
