@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2206.05816]](https://arxiv.org/abs/2206.05816) - *Knotted 4-regular graphs: polynomial invariants and the Pachner moves* - Daniel Cartin
+
 1. [[2206.04076]](https://arxiv.org/abs/2206.04076) - *Towards "matter matters" in spin foam quantum gravity* - Masooma Ali, Sebastian Steinhaus
 
 1. [[2206.02783]](https://arxiv.org/abs/2206.02783) - *Matter Bounce Scenario in Extended Symmetric Teleparallel Gravity* - A.S. Agrawal, B. Mishra, P.K. Agrawal
