@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 06/15/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2206.06384]](https://arxiv.org/abs/2206.06384) - *Early universe in quantum gravity* - Leonardo Modesto, Gianluca Calcagni
+
+1. [[2206.06425]](https://arxiv.org/abs/2206.06425) - *Transient horizons: the life of a quantum black hole* - Samantha Hergott, Viqar Husain, Saeed Rastgoo
+
+1. [[2206.06899]](https://arxiv.org/abs/2206.06899) - *Signatures of regular black holes from the quasar continuum spectrum* - Indrani Banerjee
+
+1. [[2206.06762]](https://arxiv.org/abs/2206.06762) - *Quantum Gravity in 30 Questions* - R. Loll, G. Fabiano, D. Frattulillo, F. Wagner
+
+1. [[2206.06917]](https://arxiv.org/abs/2206.06917) - *Structural aspects of FRG in quantum tunnelling computations* - Alfio Bonanno, Alessandro Codello, Dario Zappala'
+
+
+
 ### Tue - 06/14/22
 
 #### Loop quantum gravity related papers
