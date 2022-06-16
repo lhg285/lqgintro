@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2206.07127]](https://arxiv.org/abs/2206.07127) - *Understanding quantum black holes from quantum reduced loop gravity* - Wen-Cong Gan, Geeth Ongole, Emanuele Alesci, Yang An, Fu-Wen Shu, Anzhong Wang
+
 1. [[2206.05816]](https://arxiv.org/abs/2206.05816) - *Knotted 4-regular graphs: polynomial invariants and the Pachner moves* - Daniel Cartin
 
 1. [[2206.04076]](https://arxiv.org/abs/2206.04076) - *Towards "matter matters" in spin foam quantum gravity* - Masooma Ali, Sebastian Steinhaus
