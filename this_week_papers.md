@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/17/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2206.07827]](https://arxiv.org/abs/2206.07827) - *Spinor-Vector Duality and the Swampland* - Alon E. Faraggi
+
+
+
 ### Thu - 06/16/22
 
 #### Loop quantum gravity related papers
