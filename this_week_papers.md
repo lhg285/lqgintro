@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 06/22/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2206.09227]](https://arxiv.org/abs/2206.09227) - *On black bounces, wormholes and trapped ghosts* - K.A. Bronnikov
+
+1. [[2206.09460]](https://arxiv.org/abs/2206.09460) - *On the mass function at the inner horizon of a regular black hole* - Mikhail Z. Iofa
+
+1. [[2206.09767]](https://arxiv.org/abs/2206.09767) - *A note on complex metrics, complex time and periodic universes* - Fabio Briscese
+
+1. [[2206.10232]](https://arxiv.org/abs/2206.10232) - *Renormalised spectral flows* - Jens Braun, Yong-rui Chen, Wei-jie Fu, Andreas Geißel, Jan Horak, Chuang Huang, Friederike Ihssen, Jan M. Pawlowski, Manuel Reichert, Fabian Rennecke, Yang-yang Tan, Sebastian Töpfel, Jonas Wessely, Nicolas Wink
+
+1. [[2206.10427]](https://arxiv.org/abs/2206.10427) - *Logarithmic Corrections, Entanglement Entropy, and UV Cutoffs in de  Sitter Spacetime* - Gabriel Arenas-Henriquez, Felipe Diaz, Per Sundell
+
+1. [[2206.10528]](https://arxiv.org/abs/2206.10528) - *A quantum information perspective on meson melting* - Mari Carmen Banuls, Michal P. Heller, Karl Jansen, Johannes Knaute, Viktor Svensson
+
+1. [[2206.09192]](https://arxiv.org/abs/2206.09192) - *Complex Generalized Integral Means Spectrum of Drifted Whole-Plane SLE  and LLE* - Bertrand Duplantier, Yong Han, Chi Nguyen, Michel Zinsmeister
+
+
+
 ### Tue - 06/21/22
 
 #### Loop quantum gravity related papers
