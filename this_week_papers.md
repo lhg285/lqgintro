@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/23/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2206.11152]](https://arxiv.org/abs/2206.11152) - *Quantum gravity lights up spinning black holes* - Astrid Eichhorn, Aaron Held
+
+1. [[2206.10626]](https://arxiv.org/abs/2206.10626) - *On the reconstruction problem in Quantum Gravity* - Mathijs Fraaije, Alessia Platania, Frank Saueressig
+
+1. [[2206.10780]](https://arxiv.org/abs/2206.10780) - *An Algebra of Observables for de Sitter Space* - Venkatesa Chandrasekaran, Roberto Longo, Geoff Penington, Edward Witten
+
+
+
 ### Wed - 06/22/22
 
 #### Loop quantum gravity related papers
