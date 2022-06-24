@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/24/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **A saddle-point finder and its application to the spin foam model**
+ - **Authors:** Zichang Huang, Shan Huang, Yidun Wan
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Lattice (hep-lat); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2206.11874](https://arxiv.org/abs/2206.11874)
+ - **Abstract**
+ We introduce a saddle-point finder that can find the complex saddle points for any analytically continued action. We showcase our saddle-point finder by two examples in the EPRL spin foam model: the single vertex case and the case of triangulation $\Delta_3$. In both cases, the complex saddle points are found, and each saddle point's contribution to the partition function is estimated. We also discuss the geometrical interpretation of each saddle point. 
+
+
+
+#### Other related papers
+
+1. [[2206.11257]](https://arxiv.org/abs/2206.11257) - *A Possible Solution to the Helium Anomaly of EMPRESS VIII by Cuscuton  Gravity Theory* - Kazunori Kohri, Kei-ichi Maeda
+
+1. [[2206.11363]](https://arxiv.org/abs/2206.11363) - *A toy model for representing regular black holes at the black string  style* - Milko Estrada
+
+1. [[2206.11870]](https://arxiv.org/abs/2206.11870) - *The double doors of the horizon* - Erik Aurell
+
+1. [[2206.11277]](https://arxiv.org/abs/2206.11277) - *Aspects of AdS$_2$ Quantum Gravity and the Karch-Randall Braneworld* - Hao Geng
+
+
+
 ### Thu - 06/23/22
 
 #### Loop quantum gravity related papers

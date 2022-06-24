@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2206.11874]](https://arxiv.org/abs/2206.11874) - *A saddle-point finder and its application to the spin foam model* - Zichang Huang, Shan Huang, Yidun Wan
+
 1. [[2206.07127]](https://arxiv.org/abs/2206.07127) - *Understanding quantum black holes from quantum reduced loop gravity* - Wen-Cong Gan, Geeth Ongole, Emanuele Alesci, Yang An, Fu-Wen Shu, Anzhong Wang
 
 1. [[2206.05816]](https://arxiv.org/abs/2206.05816) - *Knotted 4-regular graphs: polynomial invariants and the Pachner moves* - Daniel Cartin
