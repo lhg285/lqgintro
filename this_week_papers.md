@@ -6,6 +6,39 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 06/29/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Spin-foams as semi-classical vertices: gluing constraints and a hybrid  algorithm**
+ - **Authors:** Seth K. Asante, José Diogo Simão, Sebastian Steinhaus
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2206.13540](https://arxiv.org/abs/2206.13540)
+ - **Abstract**
+ Numerical methods in spin-foam models have significantly advanced in the last few years, yet challenges remain in efficiently extracting results for amplitudes with many quantum degrees of freedom. In this paper we sketch a proposal for a ``hybrid algorithm'' that would use both the full quantum amplitude and its asymptotic approximation in the relevant regimes. As a first step towards the algorithm, we derive a new representation of the partition function where each spin-foam vertex possesses its own coherent data, such that it can be individually asymptotically approximated. We do this through the implementation of gluing constraints between vertices, which we study numerically. We further derive an asymptotic expression for the constraints for arbitrary boundary data, including data for which there are no critical points. From this new representation we conjecture an intermediate quasi-geometric spin-foam regime describing a superposition of semi-classical vertices glued in a non-matching way via the gluing constraints. 
+
+
+
+#### Other related papers
+
+1. [[2206.13940]](https://arxiv.org/abs/2206.13940) - *Generalized uncertainty principle and burning stars* - H. Moradpour, A. H. Ziaie, N. Sadeghnezhad
+
+1. [[2206.14096]](https://arxiv.org/abs/2206.14096) - *Space-time thermodynamics in momentum dependent geometries* - G. Chirco, S. Liberati, J.J. Relancio
+
+1. [[2206.13531]](https://arxiv.org/abs/2206.13531) - *Multi-instantons in minimal string theory and in matrix integrals* - Dan Stefan Eniceicu, Raghu Mahajan, Chitraang Murdia, Ashoke Sen
+
+1. [[2206.13582]](https://arxiv.org/abs/2206.13582) - *Structure constants in $\mathcal{N}=2$ superconformal quiver theories at  strong coupling and holography* - M. Billo, M. Frau, A. Lerda, A. Pini, P. Vallarino
+
+1. [[2206.13736]](https://arxiv.org/abs/2206.13736) - *Locally Supersymmetric Effective Field Theories of Inflation* - Hun Jang
+
+1. [[2206.14021]](https://arxiv.org/abs/2206.14021) - *Pair Production in Non-SuSy AdS/CFT* - Udit Narayan Chowdhury
+
+
+
 ### Tue - 06/28/22
 
 #### Loop quantum gravity related papers

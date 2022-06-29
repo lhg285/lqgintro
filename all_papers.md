@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2206.13540]](https://arxiv.org/abs/2206.13540) - *Spin-foams as semi-classical vertices: gluing constraints and a hybrid  algorithm* - Seth K. Asante, José Diogo Simão, Sebastian Steinhaus
+
 1. [[2206.12434]](https://arxiv.org/abs/2206.12434) - *On a close relationship between the dressed metric and the hybrid  approach to perturbations in effective loop quantum cosmology* - Bao-Fei Li, Parampreet Singh
 
 1. [[2206.11874]](https://arxiv.org/abs/2206.11874) - *A saddle-point finder and its application to the spin foam model* - Zichang Huang, Shan Huang, Yidun Wan
