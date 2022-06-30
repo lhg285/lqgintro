@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/30/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Radiative corrections to the Lorentzian EPRL spin foam propagator**
+ - **Authors:** Pietro Donà, Pietropaolo Frisoni, Edward Wilson-Ewing
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2206.14755](https://arxiv.org/abs/2206.14755)
+ - **Abstract**
+ We numerically estimate the divergence of several two-vertex diagrams that contribute to the radiative corrections for the Lorentzian EPRL spin foam propagator. We compute the amplitudes as functions of a homogeneous cutoff over the bulk quantum numbers, fixed boundary data, and different Immirzi parameters, and find that for a class of two-vertex diagrams, those with fewer than six internal faces are convergent. The calculations are done with the numerical framework sl2cfoam-next. 
+
+
+
+#### Other related papers
+
+1. [[2206.14714]](https://arxiv.org/abs/2206.14714) - *Quasinormal ringing of regular black holes in asymptotically safe  gravity: the importance of overtones* - R. A. Konoplya, A. F. Zinhailo, J. Kunz, Z. Stuchlik, A. Zhidenko
+
+1. [[2206.14249]](https://arxiv.org/abs/2206.14249) - *Effective field theories of gravity and compact binary dynamics: A  Snowmass 2021 whitepaper* - Walter D. Goldberger
+
+1. [[2206.14522]](https://arxiv.org/abs/2206.14522) - *On type IIB supergravity action on $M^5 \times X^5$ solutions* - S.A. Kurlyand, A.A. Tseytlin
+
+1. [[2206.14650]](https://arxiv.org/abs/2206.14650) - *Transport coefficients associated to black holes on the brane: analysis  of the shear viscosity-to-entropy density ratio* - Pedro Meert
+
+
+
 ### Wed - 06/29/22
 
 #### Loop quantum gravity related papers
