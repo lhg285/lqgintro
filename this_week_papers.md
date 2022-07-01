@@ -6,6 +6,47 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/01/22
+
+#### Loop quantum gravity related papers
+
+#### **Constraining the Barbero-Immirzi parameter from the duration of  inflation in Loop Quantum Cosmology**
+ - **Authors:** L. N. Barboza, G. L. L. W. Levy, L. L. Graef, Rudnei O. Ramos
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2206.14881](https://arxiv.org/abs/2206.14881)
+ - **Abstract**
+ We revisit the predictions for the duration of the inflationary phase after the bounce in Loop Quantum Cosmology. We present our analysis for different classes of inflationary potentials that include the monomial power-law chaotic type of potentials, the Starobinsky and the Higgs-like symmetry breaking potential with different values for the vacuum expectation value. Our set up can easily be extended to other forms of primordial potentials than the ones we have considered. Independently on the details of the contracting phase, if the dynamics starts sufficiently in the far past, the kinetic energy will come to dominate at the bounce, uniquely determining the amplitude of the inflaton at this moment. This will be the initial condition for the further evolution that will provide us with results for the number of {\it e}-folds from the bounce to the beginning of the accelerated inflationary regime and the subsequent duration of inflation. We also discuss under which conditions each model considered could lead to observable signatures on the spectrum of the Cosmic Microwave Background (CMB), or, else, be excluded for not predicting a sufficient amount of accelerated expansion. A first analysis is performed considering the standard value for the Barbero-Immirzi parameter, $\gamma \simeq 0.2375$, which is obtained from black hole entropy calculations. In a second analysis, we consider the possibility of varying the value of this parameter, which is motivated by the fact that the Barbero-Immirzi parameter can be considered a free parameter of the underlying quantum theory in the context of Loop Quantum Gravity. {}From this analysis, we obtain a lower limit for this parameter by requiring the minimum amount of inflationary expansion that makes the model consistent with the CMB observations. 
+
+#### **The Complete Barrett-Crane Model and its Causal Structure**
+ - **Authors:** Alexander F. Jercher, Daniele Oriti, Andreas G. A. Pithis
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2206.15442](https://arxiv.org/abs/2206.15442)
+ - **Abstract**
+ The causal structure is a quintessential element of continuum spacetime physics and needs to be properly encoded in a theory of Lorentzian quantum gravity. Established spin foam (and tensorial group field theory (TGFT)) models mostly work with relatively special classes of Lorentzian triangulations (e.g. built from spacelike tetrahedra only), obscuring the explicit implementation of the local causal structure at the microscopic level. We overcome this limitation and construct a full-fledged model for Lorentzian quantum geometry the building blocks of which include spacelike, lightlike and timelike tetrahedra. We realize this within the context of the Barrett-Crane TGFT model. Following an explicit characterization of the amplitudes via methods of integral geometry, and the ensuing clear identification of local causal structure, we analyze the model's amplitudes with respect to its (space)time-orientation properties and provide also a more detailed comparison with the framework of causal dynamical triangulations (CDT). 
+
+#### Spin foam related papers
+
+#### **The Complete Barrett-Crane Model and its Causal Structure**
+ - **Authors:** Alexander F. Jercher, Daniele Oriti, Andreas G. A. Pithis
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2206.15442](https://arxiv.org/abs/2206.15442)
+ - **Abstract**
+ The causal structure is a quintessential element of continuum spacetime physics and needs to be properly encoded in a theory of Lorentzian quantum gravity. Established spin foam (and tensorial group field theory (TGFT)) models mostly work with relatively special classes of Lorentzian triangulations (e.g. built from spacelike tetrahedra only), obscuring the explicit implementation of the local causal structure at the microscopic level. We overcome this limitation and construct a full-fledged model for Lorentzian quantum geometry the building blocks of which include spacelike, lightlike and timelike tetrahedra. We realize this within the context of the Barrett-Crane TGFT model. Following an explicit characterization of the amplitudes via methods of integral geometry, and the ensuing clear identification of local causal structure, we analyze the model's amplitudes with respect to its (space)time-orientation properties and provide also a more detailed comparison with the framework of causal dynamical triangulations (CDT). 
+
+
+
+#### Other related papers
+
+1. [[2206.15422]](https://arxiv.org/abs/2206.15422) - *Space and time transformations with a minimal length* - Pasquale Bosso
+
+1. [[2206.14814]](https://arxiv.org/abs/2206.14814) - *A universal formula for the density of states with continuous symmetry* - Monica Jinwoo Kang, Jaeha Lee, Hirosi Ooguri
+
+1. [[2206.15262]](https://arxiv.org/abs/2206.15262) - *Open String Probe in Soft Hair BTZ* - Chi-Hsien Tai, Sayid Mondal, Wen-Yu Wen
+
+1. [[2206.15357]](https://arxiv.org/abs/2206.15357) - *Supersymmetric Spectral Form Factor and Euclidean Black Holes* - Sunjin Choi, Seok Kim, Jaewon Song
+
+
+
 ### Thu - 06/30/22
 
 #### Loop quantum gravity related papers

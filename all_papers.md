@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2206.14881]](https://arxiv.org/abs/2206.14881) - *Constraining the Barbero-Immirzi parameter from the duration of  inflation in Loop Quantum Cosmology* - L. N. Barboza, G. L. L. W. Levy, L. L. Graef, Rudnei O. Ramos
+
+1. [[2206.15442]](https://arxiv.org/abs/2206.15442) - *The Complete Barrett-Crane Model and its Causal Structure* - Alexander F. Jercher, Daniele Oriti, Andreas G. A. Pithis
+
 1. [[2206.14755]](https://arxiv.org/abs/2206.14755) - *Radiative corrections to the Lorentzian EPRL spin foam propagator* - Pietro Donà, Pietropaolo Frisoni, Edward Wilson-Ewing
 
 1. [[2206.13540]](https://arxiv.org/abs/2206.13540) - *Spin-foams as semi-classical vertices: gluing constraints and a hybrid  algorithm* - Seth K. Asante, José Diogo Simão, Sebastian Steinhaus
