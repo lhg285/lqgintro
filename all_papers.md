@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2207.00435]](https://arxiv.org/abs/2207.00435) - *Gravitational Particle Production and the Validity of Effective  Descriptions in Loop Quantum Cosmology* - Gustavo S. Vicente, Rudnei O. Ramos, Leila L. Graef
+
+1. [[2207.00342]](https://arxiv.org/abs/2207.00342) - *Poisson brackets in Sobolev spaces: a mock holonomy-flux algebra* - J Fernando Barbero G, Marc Basquens, Bogar Díaz, Eduardo J S Villaseñor
+
 1. [[2206.14881]](https://arxiv.org/abs/2206.14881) - *Constraining the Barbero-Immirzi parameter from the duration of  inflation in Loop Quantum Cosmology* - L. N. Barboza, G. L. L. W. Levy, L. L. Graef, Rudnei O. Ramos
 
 1. [[2206.15442]](https://arxiv.org/abs/2206.15442) - *The Complete Barrett-Crane Model and its Causal Structure* - Alexander F. Jercher, Daniele Oriti, Andreas G. A. Pithis
