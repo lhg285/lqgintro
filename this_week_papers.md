@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 07/05/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.01080]](https://arxiv.org/abs/2207.01080) - *Spacetime Entanglement Entropy: Covariance and Discreteness* - Abhishek Mathur, Sumati Surya, Nomaan X
+
+1. [[2207.00605]](https://arxiv.org/abs/2207.00605) - *Entanglement Witnessing for Lattice Gauge Theories* - Veronica Panizza, Ricardo Costa de Almeida, Philipp Hauke
+
+
+
 ### Mon - 07/04/22
 
 #### Loop quantum gravity related papers
