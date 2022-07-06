@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/06/22
+
+#### Loop quantum gravity related papers
+
+#### **Observational Predictions of LQG Motivated Polymerized Black Holes and  Constraints From Sgr A* and M87***
+ - **Authors:** Rahul Kumar Walia
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2207.02106](https://arxiv.org/abs/2207.02106)
+ - **Abstract**
+ Loop Quantum Gravity (LQG) inspired partial polymer quantization in four-dimensional theory leads to a single-horizon quantum corrected globally regular black hole spacetime. The polymerized black hole metric is characterized by the minimum length parameter, $k$, and mimics the Schwarzschild black hole in the weak-field limit. We present an analytic and numerical investigation of the strong gravitational lensing and shadow morphology to determine the observational impacts of quantum effects. We calculate the characteristic changes in the lensing observables compared to those for the Schwarzschild black hole. It is interesting to note that the deflection angle, the angular separation between the outermost relativistic image, and magnification increase with $k$. Using the ray-tracing technique, we simulated the black hole shadows under three distinct accretion models: static spherical accretion, radially infalling spherical accretion, and the thin accretion disk model. Polymerized black holes' shadow morphology strongly depends on $k$. Constraints on $k$ are derived for the M87* and Sgr A* black hole shadow observations from the Event Horizon Telescope. Our study suggests that quantum gravity effects are accessible in the astrophysical black holes' observations. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.02166]](https://arxiv.org/abs/2207.02166) - *Permutation symmetry in large N Matrix Quantum Mechanics and Partition  Algebras* - George Barnes, Adrian Padellaro, Sanjaye Ramgoolam
+
+
+
 ### Tue - 07/05/22
 
 #### Loop quantum gravity related papers

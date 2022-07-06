@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2207.02106]](https://arxiv.org/abs/2207.02106) - *Observational Predictions of LQG Motivated Polymerized Black Holes and  Constraints From Sgr A* and M87** - Rahul Kumar Walia
+
 1. [[2207.00435]](https://arxiv.org/abs/2207.00435) - *Gravitational Particle Production and the Validity of Effective  Descriptions in Loop Quantum Cosmology* - Gustavo S. Vicente, Rudnei O. Ramos, Leila L. Graef
 
 1. [[2207.00342]](https://arxiv.org/abs/2207.00342) - *Poisson brackets in Sobolev spaces: a mock holonomy-flux algebra* - J Fernando Barbero G, Marc Basquens, Bogar Díaz, Eduardo J S Villaseñor
