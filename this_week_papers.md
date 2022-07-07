@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/07/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.02689]](https://arxiv.org/abs/2207.02689) - *The birth of the Universe as a result of the change of the metric  signature* - T. P. Shestakova
+
+1. [[2207.02814]](https://arxiv.org/abs/2207.02814) - *Towards an effective description of holographic vortex dynamics* - Yu-Kun Yan, Shanquan Lan, Yu Tian, Peng Yang, Shunhui Yao, Hongbao Zhang
+
+
+
 ### Wed - 07/06/22
 
 #### Loop quantum gravity related papers
