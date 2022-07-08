@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2207.02881]](https://arxiv.org/abs/2207.02881) - *Markov Chain Monte Carlo methods for graph refinement in covariant Loop  Quantum Gravity* - Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
+
+1. [[2207.03307]](https://arxiv.org/abs/2207.03307) - *Towards effective actions for the continuum limit of spin foams* - Johanna N. Borissova, Bianca Dittrich
+
 1. [[2207.02106]](https://arxiv.org/abs/2207.02106) - *Observational Predictions of LQG Motivated Polymerized Black Holes and  Constraints From Sgr A* and M87** - Rahul Kumar Walia
 
 1. [[2207.00435]](https://arxiv.org/abs/2207.00435) - *Gravitational Particle Production and the Validity of Effective  Descriptions in Loop Quantum Cosmology* - Gustavo S. Vicente, Rudnei O. Ramos, Leila L. Graef

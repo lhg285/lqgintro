@@ -6,6 +6,41 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/08/22
+
+#### Loop quantum gravity related papers
+
+#### **Markov Chain Monte Carlo methods for graph refinement in covariant Loop  Quantum Gravity**
+ - **Authors:** Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Computational Physics (physics.comp-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2207.02881](https://arxiv.org/abs/2207.02881)
+ - **Abstract**
+ We adapt the Metropolis-Hastings algorithm, along with recently developed computational methods, to study the quantum regime in spinfoams with many degrees of freedom. This approach fills a gap in the current numerical methods for computing spinfoam observables in the low-spin regime of covariant Loop Quantum Gravity. We test the method by studying a refinement of the 4-simplex amplitude, where the boundary is refined from 5 to 20 boundary tetrahedra. We investigate the BF and Lorentzian Engle-Pereira-Rovelli-Livine (EPRL) models, computing boundary geometrical operators, correlation functions and entanglement entropy. We are able to confirm that the transition amplitudes are stable against this refinement, even in the physically relevant EPRL case: the boundary geometry does not change on average, but the new degrees of freedom modify the quantum fluctuations of the boundary and the correlations between different spatial patches. The expectation values obtained numerically are compatible with their geometrical interpretation and, interestingly, the correlations between neighbouring patches decay sharply when computed across spinfoam vertices. 
+
+#### Spin foam related papers
+
+#### **Markov Chain Monte Carlo methods for graph refinement in covariant Loop  Quantum Gravity**
+ - **Authors:** Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Computational Physics (physics.comp-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2207.02881](https://arxiv.org/abs/2207.02881)
+ - **Abstract**
+ We adapt the Metropolis-Hastings algorithm, along with recently developed computational methods, to study the quantum regime in spinfoams with many degrees of freedom. This approach fills a gap in the current numerical methods for computing spinfoam observables in the low-spin regime of covariant Loop Quantum Gravity. We test the method by studying a refinement of the 4-simplex amplitude, where the boundary is refined from 5 to 20 boundary tetrahedra. We investigate the BF and Lorentzian Engle-Pereira-Rovelli-Livine (EPRL) models, computing boundary geometrical operators, correlation functions and entanglement entropy. We are able to confirm that the transition amplitudes are stable against this refinement, even in the physically relevant EPRL case: the boundary geometry does not change on average, but the new degrees of freedom modify the quantum fluctuations of the boundary and the correlations between different spatial patches. The expectation values obtained numerically are compatible with their geometrical interpretation and, interestingly, the correlations between neighbouring patches decay sharply when computed across spinfoam vertices. 
+
+#### **Towards effective actions for the continuum limit of spin foams**
+ - **Authors:** Johanna N. Borissova, Bianca Dittrich
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2207.03307](https://arxiv.org/abs/2207.03307)
+ - **Abstract**
+ Spin foams arise from a quantization of classical gravity expressed via the Plebanski action. Key open questions related to the continuum limit of spin foams are whether general relativity is reproduced and what type of corrections could emerge. As a central component for spin foam dynamics, recent results on the continuum limit of the Area Regge action suggest a close relation with actions for area metrics instead of a length metric. Inspired by these results, within the framework of modified Plebanski theory we construct a family of candidate actions for area metrics. These actions are expected to describe the continuum limit of spin foams and provide a starting point to explore phenomenological aspects of the large-scale dynamics of spin foams. More generally, they set the stage for exploring consequences of an enlargement of the configuration space for gravity from length to area metrics. The actions we construct lead to an effective action for the length metric, describing a non-local and ghost-free version of Einstein-Weyl gravity. 
+
+
+
+#### Other related papers
+
+1. [[2207.03345]](https://arxiv.org/abs/2207.03345) - *Non-commutative Geometry from Perturbative Quantum Gravity* - Markus Fröb, Albert Much, Kyriakos Papadopoulos
+
+
+
 ### Thu - 07/07/22
 
 #### Loop quantum gravity related papers
