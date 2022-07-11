@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2207.03797]](https://arxiv.org/abs/2207.03797) - *On the Possible Spacetime Structures of Rotating Loop Quantum Black  Holes* - Che-Yu Chen
+
 1. [[2207.02881]](https://arxiv.org/abs/2207.02881) - *Markov Chain Monte Carlo methods for graph refinement in covariant Loop  Quantum Gravity* - Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
 
 1. [[2207.03307]](https://arxiv.org/abs/2207.03307) - *Towards effective actions for the continuum limit of spin foams* - Johanna N. Borissova, Bianca Dittrich
