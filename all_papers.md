@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2207.04677]](https://arxiv.org/abs/2207.04677) - *The space of solutions of the Ashtekar-Olmedo-Singh effective black hole  model* - Beatriz Elizaga Navascués, Alejandro García-Quismondo, Guillermo A. Mena Marugán
+
+1. [[2207.04720]](https://arxiv.org/abs/2207.04720) - *Two-time alternative to the Ashtekar-Olmedo-Singh black hole interior* - Alejandro García-Quismondo, Guillermo A. Mena Marugán
+
 1. [[2207.03797]](https://arxiv.org/abs/2207.03797) - *On the Possible Spacetime Structures of Rotating Loop Quantum Black  Holes* - Che-Yu Chen
 
 1. [[2207.02881]](https://arxiv.org/abs/2207.02881) - *Markov Chain Monte Carlo methods for graph refinement in covariant Loop  Quantum Gravity* - Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
