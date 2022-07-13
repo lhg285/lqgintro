@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2207.05063]](https://arxiv.org/abs/2207.05063) - *Fundamental length scale and the bending of light in a gravitational  field* - Philip Tee, Nosratollah Jafari
+
 1. [[2207.04677]](https://arxiv.org/abs/2207.04677) - *The space of solutions of the Ashtekar-Olmedo-Singh effective black hole  model* - Beatriz Elizaga Navascués, Alejandro García-Quismondo, Guillermo A. Mena Marugán
 
 1. [[2207.04720]](https://arxiv.org/abs/2207.04720) - *Two-time alternative to the Ashtekar-Olmedo-Singh black hole interior* - Alejandro García-Quismondo, Guillermo A. Mena Marugán

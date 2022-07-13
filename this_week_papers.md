@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/13/22
+
+#### Loop quantum gravity related papers
+
+#### **Fundamental length scale and the bending of light in a gravitational  field**
+ - **Authors:** Philip Tee, Nosratollah Jafari
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2207.05063](https://arxiv.org/abs/2207.05063)
+ - **Abstract**
+ The canonical approach to quantizing quantum gravity is understood to suffer from pathological non-renomalizability. Nevertheless in the context of effective field theory, a viable perturbative approach to calculating elementary processes is possible. Some non-perturbative approaches, most notably loop quantum gravity and combinatorial quantum gravity imply the existence of a minimal length. To circumvent the seeming contradiction between the existence of a minimum length and the principle of special relativity, Double Special Relativity introduces modified dispersion relationships that reconcile the conflict. In this work, we combine these dispersion relationships with an effective field theory approach to compute the first post Newtonian correction to the bending of light by a massive object. The calculation offers the prospect of a directly measurable effect that rests upon both the existence of a quantized gravitational field and a minimal length. Experimental verification would provide evidence of the existence of a quantum theory of gravity, and the fundamental quantization of spacetime with a bound on the minimal distance. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.05117]](https://arxiv.org/abs/2207.05117) - *Generalised spectral dimensions in non-perturbative quantum gravity* - Marcus Reitz, Dániel Németh, Damodar Rajbhandari, Andrzej Görlich, Jakub Gizbert-Studnicki
+
+1. [[2207.05215]](https://arxiv.org/abs/2207.05215) - *Scattering properties of charged black holes in nonlinear and Maxwell's  electrodynamics* - Marco A. A. de Paula, Luiz C. S. Leite, Luís C. B. Crispino
+
+1. [[2207.05355]](https://arxiv.org/abs/2207.05355) - *Scale-invariant random geometry from mating of trees: a numerical study* - Timothy Budd, Alicia Castro
+
+1. [[2207.05667]](https://arxiv.org/abs/2207.05667) - *Quantization, Dequantization, and Distinguished States* - Eli Hawkins, Christoph Minz, Kasia Rejzner
+
+
+
 ### Tue - 07/12/22
 
 #### Loop quantum gravity related papers
