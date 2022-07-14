@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/14/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.05754]](https://arxiv.org/abs/2207.05754) - *Dimensionless physics: continuation* - G.E. Volovik
+
+1. [[2207.06034]](https://arxiv.org/abs/2207.06034) - *Do shadows of Sgr A* and M87* indicate black holes with a magnetic  monopole charge?* - Indrani Banerjee, Subhadip Sau, Soumitra SenGupta
+
+1. [[2207.06340]](https://arxiv.org/abs/2207.06340) - *Quasi Normal Modes of Ayon-Beato Garcia Regular Black Holes For Scalar  Field* - Masum Murshid, Farook Rahaman, Mehedi Kalam
+
+1. [[2207.06092]](https://arxiv.org/abs/2207.06092) - *Marginally deformed Schrödinger/dipole CFT correspondence* - George Georgiou, Georgios Itsios, Dimitrios Zoakos
+
+
+
 ### Wed - 07/13/22
 
 #### Loop quantum gravity related papers
