@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/15/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.06720]](https://arxiv.org/abs/2207.06720) - *Multi-field Cuscuton Cosmology* - Seyed Ali Hosseini Mansoori, Zahra Molaee
+
+1. [[2207.06426]](https://arxiv.org/abs/2207.06426) - *Accumulation-Point Amplitudes in String Theory* - Juan Maldacena, Grant N. Remmen
+
+1. [[2207.06447]](https://arxiv.org/abs/2207.06447) - *Membrane nucleation rates from holography* - Maite Arcos, Willy Fischler, Juan F. Pedraza, Andrew Svesko
+
+1. [[2207.06455]](https://arxiv.org/abs/2207.06455) - *Rindler Bulk Reconstruction and Subregion Duality in AdS/CFT* - Sotaro Sugishita, Seiji Terashima
+
+1. [[2207.06749]](https://arxiv.org/abs/2207.06749) - *Evidence for a novel shift-symmetric universality class from the  functional renormalization group* - Cristobal Laporte, Nora Locht, Antonio D. Pereira, Frank Saueressig
+
+
+
 ### Thu - 07/14/22
 
 #### Loop quantum gravity related papers
