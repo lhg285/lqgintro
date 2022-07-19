@@ -24,8 +24,6 @@ permalink: /this_week_papers/
  - **Abstract**
  We derive a quantum master equation in the context of a polymerized open quantum mechanical system for the scattering of a Brownian particle in an ideal gas environment. The model is formulated in a top-down approach by choosing a Hamiltonian with a coupling between the system and environment that is generally associated with spatial decoherence. We extend the existing work on such models by using a non-standard representation of the canonical commutation relations, inspired by the quantization procedure applied in loop quantum gravity, which yields a model in which position operators are replaced by holonomies. The derivation of the master equation in a top-down approach opens up the possibility to investigate in detail whether the assumptions, usually used in such models in order to obtain a tractable form of the dissipator, hold also in the polymerized case or whether they need to be dropped or modified. Furthermore, we discuss some physical properties of the master equation associated to effective equations for the expectation values of the fundamental operators and compare our results to the already existing models of collisional decoherence. 
 
-#### Spin foam related papers
-
 #### **Exact quantisation of U(1)$^3$ quantum gravity via exponentiation of the  hypersurface deformation algebroid**
  - **Authors:** T. Thiemann
  - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
@@ -107,6 +105,11 @@ other CFT to which the results of this paper apply verbatim.
 (discretised) constraint algebras {\it must not close} and that anomaly
 freeness of the continuum algebra is encoded in the convergence behaviour of
 the renormalisation flow. 
+
+
+#### Spin foam related papers
+
+There is no new related paper today 
 
 #### Other related papers
 
