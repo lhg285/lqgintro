@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2207.08299]](https://arxiv.org/abs/2207.08299) - *Non-degenerate metrics, hypersurface deformation algebra, non-anomalous  representations and density weights in quantum gravity* - T. Thiemann
+
+1. [[2207.08302]](https://arxiv.org/abs/2207.08302) - *Exact quantisation of U(1)$^3$ quantum gravity via exponentiation of the  hypersurface deformation algebroid* - T. Thiemann
+
+1. [[2207.08749]](https://arxiv.org/abs/2207.08749) - *An open scattering model in polymerized quantum mechanics* - Kristina Giesel, Michael Kobler
+
 1. [[2207.05063]](https://arxiv.org/abs/2207.05063) - *Fundamental length scale and the bending of light in a gravitational  field* - Philip Tee, Nosratollah Jafari
 
 1. [[2207.04677]](https://arxiv.org/abs/2207.04677) - *The space of solutions of the Ashtekar-Olmedo-Singh effective black hole  model* - Beatriz Elizaga Navascués, Alejandro García-Quismondo, Guillermo A. Mena Marugán
