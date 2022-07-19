@@ -33,7 +33,80 @@ permalink: /this_week_papers/
  - **Abstract**
  The U(1)$^3$ model for 3+1 Euclidian signature general relativity is an interacting, generally covariant field theory with two physical polarisations that shares many features of Lorentzian general relativity. In particular, it displays a non-trivial realisation of the hypersurface deformation algebroid with non-trivial, i.e. phase space dependent structure functions rather than structure constants. In this paper we show that the model admits {\it an exact quantisation}. The quantisation rests on the observation that for this model and in the chosen representation of the canonical commutation relations the density unity hypersurface algebra {\it can be exponentiated on non-degenerate states}. These are states that represent a non-degenerate quantum metric and from a classical perspective are the relevant states on which the hypersurface algebra is representable. The representation of the algebra is exact, with no ambiguities involved and anomaly free. The quantum constraints can be exactly solved using {\it groupoid averaging} and the solutions admit a Hilbert space structure that agrees with the quantisation of a recently found reduced phase space formulation. Using the also recently found covariant action for that model, we start a path integral or spin foam formulation which, due to the Abelian character of the gauge group, is much simpler than for Lorentzian signature general relativity and provides an ideal testing ground for general spin foam models. 
 
+#### **Renormalisation, wavelets and the Dirichlet-Shannon kernels**
+ - **Authors:** T. Thiemann
+ - **Subjects:** ['hep-th', 'gr-qc', 'hep-lat']
+ - **Arxiv link:** [http://arxiv.org/abs/2207.08294v1](http://arxiv.org/abs/2207.08294v1)
+ - **Abstract**
+ In constructive quantum field theory (CQFT) it is customary to first
+regularise the theory at finite UV and IR cut-off. Then one first removes the
+UV cutoff using renormalisation techniques applied to families of CQFT's
+labelled by finite UV resolutions and then takes the thermodynamic limit.
+Alternatively, one may try to work directly without IR cut-off.
+  More recently, wavelets have been proposed to define the renormalisation flow
+of CQFT's which is natural as they come accompanied with a multi-resolution
+analysis (MRA). However, wavelets so far have been mostly studied in the
+non-compact case. Practically useful wavelets that display compact support and
+some degree of smoothness can be constructed on the real line using Fourier
+space techniques but explicit formulae as functions of position are rarely
+available. Compactly supported wavelets can be periodised by summing over
+period translates keeping orthogonality properties but still yield to rather
+complicated expressions which generically lose their smoothness and position
+locality properties.
+  It transpires that a direct approach to wavelets in the compact case is
+desirable. In this contribution we show that the Dirichlet-Shannon kernels
+serve as a natural scaling function to define generalised orthonormal wavelet
+bases on tori or copies of real lines respectively. These generalised wavelets
+are smooth, are simple explicitly computable functions, display quasi-local
+properties close to the Haar wavelet and have compact momentum supprt.
+Accordingly they have a built-in cut-off both in position and momentum, making
+them very useful for renormalisation applications.
 
+#### **Hamiltonian Renormalisation VII: Free fermions and doubler free kernels**
+ - **Authors:** T. Thiemann
+ - **Subjects:** ['hep-th', 'gr-qc', 'hep-lat']
+ - **Arxiv link:** [http://arxiv.org/abs/2207.08291v1](http://arxiv.org/abs/2207.08291v1)
+ - **Abstract**
+ The Hamiltonian renormalisation programme motivated by constructive QFT and
+Osterwalder-Schrader reconstruction which was recently launched for bosonic
+field theories is extended to fermions. As fermion quantisation is not in terms
+of measures, the scheme has to be mildly modified accordingly.
+  We exemplify the scheme for free fermions both for compact and non-compact
+spatial topologies respectively (i.e. with and without IR cut-off) and
+demonstrate that the convenient Dirichlet or Shannon coarse graining kernels
+recently advertised in a companion paper lead to a manifestly doubler free
+flow. 
+
+#### **Hamiltonian renormalisation VI: Parametrised field theory on the cylinder**
+ - **Authors:** T. Thiemann, E. -A. Zwicknagel
+ - **Subjects:** ['gr-qc', 'hep-lat', 'hep-th']
+ - **Arxiv link:** [http://arxiv.org/abs/2207.08290v1](http://arxiv.org/abs/2207.08290v1)
+ - **Abstract**
+ Hamiltonian Renormalisation, as defined within this series of works, was
+derived from covariant Wilson renormalisation via Osterwalder-Schrader
+reconstruction. As such it directly applies to QFT with a true (physical)
+Hamiltonian bounded from below. The validity of the scheme was positively
+tested for free QFT in any dimension with or without Abelian gauge symmetries
+of Yang-Mills type.
+  The aim of this Hamiltonian renormalisation scheme is to remove quantisation
+ambiguities of Hamiltonians in interacting QFT that remain even after UV and IR
+regulators are removed as it happens in highly non-linear QFT such as quantum
+gravity. While not derived for that case, the renormalisation flow formulae can
+without change also be applied to QFT without a single true Hamiltonian but
+rather an infinite number of Hamiltonian constraints. Then a central question
+is how the constraint algebra reacts to the renormalisation flow.
+  This question should ultimately be addressed in quantum gravity. Before one
+considers this interacting, constrained QFT it is well motivated to consider a
+free, constrained QFT where the fixed point is explicitly known. In this paper
+we therefore address the case of parametrised field theory for which the
+quantum constraint algebra coincides simultaneously with the hypersurface
+deformation algebra of quantum gravity (or any other generally covariant
+theory) and the Virasoro algebra of free, closed, bosonic string theory or
+other CFT to which the results of this paper apply verbatim.
+  The central result of our investigation is that finite resolution
+(discretised) constraint algebras {\it must not close} and that anomaly
+freeness of the continuum algebra is encoded in the convergence behaviour of
+the renormalisation flow. 
 
 #### Other related papers
 
@@ -41,9 +114,7 @@ permalink: /this_week_papers/
 
 1. [[2207.07667]](https://arxiv.org/abs/2207.07667) - *Massive Neutron Stars and White Dwarfs as Noncommutative Fuzzy Spheres* - Surajit Kalita (UCT), Banibrata Mukhopadhyay (IISc)
 
-1. [[2207.08290]](https://arxiv.org/abs/2207.08290) - *Hamiltonian renormalisation VI: Parametrised field theory on the  cylinder* - T. Thiemann, E.-A. Zwicknagel
-
-1. [[2207.08471]](https://arxiv.org/abs/2207.08471) - *Relativistic deformed kinematics: from flat to curved spacetimes* - J.J. Relancio
+2. [[2207.08471]](https://arxiv.org/abs/2207.08471) - *Relativistic deformed kinematics: from flat to curved spacetimes* - J.J. Relancio
 
 
 
