@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/20/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.08864]](https://arxiv.org/abs/2207.08864) - *Stable Rotating Regular Black Holes* - Edgardo Franzin, Stefano Liberati, Jacopo Mazza, Vania Vellucci
+
+1. [[2207.08846]](https://arxiv.org/abs/2207.08846) - *Localization vs holography in $4d$ $\mathcal{N}=2$ quiver theories* - M. Billo, M. Frau, A. Lerda, A. Pini, P. Vallarino
+
+
+
 ### Tue - 07/19/22
 
 #### Loop quantum gravity related papers
