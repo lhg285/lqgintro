@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/21/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.09817]](https://arxiv.org/abs/2207.09817) - *The Asymptotically Safe Standard Model: From quantum gravity to  dynamical chiral symmetry breaking* - Álvaro Pastor-Gutiérrez, Jan M. Pawlowski, Manuel Reichert
+
+
+
 ### Wed - 07/20/22
 
 #### Loop quantum gravity related papers
