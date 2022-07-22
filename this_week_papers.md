@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/22/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.10339]](https://arxiv.org/abs/2207.10339) - *Tunneling Analysis of Regular Black Holes with Cosmic Strings-Like  Solution in Newman-Janis Algorithm* - Riasat Ali, Rimsha Babar, Muhammad Asgher, Xia Tie-Cheng
+
+1. [[2207.10467]](https://arxiv.org/abs/2207.10467) - *Evaporation of a Kerr-black-bounce by emission of scalar particles* - Marco Calzá
+
+1. [[2207.10115]](https://arxiv.org/abs/2207.10115) - *Line of Fixed Points in Gross-Neveu Theories* - Charlie Cresswell-Hogg, Daniel F. Litim
+
+1. [[2207.10598]](https://arxiv.org/abs/2207.10598) - *Integrable crosscap states in $\mathfrak{gl}(N)$ spin chains* - Tamas Gombor
+
+1. [[2207.10618]](https://arxiv.org/abs/2207.10618) - *Frontiers of Quantum Gravity: shared challenges, converging directions* - Jan de Boer, Bianca Dittrich, Astrid Eichhorn, Steven B. Giddings, Steffen Gielen, Stefano Liberati, Etera R. Livine, Daniele Oriti, Kyriakos Papadodimas, Antonio D. Pereira, Mairi Sakellariadou, Sumati Surya, Herman Verlinde
+
+1. [[2207.10636]](https://arxiv.org/abs/2207.10636) - *Solving Scattering in N=4 Super-Yang-Mills Theory* - Nima Arkani-Hamed, Lance J. Dixon, Andrew J. McLeod, Marcus Spradlin, Jaroslav Trnka, Anastasia Volovich
+
+
+
 ### Thu - 07/21/22
 
 #### Loop quantum gravity related papers
