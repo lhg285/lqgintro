@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/27/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.12401]](https://arxiv.org/abs/2207.12401) - *Purely virtual extension of quantum field theory for gauge invariant  fields: quantum gravity* - Damiano Anselmi
+
+1. [[2207.12437]](https://arxiv.org/abs/2207.12437) - *The dark (BPS) side of thermodynamics in Minkowski$_4$* - Kiril Hristov
+
+1. [[2207.12477]](https://arxiv.org/abs/2207.12477) - *Black Hole Entropy from Quantum Mechanics* - Nick Dorey, Rishi Mouland, Boan Zhao
+
+1. [[2207.12798]](https://arxiv.org/abs/2207.12798) - *Existence of real time quantum path integrals* - Job Feldbrugge, Neil Turok
+
+
+
 ### Tue - 07/26/22
 
 #### Loop quantum gravity related papers
