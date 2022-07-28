@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/28/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.13624]](https://arxiv.org/abs/2207.13624) - *Neutron stars in degenerate higher-order scalar-tensor theories* - Hamza Boumaza, David Langlois
+
+1. [[2207.13207]](https://arxiv.org/abs/2207.13207) - *Regular Black Holes: Entropy Products and Central Charges* - Hanif Golchin
+
+
+
 ### Wed - 07/27/22
 
 #### Loop quantum gravity related papers
