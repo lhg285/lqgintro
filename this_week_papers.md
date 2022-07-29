@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/29/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2207.14015]](https://arxiv.org/abs/2207.14015) - *S-folds and $AdS_{3}$ flows from the D3-brane* - Adolfo Guarino, Minwoo Suh
+
+1. [[2207.14055]](https://arxiv.org/abs/2207.14055) - *Finite temperature charge and current densities around a cosmic string  in AdS spacetime with compact dimension* - E. R. Bezerra de Mello, W. Oliveira dos Santos, A. A. Saharian
+
+
+
 ### Thu - 07/28/22
 
 #### Loop quantum gravity related papers
