@@ -1,9 +1,9 @@
 ---
-layout: pages
-title: New e-prints this week
-permalink: /this_week_papers/
+layout: post
+title: 'Archived weekly pre-prints 22-09-05'
+date: '2022-09-05 14:08:09 -0400'
+categories: Archived weekly pre-prints
 ---
-
 
 
 ### Mon - 09/05/22
