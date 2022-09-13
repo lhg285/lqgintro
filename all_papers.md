@@ -9,6 +9,8 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2209.05115]](https://arxiv.org/abs/2209.05115) - *Categorical generalization of MacDowell Mansouri gravity coupled to Kalb  Ramond fields* - Miguel A. Oliveira
+
 1. [[2209.00960]](https://arxiv.org/abs/2209.00960) - *Thermodynamics of Schwarzschild black hole surrounded by quintessence in  gravity's rainbow* - B. Hamil, B. C. Lütfüoğlu
 
 1. [[2209.00960]](https://arxiv.org/abs/2209.00960) - *Thermodynamics of Schwarzschild black hole surrounded by quintessence in  gravity's rainbow* - B. Hamil, B. C. Lütfüoğlu
