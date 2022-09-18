@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Sun - 09/18/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.06835]](https://arxiv.org/abs/2209.06835) - *De Sitter bubbles from anti-de Sitter fluctuations* - Anxo Biasi, Oleg Evnin, Spyros Sypsas
+
+1. [[2209.07152]](https://arxiv.org/abs/2209.07152) - *GEMS embeddings of Hayward regular black holes in massless and massive  gravities* - Soon-Tae Hong, Yong-Wan Kim, Young-Jai Park
+
+1. [[2209.06845]](https://arxiv.org/abs/2209.06845) - *State-dressed local operators in AdS/CFT* - Eyoab Bahiru, Alexandre Belin, Kyriakos Papadodimas, Gabor Sarosi, Niloofar Vardian
+
+
+
 ### Sat - 09/17/22
 
 #### Loop quantum gravity related papers
