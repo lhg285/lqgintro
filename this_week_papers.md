@@ -6,127 +6,16 @@ permalink: /this_week_papers/
 
 
 
-### Sun - 09/18/22
+### Mon - 09/19/22
 
 #### Loop quantum gravity related papers
 
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2209.06835]](https://arxiv.org/abs/2209.06835) - *De Sitter bubbles from anti-de Sitter fluctuations* - Anxo Biasi, Oleg Evnin, Spyros Sypsas
-
-1. [[2209.07152]](https://arxiv.org/abs/2209.07152) - *GEMS embeddings of Hayward regular black holes in massless and massive  gravities* - Soon-Tae Hong, Yong-Wan Kim, Young-Jai Park
-
-1. [[2209.06845]](https://arxiv.org/abs/2209.06845) - *State-dressed local operators in AdS/CFT* - Eyoab Bahiru, Alexandre Belin, Kyriakos Papadodimas, Gabor Sarosi, Niloofar Vardian
-
-
-
-### Sat - 09/17/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2209.06835]](https://arxiv.org/abs/2209.06835) - *De Sitter bubbles from anti-de Sitter fluctuations* - Anxo Biasi, Oleg Evnin, Spyros Sypsas
-
-1. [[2209.07152]](https://arxiv.org/abs/2209.07152) - *GEMS embeddings of Hayward regular black holes in massless and massive  gravities* - Soon-Tae Hong, Yong-Wan Kim, Young-Jai Park
-
-1. [[2209.06845]](https://arxiv.org/abs/2209.06845) - *State-dressed local operators in AdS/CFT* - Eyoab Bahiru, Alexandre Belin, Kyriakos Papadodimas, Gabor Sarosi, Niloofar Vardian
-
-
-
-### Fri - 09/16/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2209.06835]](https://arxiv.org/abs/2209.06835) - *De Sitter bubbles from anti-de Sitter fluctuations* - Anxo Biasi, Oleg Evnin, Spyros Sypsas
-
-1. [[2209.07152]](https://arxiv.org/abs/2209.07152) - *GEMS embeddings of Hayward regular black holes in massless and massive  gravities* - Soon-Tae Hong, Yong-Wan Kim, Young-Jai Park
-
-1. [[2209.06845]](https://arxiv.org/abs/2209.06845) - *State-dressed local operators in AdS/CFT* - Eyoab Bahiru, Alexandre Belin, Kyriakos Papadodimas, Gabor Sarosi, Niloofar Vardian
-
-
-
-### Thu - 09/15/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Wed - 09/14/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Tue - 09/13/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-#### **Categorical generalization of MacDowell Mansouri gravity coupled to Kalb  Ramond fields**
- - **Authors:** Miguel A. Oliveira
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
- - **Arxiv link:** [https://arxiv.org/abs/2209.05115](https://arxiv.org/abs/2209.05115)
+#### **Leading all-loop quantum contribution to the effective potential in  general scalar field theory**
+ - **Authors:** D. I. Kazakov, R.M. Iakhibbaev, D. M. Tolkachev
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2209.08019](https://arxiv.org/abs/2209.08019)
  - **Abstract**
- In this work we generalize the MacDowell-Mansouri theory of gravity using strict 2-groups. To achieve this, we construct the categorical generalization of the ISO(4,1) group, which we call the de Sitter 2-group. We then proceed to generalize the MacDowell-Mansouri theory in two different ways. First, as a Yang-Mills-type theory, where the symmetry is explicitly broken to obtain an Einstein-Cartan theory coupled to Kalb-Ramond fields. And second, by using the categorical generalization of the BF theory, called 2-BF theory, which after the addition of some symmetry breaking and constraint terms gives the same Einstein-Cartan theory coupled to Kalb-Ramond fields plus some extra topological terms. 
-
-
-
-#### Other related papers
-
-1. [[2209.05061]](https://arxiv.org/abs/2209.05061) - *Regular black holes in Palatini gravity* - Gonzalo J. Olmo, Diego Rubiera-Garcia
-
-1. [[2209.04632]](https://arxiv.org/abs/2209.04632) - *Quantum Complexity and Holography* - Javier Martin-Garcia
-
-
-
-### Mon - 09/05/22
-
-#### Loop quantum gravity related papers
-
-#### **Thermodynamics of Schwarzschild black hole surrounded by quintessence in  gravity's rainbow**
- - **Authors:** B. Hamil, B. C. Lütfüoğlu
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
- - **Arxiv link:** [https://arxiv.org/abs/2209.00960](https://arxiv.org/abs/2209.00960)
- - **Abstract**
- According to some quantum gravity models, Lorentz invariance can be violated in the Planck energy scale. With this motivation, we analyze the thermal quantities and the stability of Schwarzschild black hole surrounded by quintessence in gravity's rainbow formalism. To do that, we consider the rainbow functions which are motivated by loop quantum gravity and gamma-ray bursts, and we derive Hawking temperature, specific heat, entropy and the equation of state function. We observe that the presence the quintessence matter field and rainbow gravity affect the stability of the black hole. 
+ The RG equation for the effective potential in the leading log (LL) approximation is constructed which is valid for an arbitrary scalar field theory in 4 dimensions. The solution to this equation sums up the leading log\phi contributions to all orders of perturbation theory. In general, this is the second order nonlinear partial differential equation, but in some cases it can be reduced to the ordinary one. For particular examples, this equation is solved numerically and the LL effective potential is constructed. The solution has a characteristic discontinuity replacing the Landau pole typical for the phi^4 theory. For a power-like potential no new minima appear due to the Coleman-Weinberg mechanism 
 
 #### Spin foam related papers
 
@@ -136,13 +25,13 @@ There is no new related paper today
 
 #### Other related papers
 
-1. [[2209.00952]](https://arxiv.org/abs/2209.00952) - *General Relativity and the Ricci Flow* - Mohammed Alzain
+1. [[2209.07543]](https://arxiv.org/abs/2209.07543) - *Interferometer Response to Geontropic Fluctuations* - Dongjun Li, Vincent S. H. Lee, Yanbei Chen, Kathryn M. Zurek
 
-1. [[2209.01130]](https://arxiv.org/abs/2209.01130) - *HKLL for the Non-Normalizable Mode* - Budhaditya Bhattacharjee, Chethan Krishnan, Debajyoti Sarkar
-
-
+1. [[2209.07653]](https://arxiv.org/abs/2209.07653) - *Causal Set Quantum Gravity and the Hard Problem of Consciousness* - Fay Dowker
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2022/09/05/archived_weekly_papers.html)
+
+
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2022/09/19/archived_weekly_papers.html)
