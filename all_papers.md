@@ -9,6 +9,8 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2209.09159]](https://arxiv.org/abs/2209.09159) - *Transition Amplitudes in 3D Quantum Gravity: Boundaries and Holography  in the Coloured Boulatov Model* - Christophe Goeller, Daniele Oriti, Gabriel Schmid
+
 1. [[2209.08019]](https://arxiv.org/abs/2209.08019) - *Leading all-loop quantum contribution to the effective potential in  general scalar field theory* - D. I. Kazakov, R.M. Iakhibbaev, D. M. Tolkachev
 
 1. [[2209.05115]](https://arxiv.org/abs/2209.05115) - *Categorical generalization of MacDowell Mansouri gravity coupled to Kalb  Ramond fields* - Miguel A. Oliveira

@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/20/22
+
+#### Loop quantum gravity related papers
+
+#### **Transition Amplitudes in 3D Quantum Gravity: Boundaries and Holography  in the Coloured Boulatov Model**
+ - **Authors:** Christophe Goeller, Daniele Oriti, Gabriel Schmid
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2209.09159](https://arxiv.org/abs/2209.09159)
+ - **Abstract**
+ We consider transition amplitudes in the coloured simplicial Boulatov model for three-dimensional Riemannian quantum gravity. First, we discuss aspects of the topology of coloured graphs with non-empty boundaries. Using a modification of the standard rooting procedure of coloured tensor models, we then write transition amplitudes systematically as topological expansions. We analyse the transition amplitudes for the simplest boundary topology, the 2-sphere, and prove that they factorize into a sum entirely given by the combinatorics of the boundary spin network state and that the leading order is given by graphs representing the closed 3-ball in the large N limit. This is the first step towards a more detailed study of the holographic nature of coloured Boulatov-type GFT models for topological field theories and quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.08439]](https://arxiv.org/abs/2209.08439) - *Equivalence between two charged black holes in dynamics of orbits  outside the event horizons* - Hongxing Zhang, Naying Zhou, Wenfang Liu, Xin Wu
+
+
+
 ### Mon - 09/19/22
 
 #### Loop quantum gravity related papers
