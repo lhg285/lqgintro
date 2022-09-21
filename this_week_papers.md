@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/21/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.09273]](https://arxiv.org/abs/2209.09273) - *Gravitational Optomechanics: Photon-Matter Entanglement via Graviton  Exchange* - Dripto Biswas, Sougato Bose, Anupam Mazumdar, Marko Toroš
+
+
+
 ### Tue - 09/20/22
 
 #### Loop quantum gravity related papers
