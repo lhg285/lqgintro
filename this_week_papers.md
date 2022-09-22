@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/22/22
+
+#### Loop quantum gravity related papers
+
+#### **Cyclic cocycles and one-loop corrections in the spectral action**
+ - **Authors:** Teun D. H. van Nuland, Walter D. van Suijlekom
+ - **Subjects:** High Energy Physics - Theory (hep-th); Functional Analysis (math.FA); Quantum Algebra (math.QA)
+ - **Arxiv link:** [https://arxiv.org/abs/2209.10094](https://arxiv.org/abs/2209.10094)
+ - **Abstract**
+ We present an intelligible review of recent results concerning cyclic cocycles in the spectral action and one-loop quantization. We show that the spectral action, when perturbed by a gauge potential, can be written as a series of Chern-Simons actions and Yang-Mills actions of all orders. In the odd orders, generalized Chern-Simons forms are integrated against an odd $(b,B)$-cocycle, whereas, in the even orders, powers of the curvature are integrated against $(b,B)$-cocycles that are Hochschild cocycles as well. In both cases, the Hochschild cochains are derived from the Taylor series expansion of the spectral action Tr$(f(D+V))$ in powers of $V=\pi_D(A)$, but unlike the Taylor expansion we expand in increasing order of the forms in $A$. We then analyze the perturbative quantization of the spectral action in noncommutative geometry and establish its one-loop renormalizability as a gauge theory. We show that the one-loop counterterms are of the same Chern-Simons-Yang-Mills form so that they can be safely subtracted from the spectral action. A crucial role will be played by the appropriate Ward identities, allowing for a fully spectral formulation of the quantum theory at one loop. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.10454]](https://arxiv.org/abs/2209.10454) - *Large N algebras and generalized entropy* - Venkatesa Chandrasekaran, Geoff Penington, Edward Witten
+
+
+
 ### Wed - 09/21/22
 
 #### Loop quantum gravity related papers
