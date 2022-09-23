@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/23/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.10612]](https://arxiv.org/abs/2209.10612) - *Regular evaporating black holes with stable cores* - Alfio Bonanno, Amir-Pouyan Khosravi, Frank Saueressig
+
+1. [[2209.10547]](https://arxiv.org/abs/2209.10547) - *A holographic inequality for $N=7$ regions* - Bartlomiej Czech, Yunfei Wang
+
+1. [[2209.10961]](https://arxiv.org/abs/2209.10961) - *Towards testing the Fröhlich-Morchio-Strocchi mechanism in quantum  gravity* - Axel Maas
+
+1. [[2209.10600]](https://arxiv.org/abs/2209.10600) - *3-Body Problems, Hidden Constants, Trojans and WIMPs* - Aubrey Truman, Richard Durran
+
+
+
 ### Thu - 09/22/22
 
 #### Loop quantum gravity related papers
