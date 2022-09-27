@@ -6,6 +6,40 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/27/22
+
+#### Loop quantum gravity related papers
+
+#### **The topological entanglement entropy of black holes in loop quantum  gravity**
+ - **Authors:** Jingbo Wang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2209.12455](https://arxiv.org/abs/2209.12455)
+ - **Abstract**
+ Topological order (long-range entanglement) play important role in modern condensed matter physics. In this paper, we will show that the four dimensional black hole can also have topological order, by showing that the topological entanglement entropy is non-zero. The properties of the topological order show that the large diffeomorphisms will act as symmetry (not gauge) transformation on the physical states. More importantly, the long-range entanglement will make the Hawking radiation pure. 
+
+#### **Tests of Loop Quantum Gravity from the EHT Results of Sgr A$^*$**
+ - **Authors:** Misba Afrin, Sushant G. Ghosh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2209.12584](https://arxiv.org/abs/2209.12584)
+ - **Abstract**
+ The Event Horizon Telescope (EHT) collaboration's image of the compact object at the galactic centre is the first direct evidence of the supermassive black hole Sgr A$^*$. The shadow of Sgr A$^*$ has an angular diameter $d_{sh}= 48.7 \pm 7\,\mu$as with fractional deviation from the Schwarzschild black hole shadow diameter $\delta= -0.08^{+0.09}_{-0.09}\,,-0.04^{+0.09}_{-0.10}$ (for the VLTI and Keck mass-to-distance ratios). Sgr A$^*$'s shadow size is within $~10\%$ of the Kerr predictions, equipping us with yet another tool to analyse the gravity in the strong-field regime, including testing loop quantum gravity (LQG). We use Sgr A$^*$'s shadow to constrain the metrics of two well-motivated LQG-inspired rotating black holes (LIRBHs) models characterized by an additional deviation parameter $L_q$, which recover the Kerr spacetime in the absence of quantum effects ($L_q \to 0$). We use the astrophysical observables shadow area $A$ and oblateness $D$ to estimate the black hole parameters. When increasing the size of the quantum effects through $L_q$, the black hole shadow size increases monotonically, while the shape gets more distorted, allowing us to constrain the fundamental parameter $L_q$. While the EHT observational results completely rule out the wormhole region in the second LIRBH, a substantial parameter region of the generic black holes in both models agree with the EHT results. We find upper bounds on $L_q$ from the shadow of Sgr A$^*$: $L_q \lesssim 0.0423$ and $L_q \lesssim 0.0821$ for the two LIRBHs respectively, both more stringent than those obtained with the EHT image of M87$^*$. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.12291]](https://arxiv.org/abs/2209.12291) - *Regularized Stable Kerr Black Hole: Cosmic Censorships, Shadow and  Quasi-Normal Modes* - Rajes Ghosh, Mostafizur Rahman, Akash K Mishra
+
+1. [[2209.12696]](https://arxiv.org/abs/2209.12696) - *The shape of non-graviton operators for $SU(2)$* - Sunjin Choi, Seok Kim, Eunwoo Lee, Jaemo Park
+
+1. [[2209.12798]](https://arxiv.org/abs/2209.12798) - *Quantum Hair in Electrodynamics and Gravity* - Xavier Calmet, Stephen D. H. Hsu
+
+
+
 ### Mon - 09/26/22
 
 #### Loop quantum gravity related papers

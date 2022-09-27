@@ -9,6 +9,10 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2209.12455]](https://arxiv.org/abs/2209.12455) - *The topological entanglement entropy of black holes in loop quantum  gravity* - Jingbo Wang
+
+1. [[2209.12584]](https://arxiv.org/abs/2209.12584) - *Tests of Loop Quantum Gravity from the EHT Results of Sgr A$^*$* - Misba Afrin, Sushant G. Ghosh
+
 1. [[2209.10094]](https://arxiv.org/abs/2209.10094) - *Cyclic cocycles and one-loop corrections in the spectral action* - Teun D. H. van Nuland, Walter D. van Suijlekom
 
 1. [[2209.09159]](https://arxiv.org/abs/2209.09159) - *Transition Amplitudes in 3D Quantum Gravity: Boundaries and Holography  in the Coloured Boulatov Model* - Christophe Goeller, Daniele Oriti, Gabriel Schmid
