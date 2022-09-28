@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/28/22
+
+#### Loop quantum gravity related papers
+
+#### **Loop Quantum Gravity motivated multihorizon rotating black holes**
+ - **Authors:** Jitendra Kumar, Shafqat Ul Islam, Sushant~G.~Ghosh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2209.13562](https://arxiv.org/abs/2209.13562)
+ - **Abstract**
+ With a semiclassical polymerization in the loop quantum gravity (LQG), the interior of Schwarzschild black holes provides a captivating single-horizon regular black hole spacetime. The shortage of rotating black hole models in loop quantum gravity (LQG) substantially restrains the progress of testing LQG from observations. Motivated by this, starting with a spherical LQG black hole as a seed metric, we construct a rotating spacetime using the revised Newman-Janis algorithm, namely, the LQG-motivated rotating black holes (LMRBH), which encompasses Kerr ($l=0$) black holes as an exceptional case. We discover that for any random $l>0$, unlike Kerr black hole, an extremal LMRBH refers to a black hole with angular momentum $a>M$. The rotating metric, in parameter space, describes (1) black holes with an event and Cauchy horizons, (2) black holes with three horizons, (3) black holes with only one horizon or (4) no horizon spacetime. We also discuss the horizon and global structure of the LMRBH spacetimes and its dependence on $l/M$ that exhibits rich spacetime structures in the ($M,\;a,\;l$) parameter space. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.12903]](https://arxiv.org/abs/2209.12903) - *Holographic measurement and bulk teleportation* - Stefano Antonini, Gregory Bentsen, ChunJun Cao, Jonathan Harper, Shao-Kai Jian, Brian Swingle
+
+
+
 ### Tue - 09/27/22
 
 #### Loop quantum gravity related papers
