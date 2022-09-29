@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/29/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.13726]](https://arxiv.org/abs/2209.13726) - *Could quantum gravity slow down neutrinos?* - Giovanni Amelino-Camelia, Maria Grazia Di Luca, Giulia Gubitosi, Giacomo Rosati, Giacomo D'Amico
+
+1. [[2209.13602]](https://arxiv.org/abs/2209.13602) - *Black hole microstate counting from the gravitational path integral* - Luca V. Iliesiu, Sameer Murthy, Gustavo J. Turiaci
+
+
+
 ### Wed - 09/28/22
 
 #### Loop quantum gravity related papers
