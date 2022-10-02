@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Sun - 10/02/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2209.14372]](https://arxiv.org/abs/2209.14372) - *A Solvable Model of Flat Space Holography* - Felipe Rosso
+
+1. [[2209.14533]](https://arxiv.org/abs/2209.14533) - *BRST Formalism of Weyl Conformal Gravity* - Ichiro Oda, Philipp Saake
+
+1. [[2209.14669]](https://arxiv.org/abs/2209.14669) - *Allowable Complex Scalars from Kaluza-Klein Compactifications and Metric  Rescalings* - Jean-Luc Lehners
+
+
+
 ### Sat - 10/01/22
 
 #### Loop quantum gravity related papers
