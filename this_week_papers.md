@@ -26,6 +26,46 @@ There is no new related paper today
 
 
 
+### Wed - 10/05/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.01138]](https://arxiv.org/abs/2210.01138) - *Formation and evaporation of quantum black holes from the decoupling  mechanism in quantum gravity* - Johanna N. Borissova, Alessia Platania
+
+1. [[2210.01737]](https://arxiv.org/abs/2210.01737) - *TF1 Snowmass Report: Quantum gravity, string theory, and black holes* - Daniel Harlow, Shamit Kachru, Juan Maldacena, Ibou Bah, Mike Blake, Raphael Bousso, Mirjam Cvetic, Xi Dong, Netta Engelhardt, Tom Faulkner, Raphael Flauger, Dan Freed, Victor Gorbenko, Yingfei Gu, Jim Halverson, Tom Hartman, Sean Hartnoll, Andreas Karch, Hong Liu, Andy Lucas, Emil Martinec, Liam McAllister, Greg Moore, Nikita Nekrasov, Sabrina Pasterski, Monica Pate, Ana-Maria Raclariu, Krisha Rajagopal, Shlomo Razamat, Steve Shenker, Sakura Shafer-Nameki, Gary Shiu, Eva Silverstein, Douglas Stanford, Brian Swingle, Wati Taylor, Nicholas Warner, Beni Yoshida
+
+
+
+### Wed - 10/05/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.01138]](https://arxiv.org/abs/2210.01138) - *Formation and evaporation of quantum black holes from the decoupling  mechanism in quantum gravity* - Johanna N. Borissova, Alessia Platania
+
+1. [[2210.01737]](https://arxiv.org/abs/2210.01737) - *TF1 Snowmass Report: Quantum gravity, string theory, and black holes* - Daniel Harlow, Shamit Kachru, Juan Maldacena, Ibou Bah, Mike Blake, Raphael Bousso, Mirjam Cvetic, Xi Dong, Netta Engelhardt, Tom Faulkner, Raphael Flauger, Dan Freed, Victor Gorbenko, Yingfei Gu, Jim Halverson, Tom Hartman, Sean Hartnoll, Andreas Karch, Hong Liu, Andy Lucas, Emil Martinec, Liam McAllister, Greg Moore, Nikita Nekrasov, Sabrina Pasterski, Monica Pate, Ana-Maria Raclariu, Krisha Rajagopal, Shlomo Razamat, Steve Shenker, Sakura Shafer-Nameki, Gary Shiu, Eva Silverstein, Douglas Stanford, Brian Swingle, Wati Taylor, Nicholas Warner, Beni Yoshida
+
+
+
 ### Tue - 10/04/22
 
 #### Loop quantum gravity related papers
