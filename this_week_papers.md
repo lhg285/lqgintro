@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/06/22
+
+#### Loop quantum gravity related papers
+
+#### **Quantum Oppenheimer-Snyder and Swiss Cheese models**
+ - **Authors:** Jerzy Lewandowski, Yongge Ma, Jinsong Yang, Cong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO)
+ - **Arxiv link:** [https://arxiv.org/abs/2210.02253](https://arxiv.org/abs/2210.02253)
+ - **Abstract**
+ By considering the quantum Oppenheimer-Snyder model in loop quantum cosmology, a new quantum black hole model whose metric tensor is a suitably deformed Schwarzschild one is derived. The quantum effects imply a lower bound on the mass of the black hole produced by the collapsing dust ball. For the case of larger masses where the event horizon does form, the maximal extension of the spacetime and its properties are investigated. By discussing the opposite scenario to the quantum Oppenheimer-Snyder, a quantum Swiss Cheese model is obtained with a bubble surrounded by the quantum universe. This model is analogous to the black hole cosmology or fecund universes where the big bang is related to a white hole. Thus our models open a new window to the cosmological phenomenology. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.02230]](https://arxiv.org/abs/2210.02230) - *Integrable crosscaps in classical sigma models* - Tamas Gombor
+
+
+
 ### Wed - 10/05/22
 
 #### Loop quantum gravity related papers

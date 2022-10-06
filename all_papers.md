@@ -9,6 +9,8 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2210.02253]](https://arxiv.org/abs/2210.02253) - *Quantum Oppenheimer-Snyder and Swiss Cheese models* - Jerzy Lewandowski, Yongge Ma, Jinsong Yang, Cong Zhang
+
 1. [[2209.13562]](https://arxiv.org/abs/2209.13562) - *Loop Quantum Gravity motivated multihorizon rotating black holes* - Jitendra Kumar, Shafqat Ul Islam, Sushant~G.~Ghosh
 
 1. [[2209.12455]](https://arxiv.org/abs/2209.12455) - *The topological entanglement entropy of black holes in loop quantum  gravity* - Jingbo Wang
