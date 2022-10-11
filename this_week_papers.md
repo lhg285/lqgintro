@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 10/11/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **3D Quantum Gravity from Holomorphic Blocks**
+ - **Authors:** Etera R. Livine, Qiaoyin Pan
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2210.04855](https://arxiv.org/abs/2210.04855)
+ - **Abstract**
+ Three-dimensional gravity is a topological field theory, which can be quantized as the Ponzano-Regge state-sum model built from the $\{3nj\}$-symbols of the recoupling of the $\SU(2)$ representations, in which spins are interpreted as quantized edge lengths in Planck units. It describes the flat spacetime as gluing of three-dimensional cells with a fixed boundary metric encoding length scale. In this paper, we revisit the Ponzano-Regge model formulated in terms of spinors and rewrite the quantum geometry of 3D cells with holomorphic recoupling symbols. These symbols, known as Schwinger's generating function for the $\{6j\}$-symbols, are simply the squared inverse of the partition function of the 2D Ising model living on the boundary of the 3D cells. They can furthermore be interpreted, in their critical regime, as scale-invariant basic elements of geometry. We show how to glue them together into a discrete topological quantum field theory. This reformulation of the path integral for 3D quantum gravity, with a rich pole structure of the elementary building blocks, opens a new door toward the study of phase transitions and continuum limits in 3D quantum gravity, and offers a new twist on the construction of a duality between 3D quantum gravity and a 2d conformal theory. 
+
+
+
+#### Other related papers
+
+1. [[2210.04368]](https://arxiv.org/abs/2210.04368) - *Background independence and field redefinitions in quantum gravity* - Roberto Casadio, Alexander Kamenshchik, Iberê Kuntz
+
+
+
 ### Mon - 10/10/22
 
 #### Loop quantum gravity related papers
