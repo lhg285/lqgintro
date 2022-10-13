@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/13/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.06081]](https://arxiv.org/abs/2210.06081) - *Black Hole Thermodynamics and Perturbative Quantum Gravity* - Dmitri V. Fursaev
+
+1. [[2210.05820]](https://arxiv.org/abs/2210.05820) - *EFT for de Sitter Space* - Daniel Green
+
+1. [[2210.06141]](https://arxiv.org/abs/2210.06141) - *Pure spinors in classical and quantum supergravity* - Martin Cederwall
+
+
+
 ### Wed - 10/12/22
 
 #### Loop quantum gravity related papers
