@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Sat - 10/15/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.06861]](https://arxiv.org/abs/2210.06861) - *Lifetime of scalar cloud formation around a rotating regular black hole* - Mohsen Khodadi, Reza Pourkhodabakhshi
+
+1. [[2210.07107]](https://arxiv.org/abs/2210.07107) - *A note on the action with the Schwarzian at the stretched horizon* - Mohd Ali, Vardarajan Suneeta
+
+1. [[2210.07176]](https://arxiv.org/abs/2210.07176) - *A Flow in the Forest* - Alexander Gorsky, Vladimir Kazakov, Fedor Levkovich-Maslyuk, Victor Mishnyakov
+
+1. [[2210.06669]](https://arxiv.org/abs/2210.06669) - *Tensor Renormalization Group at Low Temperatures: Discontinuity Fixed  Point* - Tom Kennedy, Slava Rychkov
+
+
+
 ### Fri - 10/14/22
 
 #### Loop quantum gravity related papers
