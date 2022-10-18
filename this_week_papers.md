@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 10/18/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.08586]](https://arxiv.org/abs/2210.08586) - *The equivalence principle and inertial-gravitational decoherence* - Giorgio Torrieri
+
+1. [[2210.08783]](https://arxiv.org/abs/2210.08783) - *Thread/State correspondence: from bit threads to qubit threads* - Yi-Yu Lin, Jie-Chen Jin
+
+1. [[2210.09271]](https://arxiv.org/abs/2210.09271) - *Gauge invariant renormalizability of quantum gravity* - P.M. Lavrov, I.L. Shapiro
+
+
+
 ### Mon - 10/17/22
 
 #### Loop quantum gravity related papers
