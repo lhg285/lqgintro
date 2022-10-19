@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/19/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.10034]](https://arxiv.org/abs/2210.10034) - *A fresh view on string orbifolds* - Stefano Giaccari, Roberto Volpato
+
+
+
 ### Tue - 10/18/22
 
 #### Loop quantum gravity related papers
