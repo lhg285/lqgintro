@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/20/22
+
+#### Loop quantum gravity related papers
+
+#### **Quantization of measure in gravitation**
+ - **Authors:** Vladimir Dzhunushaliev, Vladimir Folomeev
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2210.10388](https://arxiv.org/abs/2210.10388)
+ - **Abstract**
+ Using the Radon-Nikodym theorem concerning the relation between any two measures, as well as the methods employed in loop quantum gravity, it is shown that, in gravitation, one can quantize any measure which is not even associated with metric. We have considered the simplest case where the proportionality coefficient between two operators of measure (the Radon-Nikodym derivative) is some function. The result is that in the right-hand side of the commutation relations for the measure the fundamental length becomes a variable quantity, and this can lead to smoothing the singularity. The case where the Radon-Nikodym derivative is an operator is also under discussion. Classical and quantum theories on the background of space endowed with quantum measure are under consideration. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.10658]](https://arxiv.org/abs/2210.10658) - *Barrow entropy and stochastic gravitational wave background spectrum  generated from cosmological QCD phase transition* - Zhong-Wen Feng
+
+1. [[2210.10057]](https://arxiv.org/abs/2210.10057) - *The Tameness of Quantum Field Theory, Part I -- Amplitudes* - Michael R. Douglas, Thomas W. Grimm, Lorenz Schlechter
+
+1. [[2210.10457]](https://arxiv.org/abs/2210.10457) - *Charged AdS black hole and the quantum tunneling from black hole to  white hole* - T. H. Phat, N. T. Anh, Toan T. Nguyen, H. V. Quyet
+
+1. [[2210.10510]](https://arxiv.org/abs/2210.10510) - *Pure spinor formulation of the superstring and its applications* - Nathan Berkovits, Carlos R. Mafra
+
+
+
 ### Wed - 10/19/22
 
 #### Loop quantum gravity related papers
