@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Sun - 10/23/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.10797]](https://arxiv.org/abs/2210.10797) - *Quantum Gravity Bounds on N=1 Effective Theories in Four Dimensions* - Luca Martucci, Nicolo Risso, Timo Weigand
+
+1. [[2210.10846]](https://arxiv.org/abs/2210.10846) - *Solvable Models of Quantum Black Holes: A Review on Jackiw-Teitelboim  Gravity* - Thomas G. Mertens, Gustavo J. Turiaci
+
+1. [[2210.11066]](https://arxiv.org/abs/2210.11066) - *Holography of Information in AdS/CFT* - Robert de Mello Koch, Garreth Kemp
+
+1. [[2210.11150]](https://arxiv.org/abs/2210.11150) - *Classical Lie Bialgebras for AdS/CFT Integrability by Contraction and  Reduction* - Niklas Beisert, Egor Im
+
+1. [[2210.11356]](https://arxiv.org/abs/2210.11356) - *The functional $f(R)$ approximation* - Tim R. Morris, Dalius Stulga
+
+1. [[2210.11473]](https://arxiv.org/abs/2210.11473) - *The ZZ annulus one-point function in non-critical string theory: A  string field theory analysis* - Dan Stefan Eniceicu, Raghu Mahajan, Pronobesh Maity, Chitraang Murdia, Ashoke Sen
+
+
+
 ### Sat - 10/22/22
 
 #### Loop quantum gravity related papers
