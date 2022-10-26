@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/26/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.14062]](https://arxiv.org/abs/2210.14062) - *Scalar Perturbation Around Rotating Regular Black Hole: Superradiance  Instability and Quasinormal Modes* - Zhen Li
+
+1. [[2210.13857]](https://arxiv.org/abs/2210.13857) - *Effects of hyperscaling violation and dynamical exponents on drag force* - M. Kioumarsipour, J. Sadeghi
+
+1. [[2210.13910]](https://arxiv.org/abs/2210.13910) - *Perturbative approaches to non-perturbative quantum gravity* - Riccardo Martini, Gian Paolo Vacca, Omar Zanusso
+
+1. [[2210.13911]](https://arxiv.org/abs/2210.13911) - *Effects of hyperscaling violation and dynamical exponents on heavy quark  potential and jet quenching parameter* - M. Kioumarsipour, J. Sadeghi
+
+1. [[2210.14196]](https://arxiv.org/abs/2210.14196) - *A proposal for 3d quantum gravity and its bulk factorization* - Thomas G. Mertens, Joan Simón, Gabriel Wong
+
+1. [[2210.13926]](https://arxiv.org/abs/2210.13926) - *Einstein Algebras in a Categorical Context* - Leszek Pysiak, Wiesław Sasin, Michael Heller, Tomasz Miller
+
+
+
 ### Tue - 10/25/22
 
 #### Loop quantum gravity related papers
