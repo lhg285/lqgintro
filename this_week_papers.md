@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/28/22
+
+#### Loop quantum gravity related papers
+
+#### **Barbero--Immirzi--Holst Lagrangian with Spacetime Barbero--Immirzi  Connections**
+ - **Authors:** Andrea Orizzonte
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph); Differential Geometry (math.DG)
+ - **Arxiv link:** [https://arxiv.org/abs/2210.15367](https://arxiv.org/abs/2210.15367)
+ - **Abstract**
+ We carry out the complete variational analysis of the Barbero--Immirzi--Holst Lagrangian, which is the Holst Lagrangian expressed in terms of the triad of fields $(\theta, A, \kappa)$, where $\theta$ is the solder form/spin frame, $A$ is the spacetime Barbero--Immirzi connection, and $\kappa$ is the extrinsic spacetime field. The Holst Lagrangian depends on the choice of a real, non zero Holst parameter $\gamma \neq 0$ and constitutes the classical field theory which is then quantized in Loop Quantum Gravity. The choice of a real Immirzi parameter $\beta$ sets up a one-to-one correspondence between pairs $(A, \kappa)$ and spin connections $\omega$ on spacetime. The variation of the Barbero--Immirzi--Holst Lagrangian is computed for an arbitrary pair of parameters $(\beta, \gamma)$. We develop and use the calculus of vector-valued differential forms to improve on the results already present in literature by better clarifying the geometric character of the resulting Euler--Lagrange equations. The main result is that the equations for $\theta$ are equivalent to the vacuum Einstein Field Equations, while the equations for $A$ and $\kappa$ give the same constraint equation for any $\beta \in \mathbb{R}$, namely that $A + \kappa$ must be the Levi--Civita connection induced by $\theta$. We also prove that these results are valid for any value of $\gamma \neq 0$, meaning that the choice of parameters $(\beta, \gamma)$ has no impact on the classical theory in a vacuum and, in particular, there is no need to set $\beta = \gamma$. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2210.14973]](https://arxiv.org/abs/2210.14973) - *Bosonic und Fermionic Quasinormal Modes of Rotating Black Holes Through  AdS/CFT* - Jayant Rao, Shubhanshu Tiwari
+
+1. [[2210.15006]](https://arxiv.org/abs/2210.15006) - *Reflected entropy in random tensor networks II: a topological index from  the canonical purification* - Chris Akers, Thomas Faulkner, Simon Lin, Pratik Rath
+
+
+
 ### Thu - 10/27/22
 
 #### Loop quantum gravity related papers
