@@ -13,6 +13,8 @@ permalink: /all_papers/
 
 1. [[2210.15367]](https://arxiv.org/abs/2210.15367) - *Barbero--Immirzi--Holst Lagrangian with Spacetime Barbero--Immirzi  Connections* - Andrea Orizzonte
 
+1. [[2210.15367]](https://arxiv.org/abs/2210.15367) - *Barbero--Immirzi--Holst Lagrangian with Spacetime Barbero--Immirzi  Connections* - Andrea Orizzonte
+
 1. [[2210.10388]](https://arxiv.org/abs/2210.10388) - *Quantization of measure in gravitation* - Vladimir Dzhunushaliev, Vladimir Folomeev
 
 1. [[2210.07257]](https://arxiv.org/abs/2210.07257) - *On a novel relationship between shear and energy density at the bounce  in non-singular Bianchi-I spacetimes* - A. Meenakshi McNamara, Sahil Saini, Parampreet Singh
