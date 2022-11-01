@@ -9,6 +9,10 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2210.16439]](https://arxiv.org/abs/2210.16439) - *Cosmological states in loop quantum gravity on homogeneous graphs* - Bekir Baytas, Nelson Yokomizo
+
+1. [[2210.17277]](https://arxiv.org/abs/2210.17277) - *Probing Effective Loop Quantum Gravity on Weak Gravitational Lensing,  Hawking Radiation and Bounding Greybody Factor by Black Holes* - Wajiha Javed, Mehak Atique, Ali Övgün
+
 1. [[2210.15367]](https://arxiv.org/abs/2210.15367) - *Barbero--Immirzi--Holst Lagrangian with Spacetime Barbero--Immirzi  Connections* - Andrea Orizzonte
 
 1. [[2210.15367]](https://arxiv.org/abs/2210.15367) - *Barbero--Immirzi--Holst Lagrangian with Spacetime Barbero--Immirzi  Connections* - Andrea Orizzonte
