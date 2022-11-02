@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/02/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Diffeomorphisms as quadratic charges in 4d BF theory and related TQFTs**
+ - **Authors:** Marc Geiller, Florian Girelli, Christophe Goeller, Panagiotis Tsimiklis
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.00068](https://arxiv.org/abs/2211.00068)
+ - **Abstract**
+ We present a Sugawara-type construction for boundary charges in 4d BF theory and in a general family of related TQFTs. Starting from the underlying current Lie algebra of boundary symmetries, this gives rise to well-defined quadratic charges forming an algebra of vector fields. In the case of 3d BF theory (i.e. 3d gravity), it was shown in [PRD 106 (2022), arXiv:2012.05263 [hep-th]] that this construction leads to a two-dimensional family of diffeomorphism charges which satisfy a certain modular duality. Here we show that adapting this construction to 4d BF theory first requires to split the underlying gauge algebra. Surprisingly, the space of well-defined quadratic generators can then be shown to be once again two-dimensional. In the case of tangential vector fields, this canonically endows 4d BF theory with a $\mathrm{diff}(S^2)\times\mathrm{diff}(S^2)$ or $\mathrm{diff}(S^2)\ltimes\mathrm{vect}(S^2)_\mathrm{ab}$ algebra of boundary symmetries depending on the gauge algebra. The prospect is to then understand how this can be reduced to a gravitational symmetry algebra by imposing Pleba\'nski simplicity constraints. 
+
+
+
+#### Other related papers
+
+1. [[2211.00517]](https://arxiv.org/abs/2211.00517) - *Truly Lorentzian quantum cosmology* - Ding Jia
+
+
+
 ### Tue - 11/01/22
 
 #### Loop quantum gravity related papers
