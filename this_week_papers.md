@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/03/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2211.00743]](https://arxiv.org/abs/2211.00743) - *Regular black holes sourced by nonlinear electrodynamics* - Kirill A. Bronnikov
+
+1. [[2211.01002]](https://arxiv.org/abs/2211.01002) - *Effective de Sitter space and large-scale spectral dimension (3+1)* - Carlo A. Trugenberger
+
+
+
 ### Wed - 11/02/22
 
 #### Loop quantum gravity related papers
