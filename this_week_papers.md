@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/04/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2211.01525]](https://arxiv.org/abs/2211.01525) - *Exploring quantum geometry created by quantum matter* - Abhay Ashtekar
+
+1. [[2211.01546]](https://arxiv.org/abs/2211.01546) - *On the superstring-inspired quantum correction to the Starobinsky model  of inflation* - Sergei V. Ketov, Ekaterina O. Pozdeeva, Sergey Yu. Vernov
+
+1. [[2211.01674]](https://arxiv.org/abs/2211.01674) - *Photon Rings Around Warped Black Holes* - Daniel Kapec, Alexandru Lupsasca, Andrew Strominger
+
+
+
 ### Thu - 11/03/22
 
 #### Loop quantum gravity related papers
