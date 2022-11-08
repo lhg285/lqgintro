@@ -9,6 +9,8 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2211.02822]](https://arxiv.org/abs/2211.02822) - *Modified cosmology from the thermodynamics of apparent horizon* - Shin'ichi Nojiri, Sergei D. Odintsov, Tanmoy Paul
+
 1. [[2211.00068]](https://arxiv.org/abs/2211.00068) - *Diffeomorphisms as quadratic charges in 4d BF theory and related TQFTs* - Marc Geiller, Florian Girelli, Christophe Goeller, Panagiotis Tsimiklis
 
 1. [[2210.16439]](https://arxiv.org/abs/2210.16439) - *Cosmological states in loop quantum gravity on homogeneous graphs* - Bekir Baytas, Nelson Yokomizo
