@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/09/22
+
+#### Loop quantum gravity related papers
+
+#### **Loop quantum black hole in a gravitational collapse model**
+ - **Authors:** Jinsong Yang, Cong Zhang, Yongge Ma
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.04263](https://arxiv.org/abs/2211.04263)
+ - **Abstract**
+ The gravitational collapse plays an important role in the formation of black holes as well as for our understanding of the spacetime structure. In this paper, we propose the exterior effective spacetime that are well matched to the interior effective model of loop quantum cosmology for the Datt-Oppenheimer-Snyder gravitational collapse model. The analysis shows that, as the collapse goes on, the quantum-corrected black hole can form with the occurrence of horizon. The quantum gravitational effects will stop the collapse of the dust matter when the energy density reaches the Planck scale and bounce it to an expanding phase, resulting in the resolution of the singularity of the classical black hole. Moreover, the quantum gravitational corrections can affect the black hole shadows by their sizes. The stability of the quantum-corrected black hole under perturbations is also studied by calculating the quasinormal modes. It turns out that the quantum-corrected black hole is stable against the scalar and vector perturbations. 
+
+#### **Bouncing Universe in Loop Quantum Gravity: full theory calculation**
+ - **Authors:** Marcin Kisielowski
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.04440](https://arxiv.org/abs/2211.04440)
+ - **Abstract**
+ In Loop Quantum Gravity mathematically rigorous models of full quantum gravity were proposed. In this paper we study a cosmological sector of one of the models describing quantum gravity with positive cosmological constant coupled to massless scalar field. In our previous research we introduced a method to reduce the model to homogeneous-isotropic sector at the quantum level. In this paper we propose a method to restrict to the spatially flat sector. After this restriction the number of degrees of freedom gets substantially reduced. This allows us to make numerical calculations. Remarkably, the resulting model shares some structural similarities with the Loop Quantum Cosmological models and therefore sheds some new light on the relation between Loop Quantum Gravity and Loop Quantum Cosmology. According to our model the evolution of the Universe is periodic. The quantum gravity effects resolve the Big Bang singularity leading to a Big Bounce and cause the Universe to contract after a classical expansion phase (Big Crunch). 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2211.03806]](https://arxiv.org/abs/2211.03806) - *Integrability treatment of AdS/CFT orbifolds* - Torben Skrzypek
+
+
+
 ### Tue - 11/08/22
 
 #### Loop quantum gravity related papers
