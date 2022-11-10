@@ -9,6 +9,12 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2211.04500]](https://arxiv.org/abs/2211.04500) - *Gauge-invariant perturbations at a quantum gravity bounce* - Steffen Gielen, Lisa Mickel
+
+1. [[2211.04743]](https://arxiv.org/abs/2211.04743) - *Geometry from local flatness in Lorentzian spin foam theories* - Pietro Dona
+
+1. [[2211.04826]](https://arxiv.org/abs/2211.04826) - *Scalar curvature operator for quantum-reduced loop gravity* - Jerzy Lewandowski, Ilkka Mäkinen
+
 1. [[2211.04263]](https://arxiv.org/abs/2211.04263) - *Loop quantum black hole in a gravitational collapse model* - Jinsong Yang, Cong Zhang, Yongge Ma
 
 1. [[2211.04440]](https://arxiv.org/abs/2211.04440) - *Bouncing Universe in Loop Quantum Gravity: full theory calculation* - Marcin Kisielowski

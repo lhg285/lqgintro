@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/10/22
+
+#### Loop quantum gravity related papers
+
+#### **Gauge-invariant perturbations at a quantum gravity bounce**
+ - **Authors:** Steffen Gielen, Lisa Mickel
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.04500](https://arxiv.org/abs/2211.04500)
+ - **Abstract**
+ We study the dynamics of gauge-invariant scalar perturbations in cosmological scenarios with a modified Friedmann equation, such as quantum gravity bouncing cosmologies. We work within a separate universe approximation which captures wavelengths larger than the cosmological horizon; this approximation has been successfully applied to loop quantum cosmology and group field theory. We consider two variables commonly used to characterise scalar perturbations: the curvature perturbation on uniform-density hypersurfaces $\zeta$ and the comoving curvature perturbation $\mathcal{R}$. For standard cosmological models in general relativity as well as in loop quantum cosmology, these quantities are conserved and equal on super-horizon scales for adiabatic perturbations. Here we show that while these statements can be extended to a more general form of modified Friedmann equations similar to that of loop quantum cosmology, in other cases, such as the simplest group field theory bounce scenario, $\zeta$ is conserved across the bounce whereas $\mathcal{R}$ is not. We relate our results to approaches based on a second order equation for a single perturbation variable, such as the Mukhanov-Sasaki equation. 
+
+#### **Scalar curvature operator for quantum-reduced loop gravity**
+ - **Authors:** Jerzy Lewandowski, Ilkka Mäkinen
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.04826](https://arxiv.org/abs/2211.04826)
+ - **Abstract**
+ In a previous article we have introduced an operator representing the three-dimensional scalar curvature in loop quantum gravity. In this article we examine the new curvature operator in the setting of quantum-reduced loop gravity. We derive the explicit form of the curvature operator as an operator on the Hilbert space of the quantum-reduced model. As a simple practical example, we study the expectation values of the operator with respect to basis states of the reduced Hilbert space. 
+
+#### Spin foam related papers
+
+#### **Geometry from local flatness in Lorentzian spin foam theories**
+ - **Authors:** Pietro Dona
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.04743](https://arxiv.org/abs/2211.04743)
+ - **Abstract**
+ Local flatness is a property shared by all the spin foam models. It ensures that the theory's fundamental building blocks are flat by requiring locally trivial parallel transport. In the context of simplicial Lorentzian spin foam theory, we show that local flatness is the main responsible for the emergence of geometry independently of the details of the spin foam model. We discuss the asymptotic analysis of the EPRL spin foam amplitudes in the large quantum number regime, highlighting the interplay with local flatness. 
+
 ### Wed - 11/09/22
 
 #### Loop quantum gravity related papers
