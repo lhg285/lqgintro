@@ -11,6 +11,8 @@ permalink: /all_papers/
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
 1. [[2211.05621]](https://arxiv.org/abs/2211.05621) - *Quantum geometry and black holes* - Rodolfo Gambini, Javier Olmedo, Jorge Pullin
 
+1. [[2211.05621]](https://arxiv.org/abs/2211.05621) - *Quantum geometry and black holes* - Rodolfo Gambini, Javier Olmedo, Jorge Pullin
+
 1. [[2211.04500]](https://arxiv.org/abs/2211.04500) - *Gauge-invariant perturbations at a quantum gravity bounce* - Steffen Gielen, Lisa Mickel
 
 1. [[2211.04743]](https://arxiv.org/abs/2211.04743) - *Geometry from local flatness in Lorentzian spin foam theories* - Pietro Dona
