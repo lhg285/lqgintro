@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Sun - 11/13/22
+
+#### Loop quantum gravity related papers
+
+#### **Quantum geometry and black holes**
+ - **Authors:** Rodolfo Gambini, Javier Olmedo, Jorge Pullin
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.05621](https://arxiv.org/abs/2211.05621)
+ - **Abstract**
+ We summarize our work on spherically symmetric midi-superspaces in loop quantum gravity. Our approach is based on using inhomogeneous slicings that may penetrate the horizon in case there is one and on a redefinition of the constraints so the Hamiltonian has an Abelian algebra with itself. We discuss basic and improved quantizations as is done in loop quantum cosmology. We discuss the use of parameterized Dirac observables to define operators associated with kinematical variables in the physical space of states, as a first step to introduce an operator associated with the space-time metric. We analyze the elimination of singularities and how they are replaced by extensions of the space-times. We discuss the charged case and potential observational consequences in quasinormal modes. We also analyze the covariance of the approach. Finally, we comment on other recent approaches of quantum black holes, including mini-superspaces motivated by loop quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2211.05508]](https://arxiv.org/abs/2211.05508) - *Scaling solutions for asymptotically free quantum gravity* - Saswato Sen, Christof Wetterich, Masatoshi Yamada
+
+1. [[2211.05606]](https://arxiv.org/abs/2211.05606) - *Classical and quantum nonlocal gravity* - Arnau Bas i Beneito, Gianluca Calcagni, Lesław Rachwał
+
+
+
 ### Sat - 11/12/22
 
 #### Loop quantum gravity related papers
