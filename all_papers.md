@@ -9,6 +9,8 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2211.05914]](https://arxiv.org/abs/2211.05914) - *Integrability and BRST invariance from BF topological theory* - A. Restuccia, A. Sotomayor
+
 1. [[2211.05621]](https://arxiv.org/abs/2211.05621) - *Quantum geometry and black holes* - Rodolfo Gambini, Javier Olmedo, Jorge Pullin
 
 1. [[2211.05621]](https://arxiv.org/abs/2211.05621) - *Quantum geometry and black holes* - Rodolfo Gambini, Javier Olmedo, Jorge Pullin
