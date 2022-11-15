@@ -9,6 +9,14 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2211.06653]](https://arxiv.org/abs/2211.06653) - *Investigating Loop Quantum Gravity with EHT Observational Effects of  Rotating Black holes* - Shafqat Ul Islam, Jitendra Kumar, Rahul Kumar Walia, Sushant G. Ghosh
+
+1. [[2211.06718]](https://arxiv.org/abs/2211.06718) - *Philosophical Foundations of Loop Quantum Gravity* - Carlo Rovelli, Francesca Vidotto
+
+1. [[2211.07017]](https://arxiv.org/abs/2211.07017) - *On topology changes in quantum field theory and quantum gravity* - Benjamin Schulz
+
+1. [[2211.07498]](https://arxiv.org/abs/2211.07498) - *The weak coupling theory of all dimensional loop quantum gravity* - Gaoping Long, Chun-Yen Lin
+
 1. [[2211.05914]](https://arxiv.org/abs/2211.05914) - *Integrability and BRST invariance from BF topological theory* - A. Restuccia, A. Sotomayor
 
 1. [[2211.05621]](https://arxiv.org/abs/2211.05621) - *Quantum geometry and black holes* - Rodolfo Gambini, Javier Olmedo, Jorge Pullin
