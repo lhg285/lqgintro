@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/17/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2211.08793]](https://arxiv.org/abs/2211.08793) - *Non-thermal acceleration radiation of atoms near a black hole in  presence of dark energy* - Syed Masood A. S. Bukhari, Imtiyaz Ahmad Bhat, Chenni Xu, Li-Gang Wang
+
+1. [[2211.08839]](https://arxiv.org/abs/2211.08839) - *DHOST gravity in Ultra-diffuse galaxies -- Part II: NGC 1052-DF4 and  Dragonfly 44* - Enrico Laudato, Vincenzo Salzano
+
+
+
 ### Wed - 11/16/22
 
 #### Loop quantum gravity related papers
