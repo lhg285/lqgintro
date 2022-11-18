@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/18/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Spin foams, Refinement limit and Renormalization**
+ - **Authors:** Seth K. Asante, Bianca Dittrich, Sebastian Steinhaus
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.09578](https://arxiv.org/abs/2211.09578)
+ - **Abstract**
+ Spin foams provide path integrals for quantum gravity, which employ discretizations as regulator. To obtain regulator independent predictions, we must remove these fiducial structures in a suitable refinement limit. In this chapter we present the current state of research: We begin with a discussion on the role of diffeomorphism symmetries in discrete systems, the notion of scale in background independent theories and how we can consistently improve theories via renormalization to reduce regulator dependence. We present the consistent boundary formulation, which provides a renormalization framework for background independent theories, and discuss tensor network methods and restricted spin foams, which provide concrete renormalization algorithms aiming at the construction of consistent boundary amplitudes for spin foams. We furthermore discuss effective spin foams, which have allowed for the construction of a perturbative refinement limit and an associated effective continuum action. 
+
+
+
+#### Other related papers
+
+1. [[2211.09192]](https://arxiv.org/abs/2211.09192) - *Stability properties of Regular Black Holes* - Alfio Bonanno, Frank Saueressig
+
+1. [[2211.09128]](https://arxiv.org/abs/2211.09128) - *Holographic origin of TCC and the Distance Conjecture* - Alek Bedroya
+
+
+
 ### Thu - 11/17/22
 
 #### Loop quantum gravity related papers
