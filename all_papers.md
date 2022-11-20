@@ -13,6 +13,8 @@ permalink: /all_papers/
 
 1. [[2211.09578]](https://arxiv.org/abs/2211.09578) - *Spin foams, Refinement limit and Renormalization* - Seth K. Asante, Bianca Dittrich, Sebastian Steinhaus
 
+1. [[2211.09578]](https://arxiv.org/abs/2211.09578) - *Spin foams, Refinement limit and Renormalization* - Seth K. Asante, Bianca Dittrich, Sebastian Steinhaus
+
 1. [[2211.06653]](https://arxiv.org/abs/2211.06653) - *Investigating Loop Quantum Gravity with EHT Observational Effects of  Rotating Black holes* - Shafqat Ul Islam, Jitendra Kumar, Rahul Kumar Walia, Sushant G. Ghosh
 
 1. [[2211.06718]](https://arxiv.org/abs/2211.06718) - *Philosophical Foundations of Loop Quantum Gravity* - Carlo Rovelli, Francesca Vidotto
