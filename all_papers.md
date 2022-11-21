@@ -9,6 +9,8 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2211.10136]](https://arxiv.org/abs/2211.10136) - *3 Definitions of BF Theory on Homology 3-Spheres* - Matthias Blau, Mbambu Kakona, George Thompson
+
 1. [[2211.09578]](https://arxiv.org/abs/2211.09578) - *Spin foams, Refinement limit and Renormalization* - Seth K. Asante, Bianca Dittrich, Sebastian Steinhaus
 
 1. [[2211.09578]](https://arxiv.org/abs/2211.09578) - *Spin foams, Refinement limit and Renormalization* - Seth K. Asante, Bianca Dittrich, Sebastian Steinhaus
