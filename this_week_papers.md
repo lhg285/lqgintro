@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/22/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2211.11347]](https://arxiv.org/abs/2211.11347) - *Quantum Euler angles and agency-dependent spacetime* - Giovanni Amelino-Camelia, Vittorio D'Esposito, Giuseppe Fabiano, Domenico Frattulillo, Philipp A. Hoehn, Flavio Mercati
+
+1. [[2211.11585]](https://arxiv.org/abs/2211.11585) - *Are nonsingular black holes with super-Planckian hair ruled out by S2  star data?* - M. Cadoni, M. De Laurentis, I. De Martino, R. Della Monica, M. Oi, A. P. Sanna
+
+1. [[2211.11684]](https://arxiv.org/abs/2211.11684) - *Deformed relativistic symmetry principles* - Michele Arzano, Giulia Gubitosi, José Javier Relancio
+
+
+
 ### Mon - 11/21/22
 
 #### Loop quantum gravity related papers
