@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/25/22
+
+#### Loop quantum gravity related papers
+
+#### **Mean-field phase transitions in TGFT quantum gravity**
+ - **Authors:** Luca Marchetti, Daniele Oriti, Andreas G. A. Pithis, Johannes Thürigen
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.12768](https://arxiv.org/abs/2211.12768)
+ - **Abstract**
+ Controlling the continuum limit and extracting effective gravitational physics is a shared challenge for quantum gravity approaches based on quantum discrete structures. The description of quantum gravity in terms of tensorial group field theory (TGFT) has recently led to much progress in its application to phenomenology, in particular cosmology. This application relies on the assumption of a phase transition to a nontrivial vacuum (condensate) state describable by mean-field theory, an assumption that is difficult to corroborate by a full RG flow analysis due to the complexity of the relevant TGFT models. Here we demonstrate that this assumption is justified due to the specific ingredients of realistic quantum geometric TGFT models: combinatorially non-local interactions, matter degrees of freedom and Lorentz group data together with the encoding of micro-causality. This greatly strengthens the evidence for the existence of a meaningful continuum gravitational regime in group-field and spin foam quantum gravity, the phenomenology of which is amenable to explicit computations in a mean-field approximation. 
+
+#### Spin foam related papers
+
+#### **Mean-field phase transitions in TGFT quantum gravity**
+ - **Authors:** Luca Marchetti, Daniele Oriti, Andreas G. A. Pithis, Johannes Thürigen
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2211.12768](https://arxiv.org/abs/2211.12768)
+ - **Abstract**
+ Controlling the continuum limit and extracting effective gravitational physics is a shared challenge for quantum gravity approaches based on quantum discrete structures. The description of quantum gravity in terms of tensorial group field theory (TGFT) has recently led to much progress in its application to phenomenology, in particular cosmology. This application relies on the assumption of a phase transition to a nontrivial vacuum (condensate) state describable by mean-field theory, an assumption that is difficult to corroborate by a full RG flow analysis due to the complexity of the relevant TGFT models. Here we demonstrate that this assumption is justified due to the specific ingredients of realistic quantum geometric TGFT models: combinatorially non-local interactions, matter degrees of freedom and Lorentz group data together with the encoding of micro-causality. This greatly strengthens the evidence for the existence of a meaningful continuum gravitational regime in group-field and spin foam quantum gravity, the phenomenology of which is amenable to explicit computations in a mean-field approximation. 
+
+
+
+#### Other related papers
+
+1. [[2211.13176]](https://arxiv.org/abs/2211.13176) - *A Chiral ${\cal W}$-Algebra Extension of $\mathfrak{so}(2,3)$* - Nishant Gupta, Nemani V. Suryanarayana
+
+
+
 ### Thu - 11/24/22
 
 #### Loop quantum gravity related papers
