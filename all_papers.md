@@ -13,6 +13,8 @@ permalink: /all_papers/
 
 1. [[2211.12768]](https://arxiv.org/abs/2211.12768) - *Mean-field phase transitions in TGFT quantum gravity* - Luca Marchetti, Daniele Oriti, Andreas G. A. Pithis, Johannes Thürigen
 
+1. [[2211.12768]](https://arxiv.org/abs/2211.12768) - *Mean-field phase transitions in TGFT quantum gravity* - Luca Marchetti, Daniele Oriti, Andreas G. A. Pithis, Johannes Thürigen
+
 1. [[2211.11826]](https://arxiv.org/abs/2211.11826) - *Schrödinger from Wheeler-DeWitt: The Issues of Time and Inner  Product in Canonical Quantum Gravity* - Ali Kaya
 
 1. [[2211.10136]](https://arxiv.org/abs/2211.10136) - *3 Definitions of BF Theory on Homology 3-Spheres* - Matthias Blau, Mbambu Kakona, George Thompson
