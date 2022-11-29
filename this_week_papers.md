@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/29/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2211.15040]](https://arxiv.org/abs/2211.15040) - *Shadow of regular black hole in scalar-tensor-vector gravity theory* - Subhadip Sau, John W. Moffat
+
+1. [[2211.15130]](https://arxiv.org/abs/2211.15130) - *Superradiance of massive scalar particles around rotating regular black  holes* - Hao Yang, Yan-Gang Miao
+
+1. [[2211.15344]](https://arxiv.org/abs/2211.15344) - *The tensor of the exact circle: Reconstructing geometry* - Dennis Obster
+
+1. [[2211.14325]](https://arxiv.org/abs/2211.14325) - *Implications of the Weak Gravity Conjecture for Tidal Love Numbers of  Black Holes* - Valerio De Luca, Justin Khoury, Sam S. C. Wong
+
+1. [[2211.15305]](https://arxiv.org/abs/2211.15305) - *AdS/CFT Correspondence with a 3D Black Hole Simulator* - Aydin Deger, Jiannis K. Pachos
+
+
+
 ### Mon - 11/28/22
 
 #### Loop quantum gravity related papers
