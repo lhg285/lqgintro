@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/30/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2211.16426]](https://arxiv.org/abs/2211.16426) - *Analyzing quantum gravity spillover in the semiclassical regime* - Harkirat Singh Sahota, Kinjalk Lochan
+
+1. [[2211.16045]](https://arxiv.org/abs/2211.16045) - *Fun with replicas: tripartitions in tensor networks and gravity* - Geoff Penington, Michael Walter, Freek Witteveen
+
+1. [[2211.16430]](https://arxiv.org/abs/2211.16430) - *Entanglement Entropy, Local IR/UV Connection and MPS in Weyl-deformed  Geometries* - Leo Shaposhnik
+
+
+
 ### Tue - 11/29/22
 
 #### Loop quantum gravity related papers
