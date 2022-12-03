@@ -11,6 +11,8 @@ permalink: /all_papers/
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
 1. [[2212.00203]](https://arxiv.org/abs/2212.00203) - *Realization of Dirac quantization in loop quantum gravity* - Xiangdong Zhang, Yongge Ma
 
+1. [[2212.00203]](https://arxiv.org/abs/2212.00203) - *Realization of Dirac quantization in loop quantum gravity* - Xiangdong Zhang, Yongge Ma
+
 1. [[2211.12768]](https://arxiv.org/abs/2211.12768) - *Mean-field phase transitions in TGFT quantum gravity* - Luca Marchetti, Daniele Oriti, Andreas G. A. Pithis, Johannes Thürigen
 
 1. [[2211.12768]](https://arxiv.org/abs/2211.12768) - *Mean-field phase transitions in TGFT quantum gravity* - Luca Marchetti, Daniele Oriti, Andreas G. A. Pithis, Johannes Thürigen
