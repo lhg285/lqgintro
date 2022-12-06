@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/06/22
+
+#### Loop quantum gravity related papers
+
+#### **Spherical symmetric gravitational collapse of a dust cloud: polymerized  dynamics in reduced phase space**
+ - **Authors:** Kristina Giesel, Muxin Han, Bao-Fei Li, Hongguang Liu, Parampreet Singh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2212.01930](https://arxiv.org/abs/2212.01930)
+ - **Abstract**
+ Based on the effective dynamics in the $\bar \mu$ scheme of the spherical symmetry reduced model in the reduced phase space formulation of loop quantum gravity (LQG), we investigate the gravitational collapse of a homogeneous dust cloud, with Gaussian dust serving as both the reference field and the source of the gravitational collapse. The effective dynamics from the considered model for a homogeneous dust cloud reduces precisely to the effective dynamics of loop quantum cosmology (LQC) with extrinsic curvature based K-quantization, indicating that the LQC effective dynamics lives as a subsector of the model presented here. In both the marginally bound and the bound cases of the collapse in effective dynamics, the singularity is resolved and replaced by a bounce. Though quantum geometric modification from spatial curvature is not directly included in the K-quantization it does affect the qualitative dynamics of the collapsing dust cloud in the sense that on the one hand for the marginally bound case, the dust cloud bounces once at fixed maximum energy density and on the other hand for the bound case, the dust cloud undergoes infinite cycles of contraction and expansion at energy densities dependent on the dust mass. Finally, the mass threshold for the formation of a trapped surface in each case is found and the matching conditions between the interior collapsing spacetime and an effective exterior static solution are discussed. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.01798]](https://arxiv.org/abs/2212.01798) - *Absorption and scattering of massless scalar wave from Regular Black  Holes* - Mao-Yuan Wan, Chen Wu
+
+1. [[2212.01697]](https://arxiv.org/abs/2212.01697) - *Pure Supersymmetric AdS and the Swampland* - Miguel Montero, Martin Rocek, Cumrun Vafa
+
+1. [[2212.01942]](https://arxiv.org/abs/2212.01942) - *Focusing bounds for CFT correlators and the S-matrix* - Thomas Hartman, Yikun Jiang, Francesco Sgarlata, Amirhossein Tajdini
+
+
+
 ### Mon - 12/05/22
 
 #### Loop quantum gravity related papers
