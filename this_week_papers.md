@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/07/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.03031]](https://arxiv.org/abs/2212.03031) - *Lessons from the Mathematics of Two-Dimensional Euclidean Quantum  Gravity* - Timothy Budd
+
+1. [[2212.02557]](https://arxiv.org/abs/2212.02557) - *Non-Supersymmetric AdS from String Theory* - Zihni Kaan Baykara, Daniel Robbins, Savdeep Sethi
+
+1. [[2212.03193]](https://arxiv.org/abs/2212.03193) - *A note on the bulk interpretation of the Quantum Extremal Surface  formula* - Gabriel Wong
+
+1. [[2212.03219]](https://arxiv.org/abs/2212.03219) - *Holographic Cosmology on Closed Slices in 2+1 Dimensions* - Goncalo Araujo-Regado
+
+
+
 ### Tue - 12/06/22
 
 #### Loop quantum gravity related papers
