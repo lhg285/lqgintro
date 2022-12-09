@@ -6,26 +6,6 @@ categories: Archived weekly pre-prints
 ---
 
 
-### Sun - 10/09/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Sat - 10/08/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
 ### Fri - 10/07/22
 
 #### Loop quantum gravity related papers
@@ -163,7 +143,7 @@ There is no new related paper today
 
 1. [[2209.15309]](https://arxiv.org/abs/2209.15309) - *NLO finite system size corrections to $2\to2$ scattering in $φ^4$  theory using newly derived sum of sinc functions* - J.F. Du Plessis, W. A. Horowitz
 
-1. [[2209.15456]](https://arxiv.org/abs/2209.15456) - *Lyapunov exponents in $\mathbf{{\cal N}=2}$ supersymmetric  Jackiw-Teitelboim* - Ruben Campos Delgado, Stefan Forste
+1. [[2209.15456]](https://arxiv.org/abs/2209.15456) - *Lyapunov exponents in $\mathcal{N}=2$ supersymmetric  Jackiw-Teitelboim* - Ruben Campos Delgado, Stefan Forste
 
 
 
