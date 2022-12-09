@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/09/22
+
+#### Loop quantum gravity related papers
+
+#### **Simplified formula of deflection angle with Gauss-Bonnet theorem and its  application**
+ - **Authors:** Yang Huang, Zhoujian Cao
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2212.04254](https://arxiv.org/abs/2212.04254)
+ - **Abstract**
+ For the calculation of gravitational deflection angle in Gibbons-Werner (GW) method, a simplified formula is derived by analyzing the surface integral of Gaussian curvature in the geometric expression. The usage of our simplified formula is two folded. (a) One can calculate the deflection angle more easily with the new formula. Taking the massive particles in a rotating black hole in loop quantum gravity (LQG) as an example, we show the new calculation process and obtain the finite-distance weak gravitational deflection angle which can generalize existing special cases. (b) Different from the conventional treatment, the new calculation process based on our simplified formula does not involve the quantities at infinity, and may be applicable to asymptotically nonflat spacetimes. For the photons in Schwarzschild-de Sitter spacetime and the massive particles in Schwarzschild-like spacetime in bumblebee gravity model, we obtain the desirable deflection angles by using the simplified formula. The results of other asymptotically nonflat spacetimes in previous works are also reproduced perfectly with our new calculation formula. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.03881]](https://arxiv.org/abs/2212.03881) - *Restricted Quantum Focusing* - Arvin Shahbazi-Moghaddam
+
+1. [[2212.03908]](https://arxiv.org/abs/2212.03908) - *The Emergence Proposal in Quantum Gravity and the Species Scale* - Alberto Castellano, Alvaro Herráez, Luis E. Ibáñez
+
+
+
 ### Thu - 12/08/22
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 1. [[2207.08294]](http://arxiv.org/abs/2207.08294v1) - *Renormalisation, wavelets and the Dirichlet-Shannon kernels* - T. Thiemann
 
 1. [[2207.08291]](http://arxiv.org/abs/2207.08291v1) - *Hamiltonian Renormalisation VII: Free fermions and doubler free kernels* - T. Thiemann
+1. [[2212.04254]](https://arxiv.org/abs/2212.04254) - *Simplified formula of deflection angle with Gauss-Bonnet theorem and its  application* - Yang Huang, Zhoujian Cao
+
 1. [[2212.01930]](https://arxiv.org/abs/2212.01930) - *Spherical symmetric gravitational collapse of a dust cloud: polymerized  dynamics in reduced phase space* - Kristina Giesel, Muxin Han, Bao-Fei Li, Hongguang Liu, Parampreet Singh
 
 1. [[2212.00933]](https://arxiv.org/abs/2212.00933) - *Fermions in Loop Quantum Gravity and Resolution of Doubling Problem* - Cong Zhang, Hongguang Liu, Muxin Han
