@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2212.04605]](https://arxiv.org/abs/2212.04605) - *Covariant ${\barμ}$-scheme effective dynamics, mimetic gravity, and  non-singular black holes: Applications to spherical symmetric quantum gravity  and CGHS model* - Muxin Han, Hongguang Liu
+
 
 
 1. [[2212.04254]](https://arxiv.org/abs/2212.04254) - *Simplified formula of deflection angle with Gauss-Bonnet theorem and its  application* - Yang Huang, Zhoujian Cao
