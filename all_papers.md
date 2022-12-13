@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2212.05531]](https://arxiv.org/abs/2212.05531) - *A non-singular generalized entropy and its implications on bounce  cosmology* - Sergei D. Odintsov, Tanmoy Paul
+
+1. [[2212.05748]](https://arxiv.org/abs/2212.05748) - *Alternative $k=-1$ loop quantum cosmology* - Jinsong Yang, Cong Zhang, Xiangdong Zhang
+
+1. [[2212.06083]](https://arxiv.org/abs/2212.06083) - *Entanglement Negativity on Random Spin Networks* - Goffredo Chirco, Simone Cepollaro, Gianluca Cuffaro, Vittorio D'Esposito
+
 1. [[2212.04605]](https://arxiv.org/abs/2212.04605) - *Covariant ${\barμ}$-scheme effective dynamics, mimetic gravity, and  non-singular black holes: Applications to spherical symmetric quantum gravity  and CGHS model* - Muxin Han, Hongguang Liu
 
 
