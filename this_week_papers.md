@@ -6,6 +6,37 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/14/22
+
+#### Loop quantum gravity related papers
+
+#### **Generic features of a polymer quantum black hole**
+ - **Authors:** Johannes Münch, Alejandro Perez, Simone Speziale, Sami Viollet
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2212.06708](https://arxiv.org/abs/2212.06708)
+ - **Abstract**
+ Non-singular black holes models can be described by modified classical equations motivated by loop quantum gravity. We investigate what happens when the sine function typically used in the modification is replaced by an arbitrary bounded function, a generalization meant to study the effect of ambiguities such as the choice of representation of the holonomy. A number of features can be determined without committing to a specific choice of functions. We find generic singularity resolution. The presence and number of horizons is determined by global features of the function regularizing the angular components of the connection, and the presence and number of bounces by global features of the function regularizing the time component. The trapping or anti-trapping nature of regions inside horizons depends on the relative location with respect to eventual bounces. We use these results to comment on some of the ambiguities of polymer black hole models. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.06187]](https://arxiv.org/abs/2212.06187) - *Lectures on the string landscape and the Swampland* - Nathan Benjamin Agmon, Alek Bedroya, Monica Jinwoo Kang, Cumrun Vafa
+
+1. [[2212.06677]](https://arxiv.org/abs/2212.06677) - *Effective Field Theory for Compact Binary Dynamics* - Walter D. Goldberger
+
+1. [[2212.06774]](https://arxiv.org/abs/2212.06774) - *Path Integral for Mixed Tunneling, Polychronic Tunneling and Quantum  Gravity* - Yutaro Shoji
+
+1. [[2212.06533]](https://arxiv.org/abs/2212.06533) - *C*-algebraic results in the search for quantum gauge fields* - Teun D. H. van Nuland
+
+1. [[2212.06661]](https://arxiv.org/abs/2212.06661) - *Hierarchies in relative Picard-Lefschetz theory* - Marko Berghoff, Erik Panzer
+
+
+
 ### Tue - 12/13/22
 
 #### Loop quantum gravity related papers

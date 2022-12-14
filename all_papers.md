@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2212.06708]](https://arxiv.org/abs/2212.06708) - *Generic features of a polymer quantum black hole* - Johannes Münch, Alejandro Perez, Simone Speziale, Sami Viollet
+
 1. [[2212.05531]](https://arxiv.org/abs/2212.05531) - *A non-singular generalized entropy and its implications on bounce  cosmology* - Sergei D. Odintsov, Tanmoy Paul
 
 1. [[2212.05748]](https://arxiv.org/abs/2212.05748) - *Alternative $k=-1$ loop quantum cosmology* - Jinsong Yang, Cong Zhang, Xiangdong Zhang
