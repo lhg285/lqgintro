@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/15/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.06970]](https://arxiv.org/abs/2212.06970) - *Measuring gravitational force from Femto-gram source masses* - Ahmed Roman, Asem Hassan, Mohamed ElKabbash
+
+1. [[2212.06841]](https://arxiv.org/abs/2212.06841) - *Moduli-dependent Species Scale* - Damian van de Heisteeg, Cumrun Vafa, Max Wiesner, David H. Wu
+
+1. [[2212.07089]](https://arxiv.org/abs/2212.07089) - *Narain CFTs from qudit stabilizer codes* - Kohki Kawabata, Tatsuma Nishioka, Takuya Okuda
+
+
+
 ### Wed - 12/14/22
 
 #### Loop quantum gravity related papers
