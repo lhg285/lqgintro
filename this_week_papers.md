@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/16/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.07458]](https://arxiv.org/abs/2212.07458) - *Comment on "Stability properties of Regular Black Holes"* - Raúl Carballo-Rubio, Francesco Di Filippo, Stefano Liberati, Costantino Pacilio, Matt Visser
+
+1. [[2212.07800]](https://arxiv.org/abs/2212.07800) - *Locally covariant approach to effective quantum gravity* - Romeo Brunetti, Klaus Fredenhagen, Kasia Rejzner
+
+1. [[2212.07436]](https://arxiv.org/abs/2212.07436) - *CFTs dual to quantum gravity with strongly coupled matter* - Luis Apolo, Alexandre Belin, Suzanne Bintanja, Alejandra Castro, Christoph A. Keller
+
+1. [[2212.07446]](https://arxiv.org/abs/2212.07446) - *An Inner Product for 4D Quantum Gravity and the Chern-Simons-Kodama  State* - Stephon Alexander, Laurent Freidel, Gabriel Herczeg
+
+
+
 ### Thu - 12/15/22
 
 #### Loop quantum gravity related papers
