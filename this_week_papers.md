@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/20/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.09495]](https://arxiv.org/abs/2212.09495) - *Black holes in asymptotically safe gravity and beyond* - Astrid Eichhorn, Aaron Held
+
+1. [[2212.08668]](https://arxiv.org/abs/2212.08668) - *Estimating global charge violating amplitudes from wormholes* - Ibrahima Bah, Yiming Chen, Juan Maldacena
+
+1. [[2212.08676]](https://arxiv.org/abs/2212.08676) - *Black Holes as Probes of Moduli Space Geometry* - Matilda Delgado, Miguel Montero, Cumrun Vafa
+
+1. [[2212.09509]](https://arxiv.org/abs/2212.09509) - *AdS correction to the Faddeev-Kulish state: Migrating from the Flat  Peninsula* - Sarthak Duary
+
+1. [[2212.09636]](https://arxiv.org/abs/2212.09636) - *Integrability for Feynman Integrals* - Florian Loebbert
+
+
+
 ### Mon - 12/19/22
 
 #### Loop quantum gravity related papers
