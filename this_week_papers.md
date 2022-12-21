@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/21/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.09784]](https://arxiv.org/abs/2212.09784) - *Glimpse of Quantum Gravitons post the Last Scattering Surface* - Ankit Dhanuka, Kinjalk Lochan
+
+1. [[2212.09758]](https://arxiv.org/abs/2212.09758) - *The Asymptotic Weak Gravity Conjecture in M-theory* - Cesar Fierro Cota, Alessandro Mininno, Timo Weigand, Max Wiesner
+
+1. [[2212.10286]](https://arxiv.org/abs/2212.10286) - *Black hole entropy and moduli-dependent species scale* - Niccolò Cribiori, Dieter Lust, Georgina Staudt
+
+
+
 ### Tue - 12/20/22
 
 #### Loop quantum gravity related papers
