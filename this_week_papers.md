@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/23/22
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2212.11292]](https://arxiv.org/abs/2212.11292) - *Aperiodic spin chains at the boundary of hyperbolic tilings* - Pablo Basteiro, Rathindra Nath Das, Giuseppe Di Giulio, Johanna Erdmenger
+
+1. [[2212.11829]](https://arxiv.org/abs/2212.11829) - *Aspects of Conformal Field Theory* - Matteo Broccoli
+
+1. [[2212.11978]](https://arxiv.org/abs/2212.11978) - *Computable Cross Norm in Tensor Networks and Holography* - Alexey Milekhin, Pratik Rath, Wayne Weng
+
+1. [[2212.11872]](https://arxiv.org/abs/2212.11872) - *A Nonvanishing Spectral Gap for AKLT Models on Generalized Decorated  Graphs* - Angelo Lucia, Amanda Young
+
+
+
 ### Thu - 12/22/22
 
 #### Loop quantum gravity related papers
