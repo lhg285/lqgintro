@@ -6,40 +6,16 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 12/23/22
+### Mon - 12/26/22
 
 #### Loop quantum gravity related papers
 
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2212.11292]](https://arxiv.org/abs/2212.11292) - *Aperiodic spin chains at the boundary of hyperbolic tilings* - Pablo Basteiro, Rathindra Nath Das, Giuseppe Di Giulio, Johanna Erdmenger
-
-1. [[2212.11829]](https://arxiv.org/abs/2212.11829) - *Aspects of Conformal Field Theory* - Matteo Broccoli
-
-1. [[2212.11978]](https://arxiv.org/abs/2212.11978) - *Computable Cross Norm in Tensor Networks and Holography* - Alexey Milekhin, Pratik Rath, Wayne Weng
-
-1. [[2212.11872]](https://arxiv.org/abs/2212.11872) - *A Nonvanishing Spectral Gap for AKLT Models on Generalized Decorated  Graphs* - Angelo Lucia, Amanda Young
-
-
-
-### Thu - 12/22/22
-
-#### Loop quantum gravity related papers
-
-#### **On the horizon area of effective loop quantum black holes**
- - **Authors:** F. C. Sobrinho, H. A. Borges, I. P. R. Baranov, S. Carneiro
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/2212.11199](https://arxiv.org/abs/2212.11199)
+#### **Regularizations and quantum dynamics in loop quantum cosmology**
+ - **Authors:** Maciej Kowalczyk, Tomasz Pawłowski
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2212.12527](https://arxiv.org/abs/2212.12527)
  - **Abstract**
- Effective models of quantum black holes inspired by Loop Quantum Gravity (LQG) have had success in resolving the classical singularity with polymerisation procedures and by imposing the LQG area gap as a minimum area. The singularity is replaced by a hypersurface of transition from black to white holes, and a recent example is the Ashtekar, Olmedo and Singh (AOS) model for a Schwarzschild black hole. More recently, a one-parameter model, with equal masses for the black and white solutions, was suggested by Alonso-Bardaji, Brizuela and Vera (ABBV). An interesting feature of their quantisation is that the angular part of the metric retains its classical form and the horizon area is therefore the same as in the classical theory. In the present contribution we solve the dynamical equations derived from the ABBV effective Hamiltonian and, by applying the AOS minimal area condition, we obtain the scaling of the polymerisation parameter with the black hole mass. We than show that this effective model can also describe Planck scale black holes, and that the curvature and quantum corrections at the horizon are small even at this scale. 
+ One of critical components of Loop Quantum Gravity (LQG) and Cosmology (LQC) -- Thiemann regularization procedure is non-unique. Different choices of particular prescriptions lead to models which differ in both mathematical structure and physical predictions. Here we briefly recall a set of such prescriptions proposed in the literature in context of isotropic LQC on the example of a flat universe with massless scalar matter content. For the one least investigated so far, further called Yang-Ding-Ma prescription, a detailed analysis of its mathematical structure and resulting quantum dynamics is performed, confirming and extending the results obtained so far by phenomenological methods. In order to probe the dynamics, a relatively robust method (working in the approximation of the macroscopic universe) of evaluating quantum trajectories is devised. Said method is a variant of a semiclassical treatment that allows to express the trajectories analytically as function of internal clock and a set of certain central moments -- constants of motion encoding quantum corrections up to arbitrary order in systematic manner. As a test of method's robustness analogous evaluation of the quantum trajectory in volume is performed for those of other prescriptions, for which it is applicable. The limitations of the treatment are further briefly discussed. 
 
 #### Spin foam related papers
 
@@ -49,89 +25,15 @@ There is no new related paper today
 
 #### Other related papers
 
-1. [[2212.10928]](https://arxiv.org/abs/2212.10928) - *Friedmann equations and cosmic bounce in a modified cosmological  scenario* - Ana Alonso-Serrano, Marek Liška, Antonio Vicente-Becerril
+1. [[2212.12175]](https://arxiv.org/abs/2212.12175) - *Beyond the Born rule in quantum gravity* - Antony Valentini
 
-1. [[2212.10592]](https://arxiv.org/abs/2212.10592) - *On the (Non)Hadamard Property of the SJ State in a $1+1$D Causal Diamond* - Yifeng Rocky Zhu, Yasaman K. Yazdi
+1. [[2212.12466]](https://arxiv.org/abs/2212.12466) - *Stochastic fluctuation in heart of time: A new window to quantum gravity* - Behzad Tajahmad
 
-1. [[2212.10607]](https://arxiv.org/abs/2212.10607) - *Partition function for a volume of space* - Ted Jacobson, Manus R. Visser
-
-1. [[2212.11043]](https://arxiv.org/abs/2212.11043) - *Landau Theory of Causal Dynamical Triangulations* - Dario Benedetti
-
-
-
-### Wed - 12/21/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2212.09784]](https://arxiv.org/abs/2212.09784) - *Glimpse of Quantum Gravitons post the Last Scattering Surface* - Ankit Dhanuka, Kinjalk Lochan
-
-1. [[2212.09758]](https://arxiv.org/abs/2212.09758) - *The Asymptotic Weak Gravity Conjecture in M-theory* - Cesar Fierro Cota, Alessandro Mininno, Timo Weigand, Max Wiesner
-
-1. [[2212.10286]](https://arxiv.org/abs/2212.10286) - *Black hole entropy and moduli-dependent species scale* - Niccolò Cribiori, Dieter Lust, Georgina Staudt
-
-
-
-### Tue - 12/20/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2212.09495]](https://arxiv.org/abs/2212.09495) - *Black holes in asymptotically safe gravity and beyond* - Astrid Eichhorn, Aaron Held
-
-1. [[2212.08668]](https://arxiv.org/abs/2212.08668) - *Estimating global charge violating amplitudes from wormholes* - Ibrahima Bah, Yiming Chen, Juan Maldacena
-
-1. [[2212.08676]](https://arxiv.org/abs/2212.08676) - *Black Holes as Probes of Moduli Space Geometry* - Matilda Delgado, Miguel Montero, Cumrun Vafa
-
-1. [[2212.09509]](https://arxiv.org/abs/2212.09509) - *AdS correction to the Faddeev-Kulish state: Migrating from the Flat  Peninsula* - Sarthak Duary
-
-1. [[2212.09636]](https://arxiv.org/abs/2212.09636) - *Integrability for Feynman Integrals* - Florian Loebbert
-
-
-
-### Mon - 12/19/22
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2212.08441]](https://arxiv.org/abs/2212.08441) - *Shift-symmetric Horndeski gravity in the asymptotic-safety paradigm* - Astrid Eichhorn, Rafael R. Lino dos Santos, Fabian Wagner
-
-1. [[2212.08110]](https://arxiv.org/abs/2212.08110) - *Tunable tachyon mass in the PT-broken massive Thirring model* - Benjamin Liegeois, Chitra Ramasubramanian, Nicolo Defenu
-
-1. [[2212.08270]](https://arxiv.org/abs/2212.08270) - *A Note On The Canonical Formalism for Gravity* - Edward Witten
-
-1. [[2212.08643]](https://arxiv.org/abs/2212.08643) - *Deforming Soft Algebras for Gauge Theory* - Walker Melton, Sruthi A. Narayanan, Andrew Strominger
+1. [[2212.12342]](https://arxiv.org/abs/2212.12342) - *Perturbing the symmetric orbifold from the worldsheet* - Marc-Antoine Fiset, Matthias R. Gaberdiel, Kiarash Naderi, Vit Sriprachyakul
 
 
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2022/12/19/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2022/12/26/archived_weekly_papers.html)

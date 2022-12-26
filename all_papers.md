@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2212.12527]](https://arxiv.org/abs/2212.12527) - *Regularizations and quantum dynamics in loop quantum cosmology* - Maciej Kowalczyk, Tomasz Pawłowski
+
 1. [[2212.11199]](https://arxiv.org/abs/2212.11199) - *On the horizon area of effective loop quantum black holes* - F. C. Sobrinho, H. A. Borges, I. P. R. Baranov, S. Carneiro
 
 1. [[2212.06708]](https://arxiv.org/abs/2212.06708) - *Generic features of a polymer quantum black hole* - Johannes Münch, Alejandro Perez, Simone Speziale, Sami Viollet
