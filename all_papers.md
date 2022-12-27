@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2212.13159]](https://arxiv.org/abs/2212.13159) - *Loop quantum cosmological model from ADM Hamiltonian* - You Ding, Xiangdong Zhang
+
+1. [[2212.12872]](https://arxiv.org/abs/2212.12872) - *An extension of the $\mathrm{U}\!\left(1\right)$ BF theory, Turaev-Viro  invariant and Drinfeld center construction. Part I: Quantum fields, quantum  currents and Pontryagin duality* - Emil Høssjer, Philippe Mathieu, Frank Thuillier
+
 1. [[2212.12527]](https://arxiv.org/abs/2212.12527) - *Regularizations and quantum dynamics in loop quantum cosmology* - Maciej Kowalczyk, Tomasz Pawłowski
 
 1. [[2212.11199]](https://arxiv.org/abs/2212.11199) - *On the horizon area of effective loop quantum black holes* - F. C. Sobrinho, H. A. Borges, I. P. R. Baranov, S. Carneiro
