@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2212.13469]](https://arxiv.org/abs/2212.13469) - *Black Hole Entropy in Loop Quantum Gravity* - J. Fernando Barbero G., Daniele Pranzetti
+
+1. [[2212.13547]](https://arxiv.org/abs/2212.13547) - *On the discrete version of the Kerr-Newman solution* - V.M. Khatsymovsky
+
+1. [[2212.13961]](https://arxiv.org/abs/2212.13961) - *An algebraic approach to the "frozen formalism" problem of time* - Martin Bojowald, Artur Tsobanjan
+
 1. [[2212.13159]](https://arxiv.org/abs/2212.13159) - *Loop quantum cosmological model from ADM Hamiltonian* - You Ding, Xiangdong Zhang
 
 1. [[2212.12872]](https://arxiv.org/abs/2212.12872) - *An extension of the $\mathrm{U}\!\left(1\right)$ BF theory, Turaev-Viro  invariant and Drinfeld center construction. Part I: Quantum fields, quantum  currents and Pontryagin duality* - Emil Høssjer, Philippe Mathieu, Frank Thuillier

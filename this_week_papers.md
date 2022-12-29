@@ -6,6 +6,53 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/29/22
+
+#### Loop quantum gravity related papers
+
+#### **Black Hole Entropy in Loop Quantum Gravity**
+ - **Authors:** J. Fernando Barbero G., Daniele Pranzetti
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2212.13469](https://arxiv.org/abs/2212.13469)
+ - **Abstract**
+ We give an account of the state of the art about black hole entropy in Loop Quantum Gravity. This chapter contains a historical summary and explains how black hole entropy is described by relying on the concept of isolated horizon, with an emphasis on different representations of its associated symmetry group. It continues with a review of the combinatorial methods necessary to understand the behavior of the entropy as a function of the area and concludes with a discussion of the nature of the quantum horizon degrees of freedom that account for the black hole entropy and the related issue of the fixing of the Immirzi parameter. 
+
+#### **An algebraic approach to the "frozen formalism" problem of time**
+ - **Authors:** Martin Bojowald, Artur Tsobanjan
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2212.13961](https://arxiv.org/abs/2212.13961)
+ - **Abstract**
+ The long-standing problem of time in canonical quantum gravity is the source of several conceptual and technical issues. Here, recent mathematical results are used to provide a consistent algebraic formulation of dynamical symplectic reduction that avoids difficult requirements such as the computation of a complete set of Dirac observables or the construction of a physical Hilbert space. In addition, the new algebraic treatment makes it possible to implement a consistent realization of the gauge structure off the constraint surface. As a consequence, previously unrecognized consistency conditions are imposed on deparameterization -- the method traditionally used to unfreeze evolution in completely constrained systems. A detailed discussion of how the new formulation extends previous semiclassical results shows that an internal time degree of freedom need not be semiclassical in order to define a consistent quantum evolution. 
+
+#### Spin foam related papers
+
+#### **On the discrete version of the Kerr-Newman solution**
+ - **Authors:** V.M. Khatsymovsky
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2212.13547](https://arxiv.org/abs/2212.13547)
+ - **Abstract**
+ This paper continues our work on black holes in the framework of the Regge calculus, where the discrete version (with a certain edge length scale $b$ proportional to the Planck scale) of the classical solution emerges as an optimal starting point for the perturbative expansion after functional integration over the connection, with the singularity resolved. An interest in the present discrete Kerr-Newman type solution (with the parameter $a \gg b$) may be to check the classical prediction that the electromagnetic contribution to the metric and curvature on the singularity ring is (infinitely) greater than the contribution of the $\delta$-function-like mass distribution, no matter how small the electric charge is. Here we encounter a kind of a discrete diagram technique, but with three-dimensional (static) diagrams and with only a few diagrams, although with modified (extended to complex coordinates) propagators. The metric (curvature) in the vicinity of the former singularity ring is considered. The electromagnetic contribution does indeed have a relative factor that is infinite at $b \to 0$, but, taking into account some existing estimates of the upper bound on the electric charge of known substances, it is not so large for habitual bodies and can only be significant for practically non-rotating black holes. 
+
+
+
+#### Other related papers
+
+1. [[2212.13357]](https://arxiv.org/abs/2212.13357) - *Novel black holes in higher derivative gravity* - Yang Huang, Dao-Jun Liu, Hongsheng Zhang
+
+1. [[2212.13561]](https://arxiv.org/abs/2212.13561) - *Bouncing Cosmology in VCDM* - Alexander Ganz, Paul Martens, Shinji Mukohyama, Ryo Namba
+
+1. [[2212.14010]](https://arxiv.org/abs/2212.14010) - *Quantum Gravity Fluctuations in the Timelike Raychaudhuri Equation* - Sang-Eon Bak, Maulik Parikh, Sudipta Sarkar, Francesco Setti
+
+1. [[2212.13266]](https://arxiv.org/abs/2212.13266) - *Subalgebra-subregion duality: emergence of space and time in holography* - Samuel Leutheusser, Hong Liu
+
+1. [[2212.13586]](https://arxiv.org/abs/2212.13586) - *Entanglement Entropy and Causal Set Theory* - Yasaman K. Yazdi
+
+1. [[2212.13639]](https://arxiv.org/abs/2212.13639) - *Holographic thermal propagator for low scale dimensions* - Borut Bajc, Adrian R. Lugo
+
+1. [[2212.14011]](https://arxiv.org/abs/2212.14011) - *Massless graviton in a model of quantum gravity with emergent spacetime* - Sung-Sik Lee
+
+
+
 ### Wed - 12/28/22
 
 #### Loop quantum gravity related papers
