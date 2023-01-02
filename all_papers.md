@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2212.14065]](https://arxiv.org/abs/2212.14065) - *Tunneling wavefunction proposal with loop quantum geometry effects* - Meysam Motaharfar, Parampreet Singh
+
+1. [[2212.14396]](https://arxiv.org/abs/2212.14396) - *Spinfoams and high performance computing* - Pietro Dona, Muxin Han, Hongguang Liu
+
+1. [[2212.14535]](https://arxiv.org/abs/2212.14535) - *Non-existence of quantum black hole horizons in the improved dynamics  approach* - Wen-Cong Gan, Xiao-Mei Kuang, Zhen-Hao Yang, Yungui Gong, Anzhong Wang, Bin Wang
+
 1. [[2212.13469]](https://arxiv.org/abs/2212.13469) - *Black Hole Entropy in Loop Quantum Gravity* - J. Fernando Barbero G., Daniele Pranzetti
 
 1. [[2212.13547]](https://arxiv.org/abs/2212.13547) - *On the discrete version of the Kerr-Newman solution* - V.M. Khatsymovsky
