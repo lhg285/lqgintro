@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/03/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.00777]](https://arxiv.org/abs/2301.00777) - *Non-Invertible Symmetries in Supergravity* - Eduardo García-Valdecasas
+
+
+
 ### Mon - 01/02/23
 
 #### Loop quantum gravity related papers
