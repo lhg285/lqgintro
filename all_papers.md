@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2301.01013]](https://arxiv.org/abs/2301.01013) - *Generalised (non-singular) entropy functions with applications to  cosmology and black holes* - Sergei D. Odintsov, Tanmoy Paul
+
 1. [[2212.14065]](https://arxiv.org/abs/2212.14065) - *Tunneling wavefunction proposal with loop quantum geometry effects* - Meysam Motaharfar, Parampreet Singh
 
 1. [[2212.14396]](https://arxiv.org/abs/2212.14396) - *Spinfoams and high performance computing* - Pietro Dona, Muxin Han, Hongguang Liu

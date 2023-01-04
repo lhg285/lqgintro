@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/04/23
+
+#### Loop quantum gravity related papers
+
+#### **Generalised (non-singular) entropy functions with applications to  cosmology and black holes**
+ - **Authors:** Sergei D. Odintsov, Tanmoy Paul
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2301.01013](https://arxiv.org/abs/2301.01013)
+ - **Abstract**
+ The growing interest of different entropy functions proposed so far (like the Bekenstein-Hawking, Tsallis, R\'{e}nyi, Barrow, Sharma-Mittal, Kaniadakis and Loop Quantum Gravity entropies) towards black hole thermodynamics as well as towards cosmology lead to the natural question that whether there exists a generalized entropy function that can generalize all these known entropies. With this spirit, we propose a new 4-parameter entropy function that seems to converge to the aforementioned known entropies for certain limits of the entropic parameters. The proposal of generalized entropy is extended to non-singular case, in which case, the entropy proves to be singular-free during the entire cosmological evolution of the universe. The hallmark of such generalized entropies is that it helps us to fundamentally understand one of the important physical quantities namely ``entropy''. Consequently we address the implications of the generalized entropies on black hole thermodynamics as well as on cosmology, and discuss various constraints of the entropic parameters from different perspectives. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 01/03/23
 
 #### Loop quantum gravity related papers
