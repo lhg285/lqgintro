@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/05/23
+
+#### Loop quantum gravity related papers
+
+#### **Regular black holes from Loop Quantum Gravity**
+ - **Authors:** Abhay Ashtekar, Javier Olmedo, Parampreet Singh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2301.01309](https://arxiv.org/abs/2301.01309)
+ - **Abstract**
+ There is rich literature on regular black holes from loop quantum gravity (LQG), where quantum geometry effects resolve the singularity, leading to a quantum extension of the classical space-time. As we will see, the mechanism that resolves the singularity can also trigger conceptually undesirable features that can be subtle and are often uncovered only after a detailed examination. Therefore, the quantization scheme has to be chosen rather astutely. We illustrate the new physics that emerges first in the context of the eternal black hole represented by the Kruskal space-time in classical general relativity, then in dynamical situations involving gravitational collapse, and finally, during the Hawking evaporation process. The emphasis is on novel conceptual features associated with the causal structure, trapping and anti-trapping horizons and boundedness of invariants associated with curvature and matter. This Chapter is not intended to be an exhaustive account of all LQG results on non-singular black holes. Rather, we have selected a few main-stream thrusts to anchor the discussion, and provided references where further details as well as discussions of related developments can be found. In the spirit of this Volume, the goal is to present a bird's eye view that is accessible to a broad audience. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 01/04/23
 
 #### Loop quantum gravity related papers
