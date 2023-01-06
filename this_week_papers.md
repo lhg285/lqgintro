@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/06/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.01810]](https://arxiv.org/abs/2301.01810) - *Celestial Holography Revisited* - Charlotte Sleight, Massimo Taronna
+
+
+
 ### Thu - 01/05/23
 
 #### Loop quantum gravity related papers
