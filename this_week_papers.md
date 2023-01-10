@@ -14,7 +14,7 @@ There is no new related paper today
 
 #### Spin foam related papers
 
-#### **Complex critical points in Lorentzian spinfoam quantum gravity:  4-simplex amplitude and effective dynamics on double-$Δ_3$ complex**
+#### **Complex critical points in Lorentzian spinfoam quantum gravity:  4-simplex amplitude and effective dynamics on double-$\Delta_3$ complex**
  - **Authors:** Muxin Han, Hongguang Liu, Dongxue Qu
  - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
  - **Arxiv link:** [https://arxiv.org/abs/2301.02930](https://arxiv.org/abs/2301.02930)
