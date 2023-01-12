@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/12/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.04342]](https://arxiv.org/abs/2301.04342) - *Massive vector particle tunneling from Kerr-Newman-de Sitter black hole  under generalized uncertainty principle* - Yenshembam Priyobarta Singh, Telem Ibungochouba Singh
+
+1. [[2301.04448]](https://arxiv.org/abs/2301.04448) - *Emergent diffeomorphism invariance in toy models* - Hrvoje Nikolic
+
+1. [[2301.04575]](https://arxiv.org/abs/2301.04575) - *Wilson lines construction of $\mathfrak{sl}_3$ toroidal conformal blocks* - Vladimir Belavin, Pietro Oreglia, Juan Ramos Cabezas
+
+
+
 ### Wed - 01/11/23
 
 #### Loop quantum gravity related papers
