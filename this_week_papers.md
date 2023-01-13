@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/13/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.04697]](https://arxiv.org/abs/2301.04697) - *Regular Black Holes and Horizonless Ultra-Compact Objects in  Lorentz-Violating Gravity* - Jacopo Mazza, Stefano Liberati
+
+1. [[2301.05037]](https://arxiv.org/abs/2301.05037) - *Dymnikova-Schwinger traversable wormholes* - Milko Estrada, Celio R. Muniz
+
+
+
 ### Thu - 01/12/23
 
 #### Loop quantum gravity related papers
