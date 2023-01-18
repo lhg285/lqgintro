@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/18/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.05778]](https://arxiv.org/abs/2301.05778) - *Reflecting boundary conditions in numerical relativity as a model for  black hole echoes* - Conner Dailey, Niayesh Afshordi, Erik Schnetter
+
+1. [[2301.06480]](https://arxiv.org/abs/2301.06480) - *Null Geodesics from Ladder Molecules* - Anish Bhattacharya, Abhishek Mathur, Sumati Surya
+
+1. [[2301.06563]](https://arxiv.org/abs/2301.06563) - *Stability of electrically charged stars, regular black holes, quasiblack  holes, and quasinonblack holes* - Angel D. D. Masa, José P. S. Lemos, Vilson T. Zanchin
+
+1. [[2301.06068]](https://arxiv.org/abs/2301.06068) - *Semiclassical and Continuum Limits of Four-Dimensional CDT* - Jakub Gizbert-Studnicki
+
+1. [[2301.06600]](https://arxiv.org/abs/2301.06600) - *Are inertial vacua equivalent in Lorentz-violating theories? Does it  matter?* - Bruno Arderucio Costa, Yuri Bonder, Benito A. Juárez-Aubry
+
+
+
 ### Tue - 01/17/23
 
 #### Loop quantum gravity related papers
