@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/19/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.07108]](https://arxiv.org/abs/2301.07108) - *Quantum Error Correction from Complexity in Brownian SYK* - Vijay Balasubramanian, Arjun Kar, Cathy Li, Onkar Parrikar, Harshit Rajgadia
+
+1. [[2301.07257]](https://arxiv.org/abs/2301.07257) - *Algebras and States in JT Gravity* - Geoff Penington, Edward Witten
+
+1. [[2301.07454]](https://arxiv.org/abs/2301.07454) - *On the analytical continuation of lattice Liouville theory* - Xiangyu Cao, Raoul Santachiara, Romain Usciati
+
+
+
 ### Wed - 01/18/23
 
 #### Loop quantum gravity related papers
