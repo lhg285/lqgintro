@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2301.07746]](https://arxiv.org/abs/2301.07746) - *Massless Dirac Perturbations in a Consistent Model of Loop Quantum  Gravity Black Holes: Quasinormal Modes and Particle Emission Rates* - Saulo Albuquerque, Iarley P. Lobo, Valdir B. Bezerra
+
 1. [[2301.03590]](https://arxiv.org/abs/2301.03590) - *Avoidance of singularity during the gravitational collapse with string  T-duality effects* - Kimet Jusufi
 
 1. [[2301.03951]](https://arxiv.org/abs/2301.03951) - *Modelling quantum particles falling into a black hole: the deep interior  limit* - Alejandro Perez, Salvatore Ribisi, Sami Viollet

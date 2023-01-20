@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/20/23
+
+#### Loop quantum gravity related papers
+
+#### **Massless Dirac Perturbations in a Consistent Model of Loop Quantum  Gravity Black Holes: Quasinormal Modes and Particle Emission Rates**
+ - **Authors:** Saulo Albuquerque, Iarley P. Lobo, Valdir B. Bezerra
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2301.07746](https://arxiv.org/abs/2301.07746)
+ - **Abstract**
+ We consider perturbations of the massless Dirac field in the background of a black hole solution found by Bodendorfer, Mele, and M\"{u}nch (BMM), using a polymerization technique that furnishes contributions inspired by Loop Quantum Gravity (LQG) Theory. Using the sixth order WKB method, we analyzed its quasinormal modes for several modes, multipole numbers and the two classes of BMM black holes. We also considered the potential that governs these perturbations to analyze the bound on the Greybody Factor (GF) due the emission rates of particles. As results, we found that the Loop Quantum Gravity parameters are responsible for raising the potential and the real and imaginary parts of the quasinormal frequencies and decrease the bound on the Greybody Factor for the two classes of black holes (with more more prominent effects for the de-amplification case, which is compatible with previous analyses done for other fields). 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.07973]](https://arxiv.org/abs/2301.07973) - *Reassessing the problem of time of quantum gravity* - Alvaro Mozota Frauca
+
+1. [[2301.07719]](https://arxiv.org/abs/2301.07719) - *The Scale of Supersymmetry Breaking and the Dark Dimension* - Luis A. Anchordoqui, Ignatios Antoniadis, Niccolò Cribiori, Dieter Lust, Marco Scalisi
+
+
+
 ### Thu - 01/19/23
 
 #### Loop quantum gravity related papers
