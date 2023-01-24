@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/24/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.08753]](https://arxiv.org/abs/2301.08753) - *Holography and Localization of Information in Quantum Gravity* - Eyoab Bahiru, Alexandre Belin, Kyriakos Papadodimas, Gabor Sarosi, Niloofar Vardian
+
+1. [[2301.08757]](https://arxiv.org/abs/2301.08757) - *Quadratic twist-noncommutative gauge theory* - Tim Meier, Stijn J. van Tongeren
+
+
+
 ### Mon - 01/23/23
 
 #### Loop quantum gravity related papers
