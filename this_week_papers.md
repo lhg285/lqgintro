@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/25/23
+
+#### Loop quantum gravity related papers
+
+#### **Loop quantum cosmology: relation between theory and observations**
+ - **Authors:** Ivan Agullo, Anzhong Wang, Edward Wilson-Ewing
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2301.10215](https://arxiv.org/abs/2301.10215)
+ - **Abstract**
+ This chapter provides a review of the frameworks developed for cosmological perturbation theory in loop quantum cosmology, and applications to various models of the early universe including inflation, ekpyrosis and the matter bounce, with an emphasis on potential observational consequences. It also includes a discussion on extensions to include non-Gaussianities and background anisotropies, as well as on its limitations concerning trans-Planckian perturbations and quantization ambiguities. It concludes with a summary of recent work studying the relation between loop quantum cosmology and full loop quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.09712]](https://arxiv.org/abs/2301.09712) - *Black holes as frozen stars: Regular interior geometry* - Ram Brustein, A.J.M. Medved, Tom Shindelman, Tamar Simhon
+
+
+
 ### Tue - 01/24/23
 
 #### Loop quantum gravity related papers
