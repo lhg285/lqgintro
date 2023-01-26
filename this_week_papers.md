@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/26/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.10465]](https://arxiv.org/abs/2301.10465) - *Particle motions around regular black holes* - Kenshin Isomura, Ryotaku Suzuki, Shinya Tomizawa
+
+
+
 ### Wed - 01/25/23
 
 #### Loop quantum gravity related papers
