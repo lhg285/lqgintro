@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2301.11439]](https://arxiv.org/abs/2301.11439) - *Primordial black holes in loop quantum gravity: The effect on the  threshold* - Theodoros Papanikolaou
+
 1. [[2301.10215]](https://arxiv.org/abs/2301.10215) - *Loop quantum cosmology: relation between theory and observations* - Ivan Agullo, Anzhong Wang, Edward Wilson-Ewing
 
 1. [[2301.08421]](https://arxiv.org/abs/2301.08421) - *Peculiar properties in quasi-normal spectra from loop quantum gravity  effect* - Guoyang Fu, Dan Zhang, Peng Liu, Xiao-Mei Kuang, Jian-Pin Wu
