@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/31/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.12455]](https://arxiv.org/abs/2301.12455) - *Axiomatic Quantum Field Theory in Discrete Spacetime via Multiway Causal  Structure: The Case of Entanglement Entropies* - Jonathan Gorard, Julia Dannemann-Freitag
+
+1. [[2301.12611]](https://arxiv.org/abs/2301.12611) - *Perturbative Quantum Gravity Induced Scalar Coupling to Electromagnetism* - S. Katuwal (U. Florida), R. P. Woodard (U. Florida)
+
+1. [[2301.12170]](https://arxiv.org/abs/2301.12170) - *Semiclassical Einstein equations from holography and boundary dynamics* - Akihiro Ishibashi, Kengo Maeda, Takashi Okamura
+
+1. [[2301.12411]](https://arxiv.org/abs/2301.12411) - *The phase transition of Rastall AdS black hole with cloud of strings and  quintessence* - Mehdi Sadeghi, Faramarz Rahmani
+
+1. [[2301.13029]](https://arxiv.org/abs/2301.13029) - *Determining the normalization of the quantum field theory vacuum, with  implications for quantum gravity* - Philip D. Mannheim
+
+
+
 ### Mon - 01/30/23
 
 #### Loop quantum gravity related papers
