@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/01/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2301.13502]](https://arxiv.org/abs/2301.13502) - *Parity-violation in bouncing cosmology* - Mian Zhu, Yong Cai
+
+1. [[2301.13525]](https://arxiv.org/abs/2301.13525) - *Higher-order curvature operators in causal set quantum gravity* - Gustavo. P. de Brito, Astrid Eichhorn, Christopher Pfeiffer
+
+1. [[2301.13627]](https://arxiv.org/abs/2301.13627) - *Tunneling and thermodynamics evolution of the magnetized Ernst-like  black hole* - Riasat Ali, Zunaira Akhtar, Kazuharu Bamba, M. Umar Khan
+
+1. [[2301.13291]](https://arxiv.org/abs/2301.13291) - *Effective approach to the Antoniadis-Mottola model: quantum decoupling  of the higher derivative terms* - Wagno Cesar e Silva, Ilya L. Shapiro
+
+1. [[2301.13580]](https://arxiv.org/abs/2301.13580) - *Horava models as palladium of unitarity and renormalizability in quantum  gravity* - Andrei O. Barvinsky
+
+1. [[2301.13605]](https://arxiv.org/abs/2301.13605) - *Aspects of the map from Exact RG to Holographic RG in AdS and dS* - Pavan Dharanipragada, Semanti Dutta, B.Sathiapalan
+
+
+
 ### Tue - 01/31/23
 
 #### Loop quantum gravity related papers
