@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/02/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Summing bulk quantum numbers with Monte Carlo in spin foam theories**
+ - **Authors:** Pietro Dona, Pietropaolo Frisoni
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.00072](https://arxiv.org/abs/2302.00072)
+ - **Abstract**
+ We introduce a strategy to compute EPRL spin foam amplitudes with many internal faces numerically. We work with \texttt{sl2cfoam-next}, the state-of-the-art framework to numerically evaluate spin foam transition amplitudes. We find that uniform sampling Monte Carlo is exceptionally effective in approximating the sum over internal quantum numbers of a spin foam amplitude, considerably reducing the computational resources necessary. We apply it to compute large volume divergences of the theory and find surprising numerical evidence that the EPRL vertex renormalization amplitude is instead finite. 
+
+
+
+#### Other related papers
+
+1. [[2302.00028]](https://arxiv.org/abs/2302.00028) - *Singularity-free gravitational collapse: From regular black holes to  horizonless objects* - Raúl Carballo-Rubio, Francesco Di Filippo, Stefano Liberati, Matt Visser
+
+1. [[2302.00017]](https://arxiv.org/abs/2302.00017) - *Towers and Hierarchies in the Standard Model from Emergence in Quantum  Gravity* - Alberto Castellano, Álvaro Herráez, Luis E. Ibáñez
+
+1. [[2302.00632]](https://arxiv.org/abs/2302.00632) - *Cosmic ER=EPR in dS/CFT* - Jordan Cotler, Andrew Strominger
+
+
+
 ### Wed - 02/01/23
 
 #### Loop quantum gravity related papers
