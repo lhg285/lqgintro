@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/03/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.00677]](https://arxiv.org/abs/2302.00677) - *Shadows of new physics on Dirac materials, analog GUPs and other  amusements* - Alfredo Iorio, Boris Ivetić, Salvatore Mignemi, Pablo Pais
+
+1. [[2302.00823]](https://arxiv.org/abs/2302.00823) - *Batalin-Tyutin quantization of dynamical boundary of AdS$_2$* - Wontae Kim, Mungon Nam
+
+1. [[2302.01206]](https://arxiv.org/abs/2302.01206) - *Matrix and tensor witnesses of hidden symmetry algebras* - Sanjaye Ramgoolam, Lewis Sword
+
+
+
 ### Thu - 02/02/23
 
 #### Loop quantum gravity related papers
