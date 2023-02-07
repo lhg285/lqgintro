@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2302.02840]](https://arxiv.org/abs/2302.02840) - *Emergence of Riemannian Quantum Geometry* - Hal M. Haggard, Jerzy Lewandowski, Hanno Sahlmann
+
 1. [[2302.00072]](https://arxiv.org/abs/2302.00072) - *Summing bulk quantum numbers with Monte Carlo in spin foam theories* - Pietro Dona, Pietropaolo Frisoni
 
 1. [[2301.11439]](https://arxiv.org/abs/2301.11439) - *Primordial black holes in loop quantum gravity: The effect on the  threshold* - Theodoros Papanikolaou
