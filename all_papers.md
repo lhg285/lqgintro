@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2302.03612]](https://arxiv.org/abs/2302.03612) - *A Fock space structure for the diffeomorphism invariant Hilbert space of  loop quantum gravity and its applications* - Hanno Sahlmann, Waleed Sherif
+
+1. [[2302.03638]](https://arxiv.org/abs/2302.03638) - *Loop Quantum Cosmology of non-diagonal Bianchi models* - Matteo Bruno, Giovanni Montani
+
 1. [[2302.02840]](https://arxiv.org/abs/2302.02840) - *Emergence of Riemannian Quantum Geometry* - Hal M. Haggard, Jerzy Lewandowski, Hanno Sahlmann
 
 1. [[2302.00072]](https://arxiv.org/abs/2302.00072) - *Summing bulk quantum numbers with Monte Carlo in spin foam theories* - Pietro Dona, Pietropaolo Frisoni

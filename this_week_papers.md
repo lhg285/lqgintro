@@ -6,6 +6,38 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/08/23
+
+#### Loop quantum gravity related papers
+
+#### **A Fock space structure for the diffeomorphism invariant Hilbert space of  loop quantum gravity and its applications**
+ - **Authors:** Hanno Sahlmann, Waleed Sherif
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.03612](https://arxiv.org/abs/2302.03612)
+ - **Abstract**
+ Loop quantum gravity (LQG) is a quantization program for gravity based on the principles of QFT and general covariance of general relativity. Quantum states of LQG describe gravitational excitations based on graphs embedded in a spatial slice of spacetime. We show that, under certain assumptions on the class of diffeomorphisms, the space of diffeomorphism invariant states carries a Fock space structure. The role of one-particle excitations for this structure is played by the diffeomorphism invariant states based on graphs with a single (linked) component. This means, however, that a lot of the structure of the diffeomorphism invariant Hilbert space remains unresolved by this structure. We show how the Fock structure allows to write at least some condensate states of group field theory as diffeomorphism invariant coherent states of LQG in a precise sense. We also show how to construct other interesting states using this Fock structure. We finally explore the quantum geometry of single- and multi-particle states and tentatively observe some resemblance to geometries with a single or multiple components, respectively. 
+
+#### **Loop Quantum Cosmology of non-diagonal Bianchi models**
+ - **Authors:** Matteo Bruno, Giovanni Montani
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.03638](https://arxiv.org/abs/2302.03638)
+ - **Abstract**
+ The non-diagonal Bianchi models are studied in the loop framework for their classical and quantum formulation. The expressions of the Ashtekar-Barbero-Immirzi variables and their properties are found to provide a loop quantization of these models. In the special case of Bianchi I Universe, it is shown that the geometrical operators result invariant from the diagonal description. Hence, the kinematical Hilbert space of the non-diagonal Bianchi I model has similar features to the diagonal one. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.03259]](https://arxiv.org/abs/2302.03259) - *Relativity and decoherence of spacetime superpositions* - Joshua Foo, Robert B. Mann, Magdalena Zych
+
+1. [[2302.03688]](https://arxiv.org/abs/2302.03688) - *A 10d construction of Euclidean axion wormholes in flat and AdS space* - Gregory J. Loges, Gary Shiu, Thomas Van Riet
+
+
+
 ### Tue - 02/07/23
 
 #### Loop quantum gravity related papers
