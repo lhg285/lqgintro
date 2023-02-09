@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/09/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.03692]](https://arxiv.org/abs/2302.03692) - *Holographic Einstein rings of a Gauss-Bonnet AdS black hole* - Xiao-Xiong Zeng, Ke-Jian He, Guo-ping Li
+
+1. [[2302.03710]](https://arxiv.org/abs/2302.03710) - *Bouncing cosmology from nonlinear dark energy with two cosmological  constants* - Molly Burkmar, Marco Bruni
+
+1. [[2302.03847]](https://arxiv.org/abs/2302.03847) - *Gauge theories with non-trivial boundary conditions II: Black holes* - Peng Cheng
+
+
+
 ### Wed - 02/08/23
 
 #### Loop quantum gravity related papers
