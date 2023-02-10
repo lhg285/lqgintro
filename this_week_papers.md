@@ -6,6 +6,39 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/10/23
+
+#### Loop quantum gravity related papers
+
+#### **A diffeomorphism invariant family of metric-affine actions for loop  cosmologies**
+ - **Authors:** Adrià Delhom, Gonzalo J. Olmo, Parampreet Singh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.04285](https://arxiv.org/abs/2302.04285)
+ - **Abstract**
+ In loop quantum cosmology (LQC) the big bang singularity is generically resolved by a big bounce. This feature holds even when modified quantization prescriptions of the Hamiltonian constraint are used such as in mLQC-I and mLQC-II. While the latter describes a symmetric bounce as in standard LQC, the former describes an asymmetric bounce with an emergent Planckian de-Sitter pre-bounce phase. We consider the potential relation of these canonically quantized non-singular models with effective actions based on a geometric description. We find a 3-parameter family of metric-affine $f(\mathcal{R})$ theories which accurately approximate the effective dynamics of LQC and mLQC-II in all regimes and mLQC-I in the post-bounce phase. Two of the parameters are fixed by enforcing equivalence at the bounce, and the background evolution of the relevant observables can be fitted with only one free parameter. It is seen that the non-perturbative effects of these loop cosmologies are universally encoded by a logarithmic correction that only depends on the bounce curvature of the model. In addition, we find that the best fit value of the free parameter can be very approximately written in terms of fundamental parameters of the underlying quantum description for the three models. The values of the best fits can be written in terms of the bounce density in a simple manner, and the values for each model are related to one another by a proportionality relation involving only the Barbero-Immirzi parameter. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.04272]](https://arxiv.org/abs/2302.04272) - *Black Holes in Asymptotically Safe Gravity* - Alessia Platania
+
+1. [[2302.04766]](https://arxiv.org/abs/2302.04766) - *Interference and reflection from the event horizon of a quantum  corrected black hole* - Sunandan Gangopadhyay, Soham Sen, Rituparna Mandal
+
+1. [[2302.04275]](https://arxiv.org/abs/2302.04275) - *The Tameness of Quantum Field Theory, Part II -- Structures and CFTs* - Michael R. Douglas, Thomas W. Grimm, Lorenz Schlechter
+
+1. [[2302.04564]](https://arxiv.org/abs/2302.04564) - *The minimal length: a cut-off in disguise?* - Pasquale Bosso, Luciano Petruzziello, Fabian Wagner
+
+1. [[2302.04697]](https://arxiv.org/abs/2302.04697) - *Schur-like index of the Klebanov-Witten theory via the AdS/CFT  correspondence* - Shota Fujiwara
+
+1. [[2302.04736]](https://arxiv.org/abs/2302.04736) - *Numerical RG-time integration of the effective potential: Analysis and  Benchmark* - Friederike Ihssen, Franz R. Sattler, Nicolas Wink
+
+
+
 ### Thu - 02/09/23
 
 #### Loop quantum gravity related papers
