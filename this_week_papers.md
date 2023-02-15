@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/15/23
+
+#### Loop quantum gravity related papers
+
+#### **Quantum-gravitational corrections to the power spectrum for a closed  universe**
+ - **Authors:** Tatevik Vardanyan, Claus Kiefer
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.07001](https://arxiv.org/abs/2302.07001)
+ - **Abstract**
+ We study the quantum-gravitational corrections to the power spectrum of a gauge-invariant inflationary scalar perturbations in a closed model of a universe. We consider canonical quantum gravity as an approach to quantizing gravity. This leads to the Wheeler-DeWitt equation, which has been studied by applying a semiclassical Born-Oppenheimer type of approximation. At the corresponding orders of approximation, we recover both the uncorrected and quantum-gravitationally corrected Schroedinger equations for the perturbation modes from which we calculate the quantum-gravitational corrections to the power spectrum in the slow-roll regime. The results are compared to the power spectra for the flat model of the universe. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.06661]](https://arxiv.org/abs/2302.06661) - *Self-Dual Black Holes in Celestial Holography* - Erin Crawley, Alfredo Guevara, Elizabeth Himwich, Andrew Strominger
+
+
+
 ### Tue - 02/14/23
 
 #### Loop quantum gravity related papers

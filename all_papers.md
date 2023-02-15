@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2302.07001]](https://arxiv.org/abs/2302.07001) - *Quantum-gravitational corrections to the power spectrum for a closed  universe* - Tatevik Vardanyan, Claus Kiefer
+
 1. [[2302.05922]](https://arxiv.org/abs/2302.05922) - *Loop Quantum Gravity and Quantum Information* - Eugenio Bianchi, Etera R. Livine
 
 1. [[2302.04285]](https://arxiv.org/abs/2302.04285) - *A diffeomorphism invariant family of metric-affine actions for loop  cosmologies* - Adrià Delhom, Gonzalo J. Olmo, Parampreet Singh
