@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/16/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.07644]](https://arxiv.org/abs/2302.07644) - *Schrödinger symmetry of Schwarzschild-(A)dS black hole mechanics* - Jibril Ben Achour, Etera R. Livine, Daniele Oriti
+
+1. [[2302.07835]](https://arxiv.org/abs/2302.07835) - *Quantum gravitational corrected evolution equations of charged black  holes* - Ruben Campos Delgado
+
+
+
 ### Wed - 02/15/23
 
 #### Loop quantum gravity related papers
