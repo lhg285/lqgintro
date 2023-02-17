@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/17/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.07903]](https://arxiv.org/abs/2302.07903) - *Beyond semiclassical time: dynamics in quantum cosmology* - Leonardo Chataignier
+
+1. [[2302.08120]](https://arxiv.org/abs/2302.08120) - *Generalised Uncertainty Relations from Finite-Accuracy Measurements* - Matthew J. Lake, Marek Miller, Ray Ganardi, Tomasz Paterek
+
+1. [[2302.07892]](https://arxiv.org/abs/2302.07892) - *Holograms In Our World* - Raphael Bousso, Geoff Penington
+
+1. [[2302.08131]](https://arxiv.org/abs/2302.08131) - *On weak Hopf symmetry and weak Hopf quantum double model* - Zhian Jia, Sheng Tan, Dagomir Kaszlikowski, Liang Chang
+
+
+
 ### Thu - 02/16/23
 
 #### Loop quantum gravity related papers
