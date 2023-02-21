@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2302.09191]](https://arxiv.org/abs/2302.09191) - *Generalized Abelian Turaev-Viro and $\mathrm{U}\!\left(1\right)$ BF  Theories* - Emil Høssjer, Philippe Mathieu, Frank Thuillier
+
 1. [[2302.09062]](https://arxiv.org/abs/2302.09062) - *Non-singular flat universes in braneworld and Loop Quantum Cosmology* - Rikpratik Sengupta, B. C. Paul, M. Kalam, P. Paul, A. Aich
 
 1. [[2302.07001]](https://arxiv.org/abs/2302.07001) - *Quantum-gravitational corrections to the power spectrum for a closed  universe* - Tatevik Vardanyan, Claus Kiefer

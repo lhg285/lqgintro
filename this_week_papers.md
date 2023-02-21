@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 02/21/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Generalized Abelian Turaev-Viro and $\mathrm{U}\!\left(1\right)$ BF  Theories**
+ - **Authors:** Emil Høssjer, Philippe Mathieu, Frank Thuillier
+ - **Subjects:** Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.09191](https://arxiv.org/abs/2302.09191)
+ - **Abstract**
+ We explain how it is possible to study $\mathrm{U}\!\left(1\right)$ BF theory over a connected closed oriented smooth $3$-manifold in the formalism of path integral thanks to Deligne-Beilinson cohomology. We show how we can straightforwardly extend the definition to families of theories in any dimension. We extend then the definition of the Turaev-Viro invariant of a connected closed oriented smooth $3$-manifold in an Abelian framework to a family of invariants in any dimension. We show that those invariants can be written as discrete BF theories. We explain how the extensions of $\mathrm{U}\!\left(1\right)$ BF theory we defined can be related to the extensions of Turaev-Viro invariant we constructed. 
+
+
+
+#### Other related papers
+
+1. [[2302.09090]](https://arxiv.org/abs/2302.09090) - *Possible Relation between the Cosmological Constant and Standard Model  Parameters* - Mark P. Hertzberg, Abraham Loeb
+
+1. [[2302.09219]](https://arxiv.org/abs/2302.09219) - *Complex saddles of three-dimensional de Sitter gravity via holography* - Heng-Yu Chen, Yasuaki Hikida, Yusuke Taki, Takahiro Uetoko
+
+
+
 ### Mon - 02/20/23
 
 #### Loop quantum gravity related papers
