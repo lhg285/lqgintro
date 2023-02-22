@@ -6,6 +6,40 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/22/23
+
+#### Loop quantum gravity related papers
+
+#### **Observational tests of quantum extension of Schwarzschild spacetime in  loop quantum gravity with stellar stars in the galactic center**
+ - **Authors:** Jian-Ming Yan, Cheng Liu, Tao Zhu, Qiang Wu, Anzhong Wang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.10482](https://arxiv.org/abs/2302.10482)
+ - **Abstract**
+ In this paper, we use the publicly available observational data of 17 stellar stars orbiting Sgr A* to test the quantum extension of Schwarzschild spacetime in loop quantum gravity (LQG). For our purpose, we transform the geodesical evolution of a massive particle in the quantum-extended Schwarzschild black hole to the perturbed Kepler problem and calculate the effects of LQG on the pericentre advance of the stellar stars. With these effects, one is able to compare them with the publicly available astrometric and spectroscopic data of stellar stars in the galactic center. We perform Monte Carlo Markov Chain (MCMC) simulations to probe the possible LQG effects on the orbit of S-stars. No significant evidence of the quantum-extended Schwarzschild black hole from LQG is found. Among the posterior analyses of 17 S-stars, the result of S2 gives the strongest bound on the LQG parameter $A_\lambda$, which places an upper bound at 95\% confidence level on $A_\lambda$ to be $A_\lambda < 0.302$. 
+
+#### **Singularity resolution by holonomy corrections: Spherical charged black  holes in cosmological backgrounds**
+ - **Authors:** Asier Alonso-Bardaji, David Brizuela, Raül Vera
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.10619](https://arxiv.org/abs/2302.10619)
+ - **Abstract**
+ We study spherical charged black holes in the presence of a cosmological constant with corrections motivated by the theory of loop quantum gravity. The effective theory is constructed at the Hamiltonian level by introducing certain correction terms under the condition that the modified constraints form a closed algebra. The corresponding metric tensor is then carefully constructed ensuring that the covariance of the theory is respected, that is, in such a way that different gauge choices on phase space simply correspond to different charts of the same spacetime solution. The resulting geometry is characterized by four parameters: the three usual ones that appear in the general relativistic limit (describing the mass, the charge, and the cosmological constant), as well as a polymerization parameter, which encodes the quantum-gravity corrections. Contrary to general relativity, where this family of solutions is generically singular, in this effective model the presence of the singularity depends on the values of the parameters. The specific ranges of values that define the family of singularity-free spacetimes are explicitly found, and their global structure is analyzed. In particular, the mass and the cosmological constant need to be nonnegative to provide a nonsingular geometry, while there can only be a bounded, relatively small, amount of charge. These conditions are suited for any known spherical astrophysical black hole in the de Sitter cosmological background, and thus this model provides a globally regular description for them. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.10582]](https://arxiv.org/abs/2302.10582) - *Covariant Growth Dynamics* - Stav Zalel
+
+1. [[2302.10832]](https://arxiv.org/abs/2302.10832) - *On QFT in Curved Spacetime from Quantum Gravity: proper WKB  decomposition of the gravitational component* - Giulia Maniccia, Giovanni Montani, Stefano Antonini
+
+1. [[2302.10256]](https://arxiv.org/abs/2302.10256) - *Measuring the Homogeneity (or Otherwise) of the Quantum Universe* - R. Loll, A. Silva
+
+
+
 ### Tue - 02/21/23
 
 #### Loop quantum gravity related papers

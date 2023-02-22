@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2302.10482]](https://arxiv.org/abs/2302.10482) - *Observational tests of quantum extension of Schwarzschild spacetime in  loop quantum gravity with stellar stars in the galactic center* - Jian-Ming Yan, Cheng Liu, Tao Zhu, Qiang Wu, Anzhong Wang
+
+1. [[2302.10619]](https://arxiv.org/abs/2302.10619) - *Singularity resolution by holonomy corrections: Spherical charged black  holes in cosmological backgrounds* - Asier Alonso-Bardaji, David Brizuela, Raül Vera
+
 1. [[2302.09191]](https://arxiv.org/abs/2302.09191) - *Generalized Abelian Turaev-Viro and $\mathrm{U}\!\left(1\right)$ BF  Theories* - Emil Høssjer, Philippe Mathieu, Frank Thuillier
 
 1. [[2302.09062]](https://arxiv.org/abs/2302.09062) - *Non-singular flat universes in braneworld and Loop Quantum Cosmology* - Rikpratik Sengupta, B. C. Paul, M. Kalam, P. Paul, A. Aich
