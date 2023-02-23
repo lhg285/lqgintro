@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/23/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.11210]](https://arxiv.org/abs/2302.11210) - *The Axion-Instanton Weak Gravity Conjecture and Scalar Fields* - Clemens Vittmann
+
+
+
 ### Wed - 02/22/23
 
 #### Loop quantum gravity related papers
