@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/24/23
+
+#### Loop quantum gravity related papers
+
+#### **Twisted geometries are area-metric geometries**
+ - **Authors:** Bianca Dittrich, José Padua-Argüelles
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.11586](https://arxiv.org/abs/2302.11586)
+ - **Abstract**
+ The quantum geometry arising in Loop Quantum Gravity has been known to semi-classically lead to generalizations of length-geometries. There have been several attempts to interpret these so called twisted geometries and understand their role and fate in the continuum limit of the spin foam approach to quantum gravity. In this paper we offer a new perspective on this issue by showing that the twisted geometry of a 4-simplex can be understood as arising from an area-metric (in contrast to the more particular length-metric). Such equivalence allows us to define notions like signature, generalized triangle inequalities and parallel transport for twisted geometries (now understood in a 4-dimensional setting), exemplifying how it provides a new handle to understand them. Furthermore, it offers a new microscopic understanding of spin foam geometries which is notably supported by recent studies of the continuum effective dynamics of spin foams. 
+
+#### Spin foam related papers
+
+#### **Twisted geometries are area-metric geometries**
+ - **Authors:** Bianca Dittrich, José Padua-Argüelles
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.11586](https://arxiv.org/abs/2302.11586)
+ - **Abstract**
+ The quantum geometry arising in Loop Quantum Gravity has been known to semi-classically lead to generalizations of length-geometries. There have been several attempts to interpret these so called twisted geometries and understand their role and fate in the continuum limit of the spin foam approach to quantum gravity. In this paper we offer a new perspective on this issue by showing that the twisted geometry of a 4-simplex can be understood as arising from an area-metric (in contrast to the more particular length-metric). Such equivalence allows us to define notions like signature, generalized triangle inequalities and parallel transport for twisted geometries (now understood in a 4-dimensional setting), exemplifying how it provides a new handle to understand them. Furthermore, it offers a new microscopic understanding of spin foam geometries which is notably supported by recent studies of the continuum effective dynamics of spin foams. 
+
+
+
+#### Other related papers
+
+1. [[2302.12064]](https://arxiv.org/abs/2302.12064) - *Shadows and photon rings of regular black holes and geonic horizonless  compact objects* - Gonzalo J. Olmo, João Luís Rosa, Diego Rubiera-Garcia, Diego Sáez-Chillón Gómez
+
+1. [[2302.11863]](https://arxiv.org/abs/2302.11863) - *JT Gravity on a Finite Lorentzian Strip: Time dependent Quantum Gravity  Amplitudes* - J. A. Rosabal
+
+
+
 ### Thu - 02/23/23
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2302.11586]](https://arxiv.org/abs/2302.11586) - *Twisted geometries are area-metric geometries* - Bianca Dittrich, José Padua-Argüelles
+
 1. [[2302.10482]](https://arxiv.org/abs/2302.10482) - *Observational tests of quantum extension of Schwarzschild spacetime in  loop quantum gravity with stellar stars in the galactic center* - Jian-Ming Yan, Cheng Liu, Tao Zhu, Qiang Wu, Anzhong Wang
 
 1. [[2302.10619]](https://arxiv.org/abs/2302.10619) - *Singularity resolution by holonomy corrections: Spherical charged black  holes in cosmological backgrounds* - Asier Alonso-Bardaji, David Brizuela, Raül Vera
