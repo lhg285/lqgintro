@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2302.12609]](https://arxiv.org/abs/2302.12609) - *The Generalized Uncertainty Principle and Higher Dimensions: Linking  Black Holes and Elementary Particles* - B. J. Carr
+
+1. [[2302.12622]](https://arxiv.org/abs/2302.12622) - *Geometry Transition in Spinfoams* - Marios Christodoulou, Fabio D'Ambrosio, Charalampos Theofilis
+
+1. [[2302.12799]](https://arxiv.org/abs/2302.12799) - *Corner symmetry and quantum geometry* - Laurent Freidel, Marc Geiller, Wolfgang Wieland
+
 1. [[2302.11586]](https://arxiv.org/abs/2302.11586) - *Twisted geometries are area-metric geometries* - Bianca Dittrich, José Padua-Argüelles
 
 1. [[2302.10482]](https://arxiv.org/abs/2302.10482) - *Observational tests of quantum extension of Schwarzschild spacetime in  loop quantum gravity with stellar stars in the galactic center* - Jian-Ming Yan, Cheng Liu, Tao Zhu, Qiang Wu, Anzhong Wang
