@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2302.13839]](https://arxiv.org/abs/2302.13839) - *Kerr-like black hole and generalized uncertainty principle* - Meirong Tang, Zhaoyi Xu
+
 1. [[2302.12609]](https://arxiv.org/abs/2302.12609) - *The Generalized Uncertainty Principle and Higher Dimensions: Linking  Black Holes and Elementary Particles* - B. J. Carr
 
 1. [[2302.12622]](https://arxiv.org/abs/2302.12622) - *Geometry Transition in Spinfoams* - Marios Christodoulou, Fabio D'Ambrosio, Charalampos Theofilis

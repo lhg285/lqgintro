@@ -6,6 +6,39 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 02/28/23
+
+#### Loop quantum gravity related papers
+
+#### **Kerr-like black hole and generalized uncertainty principle**
+ - **Authors:** Meirong Tang, Zhaoyi Xu
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.13839](https://arxiv.org/abs/2302.13839)
+ - **Abstract**
+ Based on string theory, loop quantum gravity, black hole physics, and other theories of quantum gravity, physicists have proposed generalized uncertainty principle (GUP) modifications. In this work, we obtain exact solutions of Einstein$'$s field equations when the GUP effect is taken into account, and these solutions describe the GUP modifications for rotating black holes. We analyze two different ways of constructing GUP rotating black holes (Model $I$ and Model $II$). Model $I$ takes into account the modification of mass by GUP, i.e. the change of mass by quantization of space, and the resulting GUP-rotating black hole metric (18) is similar in form to Kerr black holes. Model $II$ takes into account the modification of the rotating black hole when GUP is an external field, where GUP acts like an electric charge, and the resulting GUP-rotating black hole metric (19) is similar in form to Kerr-Newman black holes. If the GUP-rotating black holes (18) and (19) are thermodynamically self-consistent, the functional relation of the GUP model parameters corresponding to Model $I$ and Model $II$ can be obtained. The difference between (18) and (19) in the space-time linear structure provides a basis for us to examine the physical nature of GUP-rotating black holes from observation, which is of great significance for understanding the GUP modification of black holes. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2302.12875]](https://arxiv.org/abs/2302.12875) - *Thermodynamics and logarithmic corrections of symmergent black holes* - Riasat Ali, Rimsha Babar, Zunaira Akhtar, Ali Övgün
+
+1. [[2302.13047]](https://arxiv.org/abs/2302.13047) - *Quantum gravity -- an unfinished revolution* - Claus Kiefer
+
+1. [[2302.12924]](https://arxiv.org/abs/2302.12924) - *A Bouncing Cosmology from VECROs* - Robert Brandenberger, Gabrielle A. Mitchell (McGill University)
+
+1. [[2302.13490]](https://arxiv.org/abs/2302.13490) - *Revisiting localization for BPS black hole entropy* - Ashoke Sen
+
+1. [[2302.13535]](https://arxiv.org/abs/2302.13535) - *Electric-field driven nonequilibrium phase transitions in AdS/CFT* - Daisuke Endo, Yuichi Fukazawa, Masataka Matsumoto, Shin Nakamura
+
+1. [[2302.13917]](https://arxiv.org/abs/2302.13917) - *AdS$_2$ Holography and Effective QFT* - Sangmin Choi, Finn Larsen
+
+
+
 ### Mon - 02/27/23
 
 #### Loop quantum gravity related papers
