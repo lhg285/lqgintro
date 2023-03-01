@@ -6,6 +6,54 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/01/23
+
+#### Loop quantum gravity related papers
+
+#### **Semi-classical rotating black hole in loop quantum gravity**
+ - **Authors:** Zhaoyi Xu
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.14183](https://arxiv.org/abs/2302.14183)
+ - **Abstract**
+ In the research paper [1], the analytical solution of semi-classical rotating black holes (BH) in loop quantum gravity theory (LQG) is obtained, but an unknown function $H$ is still preserved. In this note, we obtain an expression for the unknown function $H$, which makes the space-time line element of the semi-classical rotating BH in the LQG theory sufficiently well-expressed and thus provides a basis for the study of such rotating BHs. 
+
+#### **Quasinormal modes of a holonomy corrected Schwarzschild black hole**
+ - **Authors:** Zeus S. Moreira, Haroldo C. D. Lima Junior, Luís C. B. Crispino, Carlos A. R. Herdeiro
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.14722](https://arxiv.org/abs/2302.14722)
+ - **Abstract**
+ We analyze the quasinormal modes (QNMs) of a recently obtained solution of a Schwarzschild black hole (BH) with corrections motivated by Loop Quantum Gravity (LQG). This spacetime is regular everywhere and presents the global structure of a wormhole, with a minimal surface whose radius depends on a LQG parameter. We focus on the investigation of massless scalar field perturbations over the spacetime. We compute the QNMs with the WKB approximation, as well as the continued fraction method. The QNM frequency orbits, for $l=0$ and $n>0$, where $l$ and $n$ are the multipole and overtone numbers, respectively, are self-intersecting, spiraling curves in the complex plane. These orbits accumulate to a fixed complex value corresponding to the QNMs of the extremal case. We obtain that, for small values of the LQG parameter, the overall damping decreases as we increase the LQG parameter. Moreover the spectrum of the quantum corrected black hole exhibits an oscillatory pattern, which might imply in the existence of QNMs with vanishing real part. This pattern suggests that the limit $n\rightarrow \infty$ for the real part of the QNMs is not well-defined, what differs from Schwarzschild's case. We also analyze the time-domain profiles for the scalar perturbations, showing that the LQG correction does not alter the Schwarzschild power-law tail. We compute the fundamental mode from the time profile by means of the Prony method, obtaining excellent agreement with the two previously mentioned methods. 
+
+#### **One-loop corrections to the celestial chiral algebra from Koszul Duality**
+ - **Authors:** Víctor E. Fernández
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.14292](https://arxiv.org/abs/2302.14292)
+ - **Abstract**
+ We consider self-dual Yang-Mills theory (SDYM) in four dimensions and its lift to holomorphic BF theory on twistor space. Following the work of Costello and Paquette, we couple SDYM to a quartic axion field, which guarantees associativity of the (extended) celestial chiral algebra at the quantum level. We demonstrate how to reproduce their one-loop quantum deformation to the chiral algebra using Koszul duality. 
+
+#### Spin foam related papers
+
+#### **One-loop corrections to the celestial chiral algebra from Koszul Duality**
+ - **Authors:** Víctor E. Fernández
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2302.14292](https://arxiv.org/abs/2302.14292)
+ - **Abstract**
+ We consider self-dual Yang-Mills theory (SDYM) in four dimensions and its lift to holomorphic BF theory on twistor space. Following the work of Costello and Paquette, we couple SDYM to a quartic axion field, which guarantees associativity of the (extended) celestial chiral algebra at the quantum level. We demonstrate how to reproduce their one-loop quantum deformation to the chiral algebra using Koszul duality. 
+
+
+
+#### Other related papers
+
+1. [[2302.14152]](https://arxiv.org/abs/2302.14152) - *The Functional Renormalization Group in Quantum Gravity* - Frank Saueressig
+
+1. [[2302.14303]](https://arxiv.org/abs/2302.14303) - *Complex-valued Holographic Pseudo Entropy via Real-time AdS/CFT  Correspondence* - Zhou Chen
+
+1. [[2302.14561]](https://arxiv.org/abs/2302.14561) - *Understanding Higher-Spin Gravity through Bilocal Holography for Free  Fermions* - Tomer Solberg
+
+1. [[2302.14804]](https://arxiv.org/abs/2302.14804) - *Composite higher derivative operators in $d=2+ε$ dimensions and  the spectrum of asymptotically safe gravity* - Riccardo Martini, Dario Sauro, Omar Zanusso
+
+
+
 ### Tue - 02/28/23
 
 #### Loop quantum gravity related papers

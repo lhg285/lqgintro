@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2302.14183]](https://arxiv.org/abs/2302.14183) - *Semi-classical rotating black hole in loop quantum gravity* - Zhaoyi Xu
+
+1. [[2302.14722]](https://arxiv.org/abs/2302.14722) - *Quasinormal modes of a holonomy corrected Schwarzschild black hole* - Zeus S. Moreira, Haroldo C. D. Lima Junior, Luís C. B. Crispino, Carlos A. R. Herdeiro
+
+1. [[2302.14292]](https://arxiv.org/abs/2302.14292) - *One-loop corrections to the celestial chiral algebra from Koszul Duality* - Víctor E. Fernández
+
 1. [[2302.13839]](https://arxiv.org/abs/2302.13839) - *Kerr-like black hole and generalized uncertainty principle* - Meirong Tang, Zhaoyi Xu
 
 1. [[2302.12609]](https://arxiv.org/abs/2302.12609) - *The Generalized Uncertainty Principle and Higher Dimensions: Linking  Black Holes and Elementary Particles* - B. J. Carr
