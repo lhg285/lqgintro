@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/02/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.00117]](https://arxiv.org/abs/2303.00117) - *Study of the Inflationary Spectrum in the Presence of Quantum Gravity  Corrections* - Giulia Maniccia, Giovanni Montani, Leonardo Torcellini
+
+1. [[2303.00348]](https://arxiv.org/abs/2303.00348) - *Compactified extra dimension and entanglement island as clues to quantum  gravity* - Tran N. Hung, Cao H. Nam
+
+1. [[2303.00604]](https://arxiv.org/abs/2303.00604) - *4D-EGB Black Holes in RPS Thermodynamics* - Y. Ladghami, B. Asfour, A. Bouali, A. Errahmani, T. Ouali
+
+
+
 ### Wed - 03/01/23
 
 #### Loop quantum gravity related papers
