@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/03/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.01247]](https://arxiv.org/abs/2303.01247) - *Gluing AdS/CFT* - Taishi Kawamoto, Shan-Ming Ruan, Tadashi Takayanagi
+
+
+
 ### Thu - 03/02/23
 
 #### Loop quantum gravity related papers
