@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2303.01747]](https://arxiv.org/abs/2303.01747) - *Wilson-line Scalar Mass in Flux Compactification on an Orbifold  $T^2/Z_2$* - Nobuhito Maru, Hiroki Tanaka
+
 1. [[2302.14183]](https://arxiv.org/abs/2302.14183) - *Semi-classical rotating black hole in loop quantum gravity* - Zhaoyi Xu
 
 1. [[2302.14722]](https://arxiv.org/abs/2302.14722) - *Quasinormal modes of a holonomy corrected Schwarzschild black hole* - Zeus S. Moreira, Haroldo C. D. Lima Junior, Luís C. B. Crispino, Carlos A. R. Herdeiro
