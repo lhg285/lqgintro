@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 03/07/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.02953]](https://arxiv.org/abs/2303.02953) - *A possible solution to the Hubble tension from quantum gravity* - Anupama B, P K Suresh
+
+1. [[2303.02728]](https://arxiv.org/abs/2303.02728) - *Symmetries of $κ$ Minkowski space-time: A possibility of exotic  momentum space geometry?* - Partha Nandi, Anwesha Chakraborty, Sayan Kumar Pal, Biswajit Chakraborty, Frederik G Scholtz
+
+1. [[2303.02752]](https://arxiv.org/abs/2303.02752) - *Quantum complexity and bulk timelike singularities* - Gaurav Katoch, Jie Ren, Shubho R. Roy
+
+1. [[2303.02837]](https://arxiv.org/abs/2303.02837) - *Algebras, Regions, and Observers* - Edward Witten
+
+
+
 ### Mon - 03/06/23
 
 #### Loop quantum gravity related papers
