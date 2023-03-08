@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/08/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.03562]](https://arxiv.org/abs/2303.03562) - *Semiclassical instability of inner-extremal regular black holes* - Tyler McMaken
+
+1. [[2303.03931]](https://arxiv.org/abs/2303.03931) - *A regular black hole as the final state of evolution of a singular black  hole* - Han-Wen Hu, Chen Lan, Yan-Gang Miao
+
+1. [[2303.04049]](https://arxiv.org/abs/2303.04049) - *A Mirzakhani recursion for non-orientable surfaces* - Douglas Stanford
+
+1. [[2303.04082]](https://arxiv.org/abs/2303.04082) - *Exact flow equation for the divergence functional* - Stefan Floerchinger
+
+
+
 ### Tue - 03/07/23
 
 #### Loop quantum gravity related papers
