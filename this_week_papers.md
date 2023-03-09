@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/09/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.04162]](https://arxiv.org/abs/2303.04162) - *Quantum gravity constraints on scale separation and de Sitter in five  dimensions* - Niccolò Cribiori, Carmine Montella
+
+
+
 ### Wed - 03/08/23
 
 #### Loop quantum gravity related papers
