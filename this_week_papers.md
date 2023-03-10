@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/10/23
+
+#### Loop quantum gravity related papers
+
+#### **DeWitt boundary condition in one-loop quantum cosmology**
+ - **Authors:** Giampiero Esposito
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2303.05430](https://arxiv.org/abs/2303.05430)
+ - **Abstract**
+ DeWitt's suggestion that the wave function of the universe should vanish at the classical big-bang singularity is here considered within the framework of one-loop quantum cosmology. For pure gravity at one loop about a flat four-dimensional background bounded by a 3-sphere, three choices of boundary conditions are considered: vanishing of the linearized magnetic curvature when only transverse-traceless gravitational modes are quantized; a one-parameter family of mixed boundary conditions for gravitational and ghost modes; diffeomorphism invariant boundary conditions for metric perturbations and ghost modes. A positive zeta(0) value in these cases ensures that, when the 3-sphere boundary approaches zero, the resulting one-loop wave function approaches zero. This property may be interpreted by saying that, in the limit of small three-geometry, the resulting one-loop wave function describes a singularity-free universe. This property holds for one-loop functional integrals, which are not necessarily equivalent to solutions of the quantum constraint equations. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.05042]](https://arxiv.org/abs/2303.05042) - *Aspects of Quantum Gravity Phenomenology and Astrophysics* - Arundhati Dasgupta, José Fajardo-Montenegro
+
+
+
 ### Thu - 03/09/23
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2303.05430]](https://arxiv.org/abs/2303.05430) - *DeWitt boundary condition in one-loop quantum cosmology* - Giampiero Esposito
+
 1. [[2303.01747]](https://arxiv.org/abs/2303.01747) - *Wilson-line Scalar Mass in Flux Compactification on an Orbifold  $T^2/Z_2$* - Nobuhito Maru, Hiroki Tanaka
 
 1. [[2302.14183]](https://arxiv.org/abs/2302.14183) - *Semi-classical rotating black hole in loop quantum gravity* - Zhaoyi Xu
