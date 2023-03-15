@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2303.07661]](https://arxiv.org/abs/2303.07661) - *Gravitational wave hints black hole remnants as dark matter* - Guillem Domènech, Misao Sasaki
+
+1. [[2303.07367]](https://arxiv.org/abs/2303.07367) - *Lorentzian quantum gravity via Pachner moves: one-loop evaluation* - Johanna N. Borissova, Bianca Dittrich
+
 1. [[2303.05430]](https://arxiv.org/abs/2303.05430) - *DeWitt boundary condition in one-loop quantum cosmology* - Giampiero Esposito
 
 1. [[2303.01747]](https://arxiv.org/abs/2303.01747) - *Wilson-line Scalar Mass in Flux Compactification on an Orbifold  $T^2/Z_2$* - Nobuhito Maru, Hiroki Tanaka

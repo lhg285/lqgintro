@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/15/23
+
+#### Loop quantum gravity related papers
+
+#### **Gravitational wave hints black hole remnants as dark matter**
+ - **Authors:** Guillem Domènech, Misao Sasaki
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2303.07661](https://arxiv.org/abs/2303.07661)
+ - **Abstract**
+ The end state of Hawking evaporation of a black hole is uncertain. Some candidate quantum gravity theories, such as loop quantum gravity and asymptotic safe gravity, hint towards Planck sized remnants. If so, the Universe might be filled with remnants of tiny primordial black holes, which formed with mass $M<10^9\,{\rm g}$. A unique scenario is the case of $M\sim 5\times10^5\,{\rm g}$, where tiny primordial black holes reheat the universe by Hawking evaporation and their remnants dominate the dark matter. Here, we point out that this scenario leads to a cosmological gravitational wave signal at frequencies $\sim 100{\rm Hz}$. Finding such a particular gravitational wave signature with, e.g. the Einstein Telescope, would suggest black hole remnants as dark matter. 
+
+#### Spin foam related papers
+
+#### **Lorentzian quantum gravity via Pachner moves: one-loop evaluation**
+ - **Authors:** Johanna N. Borissova, Bianca Dittrich
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2303.07367](https://arxiv.org/abs/2303.07367)
+ - **Abstract**
+ Lorentzian quantum gravity is believed to cure the pathologies encountered in Euclidean quantum gravity, such as the conformal factor problem. We show that this is the case for the Lorentzian Regge path integral expanded around a flat background. We illustrate how a subset of local changes of the triangulation, so-called Pachner moves, allow to isolate the indefinite nature of the gravitational action at the discrete level. The latter can be accounted for by oppositely chosen deformed contours of integration. Moreover, we construct a discretization-invariant local path integral measure for 3D Lorentzian Regge calculus and point out obstructions in defining such a measure in 4D. We see the work presented here as a first step towards establishing the existence of the non-perturbative Lorentzian path integral for Regge calculus and related frameworks such as spin foams. An extensive appendix provides an overview of Lorentzian Regge calculus, using the recently introduced concept of the complexified Regge action, and derives useful geometric formulae and identities needed in the main text. 
+
 ### Tue - 03/14/23
 
 #### Loop quantum gravity related papers
