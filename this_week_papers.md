@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/16/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.08399]](https://arxiv.org/abs/2303.08399) - *Odd-parity perturbations of the wormhole-like geometries and  quasi-normal modes in Einstein-Æther theory* - Chao Zhang, Anzhong Wang, Tao Zhu
+
+1. [[2303.08802]](https://arxiv.org/abs/2303.08802) - *Review of the No-Boundary Wave Function* - Jean-Luc Lehners
+
+
+
 ### Wed - 03/15/23
 
 #### Loop quantum gravity related papers
