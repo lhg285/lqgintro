@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/17/23
+
+#### Loop quantum gravity related papers
+
+#### **Loop quantum gravity of a spherically symmetric scalar field coupled to  gravity with a clock**
+ - **Authors:** Rodolfo Gambini, Jorge Pullin
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2303.09392](https://arxiv.org/abs/2303.09392)
+ - **Abstract**
+ The inclusion of matter fields in spherically symmetric loop quantum gravity has proved problematic at the level of implementing the constraint algebra including the Hamiltonian constraint. Here we consider the system with the introduction of a clock. Using the Abelianizaton technique we introduced in previous papers in the case of gravity coupled to matter, the system can be gauge fixed and rewritten in terms of a restricted set of dynamical variables that satisfy simple Poisson bracket relations. This creates a true Hamiltonian and therefore one bypasses the issue of the constraint algebra. We show how loop quantum gravity techniques may be applied for the vacuum case and show that the Hamiltonian system reproduces previous results for the physical space of states and the observables of a Schwarzchild black hole. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 03/16/23
 
 #### Loop quantum gravity related papers

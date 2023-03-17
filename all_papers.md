@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2303.09392]](https://arxiv.org/abs/2303.09392) - *Loop quantum gravity of a spherically symmetric scalar field coupled to  gravity with a clock* - Rodolfo Gambini, Jorge Pullin
+
 1. [[2303.07661]](https://arxiv.org/abs/2303.07661) - *Gravitational wave hints black hole remnants as dark matter* - Guillem Domènech, Misao Sasaki
 
 1. [[2303.07367]](https://arxiv.org/abs/2303.07367) - *Lorentzian quantum gravity via Pachner moves: one-loop evaluation* - Johanna N. Borissova, Bianca Dittrich
