@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/22/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.11696]](https://arxiv.org/abs/2303.11696) - *Regular black holes: A short topic review* - Chen Lan, Hao Yang, Yang Guo, Yan-Gang Miao
+
+1. [[2303.11534]](https://arxiv.org/abs/2303.11534) - *A simple quantum system that describes a black hole* - Juan Maldacena
+
+
+
 ### Tue - 03/21/23
 
 #### Loop quantum gravity related papers
