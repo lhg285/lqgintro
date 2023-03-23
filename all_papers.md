@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2303.12708]](https://arxiv.org/abs/2303.12708) - *Rainbow Oppenheimer-Snyder collapse and the entanglement entropy  production* - Michał Bobula, Tomasz Pawłowski
+
 1. [[2303.09392]](https://arxiv.org/abs/2303.09392) - *Loop quantum gravity of a spherically symmetric scalar field coupled to  gravity with a clock* - Rodolfo Gambini, Jorge Pullin
 
 1. [[2303.07661]](https://arxiv.org/abs/2303.07661) - *Gravitational wave hints black hole remnants as dark matter* - Guillem Domènech, Misao Sasaki
