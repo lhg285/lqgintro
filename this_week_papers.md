@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/24/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.13164]](https://arxiv.org/abs/2303.13164) - *Tunneling and entropy analysis of parameterized black hole with rotating  case* - Muhammad Asgher, Anosha Karamat, Rimsha Babar, Riasat Ali
+
+1. [[2303.12866]](https://arxiv.org/abs/2303.12866) - *Universal aspects of holographic quantum critical transport with  self-duality* - Ángel J. Murcia, Dmitri Sorokin
+
+
+
 ### Thu - 03/23/23
 
 #### Loop quantum gravity related papers
