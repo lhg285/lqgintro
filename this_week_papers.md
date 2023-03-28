@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 03/28/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.14854]](https://arxiv.org/abs/2303.14854) - *No Time for Time from No-Time* - Eugene Y. S. Chua, Craig Callender
+
+1. [[2303.14945]](https://arxiv.org/abs/2303.14945) - *Quantum matter core of black holes (and quantum hair)* - Roberto Casadio, Octavian Micu
+
+
+
 ### Mon - 03/27/23
 
 #### Loop quantum gravity related papers
