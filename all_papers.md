@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2303.15760]](https://arxiv.org/abs/2303.15760) - *The topological order in loop quantum gravity* - Jingbo Wang
+
 1. [[2303.12708]](https://arxiv.org/abs/2303.12708) - *Rainbow Oppenheimer-Snyder collapse and the entanglement entropy  production* - Michał Bobula, Tomasz Pawłowski
 
 1. [[2303.09392]](https://arxiv.org/abs/2303.09392) - *Loop quantum gravity of a spherically symmetric scalar field coupled to  gravity with a clock* - Rodolfo Gambini, Jorge Pullin
