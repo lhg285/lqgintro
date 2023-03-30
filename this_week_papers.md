@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/30/23
+
+#### Loop quantum gravity related papers
+
+#### **Numerics of Bianchi type II and type IX spacetimes in effective loop  quantum cosmology**
+ - **Authors:** Timothy Blackmore, Edward Wilson-Ewing
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2303.16747](https://arxiv.org/abs/2303.16747)
+ - **Abstract**
+ We numerically solve the effective loop quantum cosmology dynamics for the vacuum Bianchi type II and type IX spacetimes, in particular studying how the Kasner exponents evolve across the loop quantum cosmology bounce. We find that when the spatial curvature is negligible at the bounce then the Kasner exponents transform according to the same simple equation as for a Bianchi type I spacetime in effective loop quantum cosmology, while there are departures from this transformation rule in cases where the spatial curvature is significant during the bounce. We also use high-precision numerics to compute the evolution of a Bianchi type IX spacetime through multiple bounces and recollapses, and find indications of chaotic behaviour. Interestingly, the numerics indicate that it is during the classical recollapse, and not the loop quantum cosmology bounce, that nearby solutions diverge most strongly. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.16315]](https://arxiv.org/abs/2303.16315) - *The Hilbert space of de Sitter quantum gravity* - Tuneer Chakraborty, Joydeep Chakravarty, Victor Godet, Priyadarshi Paul, Suvrat Raju
+
+1. [[2303.16316]](https://arxiv.org/abs/2303.16316) - *Holography of information in de Sitter space* - Tuneer Chakraborty, Joydeep Chakravarty, Victor Godet, Priyadarshi Paul, Suvrat Raju
+
+1. [[2303.16380]](https://arxiv.org/abs/2303.16380) - *The Timelike Tube Theorem in Curved Spacetime* - Alexander Strohmaier, Edward Witten
+
+1. [[2303.16838]](https://arxiv.org/abs/2303.16838) - *Reanalysis of critical exponents for the O(N) model via a hydrodynamic  approach to the Functional Renormalization Group* - Fabrizio Murgana, Adrian Koenigstein, Dirk H. Rischke
+
+
+
 ### Wed - 03/29/23
 
 #### Loop quantum gravity related papers
