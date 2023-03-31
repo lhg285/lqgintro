@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/31/23
+
+#### Loop quantum gravity related papers
+
+#### **Stationary cosmology in group field theory**
+ - **Authors:** Steffen Gielen, Robert Santacruz
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2303.16942](https://arxiv.org/abs/2303.16942)
+ - **Abstract**
+ Group field theory (GFT) models for quantum gravity coupled to a massless scalar field give rise to cosmological models that reproduce the (expanding or contracting) dynamics of homogeneous and isotropic spacetimes in general relativity at low energies, while including high-energy corrections that lead to singularity resolution by a "bounce." Here we investigate two possibilities for obtaining stationary solutions in GFT cosmology, which could be useful as an analogue of Minkowski spacetime. We first focus on a limit in which interactions are neglected and the effective Newton's constant in GFT cosmology is taken to zero. In this limit, we derive an effective Friedmann equation that shows no stationary solutions, but departures from the trivial classical dynamics falling off rapidly, similar to the usual correction terms responsible for the bounce. Since the effective Newton's constant needs to be exactly zero, the scenario is fine-tuned. A more satisfactory approach is obtained in a weakly interacting model: we find bound states with sharply peaked volume, representing a stationary semiclassical cosmology, and show that coherent states peaked around the minimum of the potential remain stable with small quantum fluctuations, and only small oscillations around a nearly constant volume. These coherent states realise the idea of a "quantum gravity condensate." 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2303.16924]](https://arxiv.org/abs/2303.16924) - *Regular Black Holes and Stars from Analytic $f(F^2)$* - Zhi-Chao Li, H. Lu
+
+1. [[2303.17238]](https://arxiv.org/abs/2303.17238) - *Non-commutative coordinates from quantum gravity* - Markus B. Fröb, Albert Much, Kyriakos Papadopoulos
+
+1. [[2303.17552]](https://arxiv.org/abs/2303.17552) - *Structure Formation in Non-local Bouncing Models* - D. Jackson, R. Bufalo
+
+
+
 ### Thu - 03/30/23
 
 #### Loop quantum gravity related papers

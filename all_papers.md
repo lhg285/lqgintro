@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2303.16942]](https://arxiv.org/abs/2303.16942) - *Stationary cosmology in group field theory* - Steffen Gielen, Robert Santacruz
+
 1. [[2303.16747]](https://arxiv.org/abs/2303.16747) - *Numerics of Bianchi type II and type IX spacetimes in effective loop  quantum cosmology* - Timothy Blackmore, Edward Wilson-Ewing
 
 1. [[2303.15760]](https://arxiv.org/abs/2303.15760) - *The topological order in loop quantum gravity* - Jingbo Wang
