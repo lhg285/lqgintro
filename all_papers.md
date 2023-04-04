@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2304.00268]](https://arxiv.org/abs/2304.00268) - *Graphical calculus of spin networks* - Emanuele Alesci, Ilkka Mäkinen, Jinsong Yang
+
+1. [[2304.00271]](https://arxiv.org/abs/2304.00271) - *Scalar curvature operator for loop quantum gravity on a cubical graph* - Ilkka Mäkinen
+
 1. [[2303.18172]](https://arxiv.org/abs/2303.18172) - *Hamiltonian Theory: Dynamics* - Thomas Thiemann, Kristina Giesel
 
 1. [[2303.16942]](https://arxiv.org/abs/2303.16942) - *Stationary cosmology in group field theory* - Steffen Gielen, Robert Santacruz
