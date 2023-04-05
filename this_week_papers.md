@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/05/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.01995]](https://arxiv.org/abs/2304.01995) - *Synge's World function and the quantum spacetime* - Dawood Kothawala
+
+1. [[2304.01292]](https://arxiv.org/abs/2304.01292) - *Holographic Quantum Gravity and Horizon Instability* - Vaibhav Kalvakota
+
+1. [[2304.01414]](https://arxiv.org/abs/2304.01414) - *Maxwell's Demon for Emergent Page Curve and Split Property* - Yang An
+
+1. [[2304.01550]](https://arxiv.org/abs/2304.01550) - *Non-invertible symmetries and boundaries in four dimensions* - Masataka Koide, Yuta Nagoya, Satoshi Yamaguchi
+
+1. [[2304.01936]](https://arxiv.org/abs/2304.01936) - *Shooting null geodesics into holographic spacetimes* - Shunichiro Kinoshita, Keiju Murata, Daichi Takeda
+
+
+
 ### Tue - 04/04/23
 
 #### Loop quantum gravity related papers
