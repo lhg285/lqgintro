@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2304.02691]](https://arxiv.org/abs/2304.02691) - *A numerical approach to the Black-to-White hole transition* - Pietropaolo Frisoni
+
 1. [[2304.00268]](https://arxiv.org/abs/2304.00268) - *Graphical calculus of spin networks* - Emanuele Alesci, Ilkka Mäkinen, Jinsong Yang
 
 1. [[2304.00271]](https://arxiv.org/abs/2304.00271) - *Scalar curvature operator for loop quantum gravity on a cubical graph* - Ilkka Mäkinen

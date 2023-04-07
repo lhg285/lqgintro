@@ -6,6 +6,37 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/07/23
+
+#### Loop quantum gravity related papers
+
+#### **A numerical approach to the Black-to-White hole transition**
+ - **Authors:** Pietropaolo Frisoni
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Computational Physics (physics.comp-ph); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2304.02691](https://arxiv.org/abs/2304.02691)
+ - **Abstract**
+ We outline an algorithm to compute numerically the black-to-white hole transition amplitude, using the loop quantum gravity covariant formulation and the Lorentzian Engle-Pereira-Rovelli-Livine model. We apply the algorithm to calculate the crossing time of the transition in the deep quantum regime, comparing our result with previous analytical estimates of the same physical observable in the semiclassical limit. Furthermore, we show how to evaluate the crossing time analytically using an alternative approach with respect to the one currently present in the literature. This method requires much easier calculations and emphasizes that the crossing time does not depend on the extrinsic geometry of the transition. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.03055]](https://arxiv.org/abs/2304.03055) - *Axial perturbations of black holes in scalar-tensor gravity:  near-horizon behaviour* - Karim Noui, Hugo Roussille, David Langlois
+
+1. [[2304.03263]](https://arxiv.org/abs/2304.03263) - *Regular hairy black holes through Minkowski deformation* - Jorge Ovalle, Roberto Casadio, Andrea Giusti
+
+1. [[2304.02668]](https://arxiv.org/abs/2304.02668) - *Coupling Fields to 3D Quantum Gravity via Chern-Simons Theory* - Alejandra Castro, Ioana Coman, Jackson R. Fliss, Claire Zukowski
+
+1. [[2304.02673]](https://arxiv.org/abs/2304.02673) - *Approximate observables from non-isometric maps: de Sitter tensor  networks with overlapping qubits* - Chunjun Cao, Wissam Chemissany, Alexander Jahn, Zoltán Zimborás
+
+1. [[2304.03224]](https://arxiv.org/abs/2304.03224) - *On the renormalization group fixed point of the two-dimensional Ising  model at criticality* - Tobias J. Osborne, Alexander Stottmeister
+
+
+
 ### Thu - 04/06/23
 
 #### Loop quantum gravity related papers
