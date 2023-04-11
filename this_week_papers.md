@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 04/11/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.03819]](https://arxiv.org/abs/2304.03819) - *Aspects of Everpresent $Λ$ (I): A Fluctuating Cosmological  Constant from Spacetime Discreteness* - Santanu Das, Arad Nasiri, Yasaman K. Yazdi
+
+1. [[2304.04684]](https://arxiv.org/abs/2304.04684) - *Correlation Functions in the TsT/$T{\bar T}$ Correspondence* - Wei Cui, Hongfei Shu, Wei Song, Juntao Wang
+
+
+
 ### Mon - 04/10/23
 
 #### Loop quantum gravity related papers
