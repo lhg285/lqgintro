@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2304.05426]](https://arxiv.org/abs/2304.05426) - *Loop Quantum Cosmology: Physics of Singularity Resolution and its  Implications* - Bao-Fei Li, Parampreet Singh
+
 1. [[2304.03559]](https://arxiv.org/abs/2304.03559) - *Quantum circuits for the Ising spin networks* - Grzegorz Czelusta, Jakub Mielczarek
 
 1. [[2304.02691]](https://arxiv.org/abs/2304.02691) - *A numerical approach to the Black-to-White hole transition* - Pietropaolo Frisoni

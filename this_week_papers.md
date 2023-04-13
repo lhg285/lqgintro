@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 04/13/23
+
+#### Loop quantum gravity related papers
+
+#### **Loop Quantum Cosmology: Physics of Singularity Resolution and its  Implications**
+ - **Authors:** Bao-Fei Li, Parampreet Singh
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO)
+ - **Arxiv link:** [https://arxiv.org/abs/2304.05426](https://arxiv.org/abs/2304.05426)
+ - **Abstract**
+ The occurrence of singularities where spacetime curvature becomes infinite and geodesic evolution breaks down are inevitable events in classical general relativity (GR) unless one chooses an exotic matter violating weak energy condition. These singularities show up in various physical processes, such as the gravitational collapse, the birth of the universe in the standard cosmology as well as the classical solutions of the black hole spacetimes. In the last two decades, a rigorous understanding of the dynamics of quantum spacetime and the way it resolves singularities has been achieved in loop quantum cosmology (LQC) which applies the concepts and techniques of loop quantum gravity to the symmetry reduced cosmological spacetimes. Due to the fundamental discreteness of quantum geometry derived from the quantum theory, the big bang singularity has been robustly shown to be replaced by a big bounce. Strong curvature singularities intrinsic in the classical cosmology are generically resolved for a variety of cosmological spacetimes including anisotropic models and polarized Gowdy models. Using effective spacetime description the LQC universe also provides an ultra-violet complete description of the classical inflationary scenario as well as its alternatives such as the ekpyrotic and matter bounce scenarios. In this chapter we provide a summary of singularity resolution and its physical implications for various isotropic and anisotropic cosmological spacetimes in LQC and analyze robustness of results through variant models originating from different quantization prescriptions. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.05408]](https://arxiv.org/abs/2304.05408) - *Einstein-Rosen bridge from the minimal length* - Kimet Jusufi, Emmanuel Moulay, Jonas Mureika, Ahmed Farag Ali
+
+1. [[2304.05421]](https://arxiv.org/abs/2304.05421) - *Regular black holes and the first law of black hole mechanics* - Sebastian Murk, Ioannis Soranidis
+
+1. [[2304.05751]](https://arxiv.org/abs/2304.05751) - *Generalized Volume-Complexity for RN-AdS Black Hole* - Meng-Ting Wang, Hong-Yue Jiang, Yu-Xiao Liu
+
+
+
 ### Wed - 04/12/23
 
 #### Loop quantum gravity related papers
