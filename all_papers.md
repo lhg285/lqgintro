@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2304.06088]](https://arxiv.org/abs/2304.06088) - *Gravitational Edge Mode in Asymptotically AdS$_2$: JT Gravity Revisited* - Euihun Joung, Prithvi Narayan, Junggi Yoon
+
 1. [[2304.05426]](https://arxiv.org/abs/2304.05426) - *Loop Quantum Cosmology: Physics of Singularity Resolution and its  Implications* - Bao-Fei Li, Parampreet Singh
 
 1. [[2304.03559]](https://arxiv.org/abs/2304.03559) - *Quantum circuits for the Ising spin networks* - Grzegorz Czelusta, Jakub Mielczarek

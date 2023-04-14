@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/14/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Gravitational Edge Mode in Asymptotically AdS$_2$: JT Gravity Revisited**
+ - **Authors:** Euihun Joung, Prithvi Narayan, Junggi Yoon
+ - **Subjects:** High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2304.06088](https://arxiv.org/abs/2304.06088)
+ - **Abstract**
+ We study the gravitational edge mode of the Jackiw-Teitelboim (JT) gravity and the constrained $sl(2,\mathbb{R})$ BF theory for the asymptotically AdS$_2$. We revisit the derivation of the Schwarzian theory from the wiggling boundary as an action for the gravitational edge mode. We present an alternative description for the gravitational edge mode from the metric fluctuation with the fixed boundary, which is also known as the would-be gauge mode in the gravity. We clarify the relation between the wiggling boundary and the would-be gauge mode. We demonstrate a natural top-down derivation of $PSL(2,\mathbb{R})$ gauging and the path integral measure of the Schwarzian theory. In the constrained $sl(2,\mathbb{R})$ BF theory, we develop a method for incorporating the gravitational edge mode in the BF theory. In this BF theory coupled to the edge mode, we derive the Schwarzian theory with $PSL(2,\mathbb{R})$ gauging. We show that the Haar measure for the Iwasawa decomposition of $PSL(2,\mathbb{R})$ leads to the path integral measure. 
+
+
+
+#### Other related papers
+
+1. [[2304.06494]](https://arxiv.org/abs/2304.06494) - *On the thermodynamics of reconciling quantum and gravity* - H. Moradpour, S. Jalalzadeh, Umesh Kumar Sharma
+
+1. [[2304.06593]](https://arxiv.org/abs/2304.06593) - *Entanglement entropy for spherically symmetric regular black holes* - Orlando Luongo, Stefano Mancini, Paolo Pierosara
+
+
+
 ### Thu - 04/13/23
 
 #### Loop quantum gravity related papers
