@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 04/18/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.07383]](https://arxiv.org/abs/2304.07383) - *Excising Curvature Singularities from General Relativity* - Alex Simpson
+
+1. [[2304.08478]](https://arxiv.org/abs/2304.08478) - *Wave Packets in AdS/CFT Correspondence* - Seiji Terashima
+
+
+
 ### Mon - 04/17/23
 
 #### Loop quantum gravity related papers
