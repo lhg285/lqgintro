@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/19/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.08520]](https://arxiv.org/abs/2304.08520) - *Message in a bottle: energy extraction from bouncing geometries* - Vitor Cardoso, João L. Costa, José Natário, Zhen Zhong
+
+1. [[2304.08624]](https://arxiv.org/abs/2304.08624) - *Effective description of generalized disformal theories* - Kazufumi Takahashi, Masato Minamitsuji, Hayato Motohashi
+
+1. [[2304.08729]](https://arxiv.org/abs/2304.08729) - *Quantum atmosphere effective radii for different spin fields from  quantum gravity inspired black holes* - Douglas M. Gingrich
+
+1. [[2304.08831]](https://arxiv.org/abs/2304.08831) - *Energy extraction from rotating regular black hole via magnetic  reconnection* - Zhen Li, Xiao-Kan Guo, Faqiang Yuan
+
+1. [[2304.09014]](https://arxiv.org/abs/2304.09014) - *Micro-canonical and canonical description for generalised entropy* - Shin'ichi Nojiri, Sergei D. Odintsov
+
+
+
 ### Tue - 04/18/23
 
 #### Loop quantum gravity related papers
