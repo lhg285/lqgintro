@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 04/20/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.09714]](https://arxiv.org/abs/2304.09714) - *A background independent notion of causality* - Antonio Capolupo, Aniello Quaranta
+
+
+
 ### Wed - 04/19/23
 
 #### Loop quantum gravity related papers
