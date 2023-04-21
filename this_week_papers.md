@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/21/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.10245]](https://arxiv.org/abs/2304.10245) - *Correction to Lagrangian for Bouncing Cosmologies in $f(Q)$ Gravity* - Gaurav N. Gadbail, Ameya Kolhatkar, Sanjay Mandal, P.K. Sahoo
+
+1. [[2304.10367]](https://arxiv.org/abs/2304.10367) - *Black holes in quantum gravity* - Daniel Harlow
+
+1. [[2304.09900]](https://arxiv.org/abs/2304.09900) - *Constraints on physical computers in holographic spacetimes* - Aleksander M. Kubicki, Alex May, David Pérez-Garcia,
+
+1. [[2304.10155]](https://arxiv.org/abs/2304.10155) - *Towards quantum black hole microstates* - Sunjin Choi, Seok Kim, Eunwoo Lee, Siyul Lee, Jaemo Park
+
+
+
 ### Thu - 04/20/23
 
 #### Loop quantum gravity related papers
