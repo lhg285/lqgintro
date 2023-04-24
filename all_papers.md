@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2304.10865]](https://arxiv.org/abs/2304.10865) - *Emergent Gravity from the Entanglement Structure in Group Field Theory* - Jinglong Liu, Stephon Alexander, Antonino Marciano, Roman Pasechnik
+
 1. [[2304.06760]](https://arxiv.org/abs/2304.06760) - *Quantum gravitational non-singular tunneling wavefunction proposal* - Meysam Motaharfar, Parampreet Singh
 
 1. [[2304.06895]](https://arxiv.org/abs/2304.06895) - *Axial gravitational quasinormal modes of a self-dual black hole in loop  quantum gravity* - Sen Yang, Wen-Di Guo, Qin Tan, Yu-Xiao Liu
