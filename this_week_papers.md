@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 04/25/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.11578]](https://arxiv.org/abs/2304.11578) - *A non-singular bouncing cosmology in $ f(R,T) $ gravity* - J. K. Singh, Shaily, Akanksha Singh, Aroonkumar Beesham, Hamid Shabani
+
+1. [[2304.12024]](https://arxiv.org/abs/2304.12024) - *Summing over Non-singular Paths in Quantum Cosmology* - Hiroki Matsui
+
+1. [[2304.11430]](https://arxiv.org/abs/2304.11430) - *Holographic n-partite Information in Hyperscaling Violating Geometry* - Xin-Xiang Ju, Teng-Zhou Lai, Ya-Wen Sun, Yuan-Tai Wang
+
+1. [[2304.11813]](https://arxiv.org/abs/2304.11813) - *A note on lattice description of generalized symmetries in  $SU(N)/\mathbb{Z}_N$ gauge theories* - Motokazu Abe, Okuto Morikawa, Soma Onoda
+
+
+
 ### Mon - 04/24/23
 
 #### Loop quantum gravity related papers
