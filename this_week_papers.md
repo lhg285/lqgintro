@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/26/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2304.12750]](https://arxiv.org/abs/2304.12750) - *Black hole hairs in scalar-tensor gravity (and lack thereof)* - Lodovico Capuano, Luca Santoni, Enrico Barausse
+
+1. [[2304.12767]](https://arxiv.org/abs/2304.12767) - *Lorentz Violation in Finsler Geometry* - Jie Zhu, Bo-Qiang Ma
+
+1. [[2304.12349]](https://arxiv.org/abs/2304.12349) - *Stochastic Description of Near-Horizon Fluctuations in Rindler-AdS* - Yiwen Zhang, Kathryn M. Zurek
+
+
+
 ### Tue - 04/25/23
 
 #### Loop quantum gravity related papers
