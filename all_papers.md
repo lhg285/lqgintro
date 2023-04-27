@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2304.13058]](https://arxiv.org/abs/2304.13058) - *Curvature effects in the spectral dimension of spin foams* - Alexander Jercher, Sebastian Steinhaus, Johannes Thürigen
+
+1. [[2304.13067]](https://arxiv.org/abs/2304.13067) - *Exotic Field Theories for (Hybrid) Fracton Phases from Imposing  Constraints in Foliated Field Theory* - Ryan C. Spieler
+
 1. [[2304.10865]](https://arxiv.org/abs/2304.10865) - *Emergent Gravity from the Entanglement Structure in Group Field Theory* - Jinglong Liu, Stephon Alexander, Antonino Marciano, Roman Pasechnik
 
 1. [[2304.06760]](https://arxiv.org/abs/2304.06760) - *Quantum gravitational non-singular tunneling wavefunction proposal* - Meysam Motaharfar, Parampreet Singh
