@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2304.14160]](https://arxiv.org/abs/2304.14160) - *Periodic orbits and their gravitational wave radiations in a polymer  black hole in loop quantum gravity* - Ze-Yi Tu, Tao Zhu, Anzhong Wang
+
 1. [[2304.13058]](https://arxiv.org/abs/2304.13058) - *Curvature effects in the spectral dimension of spin foams* - Alexander Jercher, Sebastian Steinhaus, Johannes Thürigen
 
 1. [[2304.13067]](https://arxiv.org/abs/2304.13067) - *Exotic Field Theories for (Hybrid) Fracton Phases from Imposing  Constraints in Foliated Field Theory* - Ryan C. Spieler

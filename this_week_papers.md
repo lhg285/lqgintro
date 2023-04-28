@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/28/23
+
+#### Loop quantum gravity related papers
+
+#### **Periodic orbits and their gravitational wave radiations in a polymer  black hole in loop quantum gravity**
+ - **Authors:** Ze-Yi Tu, Tao Zhu, Anzhong Wang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE)
+ - **Arxiv link:** [https://arxiv.org/abs/2304.14160](https://arxiv.org/abs/2304.14160)
+ - **Abstract**
+ This article provides a detailed investigation into the motion of the surrounding particles around a polymer black hole in loop quantum gravity (LQG). Using effective potential, the critical bound orbits and innermost stable circular orbits (ISCO) are analyzed. The study finds that the radii and angular momentum of the critical bound orbits decrease with an increase in the parameter $A_\lambda$ which labels the LQG effects, while the energy and angular momentum of the ISCO also decreases with an increase in $A_\lambda$. Based on these findings, we then explore the periodic orbits of the polymer black hole in LQG using rational numbers composed of three integers. Our results show that the rational numbers increase with the energy of particles and decrease with the increase of angular momentum based on a classification scheme. Moreover, compared to a Schwarzschild black hole, the periodic orbits in a polymer black hole in LQG consistently have lower energy, providing a potential method for distinguishing a polymer black hole in LQG from a Schwarzschild black hole. Finally, we also examine the gravitational wave radiations of the periodic orbits of a test object which orbits a supermassive polymer black hole in LQG, which generates intricate GW waveforms that can aid in exhibiting the gravitational structure of the system. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 04/27/23
 
 #### Loop quantum gravity related papers
