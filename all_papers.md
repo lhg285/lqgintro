@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2305.02203]](https://arxiv.org/abs/2305.02203) - *Massless KG-oscillators in Som-Raychaudhuri cosmic string spacetime in a  fine tuned rainbow gravity* - Omar Mustafa
+
 1. [[2304.14160]](https://arxiv.org/abs/2304.14160) - *Periodic orbits and their gravitational wave radiations in a polymer  black hole in loop quantum gravity* - Ze-Yi Tu, Tao Zhu, Anzhong Wang
 
 1. [[2304.13058]](https://arxiv.org/abs/2304.13058) - *Curvature effects in the spectral dimension of spin foams* - Alexander Jercher, Sebastian Steinhaus, Johannes Thürigen
