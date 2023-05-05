@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2305.02670]](https://arxiv.org/abs/2305.02670) - *Curvature from multipartite entanglement in quantum gravity states* - Simone Cepollaro, Goffredo Chirco, Gianluca Cuffaro, Vittorio D'Esposito
+
 1. [[2305.02203]](https://arxiv.org/abs/2305.02203) - *Massless KG-oscillators in Som-Raychaudhuri cosmic string spacetime in a  fine tuned rainbow gravity* - Omar Mustafa
 
 1. [[2304.14160]](https://arxiv.org/abs/2304.14160) - *Periodic orbits and their gravitational wave radiations in a polymer  black hole in loop quantum gravity* - Ze-Yi Tu, Tao Zhu, Anzhong Wang
