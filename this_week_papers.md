@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/10/23
+
+#### Loop quantum gravity related papers
+
+#### **Closer look at cosmological consequences of interacting group field  theory**
+ - **Authors:** Maxime De Sousa, Aurélien Barrau, Killian Martineau
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2305.05438](https://arxiv.org/abs/2305.05438)
+ - **Abstract**
+ Group field theory has shown to be a promising framework to derive cosmological predictions from full quantum gravity. In this brief note, we revisit the background dynamics when interaction terms are taken into account and conclude that, although the bounce is clearly robust, providing a geometrical explanation for inflation seems to be very difficult. We consider possible improvements and modifications of the original scenario and derive several limits on the parameters of the model. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.04952]](https://arxiv.org/abs/2305.04952) - *Geometric Quantum Discord Signals Non-Factorization* - Souvik Banerjee, Pablo Basteiro, Rathindra Nath Das, Moritz Dorband
+
+
+
 ### Tue - 05/09/23
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2305.05438]](https://arxiv.org/abs/2305.05438) - *Closer look at cosmological consequences of interacting group field  theory* - Maxime De Sousa, Aurélien Barrau, Killian Martineau
+
 1. [[2305.04336]](https://arxiv.org/abs/2305.04336) - *Investigating Loop Quantum Gravity Through Strong Gravitational Lensing  Effects by Rotating Black Hole and EHT Observations* - Jitendra Kumar, Shafqat Ul Islam, Sushant G. Ghosh
 
 1. [[2305.02670]](https://arxiv.org/abs/2305.02670) - *Curvature from multipartite entanglement in quantum gravity states* - Simone Cepollaro, Goffredo Chirco, Gianluca Cuffaro, Vittorio D'Esposito
