@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/11/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.06046]](https://arxiv.org/abs/2305.06046) - *Towards a unitary formulation of quantum field theory in curved  spacetime I: the case of de Sitter spacetime* - K. Sravan Kumar, João Marto
+
+1. [[2305.06136]](https://arxiv.org/abs/2305.06136) - *QFT with Tensorial and Local Degrees of Freedom: Phase Structure from  Functional Renormalization* - Joseph Ben Geloun, Andreas G.A. Pithis, Johannes Thürigen
+
+
+
 ### Wed - 05/10/23
 
 #### Loop quantum gravity related papers
