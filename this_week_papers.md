@@ -6,6 +6,40 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/12/23
+
+#### Loop quantum gravity related papers
+
+#### **Quantum gravity in the triangular gauge**
+ - **Authors:** Thomas Thiemann
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Lattice (hep-lat); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2305.06724](https://arxiv.org/abs/2305.06724)
+ - **Abstract**
+ Vielbeins are necessary when coupling General Relativity (GR) to fermionic matter. This enhances the gauge group of GR to include local Lorentz transformations. In view of a reduced phase space formulation of quantum gravity, in this work we completely gauge fix that Lorentz gauge symmetry by using a so-called triangular gauge. Having solved the Gauss constraints already classically opens access to new Hilbert space representations which are free of the complications that otherwise arise due to a non Abelian gauge symmetry. In that sense, a connection formulation as being pursued in Loop Quantum Gravity is no longer the only practicable option and other less dimension dependent representations e.g. based on triads and even metrics suggest themselves. These formulations make it easier to identify states representing non-degenerate quantum geometries and thus to investigate the hypersurface deformation algebra which implicitly assumes non-degeneracy. 
+
+#### **Worldline path integrals for the graviton**
+ - **Authors:** Fiorenzo Bastianelli, Mattia Damia Paciarini
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2305.06650](https://arxiv.org/abs/2305.06650)
+ - **Abstract**
+ We present an extension to arbitrary dimensions of the worldline path integral approach to one-loop quantum gravity, which was previously formulated in four spacetime dimensions. By utilizing this method, we recalculate gauge invariant coefficients in arbitrary dimensions. These coefficients were previously obtained through two alternative techniques: the quantization of a ${\cal N}=4$ spinning particle that consistently propagates the graviton on Einstein spaces and the more conventional heat kernel approach. Our worldline path integrals are closer to the latter as they are employed to compute efficiently the trace of the heat kernel. We discuss how the worldline sigma models that reproduce the gauge-fixed graviton and ghosts can be treated in different but equivalent ways. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.06504]](https://arxiv.org/abs/2305.06504) - *Effect of the cosmological model on LIV constraints from GRB Time-Delays  datasets* - Denitsa Staicova
+
+1. [[2305.06834]](https://arxiv.org/abs/2305.06834) - *Black hole entropy contributions from Euclidean cores* - Jens Boos
+
+1. [[2305.06552]](https://arxiv.org/abs/2305.06552) - *Bulk-Boundary Thermodynamics of Charged Black Holes in Higher Derivative  Theory* - Gurmeet Singh Punia
+
+
+
 ### Thu - 05/11/23
 
 #### Loop quantum gravity related papers

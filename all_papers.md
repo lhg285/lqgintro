@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2305.06724]](https://arxiv.org/abs/2305.06724) - *Quantum gravity in the triangular gauge* - Thomas Thiemann
+
+1. [[2305.06650]](https://arxiv.org/abs/2305.06650) - *Worldline path integrals for the graviton* - Fiorenzo Bastianelli, Mattia Damia Paciarini
+
 1. [[2305.05438]](https://arxiv.org/abs/2305.05438) - *Closer look at cosmological consequences of interacting group field  theory* - Maxime De Sousa, Aurélien Barrau, Killian Martineau
 
 1. [[2305.04336]](https://arxiv.org/abs/2305.04336) - *Investigating Loop Quantum Gravity Through Strong Gravitational Lensing  Effects by Rotating Black Hole and EHT Observations* - Jitendra Kumar, Shafqat Ul Islam, Sushant G. Ghosh
