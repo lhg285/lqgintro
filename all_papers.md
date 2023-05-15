@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2305.07331]](https://arxiv.org/abs/2305.07331) - *Gödel's undecidability theorems and the search for a theory of  everything* - Claus Kiefer
+
 1. [[2305.06724]](https://arxiv.org/abs/2305.06724) - *Quantum gravity in the triangular gauge* - Thomas Thiemann
 
 1. [[2305.06650]](https://arxiv.org/abs/2305.06650) - *Worldline path integrals for the graviton* - Fiorenzo Bastianelli, Mattia Damia Paciarini
