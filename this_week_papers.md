@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 05/16/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.08082]](https://arxiv.org/abs/2305.08082) - *Tidal forces in the Simpson-Visser black-bounce and wormhole spacetimes* - Dhruv Arora, Parth Bambhaniya, Dipanjan Dey, Pankaj S. Joshi
+
+1. [[2305.07701]](https://arxiv.org/abs/2305.07701) - *Bounds on Field Range for Slowly Varying Positive Potentials* - Damian van de Heisteeg, Cumrun Vafa, Max Wiesner, David H. Wu
+
+1. [[2305.07915]](https://arxiv.org/abs/2305.07915) - *The Weak Gravity Conjecture, Overcharged Shells and Gravitational Traps* - Alex Kehagias, Kostas D.Kokkotas, Antonio Riotto, John Taskas, George Tringas
+
+1. [[2305.08297]](https://arxiv.org/abs/2305.08297) - *Scattering From $(p,q)$-Strings in $\text{AdS}_5 \times \text{S}^5$* - Silviu S. Pufu, Victor A. Rodriguez, Yifan Wang
+
+
+
 ### Mon - 05/15/23
 
 #### Loop quantum gravity related papers
