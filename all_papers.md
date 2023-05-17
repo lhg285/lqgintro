@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2305.09391]](https://arxiv.org/abs/2305.09391) - *Quantum Gravity Effect in Binary Black Hole Merger* - Parthasarathi Majumdar
+
+1. [[2305.09599]](https://arxiv.org/abs/2305.09599) - *Alleviation of anomalies from the non-oscillatory vacuum in loop quantum  cosmology* - Mercedes Martín-Benito, Rita B. Neves, Javier Olmedo
+
 1. [[2305.07331]](https://arxiv.org/abs/2305.07331) - *Gödel's undecidability theorems and the search for a theory of  everything* - Claus Kiefer
 
 1. [[2305.06724]](https://arxiv.org/abs/2305.06724) - *Quantum gravity in the triangular gauge* - Thomas Thiemann
