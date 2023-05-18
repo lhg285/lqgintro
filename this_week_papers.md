@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/18/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.10224]](https://arxiv.org/abs/2305.10224) - *Duality Origami: Emergent Ensemble Symmetries in Holography and  Swampland* - Meer Ashwinkumar, Jacob M. Leedom, Masahito Yamazaki
+
+
+
 ### Wed - 05/17/23
 
 #### Loop quantum gravity related papers
