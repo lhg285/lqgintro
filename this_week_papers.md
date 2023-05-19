@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/19/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.10489]](https://arxiv.org/abs/2305.10489) - *Species Entropy and Thermodynamics* - Niccolò Cribiori, Dieter Lust, Carmine Montella
+
+1. [[2305.10591]](https://arxiv.org/abs/2305.10591) - *Wave Function Renormalization and Flow of Couplings in Asymptotically  Safe Quantum Gravity* - Hikaru Kawai, Nobuyoshi Ohta
+
+1. [[2305.10635]](https://arxiv.org/abs/2305.10635) - *Quantum gravity and the measurement problem in quantum mechanics* - Edgar Shaghoulian
+
+1. [[2305.10712]](https://arxiv.org/abs/2305.10712) - *Slow Complexification* - Brett McInnes
+
+1. [[2305.10779]](https://arxiv.org/abs/2305.10779) - *Mixed boundary conditions and Double-trace like deformations in  Celestial holography and Wedge-like holography* - Machiko Fukada, Akihiro Miyata
+
+1. [[2305.11177]](https://arxiv.org/abs/2305.11177) - *Imprints of phase transitions on Kasner singularities* - Elena Caceres, Sanjit Shashi, Hao-Yu Sun
+
+
+
 ### Thu - 05/18/23
 
 #### Loop quantum gravity related papers
