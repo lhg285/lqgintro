@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2305.12215]](https://arxiv.org/abs/2305.12215) - *Introduction to Loop Quantum Gravity: Rovelli's lectures on LQG* - Pietropaolo Frisoni
+
+1. [[2305.12323]](https://arxiv.org/abs/2305.12323) - *Constraints on rotating self-dual black hole with quasi-periodic  oscillations* - Cheng Liu, Haiguang Xu, Hoongwah Siew, Tao Zhu, Qiang Wu, Yuanyuan Zhao
+
 1. [[2305.09391]](https://arxiv.org/abs/2305.09391) - *Quantum Gravity Effect in Binary Black Hole Merger* - Parthasarathi Majumdar
 
 1. [[2305.09599]](https://arxiv.org/abs/2305.09599) - *Alleviation of anomalies from the non-oscillatory vacuum in loop quantum  cosmology* - Mercedes Martín-Benito, Rita B. Neves, Javier Olmedo
