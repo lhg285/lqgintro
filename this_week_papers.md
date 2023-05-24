@@ -6,6 +6,16 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/24/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 05/23/23
 
 #### Loop quantum gravity related papers
