@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/25/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.15232]](https://arxiv.org/abs/2305.15232) - *A vacuum solution of modified Einstein equations based on fractional  calculus* - A. Di Teodoro, E. Contreras
+
+1. [[2305.15095]](https://arxiv.org/abs/2305.15095) - *Metrics and geodesics on fuzzy spaces* - David Viennot
+
+
+
 ### Wed - 05/24/23
 
 #### Loop quantum gravity related papers
