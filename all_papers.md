@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2305.16009]](https://arxiv.org/abs/2305.16009) - *Ergodic Concepts for a Self-Organizing Trivalent Spin Network* - Christine C. Dantas (Astrophysics Division, INPE, Brazil)
+
+1. [[2305.16237]](https://arxiv.org/abs/2305.16237) - *A reduced phase space quantisation of a model in Algebraic Quantum  Gravity with polarised $T^3$ Gowdy symmetry* - Kristina Giesel, Andreas Leitherer, David Winnekens
+
 1. [[2305.12215]](https://arxiv.org/abs/2305.12215) - *Introduction to Loop Quantum Gravity: Rovelli's lectures on LQG* - Pietropaolo Frisoni
 
 1. [[2305.12323]](https://arxiv.org/abs/2305.12323) - *Constraints on rotating self-dual black hole with quasi-periodic  oscillations* - Cheng Liu, Haiguang Xu, Hoongwah Siew, Tao Zhu, Qiang Wu, Yuanyuan Zhao

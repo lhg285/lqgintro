@@ -6,6 +6,42 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/26/23
+
+#### Loop quantum gravity related papers
+
+#### **Ergodic Concepts for a Self-Organizing Trivalent Spin Network**
+ - **Authors:** Christine C. Dantas (Astrophysics Division, INPE, Brazil)
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2305.16009](https://arxiv.org/abs/2305.16009)
+ - **Abstract**
+ We consider, from a dynamical systems point of view, a frozen, planar trivalent spin network model in Loop Quantum Gravity (LQG) presenting self-organized criticality (SOC). We obtain a partition function for the domains of stability connecting gauge non-invariant avalanches, leading to an entropy formula for the asymptotic SOC state. We use this formalism to obtain the entropy of a $(2+1)$-dimensional (BTZ) black hole, and conjecture that this entropy reduces to the Bekenstein-Hawking entropy law by an appropriate adjustment of a potential function. 
+
+#### **A reduced phase space quantisation of a model in Algebraic Quantum  Gravity with polarised $T^3$ Gowdy symmetry**
+ - **Authors:** Kristina Giesel, Andreas Leitherer, David Winnekens
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2305.16237](https://arxiv.org/abs/2305.16237)
+ - **Abstract**
+ We consider a reduced phase space quantisation of a model with $T^3$ Gowdy symmetry in which gravity has been coupled to Gaussian dust. We complete the quantisation programme in reduced loop quantum gravity (LQG) as well as algebraic quantum gravity (AQG) and derive a Schr\"odinger-like equation with a physical Hamiltonian operator encoding the dynamics. Due to the classical symmetries of the physical Hamiltonian, the operators are quantised in a graph-preserving way in both cases -- a difference to former models available in the literature. As a first step towards applications of the model in AQG, we consider an ansatz that we use to first construct zero volume states as specific solutions of the Schr\"odiger-like equation. We then also find states with a vanishing action of the Euclidean part of the physical Hamiltonian and investigate the degeneracies these states experience via the action of the Lorentzian part of the physical Hamiltonian. The results presented here can be taken as a starting point for deriving effective models as well as analysing the dynamics numerically in future work. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.16011]](https://arxiv.org/abs/2305.16011) - *Coördinate transformations, metrics and black hole features in the  collapsed phase of EDT* - Jan Smit
+
+1. [[2305.16193]](https://arxiv.org/abs/2305.16193) - *30 years in: Quo vadis generalized uncertainty principle?* - Pasquale Bosso, Giuseppe Gaetano Luciano, Luciano Petruzziello, Fabian Wagner
+
+1. [[2305.15470]](https://arxiv.org/abs/2305.15470) - *Gauge theory on twist-noncommutative spaces* - Tim Meier, Stijn J. van Tongeren
+
+1. [[2305.16028]](https://arxiv.org/abs/2305.16028) - *Information loss, mixing and emergent type III$_1$ factors* - Keiichiro Furuya, Nima Lashkari, Mudassir Moosa, Shoy Ouseph
+
+
+
 ### Thu - 05/25/23
 
 #### Loop quantum gravity related papers
