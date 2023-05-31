@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2305.18902]](https://arxiv.org/abs/2305.18902) - *Spherically-symmetric geometries in a matter reference frame as quantum  gravity condensates* - Daniele Oriti, Yi-Li Wang
+
 1. [[2305.16009]](https://arxiv.org/abs/2305.16009) - *Ergodic Concepts for a Self-Organizing Trivalent Spin Network* - Christine C. Dantas (Astrophysics Division, INPE, Brazil)
 
 1. [[2305.16237]](https://arxiv.org/abs/2305.16237) - *A reduced phase space quantisation of a model in Algebraic Quantum  Gravity with polarised $T^3$ Gowdy symmetry* - Kristina Giesel, Andreas Leitherer, David Winnekens

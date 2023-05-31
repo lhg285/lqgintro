@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/31/23
+
+#### Loop quantum gravity related papers
+
+#### **Spherically-symmetric geometries in a matter reference frame as quantum  gravity condensates**
+ - **Authors:** Daniele Oriti, Yi-Li Wang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2305.18902](https://arxiv.org/abs/2305.18902)
+ - **Abstract**
+ Candidate microstates of a spherically symmetric geometry are constructed in the group field theory formalism for quantum gravity, for models including both quantum geometric and scalar matter degrees of freedom. The latter are used as a material reference frame to define the spacetime localization of the various elements of quantum geometry. By computing quantum geometric observables, we then match the quantum states with a spherically symmetric classical geometry, written in a suitable matter reference frame. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.19057]](https://arxiv.org/abs/2305.19057) - *From Bardeen-boson stars to black holes without event horizon* - X. E. Wang
+
+1. [[2305.18530]](https://arxiv.org/abs/2305.18530) - *$c$-functions in Higher-derivative Flows Across Dimensions* - Evan Deddo, James T. Liu, Leopoldo A. Pando Zayas, Robert J. Saskowski
+
+1. [[2305.18716]](https://arxiv.org/abs/2305.18716) - *Cosmology in nonlocal gravity* - Alexey S. Koshelev, K. Sravan Kumar, Alexei A. Starobinsky
+
+
+
 ### Tue - 05/30/23
 
 #### Loop quantum gravity related papers
