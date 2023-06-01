@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/01/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2305.19517]](https://arxiv.org/abs/2305.19517) - *Quantum gravity phenomenology from the perspective of quantum general  relativity and quadratic gravity* - Gabriel Menezes
+
+1. [[2305.19438]](https://arxiv.org/abs/2305.19438) - *$\mathcal{N}=2$ JT Supergravity and Matrix Models* - Gustavo J. Turiaci, Edward Witten
+
+1. [[2305.20037]](https://arxiv.org/abs/2305.20037) - *Melting $AdS_2$-ice into flatland: flat limit of massless scalar  scattering* - Sarthak Duary
+
+
+
 ### Wed - 05/31/23
 
 #### Loop quantum gravity related papers
