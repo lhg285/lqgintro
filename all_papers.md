@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2306.00990]](https://arxiv.org/abs/2306.00990) - *Finite Entanglement Entropy in String Theory* - Atish Dabholkar, Upamanyu Moitra
+
 1. [[2305.18902]](https://arxiv.org/abs/2305.18902) - *Spherically-symmetric geometries in a matter reference frame as quantum  gravity condensates* - Daniele Oriti, Yi-Li Wang
 
 1. [[2305.16009]](https://arxiv.org/abs/2305.16009) - *Ergodic Concepts for a Self-Organizing Trivalent Spin Network* - Christine C. Dantas (Astrophysics Division, INPE, Brazil)

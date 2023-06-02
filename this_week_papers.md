@@ -6,6 +6,37 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/02/23
+
+#### Loop quantum gravity related papers
+
+#### **Finite Entanglement Entropy in String Theory**
+ - **Authors:** Atish Dabholkar, Upamanyu Moitra
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2306.00990](https://arxiv.org/abs/2306.00990)
+ - **Abstract**
+ We analyze the one-loop quantum entanglement entropy in ten-dimensional Type-II string theory using the orbifold method by analytically continuing in $N$ the genus-one partition function for string orbifolds on $\mathbb{R}^2/\mathbb{Z}_N$ conical spaces known for all odd integers $N > 1$. We show that the tachyonic contributions to the orbifold partition function can be appropriately summed and analytically continued to an expression that is finite in the physical region $0 < N \leq 1$ resulting in a finite and calculable answer for the entanglement entropy. We discuss the implications of the finiteness of the entanglement entropy for the information paradox, quantum gravity, and holography. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2306.00019]](https://arxiv.org/abs/2306.00019) - *Global structure of euclidean quantum gravity* - Daniel Friedan
+
+1. [[2306.00055]](https://arxiv.org/abs/2306.00055) - *Geometric Phases Characterise Operator Algebras and Missing Information* - Souvik Banerjee, Moritz Dorband, Johanna Erdmenger, Anna-Lena Weigel
+
+1. [[2306.00828]](https://arxiv.org/abs/2306.00828) - *Gravitational corrections to the Einstein-Scalar-QCD model* - Huan Souza, L. Ibiapina Bevilaqua, A. C. Lehum
+
+1. [[2306.00940]](https://arxiv.org/abs/2306.00940) - *Burns space and holography* - Kevin Costello, Natalie M. Paquette, Atul Sharma
+
+1. [[2306.00941]](https://arxiv.org/abs/2306.00941) - *Dynamical actions and q-representation theory for double-scaled SYK* - Andreas Blommaert, Thomas G. Mertens, Shunyu Yao
+
+
+
 ### Thu - 06/01/23
 
 #### Loop quantum gravity related papers
