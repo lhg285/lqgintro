@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2306.01964]](https://arxiv.org/abs/2306.01964) - *Quasicrystalline Spin Foam with Matter: Definitions and Examples* - Marcelo Amaral, Richard Clawson, Klee Irwin
+
+1. [[2306.02789]](https://arxiv.org/abs/2306.02789) - *Spin network Entanglement and Bulk-Boundary Map in Loop Quantum Gravity* - Qian Chen
+
 1. [[2306.00990]](https://arxiv.org/abs/2306.00990) - *Finite Entanglement Entropy in String Theory* - Atish Dabholkar, Upamanyu Moitra
 
 1. [[2305.18902]](https://arxiv.org/abs/2305.18902) - *Spherically-symmetric geometries in a matter reference frame as quantum  gravity condensates* - Daniele Oriti, Yi-Li Wang
