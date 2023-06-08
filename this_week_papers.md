@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/08/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2306.04298]](https://arxiv.org/abs/2306.04298) - *Regular black hole from regular initial data* - Karim Mosani, Pankaj S. Joshi
+
+
+
 ### Wed - 06/07/23
 
 #### Loop quantum gravity related papers
