@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/09/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2306.04661]](https://arxiv.org/abs/2306.04661) - *Coincident f(Q) gravity: black holes, regular blacck holes, and black  bounces* - José Tarciso S. S. Junior, Manuel E. Rodrigues
+
+1. [[2306.05205]](https://arxiv.org/abs/2306.05205) - *Quantum-spacetime effects on nonrelativistic Schrödinger evolution* - Fabian Wagner, Gislaine Varão, Iarley P. Lobo, Valdir B. Bezerra
+
+1. [[2306.04693]](https://arxiv.org/abs/2306.04693) - *Following Black Hole States* - Kasia Budzik, Harish Murali, Pedro Vieira
+
+1. [[2306.04800]](https://arxiv.org/abs/2306.04800) - *Quantum Field Theory On Causal Sets* - Nomaan X
+
+
+
 ### Thu - 06/08/23
 
 #### Loop quantum gravity related papers
