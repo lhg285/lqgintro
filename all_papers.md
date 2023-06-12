@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2306.06012]](https://arxiv.org/abs/2306.06012) - *Lorentzian quantum cosmology from effective spin foams* - Bianca Dittrich, José Padua-Argüelles
+
+1. [[2306.06090]](https://arxiv.org/abs/2306.06090) - *Extended phase space quantization of a black hole interior model in Loop  Quantum Cosmology* - Beatriz Elizaga Navascués, Guillermo A. Mena Marugán, Andrés Mínguez Sánchez
+
 1. [[2306.01964]](https://arxiv.org/abs/2306.01964) - *Quasicrystalline Spin Foam with Matter: Definitions and Examples* - Marcelo Amaral, Richard Clawson, Klee Irwin
 
 1. [[2306.02789]](https://arxiv.org/abs/2306.02789) - *Spin network Entanglement and Bulk-Boundary Map in Loop Quantum Gravity* - Qian Chen
