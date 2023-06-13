@@ -6,6 +6,37 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 06/13/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Entanglement in BF theory I: Essential topological entanglement**
+ - **Authors:** Jackson R. Fliss, Stathis Vitouladitis
+ - **Subjects:** High Energy Physics - Theory (hep-th); Strongly Correlated Electrons (cond-mat.str-el)
+ - **Arxiv link:** [https://arxiv.org/abs/2306.06158](https://arxiv.org/abs/2306.06158)
+ - **Abstract**
+ We study the entanglement structure of Abelian topological order described by $p$-form BF theory in arbitrary dimensions. We do so directly in the low-energy topological quantum field theory by considering the algebra of topological surface operators. We define two appropriate notions of subregion operator algebras which are related by a form of electric-magnetic duality. To each subregion algebra we assign an entanglement entropy which we coin essential topological entanglement. This is a refinement to the traditional topological entanglement entropy. It is intrinsic to the theory, inherently finite, positive, and sensitive to more intricate topological features of the state and the entangling region. This paper is the first in a series of papers investigating entanglement and topological order in higher dimensions. 
+
+
+
+#### Other related papers
+
+1. [[2306.07226]](https://arxiv.org/abs/2306.07226) - *Analysis of a regular black hole in Verlinde's gravity* - A. A. Araújo Filho
+
+1. [[2306.06163]](https://arxiv.org/abs/2306.06163) - *Entanglement of Purification in Random Tensor Networks* - Chris Akers, Thomas Faulkner, Simon Lin, Pratik Rath
+
+1. [[2306.06639]](https://arxiv.org/abs/2306.06639) - *Triple crossing positivity bounds, mass dependence and cosmological  scalars: Horndeski theory and DHOST* - Hao Xu, Shuang-Yong Zhou
+
+1. [[2306.07038]](https://arxiv.org/abs/2306.07038) - *Hilbert Bundles and Holographic Space-time Models* - T. Banks (NHETC and Dept. of Physics and Astronomy, Rutgers University)
+
+1. [[2306.07203]](https://arxiv.org/abs/2306.07203) - *$p$-adic Holography from the Hyperbolic Fracton Model* - Han Yan, Christian B. Jepsen, Yaron Oz
+
+
+
 ### Mon - 06/12/23
 
 #### Loop quantum gravity related papers

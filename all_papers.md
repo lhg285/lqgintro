@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2306.06158]](https://arxiv.org/abs/2306.06158) - *Entanglement in BF theory I: Essential topological entanglement* - Jackson R. Fliss, Stathis Vitouladitis
+
 1. [[2306.06012]](https://arxiv.org/abs/2306.06012) - *Lorentzian quantum cosmology from effective spin foams* - Bianca Dittrich, José Padua-Argüelles
 
 1. [[2306.06090]](https://arxiv.org/abs/2306.06090) - *Extended phase space quantization of a black hole interior model in Loop  Quantum Cosmology* - Beatriz Elizaga Navascués, Guillermo A. Mena Marugán, Andrés Mínguez Sánchez
