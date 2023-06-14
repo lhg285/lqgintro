@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 06/14/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2306.07322]](https://arxiv.org/abs/2306.07322) - *Logarithmic Correction to BPS Black Hole Entropy from Supersymmetric  Index at Finite Temperature* - Anupam A.H., P.V. Athira, Chandramouli Chowdhury, Ashoke Sen
+
+1. [[2306.07323]](https://arxiv.org/abs/2306.07323) - *Crossed product algebras and generalized entropy for subregions* - Shadi Ali Ahmad, Ro Jefferson
+
+1. [[2306.07333]](https://arxiv.org/abs/2306.07333) - *Gauge theories and quantum gravity in a finite interval of time, on a  compact space manifold* - Damiano Anselmi
+
+1. [[2306.07335]](https://arxiv.org/abs/2306.07335) - *Aspects of Dynamical Cobordism in AdS/CFT* - Jesús Huertas, Angel M. Uranga
+
+1. [[2306.07442]](https://arxiv.org/abs/2306.07442) - *Holographic RG from ERG: Locality and General Coordinate Invariance in  the Bulk* - Pavan Dharanipragada, B. Sathiapalan
+
+1. [[2306.07575]](https://arxiv.org/abs/2306.07575) - *A Half de Sitter Holography* - Taishi Kawamoto, Shan-Ming Ruan, Yu-ki Suzuki, Tadashi Takayanagi
+
+1. [[2306.07766]](https://arxiv.org/abs/2306.07766) - *Consistency of eight-dimensional supergravities: Anomalies, Lattices and  Counterterms* - Bing-Xin Lao, Ruben Minasian
+
+
+
 ### Tue - 06/13/23
 
 #### Loop quantum gravity related papers
