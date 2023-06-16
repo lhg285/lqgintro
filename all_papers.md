@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2306.08599]](https://arxiv.org/abs/2306.08599) - *Hyperbolic string tadpole* - Atakan Hilmi Fırat
+
 1. [[2306.06158]](https://arxiv.org/abs/2306.06158) - *Entanglement in BF theory I: Essential topological entanglement* - Jackson R. Fliss, Stathis Vitouladitis
 
 1. [[2306.06012]](https://arxiv.org/abs/2306.06012) - *Lorentzian quantum cosmology from effective spin foams* - Bianca Dittrich, José Padua-Argüelles

@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/16/23
+
+#### Loop quantum gravity related papers
+
+#### **Hyperbolic string tadpole**
+ - **Authors:** Atakan Hilmi Fırat
+ - **Subjects:** High Energy Physics - Theory (hep-th); Complex Variables (math.CV)
+ - **Arxiv link:** [https://arxiv.org/abs/2306.08599](https://arxiv.org/abs/2306.08599)
+ - **Abstract**
+ Hyperbolic geometry on the one-bordered torus is numerically uniformized using Liouville theory. This geometry is relevant for the hyperbolic string tadpole vertex describing the one-loop quantum corrections of closed string field theory. We argue that the Lam\'e equation, upon fixing its accessory parameter via Polyakov conjecture, provides the input for the characterization. The explicit expressions for the Weil-Petersson metric as well as the local coordinates and the associated vertex region for the tadpole vertex are given in terms of classical torus conformal blocks. The relevance of this vertex for vacuum shift computations in string theory is highlighted. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2306.08081]](https://arxiv.org/abs/2306.08081) - *Bouncing behaviours in four dimensional Einstein Gauss-Bonnet gravity  with Cosmography and Observational constraints* - M. Zubair, Mushayydha Farooq
+
+1. [[2306.08031]](https://arxiv.org/abs/2306.08031) - *Universal Asymptotics for High Energy CFT Data* - Nathan Benjamin, Jaeha Lee, Hirosi Ooguri, David Simmons-Duffin
+
+1. [[2306.08503]](https://arxiv.org/abs/2306.08503) - *Gravitation from optimized computation: Einstein and beyond* - Rafael Carrasco, Juan F. Pedraza, Andrew Svesko, Zachary Weller-Davies
+
+
+
 ### Thu - 06/15/23
 
 #### Loop quantum gravity related papers
