@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2306.10934]](https://arxiv.org/abs/2306.10934) - *Is the diagonal case a general picture for Loop Quantum Cosmology?* - Matteo Bruno, Giovanni Montani
+
+1. [[2306.11531]](https://arxiv.org/abs/2306.11531) - *On the gravitational diagram technique in the discrete setup* - V.M. Khatsymovsky
+
 1. [[2306.08599]](https://arxiv.org/abs/2306.08599) - *Hyperbolic string tadpole* - Atakan Hilmi Fırat
 
 1. [[2306.06158]](https://arxiv.org/abs/2306.06158) - *Entanglement in BF theory I: Essential topological entanglement* - Jackson R. Fliss, Stathis Vitouladitis
