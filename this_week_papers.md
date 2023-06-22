@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/22/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2306.11930]](https://arxiv.org/abs/2306.11930) - *I-Love-Q in Einstein-aether Theory* - Kai Vylet, Siddarth Ajith, Kent Yagi, Nicolás Yunes
+
+1. [[2306.11874]](https://arxiv.org/abs/2306.11874) - *Renormalization of Massive Rank-1 Field Theory Nonminimally Coupled to  Quantum Gravity* - Marco Piva
+
+1. [[2306.11896]](https://arxiv.org/abs/2306.11896) - *The Witten Diagram Bootstrap for Holographic Defects* - Aleix Gimenez-Grau
+
+
+
 ### Wed - 06/21/23
 
 #### Loop quantum gravity related papers
