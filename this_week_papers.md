@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/23/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2306.12709]](https://arxiv.org/abs/2306.12709) - *Recovery of consistency in thermodynamics of regular black holes in  Einstein's gravity coupled with nonlinear electrodynamics* - Yang Guo, Hao Xie, Yan-Gang Miao
+
+1. [[2306.12484]](https://arxiv.org/abs/2306.12484) - *Interacting Scalar Field Theory on Causal Sets* - Ian Jubb
+
+
+
 ### Thu - 06/22/23
 
 #### Loop quantum gravity related papers
