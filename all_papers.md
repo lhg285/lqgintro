@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2306.14681]](https://arxiv.org/abs/2306.14681) - *Perturbative BF theory in axial, Anosov, gauge* - Michele Schiavina, Thomas Stucker
+
 1. [[2306.10934]](https://arxiv.org/abs/2306.10934) - *Is the diagonal case a general picture for Loop Quantum Cosmology?* - Matteo Bruno, Giovanni Montani
 
 1. [[2306.11531]](https://arxiv.org/abs/2306.11531) - *On the gravitational diagram technique in the discrete setup* - V.M. Khatsymovsky
