@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2306.14948]](https://arxiv.org/abs/2306.14948) - *Observations in Quantum Cosmology* - Leonardo Chataignier, Claus Kiefer, Paulo Moniz
+
+1. [[2306.15225]](https://arxiv.org/abs/2306.15225) - *Holographic realization from inflation to reheating in generalized  entropic cosmology* - Sergei D. Odintsov, Simone D'Onofrio, Tanmoy Paul
+
 1. [[2306.14681]](https://arxiv.org/abs/2306.14681) - *Perturbative BF theory in axial, Anosov, gauge* - Michele Schiavina, Thomas Stucker
 
 1. [[2306.10934]](https://arxiv.org/abs/2306.10934) - *Is the diagonal case a general picture for Loop Quantum Cosmology?* - Matteo Bruno, Giovanni Montani
