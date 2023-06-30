@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/30/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2306.16426]](https://arxiv.org/abs/2306.16426) - *Entropy as logarithmic term of the central charge and modified Friedmann  equation in AdS/CFT correspondence* - M. Bousder, E. Salmani, H. Ez-Zahraouy
+
+1. [[2306.16952]](https://arxiv.org/abs/2306.16952) - *The Hawking effect in the particles-partners correlations* - Roberto Balbinot, Alessandro Fabbri
+
+1. [[2306.16450]](https://arxiv.org/abs/2306.16450) - *Entropy Bounds and the Species Scale Distance Conjecture* - José Calderón-Infante, Alberto Castellano, Alvaro Herráez, Luis E. Ibáñez
+
+
+
 ### Thu - 06/29/23
 
 #### Loop quantum gravity related papers
