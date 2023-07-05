@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/05/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.00063]](https://arxiv.org/abs/2307.00063) - *The chaotic behavior of the Bianchi IX model under the influence of  quantum effects* - Martin Bojowald, David Brizuela, Paula Calizaya Cabrera, Sara F. Uria
+
+1. [[2307.00237]](https://arxiv.org/abs/2307.00237) - *Photon sphere and quasinormal modes in AdS/CFT* - Koji Hashimoto, Kakeru Sugiura, Katsuyuki Sugiyama, Takuya Yoda
+
+1. [[2307.00832]](https://arxiv.org/abs/2307.00832) - *Statistical ensembles and logarithmic corrections to black hole entropy* - Aritra Ghosh
+
+
+
 ### Tue - 07/04/23
 
 #### Loop quantum gravity related papers
