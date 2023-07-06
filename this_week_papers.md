@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/06/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.02214]](https://arxiv.org/abs/2307.02214) - *Inflation in simple one-loop effective potentials of perturbative  quantum gravity* - A. Arbuzov, D. Kuznetsov, B. Latosh, V. Shmidt
+
+1. [[2307.01454]](https://arxiv.org/abs/2307.01454) - *Retrieving information from Hawking radiation in the non-isometric  holographic model of black hole interior: theory and quantum simulations* - Ran Li, Xuanhua Wang, Kun Zhang, Jin Wang
+
+1. [[2307.01589]](https://arxiv.org/abs/2307.01589) - *Anomalies in String-inspired Non-local Extensions of QED* - Fayez Abu-Ajamieh, Pratik Chattopadhyay, Anish Ghoshal, Nobuchika Okada
+
+1. [[2307.01847]](https://arxiv.org/abs/2307.01847) - *Thermal Entropy in Calabi-Yau Quantum Mechanics* - Min-xin Huang
+
+1. [[2307.01858]](https://arxiv.org/abs/2307.01858) - *Black hole interior Petz map reconstruction and Papadodimas-Raju  proposal* - Niloofar Vardian
+
+1. [[2307.01973]](https://arxiv.org/abs/2307.01973) - *Holographic Einstein rings of a black hole with a global monopole* - Xiao-Xiong Zeng, Li-Fang Li, Peng Xu
+
+
+
 ### Wed - 07/05/23
 
 #### Loop quantum gravity related papers
