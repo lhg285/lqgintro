@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/07/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.02580]](https://arxiv.org/abs/2307.02580) - *Quantum Gravitational Corrections to Electromagnetism And Backreaction* - Sanjib Katuwal
+
+1. [[2307.02523]](https://arxiv.org/abs/2307.02523) - *Fixed-point tensor is a four-point function* - Atsushi Ueda, Masahito Yamazaki
+
+
+
 ### Thu - 07/06/23
 
 #### Loop quantum gravity related papers
