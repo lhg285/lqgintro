@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2307.03901]](https://arxiv.org/abs/2307.03901) - *One-Loop Quantum Effects in Carroll Scalars* - Kinjal Banerjee, Rudranil Basu, Bhagya Krishnan, Sabyasachi Maulik, Aditya Mehra, Augniva Ray
+
 1. [[2306.14948]](https://arxiv.org/abs/2306.14948) - *Observations in Quantum Cosmology* - Leonardo Chataignier, Claus Kiefer, Paulo Moniz
 
 1. [[2306.15225]](https://arxiv.org/abs/2306.15225) - *Holographic realization from inflation to reheating in generalized  entropic cosmology* - Sergei D. Odintsov, Simone D'Onofrio, Tanmoy Paul
