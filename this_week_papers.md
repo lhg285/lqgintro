@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/12/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.05032]](https://arxiv.org/abs/2307.05032) - *Microscopic Entanglement Wedges* - Robert de Mello Koch
+
+
+
 ### Tue - 07/11/23
 
 #### Loop quantum gravity related papers
