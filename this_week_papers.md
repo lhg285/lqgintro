@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/13/23
+
+#### Loop quantum gravity related papers
+
+#### **Geometric parametrization of $SO(D+1)$ phase space of all dimensional  loop quantum gravity: II. Beyond the simplicity constraint surface**
+ - **Authors:** Gaoping Long
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2307.05542](https://arxiv.org/abs/2307.05542)
+ - **Abstract**
+ The regularization of the scalar constraint and the Fermion coupling problem indicate that it is necessary to consider some kind of gauge fixing methods to deal with the simplicity constraint in all dimensional $SO(D+1)$ loop quantum gravity. The coherent state with well-behaved peakedness property is an essential ingredient to carry out the gauge fixing method. To provide the basic tool for constructing such kind of coherent state, we generalize the twisted geometry parametrization of the $SO(D+1)$ phase space of $(1+D)$-dimensional loop quantum gravity from the edge simplicity constraint surface to a dense subspace in the $SO(D+1)$ phase space. The symplectic structure on the twisted geometric parameter space and the Poisson structure in terms of the twisted geometric variables are analyzed. Besides, we discuss the relation between the twisted geometry parametrizations constructed on the edge simplicity constraint surface and the larger dense subspace of the $SO(D+1)$ phase space, and our result show that these two type of parametrizations are equivalent to each other by carrying out the gauge reduction with respect to the edge simplicity constraint. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.05554]](https://arxiv.org/abs/2307.05554) - *Schrödinger and Klein-Gordon theories of black holes from the  quantization of the Oppenheimer and Snyder gravitational collapse* - Christian Corda
+
+1. [[2307.06068]](https://arxiv.org/abs/2307.06068) - *On the renormalization of non-polynomial field theories* - Andrea Santonocito, Dario Zappala
+
+1. [[2307.06164]](https://arxiv.org/abs/2307.06164) - *A Fermi Model of Quantum Black Hole* - Chong-Sun Chu, Rong-Xin Miao
+
+
+
 ### Wed - 07/12/23
 
 #### Loop quantum gravity related papers
