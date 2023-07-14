@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/14/23
+
+#### Loop quantum gravity related papers
+
+#### **Primordial Power Spectrum in Modified Cosmology: From Thermodynamics of  Spacetime to Loop Quantum Cosmology**
+ - **Authors:** Ana Alonso-Serrano, Guillermo A. Mena Marugan, Antonio Vicente-Becerril
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2307.06813](https://arxiv.org/abs/2307.06813)
+ - **Abstract**
+ We investigate the implications for cosmology of a phenomenological quantum gravity approach based on thermodynamics. We analyze in detail the corresponding primordial power spectrum. The considered modified cosmological scenario has similarities with Loop Quantum Cosmology. Actually, one recovers the same effective background dynamics by fixing the value of the free parameter of the modified approach. In particular, the background experiences a bounce that solves the initial singularity. Adopting background-dependent equations for the primordial perturbations like those derived in General Relativity, the studied model can be considered a generalization of the dressed metric formalism in Loop Quantum Cosmology. We focus our discussion on the spectrum of tensor perturbations. For these perturbations, we compute the exact form of the background-dependent effective mass that affects their propagation. Since there are background regimes in the modified cosmology that are far away from slow-roll inflation, we do not have at our disposal a privileged vacuum like the Bunch-Davies state. We then select the state of the perturbations by a recently proposed criterion that removes unwanted oscillations in the power spectrum. Finally, we numerically compute the spectrum of this vacuum and compare it with other spectra obtained in the literature, especially with one corresponding to an alternative quantization prescription in Loop Quantum Cosmology (called the hybrid prescription). 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.06415]](https://arxiv.org/abs/2307.06415) - *The Photon Sphere and the AdS/CFT Correspondence* - Marcos Riojas, Hao-Yu Sun
+
+1. [[2307.06531]](https://arxiv.org/abs/2307.06531) - *SVD Entanglement Entropy* - Arthur J. Parzygnat, Tadashi Takayanagi, Yusuke Taki, Zixia Wei
+
+
+
 ### Thu - 07/13/23
 
 #### Loop quantum gravity related papers
