@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/19/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.08864]](https://arxiv.org/abs/2307.08864) - *Path Sums for Propagators in Causal Sets* - Samuel Shuman
+
+1. [[2307.09107]](https://arxiv.org/abs/2307.09107) - *Bulk-boundary correspondences and unique continuation in asymptotically  Anti-de Sitter spacetimes* - Arick Shao
+
+1. [[2307.09344]](https://arxiv.org/abs/2307.09344) - *Rotating black bounces surrounded by the string cloud* - Yi Yang, Dong Liu, Ali Övgün, Zheng-Wen Long, Gaetano Lambiase
+
+1. [[2307.09382]](https://arxiv.org/abs/2307.09382) - *Geodesically completing regular black holes by the Simpson-Visser method* - Kunal Pal, Kuntal Pal, Tapobrata Sarkar
+
+1. [[2307.09353]](https://arxiv.org/abs/2307.09353) - *Six-dimensional one-loop divergences in quantum gravity from the  $\mathcal{N}=4$ spinning particle* - Fiorenzo Bastianelli, Francesco Comberiati, Filippo Fecit, Fabio Ori
+
+
+
 ### Tue - 07/18/23
 
 #### Loop quantum gravity related papers
