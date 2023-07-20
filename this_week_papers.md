@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/20/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.09632]](https://arxiv.org/abs/2307.09632) - *General Formalism of the Quantum Equivalence Principle* - Saurya Das, Mitja Fridman, Gaetano Lambiase
+
+
+
 ### Wed - 07/19/23
 
 #### Loop quantum gravity related papers
