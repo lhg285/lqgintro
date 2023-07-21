@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2307.10254]](https://arxiv.org/abs/2307.10254) - *Discreteness Unravels the Black Hole Information Puzzle: Insights from a  Quantum Gravity Toy Model* - Alejandro Perez, Sami Viollet
+
 1. [[2307.07858]](https://arxiv.org/abs/2307.07858) - *The Bohmian solution to the problem of time* - Ward Struyve
 
 1. [[2307.06813]](https://arxiv.org/abs/2307.06813) - *Primordial Power Spectrum in Modified Cosmology: From Thermodynamics of  Spacetime to Loop Quantum Cosmology* - Ana Alonso-Serrano, Guillermo A. Mena Marugan, Antonio Vicente-Becerril

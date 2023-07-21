@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/21/23
+
+#### Loop quantum gravity related papers
+
+#### **Discreteness Unravels the Black Hole Information Puzzle: Insights from a  Quantum Gravity Toy Model**
+ - **Authors:** Alejandro Perez, Sami Viollet
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2307.10254](https://arxiv.org/abs/2307.10254)
+ - **Abstract**
+ The black hole information puzzle can be resolved if two conditions are met. Firstly, if the information of what falls inside a black hole remains encoded in degrees of freedom that persist after the black hole completely evaporates. These degrees of freedom should be capable of purifying the information. Secondly, if these purifying degrees of freedom do not significantly contribute to the system's energy, as the macroscopic mass of the initial black hole has been radiated away as Hawking radiation to infinity. The presence of microscopic degrees of freedom at the Planck scale provides a natural mechanism for achieving these two conditions without running into the problem of the large pair-creation probabilities of standard remnant scenarios. In the context of Hawking radiation, the first condition implies that correlations between the 'in' and 'out' Hawking partner particles need to be transferred to correlations between the microscopic degrees of freedom and the 'out' partners in the radiation. This transfer occurs dynamically when the 'in' partners reach the singularity inside the black hole, entering the UV regime of quantum gravity where the interaction with the microscopic degrees of freedom becomes strong. The second condition suggests that the conventional notion of the vacuum's uniqueness in quantum field theory should fail when considering the full quantum gravity degrees of freedom. In this paper, we demonstrate both key aspects of this mechanism using a solvable toy model of a quantum black hole inspired by loop quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.10801]](https://arxiv.org/abs/2307.10801) - *Bardeen spacetime as a quantum corrected Schwarzschild black hole:  Quasinormal modes and Hawking radiation* - R. A. Konoplya, D. Ovchinnikov, B. Ahmedov
+
+1. [[2307.10345]](https://arxiv.org/abs/2307.10345) - *Towards a unitary formulation of quantum field theory in curved  space-time II: the case of Schwarzschild black hole* - K. Sravan Kumar, João Marto
+
+1. [[2307.11020]](https://arxiv.org/abs/2307.11020) - *The free energy of the large-$N$ fermionic Chern$\small-$Simons theory  in the 'temporal' gauge* - Shiraz Minwalla, Souparna Nath, Nikhil Tanwar, Vatsal
+
+
+
 ### Thu - 07/20/23
 
 #### Loop quantum gravity related papers
