@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2307.11222]](https://arxiv.org/abs/2307.11222) - *Conformally Invariant Brans-Dicke Loop Quantum Cosmology: A Quantum  Geometric Model of Linking Theory* - Chun-Yen Lin, Xiangjing Liu, Yongge Ma, Cong Zhang
+
 1. [[2307.10254]](https://arxiv.org/abs/2307.10254) - *Discreteness Unravels the Black Hole Information Puzzle: Insights from a  Quantum Gravity Toy Model* - Alejandro Perez, Sami Viollet
 
 1. [[2307.07858]](https://arxiv.org/abs/2307.07858) - *The Bohmian solution to the problem of time* - Ward Struyve
