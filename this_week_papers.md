@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 07/25/23
+
+#### Loop quantum gravity related papers
+
+#### **Effects of the inflaton potential on the primordial power spectrum in  Loop Quantum Cosmology scenarios**
+ - **Authors:** Beatriz Elizaga Navascués, Guillermo A. Mena Marugán, Jesús Yébana Carrilero
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2307.12026](https://arxiv.org/abs/2307.12026)
+ - **Abstract**
+ In scenarios of physical interest in Loop Quantum Cosmology, with a preinflationary epoch where the kinetic energy of the inflaton dominates, the analytic study of the dynamics of the primordial fluctuations has been carried out by neglecting the inflaton potential in those stages of the evolution. In this work we develop approximations to investigate the influence of the potential as the period of kinetic dominance gives way to the inflationary regime, treating the potential as a perturbation. Specifically, we study how the potential modifies the effective mass that dictates the dynamics of the scalar perturbations in the preinflationary epochs, within the framework of the so-called hybrid prescription for Loop Quantum Cosmology. Moreover, we motivate and model a transition period that connects the kinetically dominated regime with inflation, allowing us to study the interval of times where the contribution of the potential is no longer negligible but an inflationary description is not yet valid. Finally, we include the main modifications coming from a slow-roll approximation to the evolution of the perturbations during inflation. We analytically solve the dynamics of the perturbations in each of these different epochs of cosmological evolution, starting from initial conditions fixed by the criterion of asymptotic Hamiltonian diagonalization. This allows us to compute the primordial power spectrum, which we evaluate and quantitatively analyze in a particular case, with a quadratic inflaton potential. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.12096]](https://arxiv.org/abs/2307.12096) - *The Interiors of Singularity-Free Rotating Black Holes* - Ramon Torres
+
+1. [[2307.12102]](https://arxiv.org/abs/2307.12102) - *The semiclassical limit of quantum gravity and the problem of time* - R. I. Ayala Oña, M. B. Kalmykov, D. P. Kislyakova, T. P. Shestakova
+
+1. [[2307.12357]](https://arxiv.org/abs/2307.12357) - *Regular black holes from higher-derivative effective delta sources* - Breno L. Giacchini, Tibério de Paula Netto
+
+
+
 ### Mon - 07/24/23
 
 #### Loop quantum gravity related papers
