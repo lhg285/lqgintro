@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/26/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.13249]](https://arxiv.org/abs/2307.13249) - *Regular Black Holes: Towards a New Paradigm of Gravitational Collapse* - Cosimo Bambi
+
+1. [[2307.13489]](https://arxiv.org/abs/2307.13489) - *Living on the Edge: Quantum Black Hole Physics from the Event Horizon* - Manuel Del Piano, Stefan Hohenegger, Francesco Sannino
+
+1. [[2307.13027]](https://arxiv.org/abs/2307.13027) - *Generalized Symmetries, Gravity, and the Swampland* - Mirjam Cvetič, Jonathan J. Heckman, Max Hübner, Ethan Torres
+
+1. [[2307.13051]](https://arxiv.org/abs/2307.13051) - *Constructing all BPS black hole microstates from the gravitational path  integral* - Jan Boruch, Luca V. Iliesiu, Cynthia Yan
+
+1. [[2307.13357]](https://arxiv.org/abs/2307.13357) - *Correlation function of fundamental fermion in holographic QCD* - Si-wen Li, Yi-peng Zhang, Hao-qian Li
+
+
+
 ### Tue - 07/25/23
 
 #### Loop quantum gravity related papers
