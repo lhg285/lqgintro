@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/27/23
+
+#### Loop quantum gravity related papers
+
+#### **Generalised Amit-Roginsky model from perturbations of 3d quantum gravity**
+ - **Authors:** Victor Nador, Daniele Oriti, Xiankai Pang, Adrian Tanasa, Yi-Li Wang
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2307.14211](https://arxiv.org/abs/2307.14211)
+ - **Abstract**
+ A generalised Amit-Roginsky vector model in flat space is obtained as the effective dynamics of pertubations around a classical solution of the Boulatov group field theory for 3d euclidean quantum gravity, extended to include additional matter degrees of freedom. By further restricting the type of perturbations, the original Amit-Roginsky model can be obtained. This result suggests a general link (and possibly a unified framework) between two types of tensorial quantum field theories: quantum geometric group field theories and tensorial models for random geometry, on one hand, and melonic-dominated vector and tensorial models in flat space, such as the Amit-Roginsky model (and the SYK model), on the other hand. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 07/26/23
 
 #### Loop quantum gravity related papers

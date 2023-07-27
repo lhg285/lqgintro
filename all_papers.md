@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2307.14211]](https://arxiv.org/abs/2307.14211) - *Generalised Amit-Roginsky model from perturbations of 3d quantum gravity* - Victor Nador, Daniele Oriti, Xiankai Pang, Adrian Tanasa, Yi-Li Wang
+
 1. [[2307.12026]](https://arxiv.org/abs/2307.12026) - *Effects of the inflaton potential on the primordial power spectrum in  Loop Quantum Cosmology scenarios* - Beatriz Elizaga Navascués, Guillermo A. Mena Marugán, Jesús Yébana Carrilero
 
 1. [[2307.11222]](https://arxiv.org/abs/2307.11222) - *Conformally Invariant Brans-Dicke Loop Quantum Cosmology: A Quantum  Geometric Model of Linking Theory* - Chun-Yen Lin, Xiangjing Liu, Yongge Ma, Cong Zhang
