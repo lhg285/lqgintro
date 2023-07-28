@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/28/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2307.15003]](https://arxiv.org/abs/2307.15003) - *Luminosity of accretion disks around rotating regular black holes* - Kuantay Boshkayev, Talgar Konysbayev, Yergali Kurmanov, Orlando Luongo, Marco Muccino, Aliya Taukenova, Ainur Urazalina
+
+1. [[2307.14416]](https://arxiv.org/abs/2307.14416) - *Cosmology from random entanglement* - Stefano Antonini, Martin Sasieta, Brian Swingle
+
+1. [[2307.14458]](https://arxiv.org/abs/2307.14458) - *Vulnerability of Horizon Regularity: Horizon as a Natural Boundary* - Qi-Yuan Mao, Liang Ma, H. Lu
+
+1. [[2307.14977]](https://arxiv.org/abs/2307.14977) - *Accelerated Particle Detectors with Modified Dispersion Relations* - Paul C.W. Davies, Philip Tee
+
+
+
 ### Thu - 07/27/23
 
 #### Loop quantum gravity related papers
