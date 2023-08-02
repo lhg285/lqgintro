@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/02/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.00038]](https://arxiv.org/abs/2308.00038) - *Revisiting Logarithmic Correction to Five Dimensional BPS Black Hole  Entropy* - A.H. Anupam, Chandramouli Chowdhury, Ashoke Sen
+
+
+
 ### Tue - 08/01/23
 
 #### Loop quantum gravity related papers
