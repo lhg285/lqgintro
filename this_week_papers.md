@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/03/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.00976]](https://arxiv.org/abs/2308.00976) - *Accretion Disk for regular black holes with sub-Planckian curvature* - Wei Zeng, Yi Ling, Qing-Quan Jiang, Guo-Ping Li
+
+1. [[2308.01017]](https://arxiv.org/abs/2308.01017) - *Model-agnostic search for the quasinormal modes of gravitational wave  echoes* - Di Wu, Pengyuan Gao, Jing Ren, Niayesh Afshordi
+
+1. [[2308.01310]](https://arxiv.org/abs/2308.01310) - *Lorentzian Robin Universe* - Manishankar Ailiga, Shubhashis Mallik, Gaurav Narain
+
+1. [[2308.00739]](https://arxiv.org/abs/2308.00739) - *Exploring causality in braneworld/cutoff holography via holographic  scattering* - Takato Mori, Beni Yoshida
+
+1. [[2308.00871]](https://arxiv.org/abs/2308.00871) - *Tunneling to Holographic Traversable Wormholes* - Suzanne Bintanja, Ben Freivogel, Andrew Rolph
+
+
+
 ### Wed - 08/02/23
 
 #### Loop quantum gravity related papers
