@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/04/23
+
+#### Loop quantum gravity related papers
+
+#### **Noncommutative effective LQC: A (pre-)inflationary dynamics  investigation**
+ - **Authors:** Luis Rey Díaz-Barrón, Abraham Espinoza-García, S. Pérez-Payán, J. Socorro
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2308.01363](https://arxiv.org/abs/2308.01363)
+ - **Abstract**
+ We conduct a (pre-)inflationary dynamics study within the framework of a simple noncommutative extension of effective loop quantum cosmology -- put forward recently by the authors -- which preserves its key features (in particular, the quantum bounce is maintained). A thorough investigation shows that the (pre-)inflationary scenario associated to the chaotic quadratic potential is in the overall the same as the one featured in standard loop quantum cosmology (which reinforces the conclusion reached by the authors in a preliminary analysis). Hence, this (pre-)inflationary scenario does not easily distinguish between standard loop quantum cosmology and the aforementioned noncommutative scheme. It is argued that a particular tuning of the noncommutativity parameter could accommodate for subtle effects at the level of primordial perturbations (the hybrid quantization framework being a tentative route of analysis). 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.01717]](https://arxiv.org/abs/2308.01717) - *Supersymmetric Cardy Formula and the Weak Gravity Conjecture in AdS/CFT* - Minseok Cho, Sunjin Choi, Ki-Hong Lee, Jaewon Song
+
+
+
 ### Thu - 08/03/23
 
 #### Loop quantum gravity related papers

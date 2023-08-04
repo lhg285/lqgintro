@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2308.01363]](https://arxiv.org/abs/2308.01363) - *Noncommutative effective LQC: A (pre-)inflationary dynamics  investigation* - Luis Rey Díaz-Barrón, Abraham Espinoza-García, S. Pérez-Payán, J. Socorro
+
 1. [[2307.15832]](https://arxiv.org/abs/2307.15832) - *The Discreet Charm of the Discrete Series in DS$_2$* - Dionysios Anninos, Tarek Anous, Ben Pethybridge, Gizem Şengör
 
 1. [[2307.14211]](https://arxiv.org/abs/2307.14211) - *Generalised Amit-Roginsky model from perturbations of 3d quantum gravity* - Victor Nador, Daniele Oriti, Xiankai Pang, Adrian Tanasa, Yi-Li Wang
