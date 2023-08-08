@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2308.03068]](https://arxiv.org/abs/2308.03068) - *Preliminary analyses on dynamics and thermodynamics of rotating regular  black holes* - Hao Yang, Chang-Jiang Yu, Yan-Gang Miao
+
+1. [[2308.02876]](https://arxiv.org/abs/2308.02876) - *On perturbative aspects of a nonminimal Lorentz-violating QED with  CPT-even dimension-5 terms* - T. Mariz, M. Melo, J. R. Nascimento, A. Yu. Petrov
+
 1. [[2308.01363]](https://arxiv.org/abs/2308.01363) - *Noncommutative effective LQC: A (pre-)inflationary dynamics  investigation* - Luis Rey Díaz-Barrón, Abraham Espinoza-García, S. Pérez-Payán, J. Socorro
 
 1. [[2307.15832]](https://arxiv.org/abs/2307.15832) - *The Discreet Charm of the Discrete Series in DS$_2$* - Dionysios Anninos, Tarek Anous, Ben Pethybridge, Gizem Şengör
