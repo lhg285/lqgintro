@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2308.03872]](https://arxiv.org/abs/2308.03872) - *Leading all-loop quantum contribution to the effective potential in the  inflationary cosmology* - D.I.Kazakov, R.M.Iakhibbaev, D.M.Tolkachev
+
 1. [[2308.03068]](https://arxiv.org/abs/2308.03068) - *Preliminary analyses on dynamics and thermodynamics of rotating regular  black holes* - Hao Yang, Chang-Jiang Yu, Yan-Gang Miao
 
 1. [[2308.02876]](https://arxiv.org/abs/2308.02876) - *On perturbative aspects of a nonminimal Lorentz-violating QED with  CPT-even dimension-5 terms* - T. Mariz, M. Melo, J. R. Nascimento, A. Yu. Petrov

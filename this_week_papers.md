@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/09/23
+
+#### Loop quantum gravity related papers
+
+#### **Leading all-loop quantum contribution to the effective potential in the  inflationary cosmology**
+ - **Authors:** D.I.Kazakov, R.M.Iakhibbaev, D.M.Tolkachev
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2308.03872](https://arxiv.org/abs/2308.03872)
+ - **Abstract**
+ In this paper, we have constructed quantum effective potentials and used them to study slow-roll inflationary cosmology. We derived the generalised RG equation for the effective potential in the leading logarithmic approximation and applied it to evaluate the potentials of the $T^2$ and $T^4$-models, which are often used in modern models of slow-roll inflation. We found that while the one-loop correction strongly affects the potential, breaking its original symmetry, the contribution of higher loops smoothes the behaviour of the potential. However, unlike the $\phi^4$-case, we found that the effective potentials preserve spontaneous symmetry breaking when summing all the leading corrections. We calculated the spectral indices $n_s$ and $r$ for the effective potentials of both models and found that they are consistent with the observational data for a wide range of parameters of the models. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.03926]](https://arxiv.org/abs/2308.03926) - *Big-Bang is a Boundary Condition* - Ali Kaya
+
+1. [[2308.03829]](https://arxiv.org/abs/2308.03829) - *Approximate CFTs and Random Tensor Models* - Alexandre Belin, Jan de Boer, Daniel Louis Jafferis, Pranjal Nayak, Julian Sonner
+
+
+
 ### Tue - 08/08/23
 
 #### Loop quantum gravity related papers
