@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/10/23
+
+#### Loop quantum gravity related papers
+
+#### **Cancellation of quantum corrections on the soft curvature perturbations**
+ - **Authors:** Yuichiro Tada, Takahiro Terada, Junsei Tokuda
+ - **Subjects:** High Energy Physics - Theory (hep-th); Cosmology and Nongalactic Astrophysics (astro-ph.CO); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2308.04732](https://arxiv.org/abs/2308.04732)
+ - **Abstract**
+ We study the cancellation of quantum corrections on the superhorizon curvature perturbations from subhorizon physics beyond the single-clock inflation from the viewpoint of the cosmological soft theorem. As an example, we focus on the transient ultra-slow-roll inflation scenario and compute the one-loop quantum corrections to the power spectrum of curvature perturbations taking into account nontrivial surface terms in the action. We find that Maldacena's consistency relation is satisfied and guarantees the cancellation of contributions from the short-scale modes. As a corollary, primordial black hole production in single-field inflation scenarios is not excluded by perturbativity breakdown even for the sharp transition case in contrast to some recent claims in the literature. We also comment on the relation between the tadpole diagram in the in-in formalism and the shift of the elapsed time in the stochastic-$\delta N$ formalism. We find our argument is not directly generalisable to the tensor perturbations. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.04939]](https://arxiv.org/abs/2308.04939) - *Implications of a Simpson-Visser solution in Verlinde's framework* - A. A. Araújo Filho
+
+1. [[2308.04925]](https://arxiv.org/abs/2308.04925) - *Entanglement degradation as a tool to detect signatures of quantum  gravity* - Soham Sen, Arnab Mukherjee, Sunandan Gangopadhyay
+
+
+
 ### Wed - 08/09/23
 
 #### Loop quantum gravity related papers
