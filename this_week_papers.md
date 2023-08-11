@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/11/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.05130]](https://arxiv.org/abs/2308.05130) - *Bouncing cosmology and dynamical analysis of stability with non-minimal  kinetic coupled gravity* - Alireza Amani, A. S. Kubeka, E. Mahichi
+
+1. [[2308.05251]](https://arxiv.org/abs/2308.05251) - *On the local term in the anomaly-induced action of Weyl quantum gravity* - Andrei O. Barvinsky, Guilherme H. S. Camargo, Alexei E. Kalugin, Nobuyoshi Ohta, Ilya L. Shapiro
+
+1. [[2308.05436]](https://arxiv.org/abs/2308.05436) - *Universality of Effective Central Charge in Interface CFTs* - Andreas Karch, Yuya Kusuki, Hirosi Ooguri, Hao-Yu Sun, Mianqi Wang
+
+
+
 ### Thu - 08/10/23
 
 #### Loop quantum gravity related papers
