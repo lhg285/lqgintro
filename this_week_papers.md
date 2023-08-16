@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/16/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.07909]](https://arxiv.org/abs/2308.07909) - *The doomsday of black hole evaporation* - Shao-Jiang Wang
+
+1. [[2308.07382]](https://arxiv.org/abs/2308.07382) - *Off-shell divergences in quantum gravity* - Vlad-Mihai Mandric, Tim R. Morris, Dalius Stulga
+
+
+
 ### Tue - 08/15/23
 
 #### Loop quantum gravity related papers
