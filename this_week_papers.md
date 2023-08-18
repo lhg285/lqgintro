@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/18/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.07952]](https://arxiv.org/abs/2308.07952) - *Holographic entanglement from the UV to the IR* - Xi Dong, Grant N. Remmen, Diandian Wang, Wayne W. Weng, Chih-Hung Wu
+
+
+
 ### Thu - 08/17/23
 
 #### Loop quantum gravity related papers
