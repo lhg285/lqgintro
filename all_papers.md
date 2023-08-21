@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2308.08738]](https://arxiv.org/abs/2308.08738) - *The Quantum Waves of Minkowski Spacetime And The Minimal Acceleration  From Precanonical Quantum Gravity* - I.V. Kanatchikov
+
 1. [[2308.04732]](https://arxiv.org/abs/2308.04732) - *Cancellation of quantum corrections on the soft curvature perturbations* - Yuichiro Tada, Takahiro Terada, Junsei Tokuda
 
 1. [[2308.03872]](https://arxiv.org/abs/2308.03872) - *Leading all-loop quantum contribution to the effective potential in the  inflationary cosmology* - D.I.Kazakov, R.M.Iakhibbaev, D.M.Tolkachev
