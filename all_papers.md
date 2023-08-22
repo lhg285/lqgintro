@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2308.10184]](https://arxiv.org/abs/2308.10184) - *Loop quantum black hole* - Xiangdong Zhang
+
+1. [[2308.10746]](https://arxiv.org/abs/2308.10746) - *The instability of the inner horizon of the quantum-corrected black hole* - Li-Ming Cao, Long-Yue Li, Liang-Bi Wu, Yu-Sen Zhou
+
 1. [[2308.08738]](https://arxiv.org/abs/2308.08738) - *The Quantum Waves of Minkowski Spacetime And The Minimal Acceleration  From Precanonical Quantum Gravity* - I.V. Kanatchikov
 
 1. [[2308.04732]](https://arxiv.org/abs/2308.04732) - *Cancellation of quantum corrections on the soft curvature perturbations* - Yuichiro Tada, Takahiro Terada, Junsei Tokuda

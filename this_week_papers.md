@@ -6,6 +6,42 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 08/22/23
+
+#### Loop quantum gravity related papers
+
+#### **Loop quantum black hole**
+ - **Authors:** Xiangdong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2308.10184](https://arxiv.org/abs/2308.10184)
+ - **Abstract**
+ In the last decades, progress on the quantization of black holes using techniques developed in loop quantum cosmology has received increasing attention. Due to the quantum geometry effect, the resulting quantum corrected black hole is free of singularity. The quantization scheme can be roughly divided into four types, that is 1. $\mu_0$-scheme, 2. $\bar{\mu}$-scheme, 3. generalized $\mu_0$-scheme, 4. quantum collapsing model. This paper provides an introduction of the loop quantum black hole models and a summary of the progress made in this field, as well as the quantum effective dynamics and physical applications of these models. 
+
+#### **The instability of the inner horizon of the quantum-corrected black hole**
+ - **Authors:** Li-Ming Cao, Long-Yue Li, Liang-Bi Wu, Yu-Sen Zhou
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2308.10746](https://arxiv.org/abs/2308.10746)
+ - **Abstract**
+ We analyse the stability of the inner horizon of the quantum-corrected black hole which is proposed in loop quantum gravity as the exterior of the quantum Oppenheimer-Snyder and Swiss Cheese models. It is shown that the flux and energy density of a test scalar field measured by free-falling observers are both divergent near the Cauchy horizon. By considering the generalized Dray-'t Hooft-Redmond relation which is independent of the field equation, we find that the mass inflation always happens and the scalar curvature and Kretschmann scalar are also divergent on the inner horizon. These suggest that the inner horizon is unstable and will probably turn into a null singularity. The results support the strong cosmic censorship hypothesis. However, this also implies that the quantum corrected model may not be the definitive endpoint as a regular black hole. Besides, it further proposes that any possible observable astronomical phenomenon which depends on the existence of the inner horizon of the black hole is not reliable. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.10498]](https://arxiv.org/abs/2308.10498) - *Raychaudhuri equation and Bouncing cosmology* - Madhukrishna Chakraborty, Subenoy Chakraborty
+
+1. [[2308.10890]](https://arxiv.org/abs/2308.10890) - *Dust collapse in asymptotic safety: a path to regular black holes* - Alfio Bonanno, Daniele Malafarina, Antonio Panassiti
+
+1. [[2308.09748]](https://arxiv.org/abs/2308.09748) - *de Sitter space is sometimes not empty* - Vijay Balasubramanian, Yasunori Nomura, Tomonori Ugajin
+
+1. [[2308.09758]](https://arxiv.org/abs/2308.09758) - *Entanglement structure in quantum many-body systems, field theories, and  holography* - Takato Mori
+
+
+
 ### Mon - 08/21/23
 
 #### Loop quantum gravity related papers
