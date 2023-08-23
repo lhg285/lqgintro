@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2308.10953]](https://arxiv.org/abs/2308.10953) - *Generalized analysis of a dust collapse in effective loop quantum  gravity: fate of shocks and covariance* - Kristina Giesel, Hongguang Liu, Parampreet Singh, Stefan Andreas Weigl
+
 1. [[2308.10184]](https://arxiv.org/abs/2308.10184) - *Loop quantum black hole* - Xiangdong Zhang
 
 1. [[2308.10746]](https://arxiv.org/abs/2308.10746) - *The instability of the inner horizon of the quantum-corrected black hole* - Li-Ming Cao, Long-Yue Li, Liang-Bi Wu, Yu-Sen Zhou

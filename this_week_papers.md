@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/23/23
+
+#### Loop quantum gravity related papers
+
+#### **Generalized analysis of a dust collapse in effective loop quantum  gravity: fate of shocks and covariance**
+ - **Authors:** Kristina Giesel, Hongguang Liu, Parampreet Singh, Stefan Andreas Weigl
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO)
+ - **Arxiv link:** [https://arxiv.org/abs/2308.10953](https://arxiv.org/abs/2308.10953)
+ - **Abstract**
+ Based on modifications inspired from loop quantum gravity (LQG), spherically symmetric models have recently been explored to understand the resolution of classical singularities and the fate of the spacetime beyond. While such phenomenological studies have provided useful insights, questions remain on whether such models exhibit some of the desired properties such as consistent LTB conditions, covariance and compatibility with the improved dynamics of loop quantum cosmology in the cosmological and LTB sectors. We provide a systematic procedure to construct effective spherically symmetric models encoding LQG modifications as a $1+1$ field theory models encoding these properties following the analysis in our companion paper. As concrete examples of our generalized strategy we obtain and compare with different phenomenological models which have been investigated recently and demonstrate resolution of singularity by quantum geometry effects via a bounce. These include models with areal gauge fixing, a polymerized vacuum solution, polymerized junction conditions and an Oppenheimer-Snyder dust collapse model. An important insight from our approach is that the dynamical equations care about the $\det(e)$ part rather than the square root of the determinant of the spatial metric. As a result, shock solutions which have been argued to exist in some models are found to be absent even if one considers coordinate transformations. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.11595]](https://arxiv.org/abs/2308.11595) - *Cosmic acceleration in Lovelock quantum gravity* - M. Bousder, A.Riadsolh, M El Belkacemi, H. Ez-Zahraouy
+
+
+
 ### Tue - 08/22/23
 
 #### Loop quantum gravity related papers
