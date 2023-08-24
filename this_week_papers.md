@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/24/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.12155]](https://arxiv.org/abs/2308.12155) - *Novel regular black holes: geometry, source and shadow* - Anjan Kar, Sayan Kar (Indian Institute of Technology Kharagpur, India)
+
+1. [[2308.12251]](https://arxiv.org/abs/2308.12251) - *Regular black holes from higher-derivative and nonlocal gravity: The  smeared delta source approximation* - Tibério de Paula Netto, Breno L. Giacchini, Nicolò Burzillà, Leonardo Modesto
+
+1. [[2308.11686]](https://arxiv.org/abs/2308.11686) - *Relativistic Hydrodynamics under Rotation: Prospects & Limitations from  a Holographic Perspective* - Markus A. G. Amano, Casey Cartwright, Matthias Kaminski, Jackson Wu
+
+1. [[2308.11701]](https://arxiv.org/abs/2308.11701) - *Equivariant localization for AdS/CFT* - Pietro Benetti Genolini, Jerome P. Gauntlett, James Sparks
+
+1. [[2308.11856]](https://arxiv.org/abs/2308.11856) - *Thermal quench of a dynamical QCD model in an external electric field* - Sara Heshmatian, Alexander Trounev
+
+
+
 ### Wed - 08/23/23
 
 #### Loop quantum gravity related papers
