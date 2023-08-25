@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2308.12368]](https://arxiv.org/abs/2308.12368) - *Coherent states for generalized uncertainty relations as Tsallis  probability amplitudes: new route to non-extensive thermostatistics* - Petr Jizba, Gaetano Lambiase, Giuseppe Gaetano Luciano, Luciano Petruzziello
+
 1. [[2308.10953]](https://arxiv.org/abs/2308.10953) - *Generalized analysis of a dust collapse in effective loop quantum  gravity: fate of shocks and covariance* - Kristina Giesel, Hongguang Liu, Parampreet Singh, Stefan Andreas Weigl
 
 1. [[2308.10184]](https://arxiv.org/abs/2308.10184) - *Loop quantum black hole* - Xiangdong Zhang

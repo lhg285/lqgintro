@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/25/23
+
+#### Loop quantum gravity related papers
+
+#### **Coherent states for generalized uncertainty relations as Tsallis  probability amplitudes: new route to non-extensive thermostatistics**
+ - **Authors:** Petr Jizba, Gaetano Lambiase, Giuseppe Gaetano Luciano, Luciano Petruzziello
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2308.12368](https://arxiv.org/abs/2308.12368)
+ - **Abstract**
+ We study coherent states associated to a generalized uncertainty principle (GUP). We separately analyze the cases of positive and negative deformation parameter $\beta$, showing that the ensuing probability distribution is a Tsallis distribution whose non-extensivity parameter $q$ is monotonically related to $\beta$. Moreover, for $\beta <0$ (corresponding to $q<1$), we reformulate the GUP in terms of a one-parameter class of Tsallis entropy-power based uncertainty relations, which are again saturated by the GUP coherent states. We argue that this combination of coherent states with Tsallis entropy offers a natural conceptual framework allowing to study quasi-classical regime of GUP in terms of non-extensive thermodynamics. We substantiate our claim by discussing generalization of Verlinde's entropic force and ensuing implications in the late-inflation epoch. Corresponding dependence of the $\beta$ parameter on cosmological time is derived for the reheating epoch. The obtained $\beta$ is consistent with values predicted by both string-theory models and the naturalness principle. Further salient issues, including derivation of new $\beta$-dependent expressions for the lowest possible value of the spin and Immirzi parameter in Loop Quantum Gravity, and connection of our proposal with the Magueijo--Smolin doubly special relativity are also discussed. This article provides a more extended and comprehensive treatment of our recent letter [Phys. Rev. D 105, L121501 (2022)]. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.12811]](https://arxiv.org/abs/2308.12811) - *On the gravitational energy problem and the energy of photons* - J. B. Formiga, João Duarte
+
+
+
 ### Thu - 08/24/23
 
 #### Loop quantum gravity related papers
