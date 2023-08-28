@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2308.13261]](https://arxiv.org/abs/2308.13261) - *Scalar Cosmological Perturbations from Quantum Entanglement within  Lorentzian Quantum Gravity* - Alexander F. Jercher, Luca Marchetti, Andreas G. A. Pithis
+
 1. [[2308.12368]](https://arxiv.org/abs/2308.12368) - *Coherent states for generalized uncertainty relations as Tsallis  probability amplitudes: new route to non-extensive thermostatistics* - Petr Jizba, Gaetano Lambiase, Giuseppe Gaetano Luciano, Luciano Petruzziello
 
 1. [[2308.10953]](https://arxiv.org/abs/2308.10953) - *Generalized analysis of a dust collapse in effective loop quantum  gravity: fate of shocks and covariance* - Kristina Giesel, Hongguang Liu, Parampreet Singh, Stefan Andreas Weigl
