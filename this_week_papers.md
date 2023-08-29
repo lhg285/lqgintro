@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 08/29/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.13704]](https://arxiv.org/abs/2308.13704) - *Higher Derivative Sigma Models* - John F. Donoghue, Gabriel Menezes
+
+1. [[2308.14022]](https://arxiv.org/abs/2308.14022) - *Lectures on resolutions à la Kronheimer of orbifold singularities,  McKay quivers for Gauge Theories on D3 branes, and the issue of Ricci flat  metrics on the resolved three-folds* - Pietro G. Fré
+
+1. [[2308.14166]](https://arxiv.org/abs/2308.14166) - *Algebras and their Covariant representations in quantum gravity* - Eyoab Bahiru
+
+
+
 ### Mon - 08/28/23
 
 #### Loop quantum gravity related papers
