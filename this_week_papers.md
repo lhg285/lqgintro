@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/01/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2308.16526]](https://arxiv.org/abs/2308.16526) - *Gravity-induced entanglement between two massive microscopic particles  in curved spacetime: I.The Schwarzschild background* - Chi Zhang, Fu-Wen Shu
+
+1. [[2308.16226]](https://arxiv.org/abs/2308.16226) - *Twice Upon a Time: Timelike-Separated Quantum Extremal Surfaces* - Netta Engelhardt, Geoff Penington, Arvin Shahbazi-Moghaddam
+
+1. [[2308.16807]](https://arxiv.org/abs/2308.16807) - *Universality of Loop Corrected Soft Theorems in 4d* - Hare Krishna, Biswajit Sahoo
+
+
+
 ### Wed - 08/30/23
 
 #### Loop quantum gravity related papers
