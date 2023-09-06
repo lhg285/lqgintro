@@ -9,6 +9,14 @@ permalink: /all_papers/
 
 
 
+1. [[2309.00722]](https://arxiv.org/abs/2309.00722) - *Quasinormal modes of loop quantum black holes near the Planck scale* - Douglas M. Gingrich
+
+1. [[2309.01080]](https://arxiv.org/abs/2309.01080) - *Quantum geometric formulation of Brans-Dicke theory for Bianchi I  spacetime* - Manabendra Sharma, Gustavo S. Vicente, Leila L. Graef, Rudnei O. Ramos, Anzhong Wang
+
+1. [[2309.01790]](https://arxiv.org/abs/2309.01790) - *Quantum Cosmology* - Steffen Gielen
+
+1. [[2309.01913]](https://arxiv.org/abs/2309.01913) - *$\mathbb{Z}_N$ Duality and Parafermions Revisited* - Zhihao Duan, Qiang Jia, Sungjay Lee
+
 1. [[2308.13261]](https://arxiv.org/abs/2308.13261) - *Scalar Cosmological Perturbations from Quantum Entanglement within  Lorentzian Quantum Gravity* - Alexander F. Jercher, Luca Marchetti, Andreas G. A. Pithis
 
 1. [[2308.12368]](https://arxiv.org/abs/2308.12368) - *Coherent states for generalized uncertainty relations as Tsallis  probability amplitudes: new route to non-extensive thermostatistics* - Petr Jizba, Gaetano Lambiase, Giuseppe Gaetano Luciano, Luciano Petruzziello
