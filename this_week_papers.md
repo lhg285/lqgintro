@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/07/23
+
+#### Loop quantum gravity related papers
+
+#### **Gravitational lens effect of a holonomy corrected Schwarzschild black  hole**
+ - **Authors:** Ednaldo L. B. Junior, Francisco S. N. Lobo, Manuel E. Rodrigues, Henrique A. Vieira
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2309.02658](https://arxiv.org/abs/2309.02658)
+ - **Abstract**
+ In this paper we study the gravitational lensing effect for the Schwarzschild solution with holonomy corrections. We use two types of approximation methods to calculate the deflection angle, namely the weak and strong field limits. For the first method, we calculate the deflection angle up to the fifth order of approximation and show the influence of the parameter $\lambda$ (in terms of loop quantum gravity) on it. In addition, we construct expressions for the magnification, the position of the lensed images and the time delay as functions of the coefficients from the deflection angle expansion. We find that $\lambda$ increases the deflection angle. In the strong field limit, we use a logarithmic approximation to compute the deflection angle. We then write four observables, in terms of the coefficients $b_1$, $b_2$ and $u_m$, namely: the asymptotic position approached by a set of images $\theta_{\infty}$, the distance between the first image and the others $s$, the ratio between the flux of the first image and the flux of all other images $r_m$, and the time delay between two photons $\Delta T_{2,1}$. We then use the experimental data of the black hole Sagittarius $A^{\star}$ and calculate the observables and the coefficients of the logarithmic expansion. We find that the parameter $\lambda$ increases the deflection angle, the separation between the lensed images and the delay time between them. In contrast, it decreases the brightness of the first image compared to the others. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.03095]](https://arxiv.org/abs/2309.03095) - *Equivalence Principle for Quantum Mechanics in the Heisenberg Picture* - Otto C.W. Kong (NAt'l Central U, Taiwan)
+
+1. [[2309.02497]](https://arxiv.org/abs/2309.02497) - *A trace inequality for Euclidean gravitational path integrals (and a new  positive action conjecture)* - Eugenia Colafranceschi, Donald Marolf, Zhencheng Wang
+
+1. [[2309.03178]](https://arxiv.org/abs/2309.03178) - *Bulk Operator Reconstruction in Topological Tensor Network and  Generalized Free Fields* - Xiangdong Zeng, Ling-Yan Hung
+
+
+
 ### Wed - 09/06/23
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2309.02658]](https://arxiv.org/abs/2309.02658) - *Gravitational lens effect of a holonomy corrected Schwarzschild black  hole* - Ednaldo L. B. Junior, Francisco S. N. Lobo, Manuel E. Rodrigues, Henrique A. Vieira
+
 1. [[2309.00722]](https://arxiv.org/abs/2309.00722) - *Quasinormal modes of loop quantum black holes near the Planck scale* - Douglas M. Gingrich
 
 1. [[2309.01080]](https://arxiv.org/abs/2309.01080) - *Quantum geometric formulation of Brans-Dicke theory for Bianchi I  spacetime* - Manabendra Sharma, Gustavo S. Vicente, Leila L. Graef, Rudnei O. Ramos, Anzhong Wang
