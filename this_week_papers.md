@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/08/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.03287]](https://arxiv.org/abs/2309.03287) - *Symmetry-resolved Entanglement Entropy, Spectra & Boundary Conformal  Field Theory* - Yuya Kusuki, Sara Murciano, Hirosi Ooguri, Sridip Pal
+
+1. [[2309.03639]](https://arxiv.org/abs/2309.03639) - *4D Spherically Symmetric Time-Dependent Quantum Gravity Amplitudes* - J. A. Rosabal
+
+1. [[2309.03838]](https://arxiv.org/abs/2309.03838) - *Quadratic gravity in analogy to quantum chromodynamics: Light fermions  in its landscape* - Gustavo P. de Brito
+
+
+
 ### Thu - 09/07/23
 
 #### Loop quantum gravity related papers
