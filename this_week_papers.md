@@ -6,6 +6,43 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/12/23
+
+#### Loop quantum gravity related papers
+
+#### **Strong cosmic censorship for a black hole in loop quantum gravity**
+ - **Authors:** Cai-Ying Shao, Cong Zhang, Wei Zhang, Cheng-Gang Shao
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2309.04962](https://arxiv.org/abs/2309.04962)
+ - **Abstract**
+ A fine gravitational theory is essentially expected to deal with the problem of spacetime singularities. Loop quantum gravity as one branch of quantum gravity is potential to explore the nature of black holes. Recently, according to the quantum Oppenheimer-Snyder model in loop quantum cosmology, a novel loop quantum corrected black hole in de Sitter spacetime has been discovered. Here, we focus on examining the strong cosmic censorship(SCC) based on such a quantum modified black hole by considering a massless neutral scalar field perturbation. As a result, we find that the SCC is destroyed as the black hole approaches to the near-extremal limit. Notably, the critical value of the black hole mass ratio for such a violation increases with the increase of the cosmological constant. It was implied the cosmological constant plays an important role in moderating the violation of the SCC. 
+
+#### **Gravitational waves with generalized holonomy corrections**
+ - **Authors:** Shulan Li, Jian-Pin Wu
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2309.05535](https://arxiv.org/abs/2309.05535)
+ - **Abstract**
+ The cosmological tensor perturbation equation with generalized holonomy corrections is derived in the framework of effective loop quantum gravity. This results in a generalized dispersion relation for gravitational waves, encompassing holonomy corrections. Furthermore, we conduct an examination of the constraint algebra concerning vector modes with generalized holonomy corrections. The requirement of anomaly cancellation for vector modes imposes constraints on the possible functional forms of the generalized holonomy corrections. 
+
+#### Spin foam related papers
+
+#### **Democracy from topology**
+ - **Authors:** Oleg Evnin, Euihun Joung, Karapet Mkrtchyan
+ - **Subjects:** High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2309.04625](https://arxiv.org/abs/2309.04625)
+ - **Abstract**
+ Chiral form fields in $d$ dimensions can be effectively described as edge modes of topological Chern-Simons theories in $d+1$ dimensions. At the same time, manifestly Lorentz-invariant Lagrangian description of such fields directly in terms of a $d$-dimensional field theory is challenging and requires introducing nontrivial auxiliary gauge fields eliminated on-shell with extra gauge symmetries. A recent work by Arvanitakis et al.\ demonstrates (emphasizing the case of 2d chiral bosons) that the two approaches are related, and a peculiar reduction on the $(d+1)$-dimensional topological Lagrangian automatically leads to $d$-dimensional Lagrangians with appropriate sets of auxiliary fields. We develop this setup in three distinct directions. First, we demonstrate how arbitrary Abelian self-interactions for chiral forms can be included using nonlinear boundary terms in the Chern-Simons theory. Second, by generalizing the Chern-Simons theory to the BF theory, we obtain an analogous democratic description of non-chiral form fields, where electric and magnetic potentials appear as explicit dynamical variables. Third, we discuss the effects of introducing topological interactions in the higher-dimensional bulk, which produce extra interaction terms in the boundary theory. When applied to a topological 4-form field in 12 dimensions, this construction results in a democratic description of the 3-form gauge field of the 11-dimensional supergravity. 
+
+
+
+#### Other related papers
+
+1. [[2309.05126]](https://arxiv.org/abs/2309.05126) - *Hartle-Hawking state and its factorization in 3d gravity* - Wan Zhen Chua, Yikun Jiang
+
+1. [[2309.05220]](https://arxiv.org/abs/2309.05220) - *Revisiting the 3D flat Holography: Causality structure and modular flow* - Yuefeng Liu
+
+
+
 ### Mon - 09/11/23
 
 #### Loop quantum gravity related papers

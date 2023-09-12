@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2309.04962]](https://arxiv.org/abs/2309.04962) - *Strong cosmic censorship for a black hole in loop quantum gravity* - Cai-Ying Shao, Cong Zhang, Wei Zhang, Cheng-Gang Shao
+
+1. [[2309.05535]](https://arxiv.org/abs/2309.05535) - *Gravitational waves with generalized holonomy corrections* - Shulan Li, Jian-Pin Wu
+
+1. [[2309.04625]](https://arxiv.org/abs/2309.04625) - *Democracy from topology* - Oleg Evnin, Euihun Joung, Karapet Mkrtchyan
+
 1. [[2309.02658]](https://arxiv.org/abs/2309.02658) - *Gravitational lens effect of a holonomy corrected Schwarzschild black  hole* - Ednaldo L. B. Junior, Francisco S. N. Lobo, Manuel E. Rodrigues, Henrique A. Vieira
 
 1. [[2309.00722]](https://arxiv.org/abs/2309.00722) - *Quasinormal modes of loop quantum black holes near the Planck scale* - Douglas M. Gingrich
