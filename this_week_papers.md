@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/13/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.05695]](https://arxiv.org/abs/2309.05695) - *Suppression of spacetime singularities in quantum gravity* - Johanna N. Borissova
+
+1. [[2309.06002]](https://arxiv.org/abs/2309.06002) - *Kinematic and energy properties of dynamical regular black holes* - Sebastian Murk, Ioannis Soranidis
+
+1. [[2309.06369]](https://arxiv.org/abs/2309.06369) - *Phenomenological footprints of Lambda varying gravity theories inspired  from quantum gravity models in the multi-messenger era* - Michael R.R. Good, Vasilios Zarikas
+
+1. [[2309.05734]](https://arxiv.org/abs/2309.05734) - *Black hole excited states from broken translations in Euclidean time* - Christiana Pantelidou, Benjamin Withers
+
+1. [[2309.06436]](https://arxiv.org/abs/2309.06436) - *Holographic Tensor Networks with Bulk Gauge Symmetries* - Xi Dong, Sean McBride, Wayne W. Weng
+
+
+
 ### Tue - 09/12/23
 
 #### Loop quantum gravity related papers
