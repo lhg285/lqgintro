@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/14/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.06454]](https://arxiv.org/abs/2309.06454) - *Photonsphere, shadow, quasinormal modes, and greybody bounds of  non-rotating Simpson-Visser black hole* - Sohan Kumar Jha
+
+1. [[2309.06586]](https://arxiv.org/abs/2309.06586) - *Dissipation dynamics of a scalar field* - Laura Batini, Eduardo Grossi, Nicolas Wink
+
+
+
 ### Wed - 09/13/23
 
 #### Loop quantum gravity related papers
