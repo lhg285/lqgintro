@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/15/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.07203]](https://arxiv.org/abs/2309.07203) - *On the Impossibility of Precise Verification of Models of Quantum  Gravity* - T. Banks (NHETC and Dept. of Physics and Astronomy, Rutgers University)
+
+1. [[2309.07404]](https://arxiv.org/abs/2309.07404) - *Holographic Einstein rings of Non-commutative black holes* - Xin-Yun Hu, Xiao-Xiong Zeng, Li-Fang Li, Peng Xu
+
+1. [[2309.07637]](https://arxiv.org/abs/2309.07637) - *All Gauged Curvature Squared Supergravities in Five Dimensions* - Gregory Gold, Jessica Hutomo, Saurish Khandelwal, Mehmet Ozkan, Yi Pang, Gabriele Tartaglino-Mazzucchelli
+
+
+
 ### Thu - 09/14/23
 
 #### Loop quantum gravity related papers
