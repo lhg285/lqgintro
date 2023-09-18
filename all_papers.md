@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2309.08116]](https://arxiv.org/abs/2309.08116) - *The Semiclassical Approximation: Its Application to Holography and the  Information Paradox* - Rifath Khan
+
 1. [[2309.04962]](https://arxiv.org/abs/2309.04962) - *Strong cosmic censorship for a black hole in loop quantum gravity* - Cai-Ying Shao, Cong Zhang, Wei Zhang, Cheng-Gang Shao
 
 1. [[2309.05535]](https://arxiv.org/abs/2309.05535) - *Gravitational waves with generalized holonomy corrections* - Shulan Li, Jian-Pin Wu
