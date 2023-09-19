@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/19/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.08694]](https://arxiv.org/abs/2309.08694) - *Higher dimensional energetic causal sets* - Vasco Gil Gomes, Marina Cortês, Andrew R. Liddle
+
+1. [[2309.09105]](https://arxiv.org/abs/2309.09105) - *Distinguishable consequence of classical gravity on quantum matter* - Serhii Kryhin, Vivishek Sudhir
+
+1. [[2309.09382]](https://arxiv.org/abs/2309.09382) - *Reframing the Event Horizon: The Harlow-Hayden Computational Approach to  the Firewall Paradox* - Galina Weinstein
+
+1. [[2309.09391]](https://arxiv.org/abs/2309.09391) - *Towards a dual formulation of quantum gravity via metric-curvature  bijections* - Praveen Dennis Xavier
+
+1. [[2309.09439]](https://arxiv.org/abs/2309.09439) - *Euclidean and Hamiltonian Thermodynamics for Regular Black Holes* - Fil Simovic, Ioannis Soranidis
+
+1. [[2309.08818]](https://arxiv.org/abs/2309.08818) - *A supersymmetric SYK model with a curious low energy behavior* - Anna Biggs, Juan Maldacena, Vladimir Narovlansky
+
+
+
 ### Mon - 09/18/23
 
 #### Loop quantum gravity related papers
