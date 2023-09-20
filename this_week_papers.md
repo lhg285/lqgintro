@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/20/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.10535]](https://arxiv.org/abs/2309.10535) - *Causality of Photon Propagation under Dominant Energy Condition in  Non-linear Electrodynamics* - Shinya Tomizawa, Ryotaku Suzuki
+
+1. [[2309.10024]](https://arxiv.org/abs/2309.10024) - *Gopakumar-Vafa Invariants and the Emergent String Conjecture* - Tom Rudelius
+
+1. [[2309.10785]](https://arxiv.org/abs/2309.10785) - *Quantum Gravity from dynamical metric fluctuations* - Jan M. Pawlowski, Manuel Reichert
+
+
+
 ### Tue - 09/19/23
 
 #### Loop quantum gravity related papers
