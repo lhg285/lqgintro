@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/21/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.10934]](https://arxiv.org/abs/2309.10934) - *Quantum gravity, the cosmological constant, and parity transformation* - Michael Bishop, Peter Martin, Douglas Singleton
+
+1. [[2309.10846]](https://arxiv.org/abs/2309.10846) - *The Virasoro Minimal String* - Scott Collier, Lorenz Eberhardt, Beatrix Mühlmann, Victor A. Rodriguez
+
+1. [[2309.11116]](https://arxiv.org/abs/2309.11116) - *Gravitational dynamics from collective field theory* - Robert de Mello Koch
+
+1. [[2309.11362]](https://arxiv.org/abs/2309.11362) - *BBBW on the spindle* - Antonio Amariti, Salvo Mancani, Davide Morgante, Nicolò Petri, Alessia Segati
+
+
+
 ### Wed - 09/20/23
 
 #### Loop quantum gravity related papers
