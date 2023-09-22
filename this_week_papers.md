@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/22/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.11551]](https://arxiv.org/abs/2309.11551) - *Demystifying the Emergence Proposal* - Ralph Blumenhagen, Niccolò Cribiori, Aleksandar Gligovic, Antonia Paraskevopoulou
+
+1. [[2309.11554]](https://arxiv.org/abs/2309.11554) - *The Emergent M-theory Limit* - Ralph Blumenhagen, Niccolò Cribiori, Aleksandar Gligovic, Antonia Paraskevopoulou
+
+
+
 ### Thu - 09/21/23
 
 #### Loop quantum gravity related papers
