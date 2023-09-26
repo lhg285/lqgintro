@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/26/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Dimensional Reduction of the $S^3$/WZW Duality**
+ - **Authors:** Kenta Suzuki, Yusuke Taki
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2309.13852](https://arxiv.org/abs/2309.13852)
+ - **Abstract**
+ Recently proposed duality relates the critical level limit $\hat{k} \to -2$ of $SU(2)_{\hat{k}}$ WZW models to a classical three-dimensional Einstein gravity on a sphere. In this paper, we propose a dimensional reduced version of this duality. The gravity side is reduced to a Jackiw-Teitelboim (JT) gravity on $S^2$ with a non-standard boundary term, or a BF theory with $SU(2)$ gauge symmetry. At least in low temperature limit, these two-dimensional gravity theories completely capture the original three-dimensional gravity effect. The CFT side is reduced to a certain complex Liouville quantum mechanics (LQM) with $SU(2)$ gauge symmetry. Our proposal gives an interesting example of a holography without boundary. We also discuss a higher-spin generalization with $SU(N)$ gauge symmetry. 
+
+
+
+#### Other related papers
+
+1. [[2309.13934]](https://arxiv.org/abs/2309.13934) - *Fractional cosmic strings* - Sebastien Fumeron, Malte Henkel, Alexander Lopez
+
+
+
 ### Mon - 09/25/23
 
 #### Loop quantum gravity related papers
