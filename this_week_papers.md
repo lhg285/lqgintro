@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/27/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.14750]](https://arxiv.org/abs/2309.14750) - *Quantum gravity in JNW spacetime* - Enrique Alvarez, Jesus Anero
+
+
+
 ### Tue - 09/26/23
 
 #### Loop quantum gravity related papers
