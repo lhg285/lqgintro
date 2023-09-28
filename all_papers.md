@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2309.15833]](https://arxiv.org/abs/2309.15833) - *The R-Matrix in 3d Topological BF Theory* - Nanna Havn Aamand
+
 1. [[2309.13852]](https://arxiv.org/abs/2309.13852) - *Dimensional Reduction of the $S^3$/WZW Duality* - Kenta Suzuki, Yusuke Taki
 
 1. [[2309.12527]](https://arxiv.org/abs/2309.12527) - *Lorentzian wormhole in the framework of loop quantum cosmology* - Rikpratik Sengupta, Shounak Ghosh, Mehedi Kalam

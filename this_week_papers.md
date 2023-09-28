@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/28/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **The R-Matrix in 3d Topological BF Theory**
+ - **Authors:** Nanna Havn Aamand
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2309.15833](https://arxiv.org/abs/2309.15833)
+ - **Abstract**
+ In this paper I study Wilson line operators in a certain type of split Chern-Simons theory on a manifold with boundaries. The resulting gauge theory is a 3d topological BF theory equivalent to a topologically twisted 3d $\mathcal N=4$ theory. I show that this theory realises solutions to the quantum Yang-Baxter equation all orders in perturbation theory as the expectation value of crossing Wilson lines. 
+
+
+
+#### Other related papers
+
+1. [[2309.15439]](https://arxiv.org/abs/2309.15439) - *A new class of anisotropic rotating fluids and some throat-like sources  for Kerr metric as examples* - Stefano Viaggiu
+
+1. [[2309.15152]](https://arxiv.org/abs/2309.15152) - *On the String Landscape Without Hypermultiplets* - Zihni Kaan Baykara, Yuta Hamada, Houri-Christina Tarazi, Cumrun Vafa
+
+1. [[2309.15307]](https://arxiv.org/abs/2309.15307) - *Functional renormalization group approach to dipolar fixed point which  is scale-invariant but non-conformal* - Yu Nakayama
+
+1. [[2309.15584]](https://arxiv.org/abs/2309.15584) - *Non-perturbative aspects of two-dimensional $T\bar{T}$-deformed scalar  theory from functional renormalization group* - Jie Liu, Junichi Haruna, Masatoshi Yamada
+
+
+
 ### Wed - 09/27/23
 
 #### Loop quantum gravity related papers
