@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/29/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2309.16230]](https://arxiv.org/abs/2309.16230) - *Irreversible vierbein postulate: Emergence of spacetime from quantum  phase transition* - Yadikaer Maitiniyazi, Shinya Matsuzaki, Kin-ya Oda, Masatoshi Yamada
+
+
+
 ### Thu - 09/28/23
 
 #### Loop quantum gravity related papers
