@@ -11,6 +11,8 @@ permalink: /all_papers/
 
 1. [[2309.16734]](https://arxiv.org/abs/2309.16734) - *Quantum Gravity as a Theory of Connections* - Hassan Mehmood
 
+1. [[2309.16734]](https://arxiv.org/abs/2309.16734) - *Quantum Gravity as a Theory of Connections* - Hassan Mehmood
+
 1. [[2309.15833]](https://arxiv.org/abs/2309.15833) - *The R-Matrix in 3d Topological BF Theory* - Nanna Havn Aamand
 
 1. [[2309.13852]](https://arxiv.org/abs/2309.13852) - *Dimensional Reduction of the $S^3$/WZW Duality* - Kenta Suzuki, Yusuke Taki
