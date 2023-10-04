@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2310.01560]](https://arxiv.org/abs/2310.01560) - *Remnant loop quantum black holes* - H. A. Borges, I. P. R. Baranov, F. C. Sobrinho, S. Carneiro
+
+1. [[2310.01474]](https://arxiv.org/abs/2310.01474) - *Symmetry TFT for Subsystem Symmetry* - Weiguang Cao, Qiang Jia
+
+1. [[2310.02189]](https://arxiv.org/abs/2310.02189) - *Algebras and Hilbert spaces from gravitational path integrals:  Understanding Ryu-Takayanagi/HRT as entropy without invoking holography* - Eugenia Colafranceschi, Xi Dong, Donald Marolf, Zhencheng Wang
+
 1. [[2309.16734]](https://arxiv.org/abs/2309.16734) - *Quantum Gravity as a Theory of Connections* - Hassan Mehmood
 
 1. [[2309.16734]](https://arxiv.org/abs/2309.16734) - *Quantum Gravity as a Theory of Connections* - Hassan Mehmood
