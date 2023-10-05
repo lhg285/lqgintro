@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2310.02958]](https://arxiv.org/abs/2310.02958) - *What if Quantum Gravity is "just'' Quantum Information Theory?* - Aron C. Wall
+
 1. [[2310.01560]](https://arxiv.org/abs/2310.01560) - *Remnant loop quantum black holes* - H. A. Borges, I. P. R. Baranov, F. C. Sobrinho, S. Carneiro
 
 1. [[2310.01474]](https://arxiv.org/abs/2310.01474) - *Symmetry TFT for Subsystem Symmetry* - Weiguang Cao, Qiang Jia

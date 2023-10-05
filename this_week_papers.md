@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/05/23
+
+#### Loop quantum gravity related papers
+
+#### **What if Quantum Gravity is "just'' Quantum Information Theory?**
+ - **Authors:** Aron C. Wall
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2310.02958](https://arxiv.org/abs/2310.02958)
+ - **Abstract**
+ I suggest the possibility that holographic quantum gravity is, in some sense, equivalent to quantum information theory. Some radical implications would follow. First, the theory of quantum gravity should have no adjustable coupling constants, similar to string theory. Thus, all complete bulk theories of quantum gravity are dual to each other. By setting up an appropriately entangled state, it should be possible to find wormholes connecting any two quantum gravity theories (e.g. string theory and loop quantum gravity). Secondly, if we represent space at one time as a tensor network, then dynamics is automatically encoded via gauge-equivalent descriptions of the boundary state. This would appear to imply, contrary to semiclassical expectations, that a closed universe should have only one state. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.02338]](https://arxiv.org/abs/2310.02338) - *Is a Quantum Gravity Era Necessary?* - Bogdan Veklych
+
+
+
 ### Wed - 10/04/23
 
 #### Loop quantum gravity related papers
