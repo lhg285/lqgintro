@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2310.04537]](https://arxiv.org/abs/2310.04537) - *Melonic Radiative Correction in Four-Dimensional Spinfoam Model with  Cosmological Constant* - Muxin Han, Qiaoyin Pan
+
+1. [[2310.04759]](https://arxiv.org/abs/2310.04759) - *Shadow, quasinormal modes, greybody bounds, and Hawking sparsity of Loop  Quantum Gravity motivated non-rotating black hole* - Sohan Kumar Jha
+
 1. [[2310.04193]](https://arxiv.org/abs/2310.04193) - *Quantum Features of the Cosmological Horizon* - Eleanor Harris
 
 1. [[2310.02958]](https://arxiv.org/abs/2310.02958) - *What if Quantum Gravity is "just'' Quantum Information Theory?* - Aron C. Wall

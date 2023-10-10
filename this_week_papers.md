@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 10/10/23
+
+#### Loop quantum gravity related papers
+
+#### **Shadow, quasinormal modes, greybody bounds, and Hawking sparsity of Loop  Quantum Gravity motivated non-rotating black hole**
+ - **Authors:** Sohan Kumar Jha
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2310.04759](https://arxiv.org/abs/2310.04759)
+ - **Abstract**
+ We consider Loop Quantum Gravity(LQG) motivated $4D$ polymerized black hole and study shadow, quasinormal modes, and Hawking radiation. We obtain analytical expressions of photonsphere radius and shadow radius and study their qualitative and quantitative nature of variation with respect to the LQG parameter $\alpha$. We also show shadows of the black hole for various values of $\alpha$. Our study reveals that both radii increase with an increase in the parameter value. We, then, study quasinormal modes for scalar and electromagnetic perturbations using the $6th$ order WKB method. Our study reveals that the LQG parameter impacts quasinormal modes. We observe that the oscillation of gravitational wave(GW) and decay rate decrease as $\alpha$ increases. At the same time, the error associated with the $6th$ order WKB method increases with an increase in $\alpha$. The ringdown waveform for electromagnetic and scalar perturbations is shown. We also study greybody bounds, power spectrum, and sparsity of Hawking radiation. Greybody bounds for electromagnetic perturbations do not depend on $\alpha$. For scalar perturbation, greybody bounds increase as the LQG parameter increases, but the variation with $\alpha$ is very small. The peak of the power spectrum as well as total power emitted decrease as we increase the value of $\alpha$. Also, the sparsity of Hawking radiation gets significantly impacted by quantum correction. Finally, we obtain the area spectrum of the black hole. It is found to be significantly different than that for the Schwarzschild black hole. 
+
+#### Spin foam related papers
+
+#### **Melonic Radiative Correction in Four-Dimensional Spinfoam Model with  Cosmological Constant**
+ - **Authors:** Muxin Han, Qiaoyin Pan
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2310.04537](https://arxiv.org/abs/2310.04537)
+ - **Abstract**
+ Infrared divergence is a common feature of spinfoam models with a vanishing cosmological constant but is expected to disappear in presence of a non-vanishing cosmological constant. In this paper, we investigate the spinfoam amplitude with cosmological constant introduced in arXiv:2109.00034 on the melon graph, which is known as the melonic radiative correction. The amplitude closely relates to the state-integral model of complex Chern-Simons theory. We prove that the melonic radiative correction is finite in presence of a non-vanishing cosmological constant, in contrast to the infrared divergence of spinfoam models with a vanishing cosmological constant. In addition, we also analyze the scaling behavior of the radiative correction in the limit of small cosmological constant. 
+
+
+
+#### Other related papers
+
+1. [[2310.04650]](https://arxiv.org/abs/2310.04650) - *Gravity-induced entanglement between two massive microscopic particles  in curved spacetime: II.Friedmann- Lemaître-Robertson-Walker universe* - Chi Zhang, Fu-Wen Shu
+
+1. [[2310.04488]](https://arxiv.org/abs/2310.04488) - *Emergence of Species Scale Black Hole Horizons* - José Calderón-Infante, Matilda Delgado, Angel M. Uranga
+
+
+
 ### Mon - 10/09/23
 
 #### Loop quantum gravity related papers
