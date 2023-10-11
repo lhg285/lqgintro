@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/11/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.06018]](https://arxiv.org/abs/2310.06018) - *Gravitational probe of quantum spacetime* - Nikola Herceg, Tajron Jurić, Andjelo Samsarov, Ivica Smolić, Kumar S. Gupta
+
+1. [[2310.06798]](https://arxiv.org/abs/2310.06798) - *Emergent modified gravity: Covariance regained* - Martin Bojowald, Erick I. Duque
+
+1. [[2310.06012]](https://arxiv.org/abs/2310.06012) - *Holographic description of Narain CFTs and their code-based ensembles* - Ofer Aharony, Anatoly Dymarsky, Alfred D. Shapere
+
+1. [[2310.06019]](https://arxiv.org/abs/2310.06019) - *Waiting for Inflation: A New Initial State for the Universe* - Brandon Melcher, Arnab Pradhan, Scott Watson
+
+1. [[2310.06048]](https://arxiv.org/abs/2310.06048) - *Regularized Weyl double copy* - Gokhan Alkac, Mehmet Kemal Gumus, Oguzhan Kasikci, Mehmet Ali Olpak, Mustafa Tek
+
+
+
 ### Tue - 10/10/23
 
 #### Loop quantum gravity related papers
