@@ -6,6 +6,37 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/12/23
+
+#### Loop quantum gravity related papers
+
+#### **Effective Hamiltonian of the k=+1 FRW model from the K-Quantization  method in LQC**
+ - **Authors:** Akram Hasseine
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2310.07012](https://arxiv.org/abs/2310.07012)
+ - **Abstract**
+ In the effective theory of loop quantum cosmology LQC, the influence of the holonomy correction (with $\overline{\mu}$-scheme) on the homogeneous and the inhomogeneous cosmological models have been extensively studied in the case of flat space. In this paper,using the K-Quantization method and the $\overline{\mu}$-scheme,in the same framework of LQC,we construct the Hamiltonian constraint operator of the closed FRW model (k=+1), we show that the effective semi-classical limit gives the same holonomy correction expression that was already used in the case of a flat space. We also derive the modified Friedman equation. The numerical investigation is performed to plot the effective evolution of the massless scalar field in term of the volume,which indicate a minimum volume at the bounce and also a suitable infrared behavior.The condition that we apply to constrain the value of $\overline{\mu}$ in the semi-classical limit is consistent with the numerical results. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.07228]](https://arxiv.org/abs/2310.07228) - *Euclidean methods and phase transitions for the strongest deformations  compatible with Schwarzschild asymptotics* - Ioannis Soranidis
+
+1. [[2310.06895]](https://arxiv.org/abs/2310.06895) - *Global anomalies & bordism of non-supersymmetric strings* - Ivano Basile, Arun Debray, Matilda Delgado, Miguel Montero
+
+1. [[2310.07213]](https://arxiv.org/abs/2310.07213) - *Species Scale in Diverse Dimensions* - Damian van de Heisteeg, Cumrun Vafa, Max Wiesner, David H. Wu
+
+1. [[2310.07499]](https://arxiv.org/abs/2310.07499) - *Functional renormalization group for signal detection and stochastic  ergodicity breaking* - Harold Erbin, Riccardo Finotello, Bio Wahabou Kpera, Vincent Lahoche, Dine Ousmane Samary
+
+1. [[2310.07708]](https://arxiv.org/abs/2310.07708) - *On the Species Scale, Modular Invariance and the Gravitational EFT  expansion* - Alberto Castellano, Alvaro Herráez, Luis E. Ibáñez
+
+
+
 ### Wed - 10/11/23
 
 #### Loop quantum gravity related papers
