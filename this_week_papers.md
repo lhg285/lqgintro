@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/13/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.07823]](https://arxiv.org/abs/2310.07823) - *Universal IR Holography, Scalar Fluctuations and Glueball spectra* - Andrés Anabalón, Horatiu Nastase
+
+1. [[2310.07860]](https://arxiv.org/abs/2310.07860) - *Generalized black branes in AdS/CMT and holographic superconductors* - Roldao da Rocha
+
+
+
 ### Thu - 10/12/23
 
 #### Loop quantum gravity related papers
