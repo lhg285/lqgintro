@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2310.08667]](https://arxiv.org/abs/2310.08667) - *Generalised Gaussian states in group field theory* - Andrea Calcinari, Steffen Gielen
+
 1. [[2310.07012]](https://arxiv.org/abs/2310.07012) - *Effective Hamiltonian of the k=+1 FRW model from the K-Quantization  method in LQC* - Akram Hasseine
 
 1. [[2310.04537]](https://arxiv.org/abs/2310.04537) - *Melonic Radiative Correction in Four-Dimensional Spinfoam Model with  Cosmological Constant* - Muxin Han, Qiaoyin Pan
