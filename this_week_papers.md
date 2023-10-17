@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 10/17/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.10122]](https://arxiv.org/abs/2310.10122) - *Klein-Gordon particles in a quasi-pointlike global monopole spacetime  and a Wu-Yang magnetic monopole: invariance and isospectrality* - Omar Mustafa
+
+
+
 ### Mon - 10/16/23
 
 #### Loop quantum gravity related papers
