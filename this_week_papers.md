@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/18/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.10864]](https://arxiv.org/abs/2310.10864) - *Signatures of Rotating Black Holes in Quantum Superposition* - Cendikiawan Suryaatmadja, Cemile Senem Arabaci, Matthew P. G. Robbins, Joshua Foo, Magdalena Zych, Robert B. Mann
+
+1. [[2310.11039]](https://arxiv.org/abs/2310.11039) - *The optical appearance of a nonsingular de Sitter core black hole  geometry under several thin disk emissions* - I. De Martino, R. Della Monica, D. Rubiera-Garcia
+
+1. [[2310.11041]](https://arxiv.org/abs/2310.11041) - *Weak-field regime of scalar-tensor theories with an instantaneous mode* - Tsutomu Kobayashi, Takashi Hiramatsu
+
+1. [[2310.11242]](https://arxiv.org/abs/2310.11242) - *Odd entanglement entropy in boundary conformal field theories and  holographic moving mirrors* - Anjali Kumari, Vinayak Raj, Gautam Sengupta
+
+
+
 ### Tue - 10/17/23
 
 #### Loop quantum gravity related papers
