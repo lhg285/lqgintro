@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/19/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.11919]](https://arxiv.org/abs/2310.11919) - *Black holes with primary scalar hair* - Athanasios Bakopoulos, Christos Charmousis, Panagiota Kanti, Nicolas Lecoeur, Theodoros Nakas
+
+1. [[2310.11990]](https://arxiv.org/abs/2310.11990) - *From regular black holes to horizonless objects: quasi-normal modes,  instabilities and spectroscopy* - Edgardo Franzin, Stefano Liberati, Vania Vellucci
+
+1. [[2310.11617]](https://arxiv.org/abs/2310.11617) - *Comments on the double cone wormhole* - Yiming Chen, Victor Ivo, Juan Maldacena
+
+
+
 ### Wed - 10/18/23
 
 #### Loop quantum gravity related papers
