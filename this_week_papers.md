@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/20/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.12221]](https://arxiv.org/abs/2310.12221) - *Is it time to rethink quantum gravity?* - Jonathan Oppenheim
+
+1. [[2310.12922]](https://arxiv.org/abs/2310.12922) - *Celestial holography: An asymptotic symmetry perspective* - Laura Donnay
+
+
+
 ### Thu - 10/19/23
 
 #### Loop quantum gravity related papers
