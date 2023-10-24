@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 10/24/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.13047]](https://arxiv.org/abs/2310.13047) - *The Influence Functional in open holography: entanglement and Rényi  entropies* - Pietro Pelliconi, Julian Sonner
+
+1. [[2310.13299]](https://arxiv.org/abs/2310.13299) - *Holographic Teleportation in Quantum Critical Spin Systems* - Motoaki Bamba, Koji Hashimoto, Keiju Murata, Daichi Takeda, Daisuke Yamamoto
+
+1. [[2310.13660]](https://arxiv.org/abs/2310.13660) - *On Q-balls in Anti de Sitter Space* - Arvind Rajaraman, Alexander Stewart, Christopher B. Verhaaren
+
+1. [[2310.13663]](https://arxiv.org/abs/2310.13663) - *Hyperbolic Vacua in Minkowski Space* - Walker Melton, Filip Niewinski, Andrew Strominger, Tianli Wang
+
+1. [[2310.13503]](https://arxiv.org/abs/2310.13503) - *Dually weighted multi-matrix models as a path to causal gravity-matter  systems* - Juan L. A. Abranches, Antonio D. Pereira, Reiko Toriumi
+
+
+
 ### Fri - 10/20/23
 
 #### Loop quantum gravity related papers
