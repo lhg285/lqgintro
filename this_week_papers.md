@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/25/23
+
+#### Loop quantum gravity related papers
+
+#### **Spacetime surgery for black hole fireworks**
+ - **Authors:** Wei-Chen Lin, Dong-han Yeom, Dejan Stojkovic
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2310.15508](https://arxiv.org/abs/2310.15508)
+ - **Abstract**
+ We construct an explicit model for the black hole to white hole transition (known as the black hole fireworks scenario) using the cut-and-paste technique. We model a black hole collapse using the evolution of a time-like shell in the background of the loop quantum gravity inspired metric. We then use the space-like shell analysis to construct the firework geometry. Our simple and well defined analysis removes some subtle issues that were present in the previous literature. In particular, we demonstrate that the null energy condition must be violated for the bounce. We also calculate the proper time scales required for the black to white hole transition, which in any valid scenario must be shorter than the evaporation time scale. In contrast, we show that the bouncing time for the distant observer can be chosen arbitrarily, since it is determined by how one cuts and pastes the spacetimes outside the event horizon, and thus does not have any obvious connection to quantum gravity effects. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.15180]](https://arxiv.org/abs/2310.15180) - *Lorentzian path integral in Kantowski-Sachs anisotropic cosmology* - Saumya Ghosh, Arnab Acharya, Sunandan Gangopadhyay, Prasanta K. Panigrahi
+
+1. [[2310.15792]](https://arxiv.org/abs/2310.15792) - *Three dimensional quotient singularity and 4d $\mathcal{N}=1$ AdS/CFT  correspondence* - Yuanyuan Fang, Jing Feng, Dan Xie
+
+
+
 ### Tue - 10/24/23
 
 #### Loop quantum gravity related papers
