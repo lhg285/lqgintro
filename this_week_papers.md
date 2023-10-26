@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/26/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.16744]](https://arxiv.org/abs/2310.16744) - *Simulating CDT quantum gravity* - Joren Brunekreef, Andrzej Görlich, Renate Loll
+
+
+
 ### Wed - 10/25/23
 
 #### Loop quantum gravity related papers
