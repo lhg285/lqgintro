@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/27/23
+
+#### Loop quantum gravity related papers
+
+#### **Scalar Cosmological Perturbations from Quantum Gravitational  Entanglement**
+ - **Authors:** Alexander F. Jercher, Luca Marchetti, Andreas G. A. Pithis
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2310.17549](https://arxiv.org/abs/2310.17549)
+ - **Abstract**
+ A major challenge at the interface of quantum gravity and cosmology is to explain how the large-scale structure of the Universe emerges from physics at the Planck scale. In this letter, we take an important step in this direction by extracting the dynamics of scalar isotropic cosmological perturbations from full quantum gravity, as described by the causally complete Barrett-Crane group field theory model. From the perspective of the underlying quantum gravity theory, cosmological perturbations are represented as nearest-neighbor two-body entanglement of group field theory quanta. Their effective dynamics is obtained via mean-field methods and described relationally with respect to a physical Lorentz frame causally coupled to the quantum geometry. We quantitatively study these effective dynamical equations and show that at low energies they are perfectly consistent with those of General Relativity, while for trans-Planckian scales quantum effects become important. These results therefore not only provide crucial insights into the potentially purely quantum gravitational nature of cosmological perturbations, but also offer rich phenomenological implications for the physics of the early Universe. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2310.17311]](https://arxiv.org/abs/2310.17311) - *Gravity-induced entanglement as a probe of spacetime curvature* - Suddhasattwa Brahma, Abhinove Nagarajan Seenivasan
+
+1. [[2310.17000]](https://arxiv.org/abs/2310.17000) - *Confinement from Distance in Metric Space and its Relation to  Cosmological Constant* - Amineh Mohseni, Mahdi Torabian
+
+1. [[2310.17358]](https://arxiv.org/abs/2310.17358) - *Correlators on the Wilson Line Defect CFT* - Giulia Peveri
+
+
+
 ### Thu - 10/26/23
 
 #### Loop quantum gravity related papers
