@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2311.00692]](https://arxiv.org/abs/2311.00692) - *Gravastar in the framework of Loop Quantum Cosmology* - Shounak Ghosh, Rikpratik Sengupta, Mehedi Kalam
+
 1. [[2310.17549]](https://arxiv.org/abs/2310.17549) - *Scalar Cosmological Perturbations from Quantum Gravitational  Entanglement* - Alexander F. Jercher, Luca Marchetti, Andreas G. A. Pithis
 
 1. [[2310.15508]](https://arxiv.org/abs/2310.15508) - *Spacetime surgery for black hole fireworks* - Wei-Chen Lin, Dong-han Yeom, Dejan Stojkovic
