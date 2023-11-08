@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2311.03848]](https://arxiv.org/abs/2311.03848) - *Microscopic interpretation of generalized entropy* - Shin'ichi Nojiri, Sergei D. Odintsov, Tanmoy Paul
+
 1. [[2311.00692]](https://arxiv.org/abs/2311.00692) - *Gravastar in the framework of Loop Quantum Cosmology* - Shounak Ghosh, Rikpratik Sengupta, Mehedi Kalam
 
 1. [[2310.17549]](https://arxiv.org/abs/2310.17549) - *Scalar Cosmological Perturbations from Quantum Gravitational  Entanglement* - Alexander F. Jercher, Luca Marchetti, Andreas G. A. Pithis
