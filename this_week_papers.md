@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/09/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2311.04680]](https://arxiv.org/abs/2311.04680) - *Holographic Einstein Rings of Black Holes in Scalar-Tensor-Vector  Gravity* - Xiao-Xiong Zeng, M. Israr Aslam, Rabia Saleem, Xin-Yun Hu
+
+1. [[2311.04277]](https://arxiv.org/abs/2311.04277) - *The Complexity of Being Entangled* - Stefano Baiguera, Shira Chapman, Giuseppe Policastro, Tal Schwartzman
+
+1. [[2311.04281]](https://arxiv.org/abs/2311.04281) - *Algebraic ER=EPR and Complexity Transfer* - Netta Engelhardt, Hong Liu
+
+
+
 ### Wed - 11/08/23
 
 #### Loop quantum gravity related papers
