@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/10/23
+
+#### Loop quantum gravity related papers
+
+#### **The Milgromian acceleration and the cosmological constant from  precanonical quantum gravity**
+ - **Authors:** Igor V. Kanatchikov, Valery A. Kholodnyi
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2311.05525](https://arxiv.org/abs/2311.05525)
+ - **Abstract**
+ We show that the Milgromian acceleration of MOND and the cosmological constant can be understood and quantified as the effects of quantum fluctuations of spin connection which are described by precanonical quantum gravity put forward by one of us earlier. We also show that a MOND-like modification of Newtonian dynamics at small accelerations emerges from this picture in the non-relativistic approximation. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2311.05483]](https://arxiv.org/abs/2311.05483) - *Probing the curvature of the cosmos from quantum entanglement due to  gravity* - Suddhasattwa Brahma, Abhinove Nagarajan Seenivasan
+
+1. [[2311.04969]](https://arxiv.org/abs/2311.04969) - *Instantons in sine-Liouville theory* - Sergei Alexandrov, Raghu Mahajan, Ashoke Sen
+
+1. [[2311.05382]](https://arxiv.org/abs/2311.05382) - *Real time holography for higher spin theories* - Zezhuang Hao
+
+
+
 ### Thu - 11/09/23
 
 #### Loop quantum gravity related papers

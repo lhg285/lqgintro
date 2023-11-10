@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2311.05525]](https://arxiv.org/abs/2311.05525) - *The Milgromian acceleration and the cosmological constant from  precanonical quantum gravity* - Igor V. Kanatchikov, Valery A. Kholodnyi
+
 1. [[2311.03848]](https://arxiv.org/abs/2311.03848) - *Microscopic interpretation of generalized entropy* - Shin'ichi Nojiri, Sergei D. Odintsov, Tanmoy Paul
 
 1. [[2311.00692]](https://arxiv.org/abs/2311.00692) - *Gravastar in the framework of Loop Quantum Cosmology* - Shounak Ghosh, Rikpratik Sengupta, Mehedi Kalam
