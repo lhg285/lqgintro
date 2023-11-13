@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2311.05670]](https://arxiv.org/abs/2311.05670) - *On the initial state of the universe in Loop Quantum Cosmology and the  time arrow* - Carlos Silva, Renan Aragão, Francisco A. Brito
+
+1. [[2311.05766]](https://arxiv.org/abs/2311.05766) - *Quantization of spherically symmetric loop quantum gravity coupled to a  scalar field and a clock: the asymptotic limit* - Rodolfo Gambini, Jorge Pullin
+
 1. [[2311.05525]](https://arxiv.org/abs/2311.05525) - *The Milgromian acceleration and the cosmological constant from  precanonical quantum gravity* - Igor V. Kanatchikov, Valery A. Kholodnyi
 
 1. [[2311.03848]](https://arxiv.org/abs/2311.03848) - *Microscopic interpretation of generalized entropy* - Shin'ichi Nojiri, Sergei D. Odintsov, Tanmoy Paul
