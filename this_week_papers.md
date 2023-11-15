@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/15/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2311.07979]](https://arxiv.org/abs/2311.07979) - *On the moduli space curvature at infinity* - Fernando Marchesano, Luca Melotti, Lorenzo Paoloni
+
+
+
 ### Tue - 11/14/23
 
 #### Loop quantum gravity related papers
