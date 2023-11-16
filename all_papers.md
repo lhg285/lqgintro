@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2311.08465]](https://arxiv.org/abs/2311.08465) - *On the classicality and uniqueness in loop quantization of Bianchi-I  spacetimes* - Meysam Motaharfar, Parampreet Singh, Eklavya Thareja
+
+1. [[2311.08587]](https://arxiv.org/abs/2311.08587) - *Quantum Group Intertwiner Space From Quantum Curved Tetrahedron* - Muxin Han, Chen-Hung Hsiao, Qiaoyin Pan
+
+1. [[2311.08435]](https://arxiv.org/abs/2311.08435) - *Finite temperature quantum field theory under the influence of 3D  lattices* - Lucia Santamaria-Sanz
+
 1. [[2311.05670]](https://arxiv.org/abs/2311.05670) - *On the initial state of the universe in Loop Quantum Cosmology and the  time arrow* - Carlos Silva, Renan Aragão, Francisco A. Brito
 
 1. [[2311.05766]](https://arxiv.org/abs/2311.05766) - *Quantization of spherically symmetric loop quantum gravity coupled to a  scalar field and a clock: the asymptotic limit* - Rodolfo Gambini, Jorge Pullin
