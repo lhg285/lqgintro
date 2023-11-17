@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/17/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2311.09284]](https://arxiv.org/abs/2311.09284) - *All Loop Scattering For All Multiplicity* - Nima Arkani-Hamed, Hadleigh Frost, Giulio Salvatori, Pierre-Guy Plamondon, Hugh Thomas
+
+1. [[2311.09978]](https://arxiv.org/abs/2311.09978) - *Gauging spacetime inversions in quantum gravity* - Daniel Harlow, Tokiro Numasawa
+
+
+
 ### Thu - 11/16/23
 
 #### Loop quantum gravity related papers
