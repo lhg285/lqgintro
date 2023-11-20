@@ -6,11 +6,23 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 11/17/23
+### Mon - 11/20/23
 
 #### Loop quantum gravity related papers
 
-There is no new related paper today 
+#### **Revisiting quantum black holes from effective loop quantum gravity**
+ - **Authors:** Geeth Ongole, Parampreet Singh, Anzhong Wang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2311.10166](https://arxiv.org/abs/2311.10166)
+ - **Abstract**
+ We systematically study a family of loop quantizations for the classical Kruskal spacetimes using the effective description motivated from loop quantum gravity for four generic parameters, $c_o, m, \delta_b$ and $\delta_c$, where the latter two denote the polymerization parameters which capture the underlying quantum geometry. We focus on the family where polymerization parameters are constant on dynamical trajectories, and of which the Ashtekar-Olmedo-Singh (AOS) and Corichi-Singh (CS) models appear as special cases. We study general features of singularity resolution in all these models due to quantum gravity effects and analytically extend the solutions across the white hole (WH) and black hole (BH) horizons to the exterior. We find that the leading term in the asymptotic expansion of the Kretschmann scalar is $r^{-4}$. However, for AOS and CS models black holes with masses greater than solar mass the dominant term behaves as $r^{-6}$ for the size of the observable universe and {our analysis can be used to phenomenologically constrain the choice of parameters for other models.} In addition, one can uniquely fix the parameter $c_o$ by requiring that the Hawking temperature at the BH horizon to the leading order be consistent with its classical value for a macroscopic BH. Assuming that the BH and WH masses are of the same order, we are able to identify a family of choices of $\delta_b$ and $\delta_c$ which share all the desired properties of the AOS model. 
+
+#### **Emergent modified gravity coupled to scalar matter**
+ - **Authors:** Martin Bojowald, Erick I. Duque
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2311.10693](https://arxiv.org/abs/2311.10693)
+ - **Abstract**
+ Emergent modified gravity presents a new set of generally covariant gravitational theories in which the space-time metric is not directly given by one of the fundamental fields. A metric compatible with the modified dynamics of gravity is instead derived from covariance conditions for space-time in canonical form. This paper presents a significant extension of existing vacuum models to the case of a scalar field coupled to emergent modified gravity in a spherically symmetric setting. Unlike in previous attempts for instance in models of loop quantum gravity, it is possible to maintain general covariance in the presence of modified gravity-scalar couplings. In general, however, the emergent space-time metric depends not only on the phase-space degrees of freedom of the gravitational part of the coupled theory, but also on the scalar field. Matter therefore directly and profoundly affects the geometry of space-time, not only through the well-known dynamical coupling of stress-energy to curvature as in Einstein's equation, but even on a kinematical level before equations of motion are solved. This paper introduces further physical requirements that may be imposed for a reduction of modified theories to more specific classes, in some cases eliminating certain modifications that would be possible in a vacuum situation. With minimal coupling, results about the removal of classical black-hole singularities in vacuum emergent modified gravity are found to be unstable under the inclusion of matter, but alternative modifications exist in which singularities are removed even in the presence of matter. Emergent modified gravity is seen to provide a large class of new scalar-tensor theories with second-order field equations. 
 
 #### Spin foam related papers
 
@@ -20,114 +32,13 @@ There is no new related paper today
 
 #### Other related papers
 
-1. [[2311.09284]](https://arxiv.org/abs/2311.09284) - *All Loop Scattering For All Multiplicity* - Nima Arkani-Hamed, Hadleigh Frost, Giulio Salvatori, Pierre-Guy Plamondon, Hugh Thomas
+1. [[2311.10564]](https://arxiv.org/abs/2311.10564) - *Unification of Decoupling Limits in String and M-theory* - Chris D. A. Blair, Johannes Lahnsteiner, Niels A. J. Obers, Ziqi Yan
 
-1. [[2311.09978]](https://arxiv.org/abs/2311.09978) - *Gauging spacetime inversions in quantum gravity* - Daniel Harlow, Tokiro Numasawa
-
-
-
-### Thu - 11/16/23
-
-#### Loop quantum gravity related papers
-
-#### **On the classicality and uniqueness in loop quantization of Bianchi-I  spacetimes**
- - **Authors:** Meysam Motaharfar, Parampreet Singh, Eklavya Thareja
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/2311.08465](https://arxiv.org/abs/2311.08465)
- - **Abstract**
- In loop quantum cosmology, ambiguities in the Hamiltonian constraint can result in models with varying phenomenological predictions. In the homogeneous isotropic models, these ambiguities were settled, and the improved dynamics was found to be a unique and phenomenologically viable choice. This issue has remained unsettled on the inclusion of anisotropies, and in the Bianchi-I model there exist two generalizations of isotropic improved dynamics. In the first of these, labelled as $\bar \mu$ quantization, the edge length of holonomies depends on the inverse of the directional scale factor. This quantization has been favored since it results in universal bounds on energy density and anisotropic shear, and can be viably formulated for non-compact as well as compact spatial manifolds. However, there exists an earlier quantization, labelled as $\bar \mu'$ quantization, where edge lengths of holonomies depend on the inverse of the square root of directional triads. This quantization is also non-singular and so far believed to yield a consistent physical picture for spatially compact manifolds. We examine the issue of the physical viability of these quantizations for different types of matter in detail by performing a large number of numerical simulations. Our analysis reveals certain limitations which have so far remained unnoticed. We find that while being non-singular, the $\bar \mu'$ quantization suffers from a surprising problem where one of the triad components and associated polymerized term retains Planckian character even at large volumes. As a result, not only is the anisotropic shear not preserved across the bounce, which is most highlighted in the vacuum case, but the universe can exhibit an unexpected cyclic evolution. These problematic features are absent from the $\bar \mu$ quantization leaving it as the only viable prescription for loop quantizing the Bianchi-I model. 
-
-#### **Quantum Group Intertwiner Space From Quantum Curved Tetrahedron**
- - **Authors:** Muxin Han, Chen-Hung Hsiao, Qiaoyin Pan
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
- - **Arxiv link:** [https://arxiv.org/abs/2311.08587](https://arxiv.org/abs/2311.08587)
- - **Abstract**
- In this paper, we develop a quantum theory of homogeneously curved tetrahedron geometry, by applying the combinatorial quantization to the phase space of tetrahedron shapes defined in arXiv:1506.03053. Our method is based on the relation between this phase space and the moduli space of SU(2) flat connections on a 4-punctured sphere. The quantization results in the physical Hilbert space as the solution of the quantum closure constraint, which quantizes the classical closure condition $M_4M_3M_2M_1=1$, $M_\nu\in$ SU(2), for the homogeneously curved tetrahedron. The quantum group Uq(su(2)) emerges as the gauge symmetry of a quantum tetrahedron. The physical Hilbert space of the quantum tetrahedron coincides with the Hilbert space of 4-valent intertwiners of Uq(su(2)). In addition, we define the area operators quantizing the face areas of the tetrahedron and compute the spectrum. The resulting spectrum is consistent with the usual Loop-Quantum-Gravity area spectrum in the large spin regime but is different for small spins. This work closely relates to 3+1 dimensional Loop Quantum Gravity in presence of cosmological constant and provides a justification for the emergence of quantum group in the theory. 
-
-#### **Finite temperature quantum field theory under the influence of 3D  lattices**
- - **Authors:** Lucia Santamaria-Sanz
- - **Subjects:** Mathematical Physics (math-ph)
- - **Arxiv link:** [https://arxiv.org/abs/2311.08435](https://arxiv.org/abs/2311.08435)
- - **Abstract**
- The one-loop quantum corrections to the internal energy of lattices due to the quantum fluctuations of the scalar field of phonons are studied. The band spectrum of the lattice is characterised in terms of the scattering data, allowing to compute the total Helmholtz free energy and the entropy at finite non zero temperature. Some examples of three dimensional periodic potentials built from the repetition of the same punctual or compact supported potential are addressed: the generalised Dirac comb and the P\"oschl-Teller comb, respectively. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2311.08616]](https://arxiv.org/abs/2311.08616) - *Emergent modified gravity: The perfect fluid and gravitational collapse* - Erick I. Duque
-
-1. [[2311.09171]](https://arxiv.org/abs/2311.09171) - *Harada-Maxwell Static Spherically Symmetric Spacetimes* - Alan Barnes
-
-
-
-### Wed - 11/15/23
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2311.07979]](https://arxiv.org/abs/2311.07979) - *On the moduli space curvature at infinity* - Fernando Marchesano, Luca Melotti, Lorenzo Paoloni
-
-
-
-### Tue - 11/14/23
-
-#### Loop quantum gravity related papers
-
-#### **On the initial state of the universe in Loop Quantum Cosmology and the  time arrow**
- - **Authors:** Carlos Silva, Renan Aragão, Francisco A. Brito
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/2311.05670](https://arxiv.org/abs/2311.05670)
- - **Abstract**
- In this work, we address the thermodynamical evolution of the universe in the context of Loop Quantum Cosmology by considering the conditions for the existence of a time arrow in this approach. We find out that, for the existence of a time arrow in our universe, in terms of its obedience to the Generalized Second Law of Thermodynamics, the initial state of the cosmos must correspond to a negative entropy one. 
-
-#### **Quantization of spherically symmetric loop quantum gravity coupled to a  scalar field and a clock: the asymptotic limit**
- - **Authors:** Rodolfo Gambini, Jorge Pullin
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/2311.05766](https://arxiv.org/abs/2311.05766)
- - **Abstract**
- We continue our work on the study of spherically symmetric loop quantum gravity coupled to two spherically symmetric scalar fields, one which acts as a clock. As a consequence of the presence of the latter, we can define a true Hamiltonian for the theory. The spherically symmetric context allows to carry out precise detailed calculations. Here we study the theory for regions of large values of the radial coordinate. This allows us to define in detail the vacuum of the theory and study its quantum states, yielding a quantum field theory on a quantum space time that makes contact with the usual treatment on classical space times. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Mon - 11/13/23
-
-#### Loop quantum gravity related papers
-
-#### **On the initial state of the universe in Loop Quantum Cosmology and the  time arrow**
- - **Authors:** Carlos Silva, Renan Aragão, Francisco A. Brito
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/2311.05670](https://arxiv.org/abs/2311.05670)
- - **Abstract**
- In this work, we address the thermodynamical evolution of the universe in the context of Loop Quantum Cosmology by considering the conditions for the existence of a time arrow in this approach. We find out that, for the existence of a time arrow in our universe, in terms of its obedience to the Generalized Second Law of Thermodynamics, the initial state of the cosmos must correspond to a negative entropy one. 
-
-#### **Quantization of spherically symmetric loop quantum gravity coupled to a  scalar field and a clock: the asymptotic limit**
- - **Authors:** Rodolfo Gambini, Jorge Pullin
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/2311.05766](https://arxiv.org/abs/2311.05766)
- - **Abstract**
- We continue our work on the study of spherically symmetric loop quantum gravity coupled to two spherically symmetric scalar fields, one which acts as a clock. As a consequence of the presence of the latter, we can define a true Hamiltonian for the theory. The spherically symmetric context allows to carry out precise detailed calculations. Here we study the theory for regions of large values of the radial coordinate. This allows us to define in detail the vacuum of the theory and study its quantum states, yielding a quantum field theory on a quantum space time that makes contact with the usual treatment on classical space times. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
+1. [[2311.10565]](https://arxiv.org/abs/2311.10565) - *Worldsheet Formalism for Decoupling Limits in String Theory* - Joaquim Gomis, Ziqi Yan
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2023/11/13/archived_weekly_papers.html)
+
+
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2023/11/20/archived_weekly_papers.html)

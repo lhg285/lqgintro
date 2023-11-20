@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2311.10166]](https://arxiv.org/abs/2311.10166) - *Revisiting quantum black holes from effective loop quantum gravity* - Geeth Ongole, Parampreet Singh, Anzhong Wang
+
+1. [[2311.10693]](https://arxiv.org/abs/2311.10693) - *Emergent modified gravity coupled to scalar matter* - Martin Bojowald, Erick I. Duque
+
 1. [[2311.08465]](https://arxiv.org/abs/2311.08465) - *On the classicality and uniqueness in loop quantization of Bianchi-I  spacetimes* - Meysam Motaharfar, Parampreet Singh, Eklavya Thareja
 
 1. [[2311.08587]](https://arxiv.org/abs/2311.08587) - *Quantum Group Intertwiner Space From Quantum Curved Tetrahedron* - Muxin Han, Chen-Hung Hsiao, Qiaoyin Pan
