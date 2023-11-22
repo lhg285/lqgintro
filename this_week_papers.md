@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/22/23
+
+#### Loop quantum gravity related papers
+
+#### **Constraints from solar system tests on a covariant loop quantum black  hole**
+ - **Authors:** Ruo-Ting Chen, Shulan Li, Li-Gang Zhu, Jian-Pin Wu
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2311.12270](https://arxiv.org/abs/2311.12270)
+ - **Abstract**
+ Recently, a covariant spherically symmetric model of a black hole within the framework of loop quantum gravity (LQG), characterized by a quantum parameter $r_0$ or $\lambda$, has been proposed. To derive constraints on the LQG-corrected parameter, we explore observational constraints imposed on $r_0$ and $\lambda$ through investigations of the light deflection, the Shapiro time delay, the precession of perihelia, and the geodetic precession test. Among these constraints, the tightest one arises from the Shapiro time delay measured by the Cassini mission, yielding an upper constraint of approximately $10^{-5}$. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2311.12286]](https://arxiv.org/abs/2311.12286) - *Thermodynamics for regular black holes as intermediate thermodynamic  states and quasinormal frequencies* - Bai-Hao Huang, Han-Wen Hu, Liu Zhao
+
+1. [[2311.12113]](https://arxiv.org/abs/2311.12113) - *Shedding black hole light on the emergent string conjecture* - Ivano Basile, Dieter Lust, Carmine Montella
+
+1. [[2311.12121]](https://arxiv.org/abs/2311.12121) - *Scramblon loops* - Douglas Stanford, Shreya Vardhan, Shunyu Yao
+
+
+
 ### Tue - 11/21/23
 
 #### Loop quantum gravity related papers
