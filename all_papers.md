@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2311.14377]](https://arxiv.org/abs/2311.14377) - *Effective anisotropic dynamics in Group Field Theory cosmology* - Daniele Oriti, Yi-Li Wang
+
 1. [[2311.12270]](https://arxiv.org/abs/2311.12270) - *Constraints from solar system tests on a covariant loop quantum black  hole* - Ruo-Ting Chen, Shulan Li, Li-Gang Zhu, Jian-Pin Wu
 
 1. [[2311.10166]](https://arxiv.org/abs/2311.10166) - *Revisiting quantum black holes from effective loop quantum gravity* - Geeth Ongole, Parampreet Singh, Anzhong Wang
