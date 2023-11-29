@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2311.16648]](https://arxiv.org/abs/2311.16648) - *Master constraint approach to quantum-reduced loop gravity* - Ilkka Mäkinen
+
 1. [[2311.14377]](https://arxiv.org/abs/2311.14377) - *Effective anisotropic dynamics in Group Field Theory cosmology* - Daniele Oriti, Yi-Li Wang
 
 1. [[2311.12270]](https://arxiv.org/abs/2311.12270) - *Constraints from solar system tests on a covariant loop quantum black  hole* - Ruo-Ting Chen, Shulan Li, Li-Gang Zhu, Jian-Pin Wu

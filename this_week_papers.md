@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/29/23
+
+#### Loop quantum gravity related papers
+
+#### **Master constraint approach to quantum-reduced loop gravity**
+ - **Authors:** Ilkka Mäkinen
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2311.16648](https://arxiv.org/abs/2311.16648)
+ - **Abstract**
+ We introduce a master constraint operator on the kinematical Hilbert space of loop quantum gravity representing a set of gauge conditions which classically fix the densitized triad to be diagonal. We argue that the master constraint approach provides a natural and systematic way of carrying out the quantum gauge-fixing procedure which underlies the model known as quantum-reduced loop gravity. The Hilbert space of quantum-reduced loop gravity is obtained as a particular space of solutions of the gauge-fixing master constraint operator. We give a concise summary of the fundamental structure of the quantum-reduced framework, and consider several possible extensions thereof, for which the master constraint formulation provides a convenient starting point. In particular, we propose a generalization of the standard Hilbert space of quantum-reduced loop gravity, which may be relevant in the application of the quantum-reduced model to physical situations in which the Ashtekar connection is not diagonal. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2311.16319]](https://arxiv.org/abs/2311.16319) - *Horizon-scale effects in astrophysical black holes from mass-dependent  regulators* - Jens Boos, Christopher D. Carone
+
+1. [[2311.16252]](https://arxiv.org/abs/2311.16252) - *Mock Modularity In CHL Models* - Ajit Bhand, Ashoke Sen, Ranveer Kumar Singh
+
+1. [[2311.17023]](https://arxiv.org/abs/2311.17023) - *Reflected entropy in BCFTs on a black hole background* - Debarshi Basu, Himanshu Chourasiya, Vinayak Raj, Gautam Sengupta
+
+
+
 ### Tue - 11/28/23
 
 #### Loop quantum gravity related papers
