@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/30/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2311.17151]](https://arxiv.org/abs/2311.17151) - *Lagrangian reverse engineering for regular black holes* - Ana Bokulić, Edgardo Franzin, Tajron Jurić, Ivica Smolić
+
+1. [[2311.17199]](https://arxiv.org/abs/2311.17199) - *Renormalization group flows from the Hessian geometry of quantum  effective actions* - Yannick Kluth, Peter Millington, Paul Saffin
+
+1. [[2311.17526]](https://arxiv.org/abs/2311.17526) - *Combinatorial quantum gravity and emergent 3D quantum behaviour* - Carlo A. Trugenberger
+
+
+
 ### Wed - 11/29/23
 
 #### Loop quantum gravity related papers
