@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/01/23
+
+#### Loop quantum gravity related papers
+
+#### **On the evolution of the volume in Loop Quantum Cosmology**
+ - **Authors:** Beatriz Elizaga Navascués
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2311.18066](https://arxiv.org/abs/2311.18066)
+ - **Abstract**
+ The dynamics of the expectation value of the volume is one of the key ingredients behind the replacement of the Big Bang singularity by a bounce in Loop Quantum Cosmology. As such, it is of great importance that this quantity is mathematically well-defined in the space of physical states of the theory. A number of caveats have been raised about such a definition entering in conflict with the quantum evolution of states, motivated by the situation found in quantum geometrodynamics. We show that there are ways around these caveats, all of which are related to the existence of quantization prescriptions leading to a nondegenerate curvature operator in Loop Quantum Cosmology. Furthermore, we explicitly check that there exist families of physical states for which the expectation value of the volume is actually finite under evolution. These include the Gaussian states traditionally used in investigations of the quantum bounce. Interestingly, the properties of the curvature operator that allow for such a good behavior of the volume are only possible thanks to the discreteness of the geometry characteristic of the loop quantization procedure. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2311.18238]](https://arxiv.org/abs/2311.18238) - *The Einstein-Hilbert Action for Entropically Dominant Causal Sets* - Peter Carlip, Steve Carlip, Sumati Surya
+
+1. [[2311.18546]](https://arxiv.org/abs/2311.18546) - *Parametric resonance of gravitational waves in general scalar-tensor  theories* - Yi-Fu Cai, Guillem Domènech, Alexander Ganz, Jie Jiang, Chunshan Lin, Bo Wang
+
+1. [[2311.18290]](https://arxiv.org/abs/2311.18290) - *Constrained HRT Surfaces and their Entropic Interpretation* - Xi Dong, Donald Marolf, Pratik Rath
+
+
+
 ### Thu - 11/30/23
 
 #### Loop quantum gravity related papers
