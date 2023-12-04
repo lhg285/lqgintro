@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2312.00450]](https://arxiv.org/abs/2312.00450) - *Quantum Schwarzschild geometry in effective-field-theory models of  gravity* - Emmanuele Battista
+
 1. [[2311.18066]](https://arxiv.org/abs/2311.18066) - *On the evolution of the volume in Loop Quantum Cosmology* - Beatriz Elizaga Navascués
 
 1. [[2311.16648]](https://arxiv.org/abs/2311.16648) - *Master constraint approach to quantum-reduced loop gravity* - Ilkka Mäkinen
