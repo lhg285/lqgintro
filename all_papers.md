@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2312.02399]](https://arxiv.org/abs/2312.02399) - *Primordial fluctuations from quantum gravity: 16-cell topological model* - Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
+
 1. [[2312.00450]](https://arxiv.org/abs/2312.00450) - *Quantum Schwarzschild geometry in effective-field-theory models of  gravity* - Emmanuele Battista
 
 1. [[2312.00450]](https://arxiv.org/abs/2312.00450) - *Quantum Schwarzschild geometry in effective-field-theory models of  gravity* - Emmanuele Battista

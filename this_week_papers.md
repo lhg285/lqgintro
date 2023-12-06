@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/06/23
+
+#### Loop quantum gravity related papers
+
+#### **Primordial fluctuations from quantum gravity: 16-cell topological model**
+ - **Authors:** Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2312.02399](https://arxiv.org/abs/2312.02399)
+ - **Abstract**
+ We present a numerical analysis of an Hartle-Hawking state for the early universe, in the deep quantum regime, computed using the covariant Loop Quantum Gravity formalism, in a truncation defined by 16-cell and in a simplified case where the dynamics is defined by SU(2) BF theory. We compute mean geometry, fluctuations and correlations. The results are consistent with the hypothesis that refining the triangulation does not affect the global physical picture substantially. 
+
+#### Spin foam related papers
+
+#### **Primordial fluctuations from quantum gravity: 16-cell topological model**
+ - **Authors:** Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2312.02399](https://arxiv.org/abs/2312.02399)
+ - **Abstract**
+ We present a numerical analysis of an Hartle-Hawking state for the early universe, in the deep quantum regime, computed using the covariant Loop Quantum Gravity formalism, in a truncation defined by 16-cell and in a simplified case where the dynamics is defined by SU(2) BF theory. We compute mean geometry, fluctuations and correlations. The results are consistent with the hypothesis that refining the triangulation does not affect the global physical picture substantially. 
+
+
+
+#### Other related papers
+
+1. [[2312.02234]](https://arxiv.org/abs/2312.02234) - *Testing regularity of black holes with X-rays and Gravitational Waves* - Swarnim Shashank
+
+
+
 ### Tue - 12/05/23
 
 #### Loop quantum gravity related papers
