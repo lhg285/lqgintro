@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/07/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2312.03332]](https://arxiv.org/abs/2312.03332) - *Geometry from D-branes in Nonrelativistic String Theory* - Alberto Guijosa, Igmar C. Rosas-López
+
+
+
 ### Wed - 12/06/23
 
 #### Loop quantum gravity related papers
