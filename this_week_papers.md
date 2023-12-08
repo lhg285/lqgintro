@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/08/23
+
+#### Loop quantum gravity related papers
+
+#### **Shadows of Loop Quantum Black Holes: Semi-analytical Simulations of Loop  Quantum Gravity Effects on Sagittarius A* and M 87***
+ - **Authors:** Hong-Xuan Jiang, Cheng Liu, Indu K. Dihingia, Yosuke Mizuno, Haiguang Xu, Tao Zhu, Qiang Wu
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE)
+ - **Arxiv link:** [https://arxiv.org/abs/2312.04288](https://arxiv.org/abs/2312.04288)
+ - **Abstract**
+ In this study, we delve into the observational implications of rotating Loop Quantum Black Holes (LQBHs) within an astrophysical framework. We employ semi-analytical General Relativistic Radiative Transfer (GRRT) computations to study the emission from the accretion flow around LQBHs. Our findings indicate that the increase of Loop Quantum Gravity (LQG) effects results in an enlargement of the rings from LQBHs, thereby causing a more circular polarization pattern in the shadow images. We make comparisons with the Event Horizon Telescope (EHT) observations of Sgr\,A$^*$ and M\,87$^*$, which enable us to determine an upper limit for the polymetric function $P$ in LQG. The upper limit for Sgr\,A$^*$ is $0.2$, while for M\,87$^*$ it is $0.07$. Both black holes exhibit a preference for a relatively high spin ($a\gtrsim0.5$ for Sgr\,A$^*$ and $0.5\lesssim a \lesssim 0.7$ for M\,87$^*$). The constraints for Sgr\,A$^*$ are based on black hole spin and ring diameter, whereas for M\,87$^*$, the constraints are further tightened by the polarimetric pattern. In essence, our simulations provide observational constraints on the effect of LQG in supermassive black holes (SMBH), providing the most consistent comparison with observation. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2312.03760]](https://arxiv.org/abs/2312.03760) - *Exact Solution of Bardeen Black Hole in Einstein-Gauss-Bonnet gravity* - Amit Kumar, Dharm Veer Singh, Yerlan Myrzakulov, Gulmira Yergaliyeva, Sudhaker Upadhyay
+
+1. [[2312.03811]](https://arxiv.org/abs/2312.03811) - *Quantum reference frames, revisited* - Matthew J. Lake, Marek Miller
+
+1. [[2312.04301]](https://arxiv.org/abs/2312.04301) - *The appearance of the regular black hole with a stable Cauchy horizon* - Li-Ming Cao, Long-Yue Li, Xia-Yuan Liu, Yu-Sen Zhou
+
+1. [[2312.03831]](https://arxiv.org/abs/2312.03831) - *Robustness of the derivative expansion in Asymptotic Safety* - Alessio Baldazzi, Kevin Falls, Yannick Kluth, Benjamin Knorr
+
+
+
 ### Thu - 12/07/23
 
 #### Loop quantum gravity related papers

@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2312.04288]](https://arxiv.org/abs/2312.04288) - *Shadows of Loop Quantum Black Holes: Semi-analytical Simulations of Loop  Quantum Gravity Effects on Sagittarius A* and M 87** - Hong-Xuan Jiang, Cheng Liu, Indu K. Dihingia, Yosuke Mizuno, Haiguang Xu, Tao Zhu, Qiang Wu
+
 1. [[2312.02399]](https://arxiv.org/abs/2312.02399) - *Primordial fluctuations from quantum gravity: 16-cell topological model* - Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto
 
 1. [[2312.00450]](https://arxiv.org/abs/2312.00450) - *Quantum Schwarzschild geometry in effective-field-theory models of  gravity* - Emmanuele Battista
