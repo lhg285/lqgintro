@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/13/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2312.06757]](https://arxiv.org/abs/2312.06757) - *Astronomical Image Blurring from Transversely Correlated Quantum Gravity  Fluctuations* - Vincent S. H. Lee, Kathryn M. Zurek, Yanbei Chen
+
+1. [[2312.07486]](https://arxiv.org/abs/2312.07486) - *Dark energy from topology change induced by microscopic Gauss-Bonnet  wormholes* - Stylianos A. Tsilioukas, Emmanuel N. Saridakis, Charalampos Tzerefos
+
+1. [[2312.06750]](https://arxiv.org/abs/2312.06750) - *Holographic Screen Sequestration* - Aidan Chatwin-Davies, Pompey Leung, Grant N. Remmen
+
+1. [[2312.06803]](https://arxiv.org/abs/2312.06803) - *Tearing down spacetime with quantum disentanglement* - Roberto Emparan, Javier M. Magan
+
+1. [[2312.07211]](https://arxiv.org/abs/2312.07211) - *Uncertainty principle from the noise of gravitons* - Soham Sen, Sunandan Gangopadhyay
+
+
+
 ### Tue - 12/12/23
 
 #### Loop quantum gravity related papers
