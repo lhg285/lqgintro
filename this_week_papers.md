@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/14/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2312.07652]](https://arxiv.org/abs/2312.07652) - *Multiparticle Factorization and the Rigidity of String Theory* - Nima Arkani-Hamed, Clifford Cheung, Carolina Figueiredo, Grant N. Remmen
+
+1. [[2312.07674]](https://arxiv.org/abs/2312.07674) - *Topology change and non-geometry at infinite distance* - Saskia Demulder, Dieter Lust, Thomas Raml
+
+1. [[2312.07820]](https://arxiv.org/abs/2312.07820) - *Celestial Leaf Amplitudes* - Walker Melton, Atul Sharma, Andrew Strominger
+
+
+
 ### Wed - 12/13/23
 
 #### Loop quantum gravity related papers
