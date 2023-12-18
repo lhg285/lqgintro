@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2312.10016]](https://arxiv.org/abs/2312.10016) - *Reconstructing the metric in group field theory* - Steffen Gielen, Lisa Mickel
+
 1. [[2312.09217]](https://arxiv.org/abs/2312.09217) - *A new type of large-scale signature change in emergent modified gravity* - Martin Bojowald, Erick I. Duque, Dennis Hartmann
 
 1. [[2312.04288]](https://arxiv.org/abs/2312.04288) - *Shadows of Loop Quantum Black Holes: Semi-analytical Simulations of Loop  Quantum Gravity Effects on Sagittarius A* and M 87** - Hong-Xuan Jiang, Cheng Liu, Indu K. Dihingia, Yosuke Mizuno, Haiguang Xu, Tao Zhu, Qiang Wu
