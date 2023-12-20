@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2312.11450]](https://arxiv.org/abs/2312.11450) - *Analysis of improved dynamics of non-rotating charged black holes* - Florencia Benitez, Esteban Mato, Javier Olmedo
+
 1. [[2312.10016]](https://arxiv.org/abs/2312.10016) - *Reconstructing the metric in group field theory* - Steffen Gielen, Lisa Mickel
 
 1. [[2312.10016]](https://arxiv.org/abs/2312.10016) - *Reconstructing the metric in group field theory* - Steffen Gielen, Lisa Mickel

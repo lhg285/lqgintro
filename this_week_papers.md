@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/20/23
+
+#### Loop quantum gravity related papers
+
+#### **Analysis of improved dynamics of non-rotating charged black holes**
+ - **Authors:** Florencia Benitez, Esteban Mato, Javier Olmedo
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2312.11450](https://arxiv.org/abs/2312.11450)
+ - **Abstract**
+ We provide the quantization of a charged black hole. We consider a redefinition of the scalar constraint in order to render the algebra of constraints as a Lie algebra. We apply loop quantum gravity techniques adhered to a novel improved dynamics scheme. We show that the model is solvable in closed form. We compute effective geometries, and show that the resulting effective space-times replace the inner horizon with a transition surface that connects trapped and antitrapped regions within the charged black hole interior. Quantum effects therefore stabilize the classical inner Cauchy horizons, as long as the charge is small compared to the mass. We further discuss the properties of these effective geometries by defining an effective stress-energy tensor out of the Einstein tensor, concluding that the null energy condition is violated. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2312.10272]](https://arxiv.org/abs/2312.10272) - *Covariant canonical quantization and the problem of time* - S. Carlip, Weixuan Hu
+
+1. [[2312.10530]](https://arxiv.org/abs/2312.10530) - *Coloured combinatorial maps and quartic bi-tracial 2-matrix ensembles  from noncommutative geometry* - Masoud Khalkhali, Nathan Pagliaroli
+
+
+
 ### Tue - 12/19/23
 
 #### Loop quantum gravity related papers
