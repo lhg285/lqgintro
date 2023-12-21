@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2312.11639]](https://arxiv.org/abs/2312.11639) - *Cosmology in Lorentzian Regge calculus: causality violations, massless  scalar field and discrete dynamics* - Alexander F. Jercher, Sebastian Steinhaus
+
+1. [[2312.11908]](https://arxiv.org/abs/2312.11908) - *Stability of the de-Sitter universe: One-loop nonlocal $f(R)$ gravity* - Haiyuan Feng, Yi Liao, Rong-Jia Yang
+
+1. [[2312.12087]](https://arxiv.org/abs/2312.12087) - *Geodetic precession and shadow of quantum extended black holes* - Reza Saadati, Fatimah Shojai
+
 1. [[2312.11450]](https://arxiv.org/abs/2312.11450) - *Analysis of improved dynamics of non-rotating charged black holes* - Florencia Benitez, Esteban Mato, Javier Olmedo
 
 1. [[2312.10016]](https://arxiv.org/abs/2312.10016) - *Reconstructing the metric in group field theory* - Steffen Gielen, Lisa Mickel
