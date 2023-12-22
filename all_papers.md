@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2312.13935]](https://arxiv.org/abs/2312.13935) - *Area metric gravity revisited* - Johanna N. Borissova, Bianca Dittrich, Kirill Krasnov
+
 1. [[2312.11639]](https://arxiv.org/abs/2312.11639) - *Cosmology in Lorentzian Regge calculus: causality violations, massless  scalar field and discrete dynamics* - Alexander F. Jercher, Sebastian Steinhaus
 
 1. [[2312.11908]](https://arxiv.org/abs/2312.11908) - *Stability of the de-Sitter universe: One-loop nonlocal $f(R)$ gravity* - Haiyuan Feng, Yi Liao, Rong-Jia Yang

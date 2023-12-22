@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/22/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Area metric gravity revisited**
+ - **Authors:** Johanna N. Borissova, Bianca Dittrich, Kirill Krasnov
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2312.13935](https://arxiv.org/abs/2312.13935)
+ - **Abstract**
+ Area metrics are an intriguing generalization of length metrics which appears in several quantum-gravity approaches. We describe the space of diffeomorphism-invariant area-metric actions quadratic in fluctuations and derivatives. A general theory is found to be specified by four parameters, two of which are mass parameters for the non-length degrees of freedom. We find that a two-parameter subclass of theories exhibits an additional shift symmetry of the kinetic term, and leads to a ghost-free graviton propagator for the effective theory obtained after integrating out the non-length degrees of freedom. One of the two parameters determines the strength of parity violations, the other defines a mass parameter for the non-length degrees of freedom. The same type of action has been found to appear from modified Plebanski theory and in the continuum limit of (effective) spin foams. We moreover find that area-metric actions in Lorentzian (but not in Euclidean) signature feature wrong-sign kinetic and mass terms for the non-length degrees of freedom. Nevertheless, despite a coupling of these degrees of freedom to the length metric, the linearized dynamics turns out to be stable for the above subclass of actions. 
+
+
+
+#### Other related papers
+
+1. [[2312.13552]](https://arxiv.org/abs/2312.13552) - *Holographic study on Einstein ring for a charged black hole in conformal  gravity* - Xin-Yun Hu, Xiao-Xiong Zeng, Li-Fang Li, Peng Xu
+
+1. [[2312.13336]](https://arxiv.org/abs/2312.13336) - *Graviton Mass and Entanglement Islands in Low Spacetime Dimensions* - Hao Geng
+
+1. [[2312.13850]](https://arxiv.org/abs/2312.13850) - *On AdS/CFT duality in the twisted sector of string theory on $AdS_5  \times S^5/\mathbb{Z}_2$ orbifold background* - Torben Skrzypek, Arkady A. Tseytlin
+
+1. [[2312.14108]](https://arxiv.org/abs/2312.14108) - *A Smooth Horizon without a Smooth Horizon* - Vaibhav Burman, Suchetan Das, Chethan Krishnan
+
+
+
 ### Thu - 12/21/23
 
 #### Loop quantum gravity related papers
