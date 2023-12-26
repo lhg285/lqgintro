@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/26/23
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2312.14612]](https://arxiv.org/abs/2312.14612) - *Bouncing cosmologies at the Lagrangian fixed point* - Pedro D. Alvarez, Benjamin Koch, Ali Riahinia, Angel Rincon
+
+1. [[2312.14253]](https://arxiv.org/abs/2312.14253) - *Quantum Entanglement on Black Hole Horizons in String Theory and  Holography* - Atish Dabholkar, Upamanyu Moitra
+
+
+
 ### Mon - 12/25/23
 
 #### Loop quantum gravity related papers
