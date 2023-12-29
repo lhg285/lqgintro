@@ -11,6 +11,8 @@ permalink: /all_papers/
 
 1. [[2312.15505]](https://arxiv.org/abs/2312.15505) - *Nonsingular collapse of a spherical dust cloud* - Asier Alonso-Bardaji, David Brizuela
 
+1. [[2312.15505]](https://arxiv.org/abs/2312.15505) - *Nonsingular collapse of a spherical dust cloud* - Asier Alonso-Bardaji, David Brizuela
+
 1. [[2312.13935]](https://arxiv.org/abs/2312.13935) - *Area metric gravity revisited* - Johanna N. Borissova, Bianca Dittrich, Kirill Krasnov
 
 1. [[2312.11639]](https://arxiv.org/abs/2312.11639) - *Cosmology in Lorentzian Regge calculus: causality violations, massless  scalar field and discrete dynamics* - Alexander F. Jercher, Sebastian Steinhaus
