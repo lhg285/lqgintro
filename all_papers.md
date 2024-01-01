@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2312.17546]](https://arxiv.org/abs/2312.17546) - *Quantum measure as a necessary ingredient in quantum gravity and  modified gravities* - Vladimir Dzhunushaliev, Vladimir Folomeev
+
+1. [[2312.17724]](https://arxiv.org/abs/2312.17724) - *Shadows and photon rings of a quantum black hole* - Jing-Peng Ye, Zhi-Qing He, Ai-Xu Zhou, Zi-Yang Huang, Jia-Hui Huang
+
 1. [[2312.15505]](https://arxiv.org/abs/2312.15505) - *Nonsingular collapse of a spherical dust cloud* - Asier Alonso-Bardaji, David Brizuela
 
 1. [[2312.15505]](https://arxiv.org/abs/2312.15505) - *Nonsingular collapse of a spherical dust cloud* - Asier Alonso-Bardaji, David Brizuela
