@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/03/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.01287]](https://arxiv.org/abs/2401.01287) - *To Wedge Or Not To Wedge, Wedges and operator reconstructability in toy  models of AdS/CFT* - Vic Vander Linden
+
+
+
 ### Tue - 01/02/24
 
 #### Loop quantum gravity related papers
