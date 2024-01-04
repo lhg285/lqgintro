@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/04/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.01767]](https://arxiv.org/abs/2401.01767) - *Absorption and (unbounded) superradiance in a static regular black hole  spacetime* - Marco A. A. de Paula, Luiz C. S. Leite, Sam R. Dolan, Luís C. B. Crispino
+
+1. [[2401.01617]](https://arxiv.org/abs/2401.01617) - *Holographic Approach to Neutron Stars* - Tinglong Feng
+
+
+
 ### Wed - 01/03/24
 
 #### Loop quantum gravity related papers
