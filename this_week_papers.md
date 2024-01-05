@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/05/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.01939]](https://arxiv.org/abs/2401.01939) - *The Standard Model from String Theory: What Have We Learned?* - Fernando Marchesano, Gary Shiu, Timo Weigand
+
+
+
 ### Thu - 01/04/24
 
 #### Loop quantum gravity related papers
