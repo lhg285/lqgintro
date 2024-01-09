@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/09/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.02487]](https://arxiv.org/abs/2401.02487) - *Link-area commutators in AdS${}_3$ area-networks* - Jesse Held, Molly Kaplan, Donald Marolf, Jie-qiang Wu
+
+1. [[2401.02546]](https://arxiv.org/abs/2401.02546) - *Ultraviolet finite resummation of perturbative quantum gravity* - Tim R. Morris
+
+
+
 ### Mon - 01/08/24
 
 #### Loop quantum gravity related papers
