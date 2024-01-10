@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/10/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.03810]](https://arxiv.org/abs/2401.03810) - *In-vacuo dispersion from $κ$-anti-de Sitter algebra* - Iarley P. Lobo
+
+1. [[2401.03980]](https://arxiv.org/abs/2401.03980) - *From black hole mimickers to black holes* - Roberto Casadio, Alexander Kamenshchik, Jorge Ovalle
+
+
+
 ### Tue - 01/09/24
 
 #### Loop quantum gravity related papers
