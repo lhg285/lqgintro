@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2401.04800]](https://arxiv.org/abs/2401.04800) - *Phases of theories with $\mathbb{Z}_N$ 1-form symmetry and the roles of  center vortices and magnetic monopoles* - Mendel Nguyen, Tin Sulejmanpasic, Mithat Ünsal
+
 1. [[2312.17546]](https://arxiv.org/abs/2312.17546) - *Quantum measure as a necessary ingredient in quantum gravity and  modified gravities* - Vladimir Dzhunushaliev, Vladimir Folomeev
 
 1. [[2312.17724]](https://arxiv.org/abs/2312.17724) - *Shadows and photon rings of a quantum black hole* - Jing-Peng Ye, Zhi-Qing He, Ai-Xu Zhou, Zi-Yang Huang, Jia-Hui Huang
