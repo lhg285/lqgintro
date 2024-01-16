@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/16/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.06220]](https://arxiv.org/abs/2401.06220) - *On the Random Matrix Model of the Virasoro Minimal String* - Clifford V. Johnson
+
+
+
 ### Mon - 01/15/24
 
 #### Loop quantum gravity related papers
