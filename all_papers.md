@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2401.06863]](https://arxiv.org/abs/2401.06863) - *Step-by-Step Canonical Quantum Gravity -- Part I: Ashtekar's New  Variables* - Lei Lu, Philip A. May
+
+1. [[2401.07307]](https://arxiv.org/abs/2401.07307) - *Introduction to Loop Quantum Gravity. The Holst's action and the  covariant formalism* - L.Fatibene, A.Orizzonte, A.Albano, S.Coriasco, M.Ferraris, S.Garruto, N.Morandi
+
 1. [[2401.06067]](https://arxiv.org/abs/2401.06067) - *Diffeomorphism covariance and the quantum Schwarzschild interior* - Ian W. Bornhoeft, Rafael G. Dias, Jonathan S. Engle
 
 1. [[2401.04800]](https://arxiv.org/abs/2401.04800) - *Phases of theories with $\mathbb{Z}_N$ 1-form symmetry and the roles of  center vortices and magnetic monopoles* - Mendel Nguyen, Tin Sulejmanpasic, Mithat Ünsal
