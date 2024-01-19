@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/19/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Anomalies and gauging of U(1) symmetries**
+ - **Authors:** Andrea Antinucci, Francesco Benini
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2401.10165](https://arxiv.org/abs/2401.10165)
+ - **Abstract**
+ We propose the Symmetry TFT for theories with a $U(1)$ symmetry in arbitrary dimension. The Symmetry TFT describes the structure of the symmetry, its anomalies, and the possible topological manipulations. It is constructed as a BF theory of gauge fields for groups $U(1)$ and $\mathbb{R}$, and contains a continuum of topological operators. We also propose an operation that produces the Symmetry TFT for the theory obtained by dynamically gauging the $U(1)$ symmetry. We discuss many examples. As an interesting outcome, we obtain the Symmetry TFT for the non-invertible $\mathbb{Q}/\mathbb{Z}$ chiral symmetry in four dimensions. 
+
+
+
+#### Other related papers
+
+1. [[2401.09538]](https://arxiv.org/abs/2401.09538) - *On the Holographic Dual of a Topological Symmetry Operator* - Jonathan J. Heckman, Max Hübner, Chitraang Murdia
+
+1. [[2401.09672]](https://arxiv.org/abs/2401.09672) - *Quantum Gravity Effective Action Provides Entropy of The Universe* - Ken-ji Hamada
+
+
+
 ### Thu - 01/18/24
 
 #### Loop quantum gravity related papers

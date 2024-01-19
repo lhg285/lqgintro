@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2401.10165]](https://arxiv.org/abs/2401.10165) - *Anomalies and gauging of U(1) symmetries* - Andrea Antinucci, Francesco Benini
+
 1. [[2401.06863]](https://arxiv.org/abs/2401.06863) - *Step-by-Step Canonical Quantum Gravity -- Part I: Ashtekar's New  Variables* - Lei Lu, Philip A. May
 
 1. [[2401.07307]](https://arxiv.org/abs/2401.07307) - *Introduction to Loop Quantum Gravity. The Holst's action and the  covariant formalism* - L.Fatibene, A.Orizzonte, A.Albano, S.Coriasco, M.Ferraris, S.Garruto, N.Morandi
