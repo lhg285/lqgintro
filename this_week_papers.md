@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/24/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.12816]](https://arxiv.org/abs/2401.12816) - *Ray-Singer Torsion, Topological Strings and Black Holes* - Cumrun Vafa
+
+
+
 ### Tue - 01/23/24
 
 #### Loop quantum gravity related papers
