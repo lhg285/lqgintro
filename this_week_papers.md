@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/25/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.13510]](https://arxiv.org/abs/2401.13510) - *Quantum Gravity and Random Tensors* - Razvan Gurau, Vincent Rivasseau
+
+
+
 ### Wed - 01/24/24
 
 #### Loop quantum gravity related papers
