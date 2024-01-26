@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/26/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.13730]](https://arxiv.org/abs/2401.13730) - *Supersymmetric Index for Small Black Holes* - Chandramouli Chowdhury, Ashoke Sen, P. Shanmugapriya, Amitabh Virmani
+
+1. [[2401.13900]](https://arxiv.org/abs/2401.13900) - *3d gravity from Virasoro TQFT: Holography, wormholes and knots* - Scott Collier, Lorenz Eberhardt, Mengyang Zhang
+
+
+
 ### Thu - 01/25/24
 
 #### Loop quantum gravity related papers
