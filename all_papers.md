@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2401.14540]](https://arxiv.org/abs/2401.14540) - *Quantum hair and entropy for slowly rotating quantum black holes* - Wenbin Feng, Roldao da Rocha, Roberto Casadio
+
+1. [[2401.14643]](https://arxiv.org/abs/2401.14643) - *Deficit Angles in 4D Spinfoam with Cosmological Constant: (Anti) de  Sitter-ness and More* - Muxin Han, Qiaoyin Pan
+
+1. [[2401.15040]](https://arxiv.org/abs/2401.15040) - *Inequivalence of mimetic gravity with models of loop quantum gravity* - Martin Bojowald, Erick I. Duque
+
 1. [[2401.10324]](https://arxiv.org/abs/2401.10324) - *Biquaternions, Majorana spinors and time-like spin-foams* - José Diogo Simão
 
 1. [[2401.10324]](https://arxiv.org/abs/2401.10324) - *Biquaternions, Majorana spinors and time-like spin-foams* - José Diogo Simão

@@ -6,117 +6,44 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 01/26/24
+### Mon - 01/29/24
 
 #### Loop quantum gravity related papers
 
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2401.13730]](https://arxiv.org/abs/2401.13730) - *Supersymmetric Index for Small Black Holes* - Chandramouli Chowdhury, Ashoke Sen, P. Shanmugapriya, Amitabh Virmani
-
-1. [[2401.13900]](https://arxiv.org/abs/2401.13900) - *3d gravity from Virasoro TQFT: Holography, wormholes and knots* - Scott Collier, Lorenz Eberhardt, Mengyang Zhang
-
-
-
-### Thu - 01/25/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2401.13510]](https://arxiv.org/abs/2401.13510) - *Quantum Gravity and Random Tensors* - Razvan Gurau, Vincent Rivasseau
-
-
-
-### Wed - 01/24/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2401.12816]](https://arxiv.org/abs/2401.12816) - *Ray-Singer Torsion, Topological Strings and Black Holes* - Cumrun Vafa
-
-
-
-### Tue - 01/23/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-#### **Biquaternions, Majorana spinors and time-like spin-foams**
- - **Authors:** José Diogo Simão
+#### **Quantum hair and entropy for slowly rotating quantum black holes**
+ - **Authors:** Wenbin Feng, Roldao da Rocha, Roberto Casadio
  - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
- - **Arxiv link:** [https://arxiv.org/abs/2401.10324](https://arxiv.org/abs/2401.10324)
+ - **Arxiv link:** [https://arxiv.org/abs/2401.14540](https://arxiv.org/abs/2401.14540)
  - **Abstract**
- This work is developed in the context of Lorentzian spin-foams with space- and time-like boundaries. It is argued that the equations describing the semiclassical regime of the various spin-foam amplitudes admit a common biquaternionic structure. A correspondence is given between Majorana 2-spinors and time-like surfaces in Minkowski 3-space based on such complexified quaternions. A symplectic structure for Majorana spinors is constructed, with which the unitary representation theory of $\mathrm{SU}(1, 1)$ is re-derived. As the main result, we propose a symplectomorphism between Majorana spinor space (with an area constraint) and $T^*\mathrm{SU}(1, 1)$, generalizing previous studies on twisted geometries to the case of time-like 2-surfaces. 
+ We study the quantum hair associated with coherent states describing slowly rotating black holes and show how it can be naturally related with the Bekenstein-Hawking entropy and with 1-loop quantum corrections of the metric for the (effectively) non-rotating case. We also estimate corrections induced by such quantum hair to the temperature of the Hawking radiation through the tunnelling method. 
 
-
-
-#### Other related papers
-
-1. [[2401.10668]](https://arxiv.org/abs/2401.10668) - *Physically viable rotating mass solutions surrounding Kerr black hole* - Stefano Viaggiu
-
-1. [[2401.10327]](https://arxiv.org/abs/2401.10327) - *Affine Classical Lie Bialgebras for AdS/CFT Integrability* - Niklas Beisert, Egor Im
-
-1. [[2401.10336]](https://arxiv.org/abs/2401.10336) - *Line defects in conformal field theory: from weak to strong coupling* - Julien Barrat
-
-
-
-### Mon - 01/22/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
+#### **Inequivalence of mimetic gravity with models of loop quantum gravity**
+ - **Authors:** Martin Bojowald, Erick I. Duque
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2401.15040](https://arxiv.org/abs/2401.15040)
+ - **Abstract**
+ Certain versions of mimetic gravity have recently been claimed to present potential covariant theories of canonically modified spherically symmetric gravity, motivated by ingredients from loop quantum gravity. If such an equivalence were to hold, it would demonstrate general covariance of a large class of models considered in loop quantum gravity. However, the relationship with mimetic gravity as presented so far is incomplete because it has been proposed only in preferred space-time slicings of uniform scalar fields. Here, several independent arguments are used to show that neither an equivalence nor a covariance claim are correct for models of loop quantum gravity. The framework of emergent modified gravity is found to present a broad setting in which such questions can be analyzed efficiently. As an additional result, the discussion sheds light on the co-existence of different and mutually inequivalent approaches to an implementation of the gravitational dynamics within loop quantum gravity. 
 
 #### Spin foam related papers
 
-#### **Biquaternions, Majorana spinors and time-like spin-foams**
- - **Authors:** José Diogo Simão
- - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
- - **Arxiv link:** [https://arxiv.org/abs/2401.10324](https://arxiv.org/abs/2401.10324)
+#### **Deficit Angles in 4D Spinfoam with Cosmological Constant: (Anti) de  Sitter-ness and More**
+ - **Authors:** Muxin Han, Qiaoyin Pan
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2401.14643](https://arxiv.org/abs/2401.14643)
  - **Abstract**
- This work is developed in the context of Lorentzian spin-foams with space- and time-like boundaries. It is argued that the equations describing the semiclassical regime of the various spin-foam amplitudes admit a common biquaternionic structure. A correspondence is given between Majorana 2-spinors and time-like surfaces in Minkowski 3-space based on such complexified quaternions. A symplectic structure for Majorana spinors is constructed, with which the unitary representation theory of $\mathrm{SU}(1, 1)$ is re-derived. As the main result, we propose a symplectomorphism between Majorana spinor space (with an area constraint) and $T^*\mathrm{SU}(1, 1)$, generalizing previous studies on twisted geometries to the case of time-like 2-surfaces. 
+ This paper investigates the critical behaviors of the 4-dimensional spinfoam model with cosmological constant for a general 4-dimensional simplicial complex as the discretization of spacetime. We find that, at the semi-classical regime, the spinfoam amplitude is peaked at the real critical points that correspond to zero deficit angles (modulo $4\pi\mathbb{Z}/\gamma$) hinged by internal triangles of the 4-complex. Since the 4-simplices from the model are of constant curvature, the discrete geometry with zero deficit angle manifests a de Sitter (dS) spacetime or an anti de Sitter (AdS) spacetime depending on the sign of the cosmological constant fixed by the boundary condition. The non-(A)dS spacetimes emerge from the complex critical points by an analytic continuation to complex configurations. 
 
 
 
 #### Other related papers
 
-1. [[2401.10668]](https://arxiv.org/abs/2401.10668) - *Physically viable rotating mass solutions surrounding Kerr black hole* - Stefano Viaggiu
+1. [[2401.14967]](https://arxiv.org/abs/2401.14967) - *Superradiant instability of a charged regular black hole* - Sam R. Dolan, Marco A. A. de Paula, Luiz C. S. Leite, Luís C. B. Crispino
 
-1. [[2401.10327]](https://arxiv.org/abs/2401.10327) - *Affine Classical Lie Bialgebras for AdS/CFT Integrability* - Niklas Beisert, Egor Im
-
-1. [[2401.10336]](https://arxiv.org/abs/2401.10336) - *Line defects in conformal field theory: from weak to strong coupling* - Julien Barrat
+1. [[2401.14955]](https://arxiv.org/abs/2401.14955) - *Non-Relativistic M2-Branes and the AdS/CFT Correspondence* - Neil Lambert, Joseph Smith
 
 
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/01/22/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/01/29/archived_weekly_papers.html)
