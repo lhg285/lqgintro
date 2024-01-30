@@ -6,6 +6,38 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/30/24
+
+#### Loop quantum gravity related papers
+
+#### **Research on the application of loop quantum theory model in black hole  quantum information**
+ - **Authors:** Yangting Liu
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2401.15435](https://arxiv.org/abs/2401.15435)
+ - **Abstract**
+ An important reason why it is currently difficult to unify relativity theory and quantum theory is the quantum information paradox. The information engulfment pointed out by general relativity violates the principles of quantum mechanics. An important reason why the industry does not have a clear understanding of this phenomenon is the current lack of a theoretically solvable cosmological model. Based on the complete model of loop quantum theory, this article solves different levels of Hamiltonian constraint models and simulates black hole information transfer dynamics, especially at extreme points, from analytical results to step-by-step quantum corrections, and attempts to compare the performance of different physical models in simulating quantum Advantages during information transmission. Our study shows that even second-order expansions are sufficient to distinguish differences in dynamics at the black hole extremes, but to truly identify a model that has the potential to describe quantum information transfer mechanisms and is significantly different from other models, the theoretical analytical solution should at least extend to Level three and above. In addition, the research results such as computational simulation methods and related conclusions cited and improved in this article can provide certain theoretical support and new insights for the research prospects of general relativity loop quantum cosmology and the intersection of quantum information and quantum fields. 
+
+#### Spin foam related papers
+
+#### **Hamiltonian analysis and Faddeev-Jackiw formalism for two-Dimensional  Quadratic Gravity expressed as BF theory**
+ - **Authors:** Jaime Manuel Cabrera, Jorge Mauricio Paulin Fuentes
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2401.15494](https://arxiv.org/abs/2401.15494)
+ - **Abstract**
+ We examine the model of Two-Dimensional Quadratic Gravity as a consequence of symmetry breaking within the framework of background field (BF) theory. This theory is essentially an extension of BF theory, introducing an additional polynomial term that operates on both the gauge and background fields. We analyze the theory using the Dirac and Faddeev-Jackiw procedures, determining the form of the gauge transformation, the full structure of the constraints, the counting of degrees of freedom, and the generalized Faddeev-Jackiw brackets. Additionally, we demonstrate the coincidence of the Faddeev-Jackiw and Dirac's brackets. Finally, we provide some remarks and discuss prospects. 
+
+
+
+#### Other related papers
+
+1. [[2401.15134]](https://arxiv.org/abs/2401.15134) - *Particle dynamics and shadow of a regular non-minimal magnetic black  hole* - Ahmad Al-Badawi, M.Q. Owaidat
+
+1. [[2401.15211]](https://arxiv.org/abs/2401.15211) - *Charged Black Holes with Yukawa Potential* - A. A. Araújo Filho, Kimet Jusufi, B. Cuadros-Melgar, Genly Leon, Abdul Jawad
+
+1. [[2401.16248]](https://arxiv.org/abs/2401.16248) - *Random Geometry and Quantum Spacetime: From scale-invariant random  geometries and asymptotic safety to random hyperbolic surfaces and JT gravity* - Alicia Castro
+
+
+
 ### Mon - 01/29/24
 
 #### Loop quantum gravity related papers

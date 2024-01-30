@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2401.15435]](https://arxiv.org/abs/2401.15435) - *Research on the application of loop quantum theory model in black hole  quantum information* - Yangting Liu
+
+1. [[2401.15494]](https://arxiv.org/abs/2401.15494) - *Hamiltonian analysis and Faddeev-Jackiw formalism for two-Dimensional  Quadratic Gravity expressed as BF theory* - Jaime Manuel Cabrera, Jorge Mauricio Paulin Fuentes
+
 1. [[2401.14540]](https://arxiv.org/abs/2401.14540) - *Quantum hair and entropy for slowly rotating quantum black holes* - Wenbin Feng, Roldao da Rocha, Roberto Casadio
 
 1. [[2401.14643]](https://arxiv.org/abs/2401.14643) - *Deficit Angles in 4D Spinfoam with Cosmological Constant: (Anti) de  Sitter-ness and More* - Muxin Han, Qiaoyin Pan
