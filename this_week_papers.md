@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/31/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.17144]](https://arxiv.org/abs/2401.17144) - *Integrable Holographic Defect CFTs* - Charlotte Kristjansen, Konstantin Zarembo
+
+
+
 ### Tue - 01/30/24
 
 #### Loop quantum gravity related papers
