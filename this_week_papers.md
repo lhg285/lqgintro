@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/01/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2401.17376]](https://arxiv.org/abs/2401.17376) - *Measuring spatial distances in causal sets via causal overlaps* - Marian Boguna, Dmitri Krioukov
+
+1. [[2401.17458]](https://arxiv.org/abs/2401.17458) - *Lorentzian holographic gravity and the time-energy uncertainty principle* - Eiji Konishi
+
+1. [[2401.17489]](https://arxiv.org/abs/2401.17489) - *Line operators, vortex statistics, and Higgs versus confinement dynamics* - Aleksey Cherman, Theodore Jacobson, Srimoyee Sen, Laurence G. Yaffe
+
+
+
 ### Wed - 01/31/24
 
 #### Loop quantum gravity related papers
