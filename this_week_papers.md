@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/02/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.00140]](https://arxiv.org/abs/2402.00140) - *Holomorphic gravity and its regularization of Locally Signed Coordinate  Invariance* - Eduardo Guendelman
+
+1. [[2402.00102]](https://arxiv.org/abs/2402.00102) - *Infrared finite scattering theory: Scattering states and representations  of the BMS group* - Kartik Prabhu, Gautam Satishchandran
+
+1. [[2402.00118]](https://arxiv.org/abs/2402.00118) - *On the Fate of Stringy Non-Invertible Symmetries* - Jonathan J. Heckman, Jacob McNamara, Miguel Montero, Adar Sharon, Cumrun Vafa, Irene Valenzuela
+
+
+
 ### Thu - 02/01/24
 
 #### Loop quantum gravity related papers
