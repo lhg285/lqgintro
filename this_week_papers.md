@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/07/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.03425]](https://arxiv.org/abs/2402.03425) - *Cryptographic Censorship* - Netta Engelhardt, Åsmund Folkestad, Adam Levine, Evita Verheijden, Lisa Yang
+
+1. [[2402.03730]](https://arxiv.org/abs/2402.03730) - *P-adic AdS/CFT on subspaces of the Bruhat-Tits tree* - Feng Qu
+
+1. [[2402.03939]](https://arxiv.org/abs/2402.03939) - *On the Nonequilibrium Dynamics of Gravitational Algebras* - Michele Cirafici
+
+1. [[2402.04150]](https://arxiv.org/abs/2402.04150) - *Soft Algebras for Leaf Amplitudes* - Walker Melton, Atul Sharma, Andrew Strominger
+
+
+
 ### Tue - 02/06/24
 
 #### Loop quantum gravity related papers
