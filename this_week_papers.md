@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/08/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.04371]](https://arxiv.org/abs/2402.04371) - *A new infinite class of $6d$, $\mathcal{N}=(1,0)$ supergravities* - Gregory J. Loges
+
+
+
 ### Wed - 02/07/24
 
 #### Loop quantum gravity related papers
