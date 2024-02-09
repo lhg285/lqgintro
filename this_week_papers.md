@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/09/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.05166]](https://arxiv.org/abs/2402.05166) - *Hot spaces with positive cosmological constant in the canonical  ensemble: de Sitter solution, Schwarzschild-de Sitter black hole, and Nariai  universe* - José P. S. Lemos, Oleg B. Zaslavskii
+
+1. [[2402.05870]](https://arxiv.org/abs/2402.05870) - *Revisiting Schwarzschild black hole singularity through string theory* - Houwen Wu, Zihan Yan, Shuxuan Ying
+
+1. [[2402.05910]](https://arxiv.org/abs/2402.05910) - *Background independent tensor networks* - Chris Akers, Annie Y. Wei
+
+
+
 ### Thu - 02/08/24
 
 #### Loop quantum gravity related papers
