@@ -6,7 +6,7 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 02/09/24
+### Mon - 02/12/24
 
 #### Loop quantum gravity related papers
 
@@ -14,103 +14,22 @@ There is no new related paper today
 
 #### Spin foam related papers
 
-There is no new related paper today 
+#### **A new 2+1 coherent spin-foam vertex for quantum gravity**
+ - **Authors:** José Diogo Simão
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.05993](https://arxiv.org/abs/2402.05993)
+ - **Abstract**
+ We propose an explicit spin-foam amplitude for Lorentzian gravity in three dimensions. The model is based on two main requirements: that it should be structurally similar to its well-known Euclidean analog, and that geometricity should be recovered in the semiclassical regime. To this end we introduce new coherent states for space-like 1-dimensional boundaries, derived from the continuous series of unitary $\mathrm{SU}(1,1)$ representations. We show that the relevant objects in the amplitude can be written in terms of the defining representation of the group, just as so happens in the Euclidean case. We derive an expression for the semiclassical amplitude at large spins, showing that it relates to the Lorentzian Regge action. 
 
 
 
 #### Other related papers
 
-1. [[2402.05166]](https://arxiv.org/abs/2402.05166) - *Hot spaces with positive cosmological constant in the canonical  ensemble: de Sitter solution, Schwarzschild-de Sitter black hole, and Nariai  universe* - José P. S. Lemos, Oleg B. Zaslavskii
-
-1. [[2402.05870]](https://arxiv.org/abs/2402.05870) - *Revisiting Schwarzschild black hole singularity through string theory* - Houwen Wu, Zihan Yan, Shuxuan Ying
-
-1. [[2402.05910]](https://arxiv.org/abs/2402.05910) - *Background independent tensor networks* - Chris Akers, Annie Y. Wei
-
-
-
-### Thu - 02/08/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2402.04371]](https://arxiv.org/abs/2402.04371) - *A new infinite class of $6d$, $\mathcal{N}=(1,0)$ supergravities* - Gregory J. Loges
-
-
-
-### Wed - 02/07/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2402.03425]](https://arxiv.org/abs/2402.03425) - *Cryptographic Censorship* - Netta Engelhardt, Åsmund Folkestad, Adam Levine, Evita Verheijden, Lisa Yang
-
-1. [[2402.03730]](https://arxiv.org/abs/2402.03730) - *P-adic AdS/CFT on subspaces of the Bruhat-Tits tree* - Feng Qu
-
-1. [[2402.03939]](https://arxiv.org/abs/2402.03939) - *On the Nonequilibrium Dynamics of Gravitational Algebras* - Michele Cirafici
-
-1. [[2402.04150]](https://arxiv.org/abs/2402.04150) - *Soft Algebras for Leaf Amplitudes* - Walker Melton, Atul Sharma, Andrew Strominger
-
-
-
-### Tue - 02/06/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2402.01197]](https://arxiv.org/abs/2402.01197) - *The worldvolume fermion as baryon in holographic QCD with a theta angle* - Si-wen Li, Hao-qian Li, Yi-peng Zhang
-
-1. [[2402.01228]](https://arxiv.org/abs/2402.01228) - *N=2 supersymmetry in the twistor description of higher-spin holography* - Julian Lang, Yasha Neiman
-
-
-
-### Mon - 02/05/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[2402.01197]](https://arxiv.org/abs/2402.01197) - *The worldvolume fermion as baryon in holographic QCD with a theta angle* - Si-wen Li, Hao-qian Li, Yi-peng Zhang
-
-1. [[2402.01228]](https://arxiv.org/abs/2402.01228) - *N=2 supersymmetry in the twistor description of higher-spin holography* - Julian Lang, Yasha Neiman
+1. [[2402.06080]](https://arxiv.org/abs/2402.06080) - *Fixed Lines in Four Fermion Models in Two Dimensions* - Sidan A, Tom Banks
 
 
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/02/05/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/02/12/archived_weekly_papers.html)
