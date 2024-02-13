@@ -11,6 +11,8 @@ permalink: /all_papers/
 
 1. [[2402.05993]](https://arxiv.org/abs/2402.05993) - *A new 2+1 coherent spin-foam vertex for quantum gravity* - José Diogo Simão
 
+1. [[2402.05993]](https://arxiv.org/abs/2402.05993) - *A new 2+1 coherent spin-foam vertex for quantum gravity* - José Diogo Simão
+
 1. [[2401.15435]](https://arxiv.org/abs/2401.15435) - *Research on the application of loop quantum theory model in black hole  quantum information* - Yangting Liu
 
 1. [[2401.15494]](https://arxiv.org/abs/2401.15494) - *Hamiltonian analysis and Faddeev-Jackiw formalism for two-Dimensional  Quadratic Gravity expressed as BF theory* - Jaime Manuel Cabrera, Jorge Mauricio Paulin Fuentes
