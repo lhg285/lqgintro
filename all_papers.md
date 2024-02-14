@@ -9,6 +9,14 @@ permalink: /all_papers/
 
 
 
+1. [[2402.07957]](https://arxiv.org/abs/2402.07957) - *Gravitational Collapse in Energy-momentum squared gravity: Nature of  singularities* - Prabir Rudra
+
+1. [[2402.07984]](https://arxiv.org/abs/2402.07984) - *Cosmological Dynamics from Covariant Loop Quantum Gravity with Scalar  Matter* - Muxin Han, Hongguang Liu, Dongxue Qu, Francesca Vidotto, Cong Zhang
+
+1. [[2402.08307]](https://arxiv.org/abs/2402.08307) - *Axial perturbations in Kantowski-Sachs spacetimes and hybrid quantum  cosmology* - Guillermo A. Mena Marugán, Andrés Mínguez-Sánchez
+
+1. [[2402.08375]](https://arxiv.org/abs/2402.08375) - *An adiabatic approach to the trans-Planckian problem in Loop Quantum  Cosmology* - Luis J. Garay, Mario López González, Mercedes Martín-Benito, Rita B. Neves
+
 1. [[2402.05993]](https://arxiv.org/abs/2402.05993) - *A new 2+1 coherent spin-foam vertex for quantum gravity* - José Diogo Simão
 
 1. [[2402.05993]](https://arxiv.org/abs/2402.05993) - *A new 2+1 coherent spin-foam vertex for quantum gravity* - José Diogo Simão

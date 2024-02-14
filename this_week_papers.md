@@ -6,6 +6,61 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/14/24
+
+#### Loop quantum gravity related papers
+
+#### **Gravitational Collapse in Energy-momentum squared gravity: Nature of  singularities**
+ - **Authors:** Prabir Rudra
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.07957](https://arxiv.org/abs/2402.07957)
+ - **Abstract**
+ In this paper, we explore a collapsing scenario in the background of energy-momentum squared gravity (EMSG). EMSG claims to have terms that originate from the quantum gravity effects mimicking loop quantum gravity. As a result, the framework admits a bounce at a finite time thus avoiding a singularity. So the question that naturally arises: Is there any realistic chance of the formation of a black hole or the quantum gravity effects are strong enough to totally avoid such a pathology? Motivated by this we are interested in studying a gravitational collapse mechanism in the background of EMSG and investigate the fate of such a process. We model the spacetime of a massive star by the Vaidya metric and derive the field equations in EMSG. Then using the equations we go on to study a gravitational collapse mechanism, on two specific models of EMSG with different forms of curvature-matter coupling. The prime objective is to probe the nature of singularity (if formed) as the end state of the collapse. We see that none of the models generically admit the formation of black holes as the end state of collapse, but on the contrary, they support the formation of naked singularities. This can be attributed to the quantum fluctuations of the gravitational interactions at the fundamental level. 
+
+#### **Cosmological Dynamics from Covariant Loop Quantum Gravity with Scalar  Matter**
+ - **Authors:** Muxin Han, Hongguang Liu, Dongxue Qu, Francesca Vidotto, Cong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.07984](https://arxiv.org/abs/2402.07984)
+ - **Abstract**
+ We study homogenous and isotropic quantum cosmology using the spinfoam formalism of Loop Quantum Gravity (LQG). We define a coupling of a scalar field to the 4-dimensional Lorentzian Engle-Pereira-Rovelli-Livine (EPRL) spinfoam model. We employ the numerical method of complex critical points to investigate the model on two different simplicial complexes: the triangulations of a single hypercube and two connected hypercubes. We find nontrivial implications for the effective cosmological dynamics. In the single-hypercube model, the numerical results suggest an effective Friedmann equation with a scalar density that contains higher-order derivatives and a scalar potential. The scalar potential plays a role similar to a positive cosmological constant and drives an accelerated expansion of the universe. The double-hypercubes model resembles a symmetric cosmic bounce, and a similar effective Friedmann equation emerges with higher-order derivative terms in the effective scalar density, whereas the scalar potential becomes negligible. 
+
+#### **Axial perturbations in Kantowski-Sachs spacetimes and hybrid quantum  cosmology**
+ - **Authors:** Guillermo A. Mena Marugán, Andrés Mínguez-Sánchez
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.08307](https://arxiv.org/abs/2402.08307)
+ - **Abstract**
+ Recently, there has been a growing interest in investigating homogeneous but anisotropic spacetimes owing to their relation with nonrotating, uncharged black hole interiors. We present a description of axial perturbations for a massless scalar field minimally coupled to this geometry. We truncate the action at the quadratic perturbative order and tailor our analysis to compact spatial sections. Perturbations are described in terms of perturbative gauge invariants, linear perturbative constraints, and their canonically conjugate variables. The entire set, encompassing perturbations and homogeneous degrees of freedom, is consolidated into a canonical one. We employ a hybrid approach to quantize this system, integrating a quantum representation of the homogeneous sector using Loop Quantum Cosmology techniques with a conventional field quantization of the perturbations. 
+
+#### **An adiabatic approach to the trans-Planckian problem in Loop Quantum  Cosmology**
+ - **Authors:** Luis J. Garay, Mario López González, Mercedes Martín-Benito, Rita B. Neves
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.08375](https://arxiv.org/abs/2402.08375)
+ - **Abstract**
+ We study the scalar modes that, being observable today, were trans-Planckian before inflation, within the context of hybrid Loop Quantum Cosmology (LQC). We analyse the dynamics of these highly ultraviolet modes by introducing modified dispersion relations to their equations of motion and discuss the impact that these relations would introduce in the power spectrum by computing the adiabaticity coefficient. More precisely, we consider two different models compatible with observations for the standard linear dispersion relation which are based on different initial conditions for the perturbations and background. One of these models avoids the issue altogether by generating less $e$-folds of inflation, so that the observable modes are never trans-Planckian, whereas the other suffers (arguably softly) from the trans-Planckian problem. This shows that the existence of the trans-Planckian problem in LQC is model-dependent. 
+
+#### Spin foam related papers
+
+#### **Cosmological Dynamics from Covariant Loop Quantum Gravity with Scalar  Matter**
+ - **Authors:** Muxin Han, Hongguang Liu, Dongxue Qu, Francesca Vidotto, Cong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.07984](https://arxiv.org/abs/2402.07984)
+ - **Abstract**
+ We study homogenous and isotropic quantum cosmology using the spinfoam formalism of Loop Quantum Gravity (LQG). We define a coupling of a scalar field to the 4-dimensional Lorentzian Engle-Pereira-Rovelli-Livine (EPRL) spinfoam model. We employ the numerical method of complex critical points to investigate the model on two different simplicial complexes: the triangulations of a single hypercube and two connected hypercubes. We find nontrivial implications for the effective cosmological dynamics. In the single-hypercube model, the numerical results suggest an effective Friedmann equation with a scalar density that contains higher-order derivatives and a scalar potential. The scalar potential plays a role similar to a positive cosmological constant and drives an accelerated expansion of the universe. The double-hypercubes model resembles a symmetric cosmic bounce, and a similar effective Friedmann equation emerges with higher-order derivative terms in the effective scalar density, whereas the scalar potential becomes negligible. 
+
+
+
+#### Other related papers
+
+1. [[2402.07980]](https://arxiv.org/abs/2402.07980) - *Lanczos spectrum for random operator growth* - Tran Quang Loc
+
+1. [[2402.08052]](https://arxiv.org/abs/2402.08052) - *Jackiw-Teitelboim Gravity, Random Disks of Constant Curvature,  Self-Overlapping Curves and Liouville $\text{CFT}_{1}$* - Frank Ferrari
+
+1. [[2402.08471]](https://arxiv.org/abs/2402.08471) - *Holographic Turbulence From a Random Gravitational Potential* - Yaron Oz, Sebastian Waeber, Amos Yarom
+
+1. [[2402.08555]](https://arxiv.org/abs/2402.08555) - *In-in correlators and scattering amplitudes on a causal set* - Emma Albertini, Fay Dowker, Arad Nasiri, Stav Zalel
+
+
+
 ### Tue - 02/13/24
 
 #### Loop quantum gravity related papers
