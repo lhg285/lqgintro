@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2402.09038]](https://arxiv.org/abs/2402.09038) - *Tunneling of quantum geometries in spinfoams* - Pietro Dona, Hal M. Haggard, Carlo Rovelli, Francesca Vidotto
+
 1. [[2402.07957]](https://arxiv.org/abs/2402.07957) - *Gravitational Collapse in Energy-momentum squared gravity: Nature of  singularities* - Prabir Rudra
 
 1. [[2402.07984]](https://arxiv.org/abs/2402.07984) - *Cosmological Dynamics from Covariant Loop Quantum Gravity with Scalar  Matter* - Muxin Han, Hongguang Liu, Dongxue Qu, Francesca Vidotto, Cong Zhang

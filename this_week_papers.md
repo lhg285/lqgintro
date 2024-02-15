@@ -6,6 +6,34 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/15/24
+
+#### Loop quantum gravity related papers
+
+#### **Tunneling of quantum geometries in spinfoams**
+ - **Authors:** Pietro Dona, Hal M. Haggard, Carlo Rovelli, Francesca Vidotto
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.09038](https://arxiv.org/abs/2402.09038)
+ - **Abstract**
+ Quantum gravitational tunneling effects are expected to give rise to a number of interesting observable phenomena, including, in particular, the evolution of black holes at the end of their existence or the emergence of the early universe from a quantum phase. Covariant Loop Quantum Gravity provides a framework to study these phenomena, yet a precise identification of tunneling processes is still not known. Motivated by this question, we consider a related, simpler case, that of Ponzano-Regge amplitudes: we find a surprising and detailed analogy of a class of simple transition amplitudes with tunneling processes in non-relativistic quantum mechanics. 
+
+#### Spin foam related papers
+
+#### **Tunneling of quantum geometries in spinfoams**
+ - **Authors:** Pietro Dona, Hal M. Haggard, Carlo Rovelli, Francesca Vidotto
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.09038](https://arxiv.org/abs/2402.09038)
+ - **Abstract**
+ Quantum gravitational tunneling effects are expected to give rise to a number of interesting observable phenomena, including, in particular, the evolution of black holes at the end of their existence or the emergence of the early universe from a quantum phase. Covariant Loop Quantum Gravity provides a framework to study these phenomena, yet a precise identification of tunneling processes is still not known. Motivated by this question, we consider a related, simpler case, that of Ponzano-Regge amplitudes: we find a surprising and detailed analogy of a class of simple transition amplitudes with tunneling processes in non-relativistic quantum mechanics. 
+
+
+
+#### Other related papers
+
+1. [[2402.08951]](https://arxiv.org/abs/2402.08951) - *Cosmology of unimodular Born-Infeld-$f(R)$ gravity* - Salih Kibaroğlu, Sergei D. Odintsov, Tanmoy Paul
+
+
+
 ### Wed - 02/14/24
 
 #### Loop quantum gravity related papers
