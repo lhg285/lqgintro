@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/16/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.09686]](https://arxiv.org/abs/2402.09686) - *Lorentz violation induces isospectrality breaking in Einstein-Bumblebee  gravity theory* - Wentao Liu, Xiongjun Fang, Jiliang Jing, Jieci Wang
+
+1. [[2402.09918]](https://arxiv.org/abs/2402.09918) - *Quantum gravity phenomenology and the blackbody radiation* - R. Turcati, I. Soares, S. B. Duarte
+
+1. [[2402.09981]](https://arxiv.org/abs/2402.09981) - *Resurgence in Lorentzian quantum cosmology: no-boundary saddles and  resummation of quantum gravity corrections around tunneling saddles* - Masazumi Honda, Hiroki Matsui, Kazumasa Okabayashi, Takahiro Terada
+
+1. [[2402.09691]](https://arxiv.org/abs/2402.09691) - *When left and right disagree: Entropy and von Neumann algebras in  quantum gravity with general AlAdS boundary conditions* - Donald Marolf, Daiming Zhang
+
+1. [[2402.10129]](https://arxiv.org/abs/2402.10129) - *Holographic covering and the fortuity of black holes* - Chi-Ming Chang, Ying-Hsuan Lin
+
+
+
 ### Thu - 02/15/24
 
 #### Loop quantum gravity related papers
