@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2402.10622]](https://arxiv.org/abs/2402.10622) - *Towards quantum gravity with neural networks: Solving the quantum  Hamilton constraint of U(1) BF theory* - Hanno Sahlmann, Waleed Sherif
+
 1. [[2402.09038]](https://arxiv.org/abs/2402.09038) - *Tunneling of quantum geometries in spinfoams* - Pietro Dona, Hal M. Haggard, Carlo Rovelli, Francesca Vidotto
 
 1. [[2402.07957]](https://arxiv.org/abs/2402.07957) - *Gravitational Collapse in Energy-momentum squared gravity: Nature of  singularities* - Prabir Rudra
