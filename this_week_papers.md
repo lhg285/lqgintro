@@ -6,6 +6,24 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/21/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.11016]](https://arxiv.org/abs/2402.11016) - *Holographic phenomenology via overlapping degrees of freedom* - Oliver Friedrich, ChunJun Cao, Sean Carroll, Gong Cheng, Ashmeet Singh
+
+
+
 ### Tue - 02/20/24
 
 #### Loop quantum gravity related papers
