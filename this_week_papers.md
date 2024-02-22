@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/22/24
+
+#### Loop quantum gravity related papers
+
+#### **Relaxation of first-class constraints and the quantization of gauge  theories: from "matter without matter" to the reappearance of time in quantum  gravity**
+ - **Authors:** Roberto Casadio, Leonardo Chataignier, Alexander Yu. Kamenshchik, Francisco G. Pedro, Alessandro Tronconi, Giovanni Venturi
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.12437](https://arxiv.org/abs/2402.12437)
+ - **Abstract**
+ We make a conceptual overview of a particular approach to the initial-value problem in canonical gauge theories. We stress how the first-class phase-space constraints may be relaxed if we interpret them as fixing the values of new degrees of freedom. This idea goes back to Fock and Stueckelberg, leading to restrictions of the gauge symmetry of a theory, and it corresponds, in certain cases, to promoting constants of Nature to physical fields. Recently, different versions of this formulation have gained considerable attention in the literature, with several independent iterations, particularly in classical and quantum descriptions of gravity, cosmology, and electromagnetism. In particular, in the case of canonical quantum gravity, the Fock--Stueckelberg approach is relevant to the so-called problem of time. Our overview recalls the work of Fock and Stueckelberg and its physical interpretation with the aim of conceptually unifying the different iterations of the idea that appear in the literature and of motivating further research. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.12578]](https://arxiv.org/abs/2402.12578) - *Evidence for Planck Luminosity Bound in Quantum Gravity* - Wolfgang Wieland
+
+
+
 ### Wed - 02/21/24
 
 #### Loop quantum gravity related papers
