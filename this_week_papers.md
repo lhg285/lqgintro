@@ -6,6 +6,21 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/23/24
+
+#### Loop quantum gravity related papers
+
+#### **Effective four-dimensional loop quantum black hole with a cosmological  constant**
+ - **Authors:** Jianhui Lin, Xiangdong Zhang
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.13638](https://arxiv.org/abs/2402.13638)
+ - **Abstract**
+ In this paper, we utilize the effective corrections of the $\bar{\mu}$-scheme in loop quantum black holes to obtain a 4-dimensional spherically symmetric metric with a cosmological constant. By imposing the areal gauge on the components of Ashtekar variables in the classical theory and applying the holonomy corrections, we derive the equations of motion, which can be solved to obtain the expression for the effective metric in the Painlev\'{e}-Gullstrand coordinates. A comparison with the $\Lambda=0$ case reveals minimal modifications near the outer horizon, while significant differences are observed far from the outer horizon. Moreover, the physical properties of these quantum-corrected solutions are also discussed. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 02/22/24
 
 #### Loop quantum gravity related papers

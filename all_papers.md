@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2402.13638]](https://arxiv.org/abs/2402.13638) - *Effective four-dimensional loop quantum black hole with a cosmological  constant* - Jianhui Lin, Xiangdong Zhang
+
 1. [[2402.12437]](https://arxiv.org/abs/2402.12437) - *Relaxation of first-class constraints and the quantization of gauge  theories: from "matter without matter" to the reappearance of time in quantum  gravity* - Roberto Casadio, Leonardo Chataignier, Alexander Yu. Kamenshchik, Francisco G. Pedro, Alessandro Tronconi, Giovanni Venturi
 
 1. [[2402.10622]](https://arxiv.org/abs/2402.10622) - *Towards quantum gravity with neural networks: Solving the quantum  Hamilton constraint of U(1) BF theory* - Hanno Sahlmann, Waleed Sherif
