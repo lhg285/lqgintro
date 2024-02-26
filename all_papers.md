@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2402.14109]](https://arxiv.org/abs/2402.14109) - *Effects of underlying topology on quantum state discrimination* - Aatif Kaisar Khan, Yasir Hassan Dar, Elias C. Vagenas, Salman Sajad Wani, Saif Al-Kuwari, Mir Faizal
+
 1. [[2402.13638]](https://arxiv.org/abs/2402.13638) - *Effective four-dimensional loop quantum black hole with a cosmological  constant* - Jianhui Lin, Xiangdong Zhang
 
 1. [[2402.12437]](https://arxiv.org/abs/2402.12437) - *Relaxation of first-class constraints and the quantization of gauge  theories: from "matter without matter" to the reappearance of time in quantum  gravity* - Roberto Casadio, Leonardo Chataignier, Alexander Yu. Kamenshchik, Francisco G. Pedro, Alessandro Tronconi, Giovanni Venturi
