@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2402.15085]](https://arxiv.org/abs/2402.15085) - *Quasinormal modes of a regular black hole with sub-Planckian curvature* - Dan Zhang, Huajie Gong, Guoyang Fu, Jian-Pin Wu, Qiyuan Pan
+
 1. [[2402.14109]](https://arxiv.org/abs/2402.14109) - *Effects of underlying topology on quantum state discrimination* - Aatif Kaisar Khan, Yasir Hassan Dar, Elias C. Vagenas, Salman Sajad Wani, Saif Al-Kuwari, Mir Faizal
 
 1. [[2402.13638]](https://arxiv.org/abs/2402.13638) - *Effective four-dimensional loop quantum black hole with a cosmological  constant* - Jianhui Lin, Xiangdong Zhang

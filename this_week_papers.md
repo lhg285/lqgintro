@@ -6,6 +6,31 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 02/27/24
+
+#### Loop quantum gravity related papers
+
+#### **Quasinormal modes of a regular black hole with sub-Planckian curvature**
+ - **Authors:** Dan Zhang, Huajie Gong, Guoyang Fu, Jian-Pin Wu, Qiyuan Pan
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.15085](https://arxiv.org/abs/2402.15085)
+ - **Abstract**
+ This paper explores the properties of the quasinormal modes (QNMs) of a regular black hole(BH) characterized by a Minkowski core and sub-Planckian curvature. When focusing on a special case, this regular BH exhibits identical large-scale behavior with the Hayward BH and some loop quantum gravity corrected (LQG-corrected) BH. A notable characteristic of the QNMs in this regular BH is the pronounced outburst of overtones when compared to the Schwarzschild BH (SS-BH). This outburst can be attributed to the deviation from the SS-BH in the near-horizon geometry region due to the quantum gravity effect. Furthermore, we compare the QNM properties of the regular BH with those of the Hayward BH and the LQG-corrected BH. A similar phenomenon of overtone outburst is observed in the modes of the overtone. As a conclusion, the QNMs may be a powerful tool for detecting the quantum gravity effect and distinguishing different BH models. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.14912]](https://arxiv.org/abs/2402.14912) - *Kasner Eons* - Pablo Bueno, Pablo A. Cano, Robie A. Hennigar
+
+1. [[2402.14913]](https://arxiv.org/abs/2402.14913) - *Mass inflation without Cauchy horizons* - Raúl Carballo-Rubio, Francesco Di Filippo, Stefano Liberati, Matt Visser
+
+
+
 ### Mon - 02/26/24
 
 #### Loop quantum gravity related papers
