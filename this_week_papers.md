@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/28/24
+
+#### Loop quantum gravity related papers
+
+#### **One-loop quantization of Euclidean D3-branes in holographic backgrounds**
+ - **Authors:** Fridrik Freyr Gautason, Jesse van Muiden
+ - **Subjects:** High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.16779](https://arxiv.org/abs/2402.16779)
+ - **Abstract**
+ In this note we analyze the semi-classical quantization of D3 branes in three different holographic backgrounds in type IIB string theory. The first background is Euclidean AdS$_5$ with $S^1\times S^3$ boundary accompanied with a twist to preserve supersymmetry. We work out the spectrum of fluctuations around the classical D3-brane configuration, compute its one-loop partition function, and match to the non-perturbative correction to the superconformal index of ${\cal N}=4$ SYM. We then study Euclidean D3-branes in the Pilch-Warner geometry dual to the IR Leigh-Strassler fixed point of ${\cal N}=1^*$ with the aim to find non-perturbative corrections to its index. Finally we study Euclidean D3-branes in the non-geometric ${\cal N}=2$ J-fold background which is dual to the gauging of 3D Gaiotto-Witten SCFT. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.15549]](https://arxiv.org/abs/2402.15549) - *On the Generalized Lemaitre Tolman Bondi Metric: Classical Sensitivities  and Quantum Einstein-Vaz Shells* - Mohammadreza Molaei, Christian Corda
+
+1. [[2402.16136]](https://arxiv.org/abs/2402.16136) - *Analogue simulations of quantum gravity with fluids* - Samuel L. Braunstein, Mir Faizal, Lawrence M. Krauss, Francesco Marino, Naveed A. Shah
+
+1. [[2402.16100]](https://arxiv.org/abs/2402.16100) - *Notes on the Exact RG equation and the Wheeler-DeWitt equation* - Hideto Kamei
+
+
+
 ### Tue - 02/27/24
 
 #### Loop quantum gravity related papers
