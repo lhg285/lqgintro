@@ -6,6 +6,36 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/29/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Solving the area-length systems in discrete gravity using homotopy  continuation**
+ - **Authors:** Seth K. Asante, Taylor Brysiewicz
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Algebraic Geometry (math.AG)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.17080](https://arxiv.org/abs/2402.17080)
+ - **Abstract**
+ Area variables are intrinsic to connection formulations of general relativity, in contrast to the fundamental length variables prevalent in metric formulations. Within 4D discrete gravity, particularly based on triangulations, the area-length system establishes a relationship between area variables associated with triangles and the edge length variables. This system is comprised of polynomial equations derived from Heron's formula, which relates the area of a triangle to its edge lengths. Using tools from numerical algebraic geometry, we study the area-length systems. In particular, we show that given the ten triangular areas of a single 4-simplex, there could be up to 64 compatible sets of edge lengths. Moreover, we show that these 64 solutions do not, in general, admit formulae in terms of the areas by analyzing the Galois group, or monodromy group, of the problem. We show that by introducing additional symmetry constraints, it is possible to obtain such formulae for the edge lengths. We take the first steps toward applying our results within discrete quantum gravity, specifically for effective spin foam models. 
+
+#### **Symmetry breaking mechanisms of the 3BF action for the Standard Model  coupled to gravity**
+ - **Authors:** Pavle Stipsic, Marko Vojinovic
+ - **Subjects:** High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/2402.17675](https://arxiv.org/abs/2402.17675)
+ - **Abstract**
+ We study the details of the explicit and spontaneous symmetry breaking of the constrained 3BF action representing the Standard Model coupled to Einstein-Cartan gravity. First we discuss how each particular constraint breaks the original symmetry of the topological 3BF action. Then we investigate the spontaneous symmetry breaking and the Higgs mechanism for the electroweak theory in the constrained 3BF form, in order to demonstrate that they can indeed be performed in the framework of higher gauge theory. A formulation of the Proca action as a constrained 3BF theory is also studied in detail. 
+
+
+
+#### Other related papers
+
+1. [[2402.17024]](https://arxiv.org/abs/2402.17024) - *Quantum gravity with dynamical wave-function collapse via a classical  scalar field* - Zachary Weller-Davies
+
+
+
 ### Wed - 02/28/24
 
 #### Loop quantum gravity related papers

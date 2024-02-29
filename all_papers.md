@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2402.17080]](https://arxiv.org/abs/2402.17080) - *Solving the area-length systems in discrete gravity using homotopy  continuation* - Seth K. Asante, Taylor Brysiewicz
+
+1. [[2402.17675]](https://arxiv.org/abs/2402.17675) - *Symmetry breaking mechanisms of the 3BF action for the Standard Model  coupled to gravity* - Pavle Stipsic, Marko Vojinovic
+
 1. [[2402.16779]](https://arxiv.org/abs/2402.16779) - *One-loop quantization of Euclidean D3-branes in holographic backgrounds* - Fridrik Freyr Gautason, Jesse van Muiden
 
 1. [[2402.15085]](https://arxiv.org/abs/2402.15085) - *Quasinormal modes of a regular black hole with sub-Planckian curvature* - Dan Zhang, Huajie Gong, Guoyang Fu, Jian-Pin Wu, Qiyuan Pan
