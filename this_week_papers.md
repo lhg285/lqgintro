@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/01/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2402.18237]](https://arxiv.org/abs/2402.18237) - *Quantum state of Yang-Mills fields in $SU(\infty)$ Quantum Gravity  ($SU(\infty)$-QGR)* - Houri Ziaeepour
+
+1. [[2402.18536]](https://arxiv.org/abs/2402.18536) - *Quantum Gravity: are we there yet?* - Shahn Majid
+
+1. [[2402.17844]](https://arxiv.org/abs/2402.17844) - *Renormalisation of postquantum-classical gravity* - Andrzej Grudka, Jonathan Oppenheim, Andrea Russo, Muhammad Sajjad
+
+1. [[2402.17977]](https://arxiv.org/abs/2402.17977) - *Null Infinity as a Weakly Isolated Horizon* - Abhay Ashtekar, Simone Speziale
+
+
+
 ### Thu - 02/29/24
 
 #### Loop quantum gravity related papers
