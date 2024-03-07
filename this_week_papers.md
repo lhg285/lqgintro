@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/07/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2403.03245]](https://arxiv.org/abs/2403.03245) - *Neural Network Learning and Quantum Gravity* - Stefano Lanza
+
+1. [[2403.03503]](https://arxiv.org/abs/2403.03503) - *Universality of pseudo-Goldstone damping near critical points* - Yang-yang Tan, Yong-rui Chen, Wei-jie Fu, Wei-Jia Li
+
+1. [[2403.03930]](https://arxiv.org/abs/2403.03930) - *Holographic thermal entropy from geodesic bit threads* - Stefania Caggioli, Francesco Gentile, Domenico Seminara, Erik Tonni
+
+
+
 ### Wed - 03/06/24
 
 #### Loop quantum gravity related papers
