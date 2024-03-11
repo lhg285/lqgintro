@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2403.04836]](https://arxiv.org/abs/2403.04836) - *A Monte Carlo algorithm for spin foam intertwiners* - Sebastian Steinhaus
+
 1. [[2403.01910]](https://arxiv.org/abs/2403.01910) - *Status of Birkhoff's theorem in polymerized semiclassical regime of Loop  Quantum Gravity* - Luca Cafaro, Jerzy Lewandowski
 
 1. [[2402.17080]](https://arxiv.org/abs/2402.17080) - *Solving the area-length systems in discrete gravity using homotopy  continuation* - Seth K. Asante, Taylor Brysiewicz
