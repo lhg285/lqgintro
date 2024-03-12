@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2403.06053]](https://arxiv.org/abs/2403.06053) - *Spinfoams, $γ$-duality and parity violation in primordial  gravitational waves* - Eugenio Bianchi, Monica Rincon-Ramirez
+
 1. [[2403.04836]](https://arxiv.org/abs/2403.04836) - *A Monte Carlo algorithm for spin foam intertwiners* - Sebastian Steinhaus
 
 1. [[2403.01910]](https://arxiv.org/abs/2403.01910) - *Status of Birkhoff's theorem in polymerized semiclassical regime of Loop  Quantum Gravity* - Luca Cafaro, Jerzy Lewandowski

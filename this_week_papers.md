@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 03/12/24
+
+#### Loop quantum gravity related papers
+
+#### **Spinfoams, $γ$-duality and parity violation in primordial  gravitational waves**
+ - **Authors:** Eugenio Bianchi, Monica Rincon-Ramirez
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2403.06053](https://arxiv.org/abs/2403.06053)
+ - **Abstract**
+ The Barbero-Immirzi parameter $\gamma$ appears as a coupling constant in the spinfoam dynamics of loop quantum gravity and can be understood as a measure of gravitational parity violation via a duality rotation. We investigate an effective field theory for gravity and a scalar field, with dynamics given by a $\gamma$-dual action obtained via a duality rotation of a parity-non-violating one. The resulting relation between the coupling constants of parity-even and parity-odd higher-curvature terms is determined by $\gamma$, opening the possibility of its measurement in the semiclassical regime. For a choice of $\gamma$-dual effective action, we study cosmic inflation and show that the observation of a primordial tensor polarization, together with the tensor tilt and the tensor-to-scalar ratio, provides a measurement of the Barbero-Immirzi parameter and, therefore, of the scale of discreteness of the quantum geometry of space. 
+
+#### Spin foam related papers
+
+#### **Spinfoams, $γ$-duality and parity violation in primordial  gravitational waves**
+ - **Authors:** Eugenio Bianchi, Monica Rincon-Ramirez
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2403.06053](https://arxiv.org/abs/2403.06053)
+ - **Abstract**
+ The Barbero-Immirzi parameter $\gamma$ appears as a coupling constant in the spinfoam dynamics of loop quantum gravity and can be understood as a measure of gravitational parity violation via a duality rotation. We investigate an effective field theory for gravity and a scalar field, with dynamics given by a $\gamma$-dual action obtained via a duality rotation of a parity-non-violating one. The resulting relation between the coupling constants of parity-even and parity-odd higher-curvature terms is determined by $\gamma$, opening the possibility of its measurement in the semiclassical regime. For a choice of $\gamma$-dual effective action, we study cosmic inflation and show that the observation of a primordial tensor polarization, together with the tensor tilt and the tensor-to-scalar ratio, provides a measurement of the Barbero-Immirzi parameter and, therefore, of the scale of discreteness of the quantum geometry of space. 
+
 ### Mon - 03/11/24
 
 #### Loop quantum gravity related papers
