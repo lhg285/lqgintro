@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 03/13/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2403.07237]](https://arxiv.org/abs/2403.07237) - *Cosmological implications from some proposals in Quantum Gravity* - D. Mata-Pacheco
+
+1. [[2403.07848]](https://arxiv.org/abs/2403.07848) - *Infinite tower of higher-curvature corrections: Quasinormal modes and  late-time behavior of D-dimensional regular black holes* - R. A. Konoplya, A. Zhidenko
+
+1. [[2403.07275]](https://arxiv.org/abs/2403.07275) - *Coarse-graining black holes out of equilibrium with boundary observables  on time slice* - Daichi Takeda
+
+1. [[2403.07577]](https://arxiv.org/abs/2403.07577) - *Functional renormalization group for p=2 like glassy matrices in the  planar approximation: I. Vertex expansion at equilibrium* - Vincent Lahoche, Dine Ousmane Samary
+
+
+
 ### Tue - 03/12/24
 
 #### Loop quantum gravity related papers
