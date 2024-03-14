@@ -6,6 +6,29 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/14/24
+
+#### Loop quantum gravity related papers
+
+#### **One-Loop Quantum Stress-Energy Tensor for the Kink and sine-Gordon  Solitons**
+ - **Authors:** Noah Graham, Herbert Weigel
+ - **Subjects:** High Energy Physics - Theory (hep-th); High Energy Physics - Phenomenology (hep-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2403.08677](https://arxiv.org/abs/2403.08677)
+ - **Abstract**
+ We compute the renormalized one-loop quantum corrections to the energy density $T_{00}(x)$ and pressure $T_{11}(x)$ for solitons in the $1+1$ dimensional scalar sine-Gordon and kink models. We show how precise implementation of counterterms in dimensional regularization resolves previously identified discrepancies between the integral of $T_{00}(x)$ and the known correction to the total energy. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2403.08696]](https://arxiv.org/abs/2403.08696) - *On the non-perturbative bulk Hilbert space of JT gravity* - Luca V. Iliesiu, Adam Levine, Henry W. Lin, Henry Maxfield, Márk Mezei
+
+
+
 ### Wed - 03/13/24
 
 #### Loop quantum gravity related papers
