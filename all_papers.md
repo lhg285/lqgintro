@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2403.09364]](https://arxiv.org/abs/2403.09364) - *Spinfoam Models for Quantum Gravity: Overview* - Etera R. Livine
+
 1. [[2403.08677]](https://arxiv.org/abs/2403.08677) - *One-Loop Quantum Stress-Energy Tensor for the Kink and sine-Gordon  Solitons* - Noah Graham, Herbert Weigel
 
 1. [[2403.06053]](https://arxiv.org/abs/2403.06053) - *Spinfoams, $γ$-duality and parity violation in primordial  gravitational waves* - Eugenio Bianchi, Monica Rincon-Ramirez
