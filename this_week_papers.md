@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/22/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2403.13099]](https://arxiv.org/abs/2403.13099) - *When gravitational decoupling and quantum gravity (re)unite* - R. Casadio, I. Kuntz, R. da Rocha
+
+1. [[2403.13687]](https://arxiv.org/abs/2403.13687) - *Modified gravity theories from the Barrow hypothesis* - Ankit Anand, Ruben Campos Delgado
+
+1. [[2403.13047]](https://arxiv.org/abs/2403.13047) - *Closed universes, factorization, and ensemble averaging* - Mykhaylo Usatyuk, Ying Zhao
+
+
+
 ### Thu - 03/21/24
 
 #### Loop quantum gravity related papers
