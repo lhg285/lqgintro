@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2403.17197]](https://arxiv.org/abs/2403.17197) - *Loop Quantum Gravity effects on electromagnetic properties of charged  leptons* - João Paulo S. Melo, Mario J. Neves, Jefferson M. A. Paixão, José A. Helayël-Neto
+
 1. [[2403.15320]](https://arxiv.org/abs/2403.15320) - *From loop quantum gravity to cosmology: the 2-vertex model* - Álvaro Cendal, Iñaki Garay, Luis J. Garay
 
 1. [[2403.15320]](https://arxiv.org/abs/2403.15320) - *From loop quantum gravity to cosmology: the 2-vertex model* - Álvaro Cendal, Iñaki Garay, Luis J. Garay
