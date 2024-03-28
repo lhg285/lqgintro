@@ -9,6 +9,12 @@ permalink: /all_papers/
 
 
 
+1. [[2403.18020]](https://arxiv.org/abs/2403.18020) - *Entanglement entropy of coherent intertwiner in loop quantum gravity* - Gaoping Long, Qian Chen, Jinsong Yang
+
+1. [[2403.18289]](https://arxiv.org/abs/2403.18289) - *Exploring the pre-inflationary dynamics in loop quantum cosmology with a  DBI scalar field* - Abolhassan Mohammadi
+
+1. [[2403.18606]](https://arxiv.org/abs/2403.18606) - *Test the Loop Quantum Gravity Theory via the Lensing Effect* - Lai Zhao, Meirong Tang, Zhaoyi Xu
+
 1. [[2403.17197]](https://arxiv.org/abs/2403.17197) - *Loop Quantum Gravity effects on electromagnetic properties of charged  leptons* - João Paulo S. Melo, Mario J. Neves, Jefferson M. A. Paixão, José A. Helayël-Neto
 
 1. [[2403.15320]](https://arxiv.org/abs/2403.15320) - *From loop quantum gravity to cosmology: the 2-vertex model* - Álvaro Cendal, Iñaki Garay, Luis J. Garay
