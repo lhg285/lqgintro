@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/29/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2403.18896]](https://arxiv.org/abs/2403.18896) - *A Celestial Dual for MHV Amplitudes* - Walker Melton, Atul Sharma, Andrew Strominger, Tianli Wang
+
+1. [[2403.18937]](https://arxiv.org/abs/2403.18937) - *Analyticity and the Unruh effect: a study of local modular flow* - Jonathan Sorce
+
+1. [[2403.19389]](https://arxiv.org/abs/2403.19389) - *Spin couplings as witnesses of Planck scale phenomenology* - Pasquale Bosso, Fabrizio Illuminati, Luciano Petruzziello, Fabian Wagner
+
+
+
 ### Thu - 03/28/24
 
 #### Loop quantum gravity related papers
