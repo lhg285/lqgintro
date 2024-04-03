@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2404.01418]](https://arxiv.org/abs/2404.01418) - *Decoding quantum gravity information with black hole accretion disk* - Lei You, Yu-Hang Feng, Rui-Bo Wang, Jian-Bo Deng, Xian-Ru Hu
+
 1. [[2403.18020]](https://arxiv.org/abs/2403.18020) - *Entanglement entropy of coherent intertwiner in loop quantum gravity* - Gaoping Long, Qian Chen, Jinsong Yang
 
 1. [[2403.18289]](https://arxiv.org/abs/2403.18289) - *Exploring the pre-inflationary dynamics in loop quantum cosmology with a  DBI scalar field* - Abolhassan Mohammadi
