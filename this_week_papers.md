@@ -6,6 +6,28 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/05/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.03212]](https://arxiv.org/abs/2404.03212) - *Holographic Global Vortices with Novel Boundary Conditions* - Markus A. G. Amano, Minoru Eto
+
+1. [[2404.03535]](https://arxiv.org/abs/2404.03535) - *The dilaton gravity hologram of double-scaled SYK* - Andreas Blommaert, Thomas G. Mertens, Jacopo Papalini
+
+1. [[2404.03651]](https://arxiv.org/abs/2404.03651) - *Multipartite edge modes and tensor networks* - Chris Akers, Ronak M. Soni, Annie Y. Wei
+
+
+
 ### Thu - 04/04/24
 
 #### Loop quantum gravity related papers
