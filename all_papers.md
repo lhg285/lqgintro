@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2404.04192]](https://arxiv.org/abs/2404.04192) - *Gravitational collapse in effective loop quantum gravity: beyond  marginally bound configurations* - Lorenzo Cipriani, Francesco Fazzini, Edward Wilson-Ewing
+
 1. [[2404.02796]](https://arxiv.org/abs/2404.02796) - *Spin foam amplitude of the black-to-white hole transition* - Muxin Han, Dongxue Qu, Cong Zhang
 
 1. [[2404.01418]](https://arxiv.org/abs/2404.01418) - *Decoding quantum gravity information with black hole accretion disk* - Lei You, Yu-Hang Feng, Rui-Bo Wang, Jian-Bo Deng, Xian-Ru Hu
