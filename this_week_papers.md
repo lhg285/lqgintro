@@ -6,6 +6,33 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/10/24
+
+#### Loop quantum gravity related papers
+
+#### **Emergent Modified Gravity**
+ - **Authors:** Martin Bojowald, Erick I. Duque
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2404.06375](https://arxiv.org/abs/2404.06375)
+ - **Abstract**
+ A complete canonical formulation of general covariance makes it possible to construct new modified theories of gravity that are not of higher-curvature form, as shown here in a spherically symmetric setting. The usual uniqueness theorems are evaded by using a crucial and novel ingredient, allowing for fundamental fields of gravity distinct from an emergent space-time metric that provides a geometrical structure to all solutions. As specific examples, there are new expansion-shear couplings in cosmological models, a form of modified Newtonian dynamics (MOND) can appear in a space-time covariant theory without introducing extra fields, and related effects help to make effective models of canonical quantum gravity fully consistent with general covariance. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.05957]](https://arxiv.org/abs/2404.05957) - *Constraining a disformal Schwarzschild black hole in DHOST theories with  the orbit of the S2 star* - Zelin Zhang, Songbai Chen, Jiliang Jing
+
+1. [[2404.05851]](https://arxiv.org/abs/2404.05851) - *Entanglement entropy in lattices with non-abelian gauge groups* - Mihael Hategan-Marandiuc
+
+1. [[2404.06060]](https://arxiv.org/abs/2404.06060) - *Bose-Einstein condensate as a quantum gravity probe; "Erste Abhandlung"* - Soham Sen, Sunandan Gangopadhyay
+
+
+
 ### Tue - 04/09/24
 
 #### Loop quantum gravity related papers
