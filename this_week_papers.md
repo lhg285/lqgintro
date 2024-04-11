@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 04/11/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.07058]](https://arxiv.org/abs/2404.07058) - *Inner-extremal regular black holes from pure gravity* - Francesco Di Filippo, Ivan Kolář, David Kubiznak
+
+1. [[2404.07173]](https://arxiv.org/abs/2404.07173) - *Microstates of accelerating and supersymmetric AdS$_4$ black holes from  the spindle index* - Edoardo Colombo, Seyed Morteza Hosseini, Dario Martelli, Antonio Pittelli, Alberto Zaffaroni
+
+
+
 ### Wed - 04/10/24
 
 #### Loop quantum gravity related papers
