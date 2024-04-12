@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/12/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.07524]](https://arxiv.org/abs/2404.07524) - *Photon Counting Interferometry to Detect Geontropic Space-Time  Fluctuations with GQuEST* - Sander M. Vermeulen, Torrey Cullen, Daniel Grass, Ian A. O. MacMillan, Alexander J. Ramirez, Jeffrey Wack, Boris Korzh, Vincent S. H. Lee, Kathryn M. Zurek, Chris Stoughton, Lee McCuller
+
+1. [[2404.07589]](https://arxiv.org/abs/2404.07589) - *See the lightning, hear the thunder: quasinormal modes-shadow  correspondence for rotating regular black holes* - Davide Pedrotti, Sunny Vagnozzi
+
+1. [[2404.07723]](https://arxiv.org/abs/2404.07723) - *The classical-quantum hybrid canonical dynamics and its difficulties  with special and general relativity* - Lajos Diósi
+
+1. [[2404.07925]](https://arxiv.org/abs/2404.07925) - *Non-perturbative quantum gravity denounces singular Black Holes* - Alexey Koshelev, Anna Tokareva
+
+1. [[2404.07834]](https://arxiv.org/abs/2404.07834) - *Tensor models and group field theories: combinatorics, large $N$ and  renormalization* - Sylvain Carrozza
+
+
+
 ### Thu - 04/11/24
 
 #### Loop quantum gravity related papers
