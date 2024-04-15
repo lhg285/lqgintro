@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2404.08454]](https://arxiv.org/abs/2404.08454) - *Gravitational waves for eccentric extreme mass ratio inspirals of  self-dual spacetime* - Yunlong Liu, Xiangdong Zhang
+
 1. [[2404.06375]](https://arxiv.org/abs/2404.06375) - *Emergent Modified Gravity* - Martin Bojowald, Erick I. Duque
 
 1. [[2404.04192]](https://arxiv.org/abs/2404.04192) - *Gravitational collapse in effective loop quantum gravity: beyond  marginally bound configurations* - Lorenzo Cipriani, Francesco Fazzini, Edward Wilson-Ewing
