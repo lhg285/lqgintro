@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/19/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.11670]](https://arxiv.org/abs/2404.11670) - *Boltzmannian state counting for Black Hole Entropy in Causal Set Theory* - Vid Homšak, Stefano Veroni
+
+1. [[2404.11644]](https://arxiv.org/abs/2404.11644) - *Geometric Quantum States Beyond AdS/CFT* - Raphael Bousso, Sami Kaya
+
+1. [[2404.11715]](https://arxiv.org/abs/2404.11715) - *Entanglement Renormalization for Quantum Field Theories with Discrete  Wavelet Transforms* - Daniele S. M. Alves
+
+1. [[2404.11915]](https://arxiv.org/abs/2404.11915) - *Functional renormalization group for p=2 like glassy matrices in the  planar approximation: III. Equilibrium dynamics and beyond* - Vincent Lahoche, Dine Ousmane Samary
+
+1. [[2404.12049]](https://arxiv.org/abs/2404.12049) - *Celestial CFT from $H_3^+$-WZW Model* - Naoki Ogawa, Shunta Takahashi, Takashi Tsuda, Takahiro Waki
+
+
+
 ### Thu - 04/18/24
 
 #### Loop quantum gravity related papers
