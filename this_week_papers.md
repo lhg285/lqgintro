@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 04/23/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.13112]](https://arxiv.org/abs/2404.13112) - *Geodesically complete universes* - Raúl Carballo-Rubio, Stefano Liberati, Vania Vellucci
+
+1. [[2404.13450]](https://arxiv.org/abs/2404.13450) - *Investigating the Generalized Uncertainty Principle Effects on Hawking  Radiation in Rotating Linear Dilaton Black Holes* - Erdem Sucu
+
+1. [[2404.13684]](https://arxiv.org/abs/2404.13684) - *Generalized Entanglement Capacity of de Sitter Space* - Tom Banks, Patrick Draper
+
+1. [[2404.14266]](https://arxiv.org/abs/2404.14266) - *Superoscillations in High Energy Physics and Gravity* - Andrea Addazi, Qingyu Gan
+
+
+
 ### Mon - 04/22/24
 
 #### Loop quantum gravity related papers
