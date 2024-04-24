@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/24/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.14816]](https://arxiv.org/abs/2404.14816) - *Regular black holes as an alternative to black bounce* - Kirill A. Bronnikov
+
+1. [[2404.14478]](https://arxiv.org/abs/2404.14478) - *From area metric backgrounds to cosmological constant and corrections to  the Polyakov action* - Johanna Borissova, Pei-Ming Ho
+
+1. [[2404.14489]](https://arxiv.org/abs/2404.14489) - *Wormholes in the axiverse, and the species scale* - Luca Martucci, Nicolò Risso, Alessandro Valenti, Luca Vecchi
+
+1. [[2404.14787]](https://arxiv.org/abs/2404.14787) - *Numerical study of the properties of a holographic superconductor from  an anti-de Sitter-Einstein-Born-Infeld black hole with backreaction* - Uriel Elinos Calderón, Edgar Guzmán-González, Marco Maceda
+
+
+
 ### Tue - 04/23/24
 
 #### Loop quantum gravity related papers
