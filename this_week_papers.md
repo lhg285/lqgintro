@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/26/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.16081]](https://arxiv.org/abs/2404.16081) - *Extension of Hayward black hole in $f(R)$ gravity coupled with a scalar  field* - G.G.L. Nashed
+
+1. [[2404.16098]](https://arxiv.org/abs/2404.16098) - *Relative state-counting for semiclassical black holes* - Chris Akers, Jonathan Sorce
+
+
+
 ### Thu - 04/25/24
 
 #### Loop quantum gravity related papers
