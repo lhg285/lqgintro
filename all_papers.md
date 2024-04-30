@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2404.18220]](https://arxiv.org/abs/2404.18220) - *Asymptotically safe -- canonical quantum gravity junction* - Thomas Thiemann
+
+1. [[2404.18224]](https://arxiv.org/abs/2404.18224) - *Relational Lorentzian Asymptotically Safe Quantum Gravity: Showcase  model* - Renata Ferrero, Thomas Thiemann
+
 1. [[2404.16943]](https://arxiv.org/abs/2404.16943) - *Partial absence of cosine problem in 3d Lorentzian spin foams* - Alexander F. Jercher, José Diogo Simão, Sebastian Steinhaus
 
 1. [[2404.08454]](https://arxiv.org/abs/2404.08454) - *Gravitational waves for eccentric extreme mass ratio inspirals of  self-dual spacetime* - Yunlong Liu, Xiangdong Zhang
