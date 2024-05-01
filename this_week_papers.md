@@ -6,6 +6,26 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/01/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2404.18956]](https://arxiv.org/abs/2404.18956) - *Quantum Field Theory of Black Hole Perturbations with Backreaction: I.  General framework* - Thomas Thiemann
+
+1. [[2404.19526]](https://arxiv.org/abs/2404.19526) - *Scale and Conformal Invariance in 2d Sigma Models, with an Application  to N=4 Supersymmetry* - George Papadopoulos, Edward Witten
+
+
+
 ### Tue - 04/30/24
 
 #### Loop quantum gravity related papers
