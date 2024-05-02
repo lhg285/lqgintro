@@ -6,6 +6,35 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/02/24
+
+#### Loop quantum gravity related papers
+
+#### **Towards quantum gravity with neural networks: Solving quantum Hamilton  constraints of 3d Euclidean gravity in the weak coupling limit**
+ - **Authors:** Hanno Sahlmann, Waleed Sherif
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Computational Physics (physics.comp-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/2405.00661](https://arxiv.org/abs/2405.00661)
+ - **Abstract**
+ We consider 3-dimensional Euclidean gravity in the weak coupling limit of Smolin and show that it is BF-theory with $\text{U(1)}^3$ as a Lie group. The theory is quantised using loop quantum gravity methods. The kinematical degrees of freedom are truncated, on account of computational feasibility, by fixing a graph and deforming the algebra of the holonomies to impose a cutoff on the charge vectors. This leads to a quantum theory related to $\text{U}_q \text{(1)}^3$ BF-theory. The effect of imposing the cutoff on the charges is examined. We also implement the quantum volume operator of 3d loop quantum gravity. Most importantly we compare two constraints for the quantum model obtained: a master constraint enforcing curvature and Gauss constraint, as well as a combination of a quantum Hamilton constraint constructed using Thiemann's strategy and the Gauss master constraint. The two constraints are solved using the neural network quantum state ansatz, demonstrating its ability to explore models which are out of reach for exact numerical methods. The solutions spaces are quantitatively compared and although the forms of the constraints are radically different, the solutions turn out to have a surprisingly large overlap. We also investigate the behavior of the quantum volume in solutions to the constraints. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[2405.00594]](https://arxiv.org/abs/2405.00594) - *Anomalous diffusion and factor ordering in (1+1)-dimensional Lorentzian  quantum gravity* - Elijah Sanderson, Rachel Lash Maitra, AJ Liberatore
+
+1. [[2405.00083]](https://arxiv.org/abs/2405.00083) - *Density of States, Black Holes and the Emergent String Conjecture* - Alek Bedroya, Rashmish K. Mishra, and Max Wiesner
+
+1. [[2405.00114]](https://arxiv.org/abs/2405.00114) - *Gravitational entropy is observer-dependent* - Julian De Vuyst, Stefan Eccles, Philipp A. Hoehn, Josh Kirklin
+
+1. [[2405.00674]](https://arxiv.org/abs/2405.00674) - *Universal Bounds on CFT Distance Conjecture* - Hirosi Ooguri, Yifan Wang
+
+
+
 ### Wed - 05/01/24
 
 #### Loop quantum gravity related papers

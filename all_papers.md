@@ -9,6 +9,8 @@ permalink: /all_papers/
 
 
 
+1. [[2405.00661]](https://arxiv.org/abs/2405.00661) - *Towards quantum gravity with neural networks: Solving quantum Hamilton  constraints of 3d Euclidean gravity in the weak coupling limit* - Hanno Sahlmann, Waleed Sherif
+
 1. [[2404.18220]](https://arxiv.org/abs/2404.18220) - *Asymptotically safe -- canonical quantum gravity junction* - Thomas Thiemann
 
 1. [[2404.18224]](https://arxiv.org/abs/2404.18224) - *Relational Lorentzian Asymptotically Safe Quantum Gravity: Showcase  model* - Renata Ferrero, Thomas Thiemann
