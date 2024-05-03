@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2405.01360]](https://arxiv.org/abs/2405.01360) - *Investigations on Lorentzian Spin-foams and Semiclassical Space-times* - José Diogo Simão
+
+1. [[2405.01380]](https://arxiv.org/abs/2405.01380) - *Arrows of time in bouncing cosmologies* - Marco de Cesare
+
 1. [[2405.00661]](https://arxiv.org/abs/2405.00661) - *Towards quantum gravity with neural networks: Solving quantum Hamilton  constraints of 3d Euclidean gravity in the weak coupling limit* - Hanno Sahlmann, Waleed Sherif
 
 1. [[2404.18220]](https://arxiv.org/abs/2404.18220) - *Asymptotically safe -- canonical quantum gravity junction* - Thomas Thiemann

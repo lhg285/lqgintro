@@ -6,6 +6,42 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/03/24
+
+#### Loop quantum gravity related papers
+
+#### **Arrows of time in bouncing cosmologies**
+ - **Authors:** Marco de Cesare
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2405.01380](https://arxiv.org/abs/2405.01380)
+ - **Abstract**
+ Different approaches to quantum gravity, such as loop quantum cosmology and group field theory, predict the resolution of the initial cosmological singularity via a 'bounce': a regular spacetime region that connects the expanding branch of the universe to a contracting branch. The cosmological arrow of time, which by definition points in the direction of cosmic expansion, is reversed at the bounce. Nonetheless, it is still possible to discriminate between the two branches by considering different arrows, as defined for instance by the growth of perturbations. After reviewing general aspects of the time arrow problem in cosmology, we examine the properties of different arrows of time in bouncing cosmologies, focusing on the loop quantum cosmology bounce as a case study. We also present a new exact solution to the effective Friedmann equations of loop quantum cosmology with pressureless dust and a cosmological constant, which is a simplified version of the $\Lambda$CDM bounce scenario, where these issues can be examined in detail. 
+
+#### Spin foam related papers
+
+#### **Investigations on Lorentzian Spin-foams and Semiclassical Space-times**
+ - **Authors:** José Diogo Simão
+ - **Subjects:** General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/2405.01360](https://arxiv.org/abs/2405.01360)
+ - **Abstract**
+ This thesis is developed in the context of the spin-foam approach to quantum gravity; all results are concerned with the Lorentzian theory and with semiclassical methods. A correspondence is given between Majorana 2-spinors and time-like hypersurfaces in Minkowski 3-space based on complexified quaternions. It is shown that the former suggest a symplectic structure on the spinor phase space which, together with an area-matching constraint, yields a symplectomorphism to $T^*\mathrm{SU}(1,1)$. A complete 3-dimensional Lorentzian spin-foam amplitude for both space- and time-like triangles is proposed. It is shown to asymptote to Regge theory in the semiclassical regime. The asymptotic limit of the 4-dimensional Conrady-Hnybida model for general polytopes is scrutinized. Minkowski's theorem on convex polyhedra is generalized to Lorentzian signature, and new boundary states for time-like polygons are introduced. It is found that the semiclassical amplitude for such polygons is insufficiently constrained. A method for the asymptotic evaluation of integrals subject to external parameters is discussed. The method is developed in detail for the special problem of spin-foam gluing constraints away from their dominant critical points. A relation to the gluing constraints of effective spin-foams is suggested. 
+
+
+
+#### Other related papers
+
+1. [[2405.01212]](https://arxiv.org/abs/2405.01212) - *Non-perturbative Quantum Gravity in Fock representations* - Thomas Thiemann
+
+1. [[2405.01407]](https://arxiv.org/abs/2405.01407) - *Graviton-photon oscillations as a probe of quantum gravity* - Andrea Palessandro
+
+1. [[2405.00845]](https://arxiv.org/abs/2405.00845) - *Subleading analysis for $S^3$ partition functions of $\mathcal{N}=2$  holographic SCFTs* - Seppe Geukens, Junho Hong
+
+1. [[2405.01084]](https://arxiv.org/abs/2405.01084) - *A positive metric over DGKT vacua* - Eran Palti, Nicolò Petri
+
+1. [[2405.01253]](https://arxiv.org/abs/2405.01253) - *2d Ising Critical Couplings from Quantum Gravity* - Valentin Bonzom, Etera R. Livine
+
+
+
 ### Thu - 05/02/24
 
 #### Loop quantum gravity related papers
