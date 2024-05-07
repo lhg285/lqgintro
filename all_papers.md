@@ -9,6 +9,10 @@ permalink: /all_papers/
 
 
 
+1. [[2405.02380]](https://arxiv.org/abs/2405.02380) - *Emergent gravity from the correlation of spin-$\tfrac{1}{2}$ systems  coupled with a scalar field* - Quentin Ansel
+
+1. [[2405.03019]](https://arxiv.org/abs/2405.03019) - *Cosmological sector of Loop Quantum Gravity: a Yang-Mills approach* - Matteo Bruno
+
 1. [[2405.01360]](https://arxiv.org/abs/2405.01360) - *Investigations on Lorentzian Spin-foams and Semiclassical Space-times* - José Diogo Simão
 
 1. [[2405.01380]](https://arxiv.org/abs/2405.01380) - *Arrows of time in bouncing cosmologies* - Marco de Cesare
