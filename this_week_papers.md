@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/08/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Emergent gravity from the correlation of spin-$\tfrac{1}{2}$ systems coupled with a scalar field**
+ - **Authors:** Quentin Ansel
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ This paper introduces several ideas of emergent gravity, which come from a system similar to an ensemble of quantum spin-$\tfrac{1}{2}$ particles. To derive a physically relevant theory, the model is constructed by quantizing a scalar field in curved space-time. The quantization is based on a classical discretization of the system, but contrary to famous approaches, like loop quantum gravity or causal triangulation, a Monte-Carlo based approach is used instead of a simplicial approximation of the space-time manifold. This avoids conceptual issues related to the choice of the lattice. Moreover, this allows us to easily encode the geometric structures of space, given by the geodesic length between points, into the mean value of a correlation operator between two spin-like systems. Numerical investigations show the relevance of the approach, and the presence of two regimes: a classical and a quantum regime. The latter is obtained when the density of points reaches a given threshold. Finally, a multi-scale analysis is given, where the classical model is recovered from the full quantum one. Each step of the classical limit is illustrated with numerical computations, showing the very good convergence towards the classical limit and the computational efficiency of the theory. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 05/07/24
 
 #### Loop quantum gravity related papers

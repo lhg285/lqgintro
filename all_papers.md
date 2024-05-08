@@ -9,6 +9,9 @@ permalink: /all_papers/
 
 
 
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Emergent gravity from the correlation of spin-$\tfrac{1}{2}$ systems coupled with a scalar field* - Quentin Ansel
+
 1. [[2405.02380]](https://arxiv.org/abs/2405.02380) - *Emergent gravity from the correlation of spin-$\tfrac{1}{2}$ systems  coupled with a scalar field* - Quentin Ansel
 
 1. [[2405.03019]](https://arxiv.org/abs/2405.03019) - *Cosmological sector of Loop Quantum Gravity: a Yang-Mills approach* - Matteo Bruno
