@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/09/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Thermodynamics and geometrothermodynamics of regular black holes* - H. Quevedo, M.N. Quevedo, A. Sanchez
+
+
+
 ### Wed - 05/08/24
 
 #### Loop quantum gravity related papers
