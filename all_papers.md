@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quasinormal Frequencies of Fields with Various Spin in the Quantum Oppenheimer-Snyder Model of Black Holes* - Milena Skvortsova
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Emergent gravity from the correlation of spin-$\tfrac{1}{2}$ systems coupled with a scalar field* - Quentin Ansel
 
 1. [[2405.02380]](https://arxiv.org/abs/2405.02380) - *Emergent gravity from the correlation of spin-$\tfrac{1}{2}$ systems  coupled with a scalar field* - Quentin Ansel
