@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/15/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Schwarzschild black hole revisited: Before the complete collapse* - J. Ovalle
+
+
+
 ### Tue - 05/14/24
 
 #### Loop quantum gravity related papers
