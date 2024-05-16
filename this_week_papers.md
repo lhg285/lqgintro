@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/16/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Time Evolution in Canonical Quantum Gravity is Trivial**
+ - **Authors:** Ali Kaya
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ The Wheeler-DeWitt equation does not describe any explicit time evolution of the wave function, and somehow related to this issue, there is no natural way of defining an invariant inner product that provides a viable probability interpretation. We show that both of these difficulties are solved in a covariant canonical formulation of general relativity where the configuration space is extended by introducing the embedding coordinates as dynamical variables. The formalism describes the evolution of the wave function from one spacelike slice to another, but as in the case of spatial diffeomorphisms this is simply implemented by a coordinate change in the wave function. We demonstrate how the time equation disappears after gauge fixing that removes the embedding coordinates. These findings indicate that the time evolution is trivial in a background independent formulation of quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 05/15/24
 
 #### Loop quantum gravity related papers

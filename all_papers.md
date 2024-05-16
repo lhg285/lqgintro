@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Time Evolution in Canonical Quantum Gravity is Trivial* - Ali Kaya
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quasinormal Frequencies of Fields with Various Spin in the Quantum Oppenheimer-Snyder Model of Black Holes* - Milena Skvortsova
 
 1. [[]](https://arxiv.org/abs/) - *Title:
