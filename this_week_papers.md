@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/17/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          All-order splits and multi-soft limits for particle and string amplitudes* - Nima Arkani-Hamed, Carolina Figueiredo
+
+
+
 ### Thu - 05/16/24
 
 #### Loop quantum gravity related papers
