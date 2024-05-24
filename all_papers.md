@@ -13,6 +13,9 @@ permalink: /all_papers/
           Constraining regularization ambiguities in Loop Quantum Cosmology via CMB* - Bao-Fei Li, Meysam Motaharfar, Parampreet Singh
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Constraining regularization ambiguities in Loop Quantum Cosmology via CMB* - Bao-Fei Li, Meysam Motaharfar, Parampreet Singh
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Time Evolution in Canonical Quantum Gravity is Trivial* - Ali Kaya
 
 1. [[]](https://arxiv.org/abs/) - *Title:
