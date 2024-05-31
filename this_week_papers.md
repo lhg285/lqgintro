@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/31/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Listening to Quantum Gravity?* - Lawrence M. Krauss, Francesco Marino, Samuel L. Braunstein, Mir Faizal, Naveed A. Shah
+
+
+
 ### Thu - 05/30/24
 
 #### Loop quantum gravity related papers
