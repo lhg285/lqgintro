@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 06/05/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Huge BPS Operators and Fluid Dynamics in $\mathcal{N}=4$ SYM* - Vladimir Kazakov, Harish Murali, Pedro Vieira
+
+
+
 ### Tue - 06/04/24
 
 #### Loop quantum gravity related papers
