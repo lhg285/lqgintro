@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Knotted 4-regular graphs II: Consistent application of the Pachner moves* - Daniel Cartin
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Constraining regularization ambiguities in Loop Quantum Cosmology via CMB* - Bao-Fei Li, Meysam Motaharfar, Parampreet Singh
 
 1. [[]](https://arxiv.org/abs/) - *Title:
