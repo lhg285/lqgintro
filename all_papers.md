@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          A generalized uncertainty-inspired quantum black hole* - Federica Fragomeno, Douglas M. Gingrich, Samantha Hergott, Saeed Rastgoo, Evan Vienneau
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Knotted 4-regular graphs II: Consistent application of the Pachner moves* - Daniel Cartin
 
 1. [[]](https://arxiv.org/abs/) - *Title:

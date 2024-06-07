@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/07/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          A generalized uncertainty-inspired quantum black hole**
+ - **Authors:** Federica Fragomeno, Douglas M. Gingrich, Samantha Hergott, Saeed Rastgoo, Evan Vienneau
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We derive the full spacetime metric of a generalized uncertainty-inspired quantum black hole. We examine a previous model of the interior in this approach and show that extending its metric to the full spacetime leads to serious issues in the asymptotic region. To remedy this, we introduce an "improved scheme" mimicking a similar prescription used in loop quantum gravity, where the quantum parameters are made momentum-dependent. Under this scheme, we rework the interior of the black hole and extend it to the full spacetime. We find that the resulting metric is asymptotically flat and its associated Kretschmann scalar is regular everywhere. We also show that the null expansion and Raychaudhuri equation are regular everywhere in this spacetime, implying that the classical singularity is resolved. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 06/06/24
 
 #### Loop quantum gravity related papers
