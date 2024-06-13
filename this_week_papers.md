@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/13/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Casimir Wormholes with GUP Correction in the Loop Quantum Cosmology**
+ - **Authors:** Celio R. Muniz, Takol Tangphati, R. M. P. Neves, M. B. Cruz
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper, we obtain novel traversable, static, and spherically symmetric wormhole solutions, derived from the effective energy density and isotropic pressure resulting from the Casimir effect, corrected by the Generalized Uncertainty Principle (GUP) within the framework of Loop Quantum Cosmology (LQC). The goal is to explore the interplay between competing quantum gravity effects and quantum vacuum phenomena in the emergence of non-trivial spacetime structures. We examine features such as traversability, embedding diagrams, energy conditions, curvature, and stability of the obtained solutions. Additionally, we analyze the junction conditions required to integrate the wormhole spacetime with an external Schwarzschild spacetime and calculate the amount of exotic matter needed to maintain the wormhole. Finally, we evaluate the conditions under which this latter remains visible or is hidden by the event horizon associated with the Schwarzschild spacetime. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Light rings and causality for nonsingular ultracompact objects sourced by nonlinear electrodynamics* - Sebastian Murk, Ioannis Soranidis
+
+
+
 ### Wed - 06/12/24
 
 #### Loop quantum gravity related papers
