@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/14/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Foundational Issues in Group Field Theory**
+ - **Authors:** Álvaro Mozota Frauca
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); History and Philosophy of Physics (physics.hist-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper I offer an introduction to group field theory (GFT) and to some of the issues affecting the foundations of this approach to quantum gravity. I first introduce covariant GFT as the theory that one obtains by interpreting the amplitudes of certain spin foam models as Feynman amplitudes in a perturbative expansion. However, I argue that it is unclear that this definition of GFTs amounts to something beyond a computational rule for finding these transition amplitudes and that GFT doesn't seem able to offer any new insight into the foundations of quantum gravity. Then, I move to another formulation of GFT which I call canonical GFT and which uses the standard structures of quantum mechanics. This formulation is of extended use in cosmological applications of GFT, but I argue that it is only heuristically connected with the covariant version and spin foam models. Moreover, I argue that this approach is affected by a version of the problem of time which raises worries about its viability. Therefore, I conclude that there are serious concerns about the justification and interpretation of GFT in either version of it. 
+
+#### Spin foam related papers
+
+#### **Title:
+          Foundational Issues in Group Field Theory**
+ - **Authors:** Álvaro Mozota Frauca
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); History and Philosophy of Physics (physics.hist-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper I offer an introduction to group field theory (GFT) and to some of the issues affecting the foundations of this approach to quantum gravity. I first introduce covariant GFT as the theory that one obtains by interpreting the amplitudes of certain spin foam models as Feynman amplitudes in a perturbative expansion. However, I argue that it is unclear that this definition of GFTs amounts to something beyond a computational rule for finding these transition amplitudes and that GFT doesn't seem able to offer any new insight into the foundations of quantum gravity. Then, I move to another formulation of GFT which I call canonical GFT and which uses the standard structures of quantum mechanics. This formulation is of extended use in cosmological applications of GFT, but I argue that it is only heuristically connected with the covariant version and spin foam models. Moreover, I argue that this approach is affected by a version of the problem of time which raises worries about its viability. Therefore, I conclude that there are serious concerns about the justification and interpretation of GFT in either version of it. 
+
 ### Thu - 06/13/24
 
 #### Loop quantum gravity related papers

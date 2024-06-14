@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Foundational Issues in Group Field Theory* - Álvaro Mozota Frauca
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Universal properties of the evolution of the Universe in modified loop quantum cosmology* - Jamal Saeed, Rui Pan, Christian Brown, Gerald Clevear, Anzhong Wang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
