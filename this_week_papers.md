@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/20/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravastar model in Krori-Barua metric under $f(Q)$ gravity* - Debasmita Mohanty, P.K. Sahoo
+
+
+
 ### Wed - 06/19/24
 
 #### Loop quantum gravity related papers
