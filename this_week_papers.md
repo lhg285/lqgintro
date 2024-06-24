@@ -6,7 +6,7 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 06/21/24
+### Mon - 06/24/24
 
 #### Loop quantum gravity related papers
 
@@ -21,69 +21,11 @@ There is no new related paper today
 #### Other related papers
 
 1. [[]](https://arxiv.org/abs/) - *Title:
-          Gravastar model in Krori-Barua metric under $f(Q)$ gravity* - Debasmita Mohanty, P.K. Sahoo
-
-
-
-### Thu - 06/20/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Gravastar model in Krori-Barua metric under $f(Q)$ gravity* - Debasmita Mohanty, P.K. Sahoo
-
-
-
-### Wed - 06/19/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Gravastar model in Krori-Barua metric under $f(Q)$ gravity* - Debasmita Mohanty, P.K. Sahoo
-
-
-
-### Tue - 06/18/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Mon - 06/17/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
+          FeynGrav 3.0* - Boris Latosh
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/06/17/archived_weekly_papers.html)
+
+
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/06/24/archived_weekly_papers.html)
