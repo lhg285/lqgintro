@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 06/25/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          FeynGrav 3.0* - Boris Latosh
+
+
+
 ### Mon - 06/24/24
 
 #### Loop quantum gravity related papers
