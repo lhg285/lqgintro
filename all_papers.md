@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Spikes and spines in 3D Lorentzian simplicial quantum gravity* - Johanna Borissova, Bianca Dittrich, Dongxue Qu, Marc Schiffer
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Foundational Issues in Group Field Theory* - Álvaro Mozota Frauca
 
 1. [[]](https://arxiv.org/abs/) - *Title:
