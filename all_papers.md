@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational waveforms from periodic orbits around a quantum-corrected black hole* - Sen Yang, Yu-Peng Zhang, Tao Zhu, Li Zhao, Yu-Xiao Liu
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Efficient Tensor Network Algorithms for Spin Foam Models* - Seth K. Asante, Sebastian Steinhaus
 
 1. [[]](https://arxiv.org/abs/) - *Title:

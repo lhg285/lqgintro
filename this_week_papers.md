@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/03/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Gravitational waveforms from periodic orbits around a quantum-corrected black hole**
+ - **Authors:** Sen Yang, Yu-Peng Zhang, Tao Zhu, Li Zhao, Yu-Xiao Liu
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Extreme mass-ratio inspirals are crucial sources for future space-based gravitational wave detections. Gravitational waveforms emitted by extreme mass-ratio inspirals are closely related to the orbital dynamics of small celestial objects, which vary with the underlying spacetime geometry. Despite the tremendous success of general relativity, there are unsolved issues such as singularities in both black holes and cosmology. Loop quantum gravity, a theory addressing these singularity problems, offers a framework for regular black holes. In this paper, we focus on periodic orbits of a small celestial object around a supermassive quantum-corrected black hole in loop quantum gravity and compute the corresponding gravitational waveforms. We view the small celestial object as a massive test particle and obtain its four-velocity and effective potential. Our results indicate that the quantum parameter $\hat{\alpha}$ influences the shape of the effective potential. We explore the effects of quantum corrections on marginally bound orbits, innermost stable circular orbits, and other periodic orbits. Using the numerical kludge scheme, we further explore the gravitational waveforms of the small celestial object along different periodic orbits. The waveforms exhibit distinct zoom and whirl phases in a complete orbital period, closely tied to the quantum parameter $\hat{\alpha}$. We also perform a spectral analysis of the gravitational waves from these periodic orbits and assess their detectability. With the steady progress of space-based gravitational wave detection programs, our findings will contribute to utilizing extreme mass-ratio inspirals to test and understand the properties of quantum-corrected black holes. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 07/02/24
 
 #### Loop quantum gravity related papers
