@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 07/09/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Relational dynamics and Page-Wootters formalism in group field theory**
+ - **Authors:** Andrea Calcinari, Steffen Gielen
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Group field theory posits that spacetime is emergent and is hence defined without any background notion of space or time; dynamical questions are formulated in relational terms, in particular using (scalar) matter degrees of freedom as time. Unlike in canonical quantisation of gravitational systems, there is no obvious notion of coordinate transformations or constraints, and established quantisation methods cannot be directly applied. As a result, different canonical formalisms for group field theory have been discussed in the literature. We address these issues using a parametrised version of group field theory, in which all (geometry and matter) degrees of freedom evolve in a fiducial parameter. There is a constraint associated to the freedom of reparametrisation and the Dirac quantisation programme can be implemented. Using the "trinity of relational dynamics", we show that the resulting "clock-neutral" theory is entirely equivalent to a deparametrised canonical group field theory, interpreted in terms of the Page-Wootters formalism. Our results not only show that the deparametrised quantisation is fully covariant and can be seen as encoding the dynamics of joint quantum matter and geometry degrees of freedom, they also appear to be the first application of the Page-Wootters formalism directly to quantum gravity. We show extensions to a setting in which many independent gauge symmetries are introduced, which connects to the "multi-fingered time" idea in quantum gravity and provides a somewhat novel extension of the Page-Wootters formalism. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Fluctuations and Correlations in Causal Set Theory* - Heidar Moradi, Yasaman K. Yazdi, Miguel Zilhão
+
+
+
 ### Mon - 07/08/24
 
 #### Loop quantum gravity related papers
