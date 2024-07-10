@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/10/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Higher-Dimensional MOG dark compact object: shadow behavior in the light of EHT observations* - Kourosh Nozari, Sara Saghafi, Ali Mohammadpour
+
+
+
 ### Tue - 07/09/24
 
 #### Loop quantum gravity related papers
