@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/11/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quasinormal modes and gray-body factors of regular black holes in asymptotically safe gravity* - Oleksandr Stashko
+
+
+
 ### Wed - 07/10/24
 
 #### Loop quantum gravity related papers
