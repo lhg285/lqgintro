@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/12/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Quantum cosmology as a lattice in a box**
+ - **Authors:** Mustafa Saeed, Viqar Husain
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We describe quantization schemes for scalar field cosmology in the metric variables with fundamental discreteness imposed with a lattice. The variables chosen for quantization determine the lattice, and each lattice produces its own "effective" equations derived from semiclassical states. We show that requiring a bounce at the Planck density uniquely selects the volume lattice and gives the same effective Friedmann equation as that obtained in loop quantum cosmology. We also present conditions for the validity of the effective equations. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular Electric Black Holes from EMS Gravity* - Zhi-Chao Li, H. Lu
+
+
+
 ### Thu - 07/11/24
 
 #### Loop quantum gravity related papers
