@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 07/16/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          A Cordial Introduction to Double Scaled SYK* - Micha Berkooz, Ohad Mamroud
+
+
+
 ### Mon - 07/15/24
 
 #### Loop quantum gravity related papers
