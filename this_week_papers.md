@@ -6,6 +6,39 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/19/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Emergent modified gravity: Polarized Gowdy model on a torus**
+ - **Authors:** Martin Bojowald, Erick I. Duque
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ New covariant theories of emergent modified gravity exist not only in spherically symmetric models, as previously found, but also in polarized Gowdy systems that have a local propagating degree of freedom. Several explicit versions are derived here, depending on various modification functions. These models do not have instabilities from higher time derivatives, and a large subset is compatible with gravitational waves and minimally coupled massless matter fields travelling at the same speed. Interpreted as models of loop quantum gravity, covariant Hamiltonian constraints derived from the covariance conditions found in polarized Gowdy systems are more restricted than those in spherical symmetry, requiring new forms of holonomy modifications with an anisotropy dependence that has not been considered before. Assuming homogeneous space, the models provide access to the full anisotropy parameters of modified Bianchi I dynamics, in which case different fates of the classical singularity are realized depending on the specific class of modifications. 
+
+#### Spin foam related papers
+
+#### **Title:
+          Spikes and spines in 4D Lorentzian simplicial quantum gravity**
+ - **Authors:** Johanna Borissova, Bianca Dittrich, Dongxue Qu, Marc Schiffer
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Simplicial approaches to quantum gravity such as quantum Regge calculus and spin foams include configurations where bulk edges can become arbitrarily large while the boundary edges are kept small. Spikes and spines are prime examples for such configurations. They pose a significant challenge for a desired continuum limit, for which the average lengths of edges ought to become very small. Here we investigate spike and spine configurations in four-dimensional Lorentzian quantum Regge calculus. We find that the expectation values of arbitrary powers of the bulk length are finite. To that end, we explore new types of asymptotic regimes for the Regge amplitudes, in which some of the edges are much larger than the remaining ones. The amplitudes simplify considerably in such asymptotic regimes and the geometric interpretation of the resulting expressions involves a dimensional reduction, which might have applications to holography. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Minimal-length quantum field theory: a first-principle approach* - Pasquale Bosso
+
+
+
 ### Thu - 07/18/24
 
 #### Loop quantum gravity related papers
