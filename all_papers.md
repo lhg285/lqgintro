@@ -13,6 +13,9 @@ permalink: /all_papers/
           Quantizing the Bosonic String on a Loop Quantum Gravity Background* - Deepak Vaid, Luigi Teixeira de Sousa
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantizing the Bosonic String on a Loop Quantum Gravity Background* - Deepak Vaid, Luigi Teixeira de Sousa
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Black holes in effective loop quantum gravity: Covariant holonomy modifications* - Idrus Husin Belfaqih, Martin Bojowald, Suddhasattwa Brahma, Erick I. Duque
 
 1. [[]](https://arxiv.org/abs/) - *Title:
