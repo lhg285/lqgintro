@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/24/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Fractional Holographic Dark Energy* - Oem Trivedi, Ayush Bidlan, Paulo Moniz
+
+
+
 ### Tue - 07/23/24
 
 #### Loop quantum gravity related papers
