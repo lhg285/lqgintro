@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/25/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          A better space of generalized connections**
+ - **Authors:** Juan Orendain, Jose A. Zapata
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Lattice (hep-lat)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Given a base manifold $M$ and a Lie group $G$, we define $\widetilde{\cal A}_M$ a space of generalized $G$-connections on $M$ with the following properties: - The space of smooth connections ${\cal A}^\infty_M = \sqcup_\pi {\cal A}^\infty_\pi$ is densely embedded in $\widetilde{\cal A}_M = \sqcup_\pi \widetilde{\cal A}^\infty_\pi$; moreover, in contrast with the usual space of generalized connections, the embedding preserves topological sectors. - It is a homogeneous covering space for the standard space of generalized connections of loop quantization $\bar{\cal A}_M$. - It is a measurable space constructed as an inverse limit of of spaces of connections with a cutoff, much like $\bar{\cal A}_M$. At each level of the cutoff, a Haar measure, a BF measure and heat kernel measures can be defined. - The topological charge of generalized connections on closed manifolds $Q= \int Tr(F)$ in 2d, $Q= \int Tr(F \wedge F)$ in 4d, etc, is defined. - On a subdivided manifold, it can be calculated in terms of the spaces of generalized connections associated to its pieces. Thus, spaces of boundary connections can be computed from spaces associated to faces. - The soul of our generalized connections is a notion of higher homotopy parallel transport defined for smooth connections. We recover standard generalized connections by forgetting its higher levels. - Higher levels of our higher gauge fields are often trivial. Then $\widetilde{\cal A}_\Sigma = \bar{\cal A}_\Sigma$ for $\dim \Sigma = 3$ and $G=SU(2)$, but $\widetilde{\cal A}_M \neq \bar{\cal A}_M$ for $\dim M = 4$ and $G=SL(2, {\mathbb C})$ or $G=SU(2)$. Boundary data for loop quantum gravity is consistent with our space of generalized connections, but a path integral for quantum gravity with Lorentzian or euclidean signatures would be sensitive to homotopy data. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational waves from black hole emission* - Tousif Islam, Gaurav Khanna, Steven L. Liebling
+
+
+
 ### Wed - 07/24/24
 
 #### Loop quantum gravity related papers
