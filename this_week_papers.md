@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/26/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Monte Carlo studies of quantum cosmology by the generalized Lefschetz thimble method* - Chien-Yu Chou, Jun Nishimura
+
+
+
 ### Thu - 07/25/24
 
 #### Loop quantum gravity related papers
