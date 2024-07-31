@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/31/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          A Distance Conjecture for Branes* - Muldrow Etheredge, Ben Heidenreich, Tom Rudelius
+
+
+
 ### Tue - 07/30/24
 
 #### Loop quantum gravity related papers
