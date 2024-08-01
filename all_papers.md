@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Non-singular naked solutions in quantum spacetime* - I. P. R. Baranov, H. A. Borges, F. C. Sobrinho, S. Carneiro
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quantizing the Bosonic String on a Loop Quantum Gravity Background* - Deepak Vaid, Luigi Teixeira de Sousa
 
 1. [[]](https://arxiv.org/abs/) - *Title:
