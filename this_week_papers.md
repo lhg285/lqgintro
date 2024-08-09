@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/09/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          A new quantization scheme of black holes in effective loop quantum gravity**
+ - **Authors:** Wen-Cong Gan, Anzhong Wang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Astrophysics of Galaxies (astro-ph.GA); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Loop quantum cosmology has achieved great successes, in which the polymerization plays a crucial role. In particular, the phase-space-variable dependent polymerization turns out to be the unique one that leads to consistent quantization of the homogeneous and isotropic universe. However, when applying the same scheme to the quantization of black holes, it meets resistances. In this paper, we continue to study the quantum effects of the polymerization near the location that a classical black hole horizon used to exist, from the point of view of effective loop quantum gravity. In particular, we find a phase-space-variable dependent polymerization scheme that leads to negligible quantum effects near the location of the classical black hole horizon, but significantly alters the spacetime structure near the origin, so that the classical singularity is finally replaced by a finite and regular transition surface. The final geodesically-complete spacetime consists of a regular transition surface that connects a black hole in one side and an anti-trapped region in the other side. In the anti-trapped region, no white hole horizons are found and the spacetime is extended to infinity, at which the geometric radius of the two-spheres becomes infinitely large. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Secondary Gravitational Waves in Non-local Starobinsky inflation* - Andrea Addazi, Alexey S. Koshelev, Shi Pi, Anna Tokareva
+
+
+
 ### Thu - 08/08/24
 
 #### Loop quantum gravity related papers
