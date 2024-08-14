@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/14/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Galaxy dynamics tracing quantum cosmology beyond $\Lambda$CDM below the de Sitter scale of acceleration* - Maurice H.P.M. van Putten
+
+
+
 ### Tue - 08/13/24
 
 #### Loop quantum gravity related papers
