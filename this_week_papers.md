@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/15/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Properties of dynamical regular black holes in semiclassical gravity* - Ioannis Soranidis
+
+
+
 ### Wed - 08/14/24
 
 #### Loop quantum gravity related papers
