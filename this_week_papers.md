@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/16/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum Gravitational Corrections in Cosmology* - Xavier Calmet, Roberto Casadio, Marco Sebastianutti
+
+
+
 ### Thu - 08/15/24
 
 #### Loop quantum gravity related papers
