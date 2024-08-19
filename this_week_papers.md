@@ -6,75 +6,18 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 08/16/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Quantum Gravitational Corrections in Cosmology* - Xavier Calmet, Roberto Casadio, Marco Sebastianutti
-
-
-
-### Thu - 08/15/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Properties of dynamical regular black holes in semiclassical gravity* - Ioannis Soranidis
-
-
-
-### Wed - 08/14/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Galaxy dynamics tracing quantum cosmology beyond $\Lambda$CDM below the de Sitter scale of acceleration* - Maurice H.P.M. van Putten
-
-
-
-### Tue - 08/13/24
+### Mon - 08/19/24
 
 #### Loop quantum gravity related papers
 
 #### **Title:
-          Spherically symmetric loop quantum gravity: Schwarzschild spacetimes with a cosmological constant**
- - **Authors:** Esteban Mato, Javier Olmedo, Sahil Saini
+          Static and stationary loop quantum black bounces**
+ - **Authors:** C.R. Muniz, G. Alencar, M.S. Cunha, Gonzalo J. Olmo
  - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
  - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
  - **Abstract**
- We provide a quantization of the Schwarzschild spacetime in the presence of a cosmological constant, based on midisuperspace methods developed in the spherically symmetric sector of loop quantum gravity, using in particular the 'improved dynamics' scheme. We include both the deSitter and anti-deSitter cases. We find that the quantization puts a Planckian upper limit on the possible values of a positive cosmological constant similar to the bounds obtained earlier from studies of homogeneous spacetimes with a cosmological constant. Using semiclassical physical states, we obtain the effective metric and demonstrate the causal structure for various cases. Quantum gravity modifications ensure that the singularity is replaced by a transition surface in all the cases, where the curvature invariants approach mass-independent Planckian bounds. Analysis of the effective stress-energy tensor shows that the null energy condition is violated in the vicinity of the transition surface. 
+ We explore a static and stationary black bounce geometry inspired by Loop Quantum Gravity (LQG), focusing on how LQG corrections and regularization parameters affect its properties. Building on the spherically symmetric and static black hole solution from \cite{Kelly:2020uwj}, we trace its origin to Non-Linear Electrodynamics (NED) with electric and magnetic charges and check the energy conditions (NEC, WEC, SEC). By extending the geometry using the Simpson-Visser procedure, we construct a black hole-wormhole bounce structure, influenced by LQG parameters. We analyze the horizon structure to constrain parameters for black holes and wormholes, and examine curvature and new sources including a phantom-type scalar field to ensure spacetime regularity and adherence to energy conditions. Thermodynamic properties are also studied, revealing the existence of remnants and phase transitions. Additionally, we derive a rotating black bounce solution, verifying its regularity, and putting forward that the spherical bouncing surface turns into an ellipsoid with no ring singularity. Finally, we find that increasing the LQG parameter leads to smaller ergospheres and reduced shadows, with potential implications for observational astrophysics and quantum gravitational signatures. 
 
 #### Spin foam related papers
 
@@ -82,40 +25,5 @@ There is no new related paper today
 
 
 
-#### Other related papers
 
-1. [[]](https://arxiv.org/abs/) - *Title:
-          A New Approach for Calculation of Quasi-Normal Modes and Topological Charges of Regular Black Holes* - MY Zhang, F Hosseinifar, H Chen, T Sathiyaraj, H Hassanabadi
-
-
-
-### Mon - 08/12/24
-
-#### Loop quantum gravity related papers
-
-#### **Title:
-          Spherically symmetric loop quantum gravity: Schwarzschild spacetimes with a cosmological constant**
- - **Authors:** Esteban Mato, Javier Olmedo, Sahil Saini
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
- - **Abstract**
- We provide a quantization of the Schwarzschild spacetime in the presence of a cosmological constant, based on midisuperspace methods developed in the spherically symmetric sector of loop quantum gravity, using in particular the 'improved dynamics' scheme. We include both the deSitter and anti-deSitter cases. We find that the quantization puts a Planckian upper limit on the possible values of a positive cosmological constant similar to the bounds obtained earlier from studies of homogeneous spacetimes with a cosmological constant. Using semiclassical physical states, we obtain the effective metric and demonstrate the causal structure for various cases. Quantum gravity modifications ensure that the singularity is replaced by a transition surface in all the cases, where the curvature invariants approach mass-independent Planckian bounds. Analysis of the effective stress-energy tensor shows that the null energy condition is violated in the vicinity of the transition surface. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          A New Approach for Calculation of Quasi-Normal Modes and Topological Charges of Regular Black Holes* - MY Zhang, F Hosseinifar, H Chen, T Sathiyaraj, H Hassanabadi
-
-
-
-
-
-
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/08/12/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/08/19/archived_weekly_papers.html)

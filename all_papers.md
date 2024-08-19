@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Static and stationary loop quantum black bounces* - C.R. Muniz, G. Alencar, M.S. Cunha, Gonzalo J. Olmo
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Non-singular naked solutions in quantum spacetime* - I. P. R. Baranov, H. A. Borges, F. C. Sobrinho, S. Carneiro
 
 1. [[]](https://arxiv.org/abs/) - *Title:
