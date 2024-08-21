@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/21/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Yang-Mills extension of the Loop Quantum Gravity-corrected Maxwell equations**
+ - **Authors:** G. L. L. W. Levy, José A. Helayël-Neto
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper, we endeavour to build up a non-Abelian formulation to describe the self-interactions of massless vector bosons in the context of Loop Quantum Gravity (LQG). To accomplish this task, we start off from the modified Maxwell equations with the inclusion of LQG corrections and its corresponding local $U(1)$ gauge invariance. LQG effects in the electromagnetic interactions have significant importance, as they might be adopted to describe the flight time of cosmic photons coming from very high-energy explosions in the Universe, such as events of Gamma-Ray Bursts (GRBs). These photons have energy-dependent speeds, indicating that the velocity of light in the vacuum is not constant. To carry out the extension from the Abelian to the non-Abelian scenario, we shall follow the so-called Noether current procedure, which consists in recurrently introducing self-interactions into an initially free action for vector bosons by coupling the latter to the conserved currents of a global symmetry present in the action of departure. In the end of the non-Abelianization process, the initial global symmetry naturally becomes local. Once the Yang-Mills system includes LQG correction terms, it becomes possible to analyze how quantum-gravity induced contributions show up in both the electroweak and the QCD sectors of the Standard Model, providing a set-up for phenomenological investigations that may bring about new elements to discuss Physics beyond the Standard-Model. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 08/20/24
 
 #### Loop quantum gravity related papers

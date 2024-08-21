@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Yang-Mills extension of the Loop Quantum Gravity-corrected Maxwell equations* - G. L. L. W. Levy, José A. Helayël-Neto
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Static and stationary loop quantum black bounces* - C.R. Muniz, G. Alencar, M.S. Cunha, Gonzalo J. Olmo
 
 1. [[]](https://arxiv.org/abs/) - *Title:
