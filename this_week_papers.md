@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/22/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational lensing effect of black holes in effective quantum gravity* - Hao Liu, Meng-Yun Lai, Xiao-Yin Pan, Hyat Huang, De-Cheng Zou
+
+
+
 ### Wed - 08/21/24
 
 #### Loop quantum gravity related papers
