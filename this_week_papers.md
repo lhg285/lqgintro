@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/23/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          $\kappa$-General-Relativity I: a Non-Commutative GR Theory with the $\kappa$-Minkowski Spacetime as its Flat Limit* - Daniel Rozental, Ofek Birnholtz
+
+
+
 ### Thu - 08/22/24
 
 #### Loop quantum gravity related papers
