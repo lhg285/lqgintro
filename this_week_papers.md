@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 08/27/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          A note on the stability of the Cauchy horizon in regular black holes without mass inflation* - Mohsen Khodadi, Javad T. Firouzjaee
+
+
+
 ### Mon - 08/26/24
 
 #### Loop quantum gravity related papers
