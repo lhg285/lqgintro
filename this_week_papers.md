@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/28/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Matching the Vilkovisky-DeWitt Effective Action of Quantum Gravity to String Theory* - Xavier Calmet, Elias Kiritsis, Folkert Kuipers, Dieter Lust
+
+
+
 ### Tue - 08/27/24
 
 #### Loop quantum gravity related papers
