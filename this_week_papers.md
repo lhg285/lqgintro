@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/29/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Traces of Quantum Gravity Effects at Late time Cosmological Dynamics via Distance Measures* - Maryam Roushan, Narges Rashidi, Kourosh Nozari
+
+
+
 ### Wed - 08/28/24
 
 #### Loop quantum gravity related papers
