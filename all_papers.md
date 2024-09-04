@@ -16,6 +16,9 @@ permalink: /all_papers/
           Effective geometry of Bell-network states on a dipole graph* - Bekir Baytaş, Nelson Yokomizo
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Effective geometry of Bell-network states on a dipole graph* - Bekir Baytaş, Nelson Yokomizo
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Yang-Mills extension of the Loop Quantum Gravity-corrected Maxwell equations* - G. L. L. W. Levy, José A. Helayël-Neto
 
 1. [[]](https://arxiv.org/abs/) - *Title:
