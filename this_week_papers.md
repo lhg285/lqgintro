@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/05/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Primordial regular black holes as all the dark matter (I): tr-symmetric metrics**
+ - **Authors:** Marco Calzà, Davide Pedrotti, Sunny Vagnozzi
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Primordial black holes (PBHs) are usually assumed to be described by the Schwarzschild or Kerr metrics, which however feature unwelcome singularities. We study the possibility that PBHs are non-singular objects, considering four phenomenological, regular tr-symmetric space-times, featuring either de Sitter or Minkowski cores. We characterize the evaporation of these PBHs and constrain their abundance from $\gamma$-ray observations. For three of the metrics, including the well-known Bardeen and Hayward ones, we show that constraints on $f_{\text{pbh}}$, the fraction of dark matter (DM) in the form of PBHs, weaken with respect to the Schwarzschild limits, because of modifications to the PBH temperature and greybody factors. This moves the lower edge of the asteroid mass window down by up to an order of magnitude, leading to a much larger region of parameter space where PBHs can make up all the DM. A companion paper is instead devoted to non-tr-symmetric metrics, including loop quantum gravity-inspired ones. Our work provides a proof-of-principle for the interface between the DM and singularity problems being a promising arena with a rich phenomenology. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Stochastic Dark Matter: Covariant Brownian Motion from Planckian Discreteness* - Emma Albertini, Arad Nasiri, Emanuele Panella
+
+
+
 ### Wed - 09/04/24
 
 #### Loop quantum gravity related papers
