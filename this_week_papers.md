@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/06/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum gravity effects on particle creation and evaporation in a non-commutative black hole via mass deformation* - A. A. Araújo Filho, N. Heidari, Ali Övgün
+
+
+
 ### Thu - 09/05/24
 
 #### Loop quantum gravity related papers
