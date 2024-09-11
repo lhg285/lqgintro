@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational lensing in holonomy corrected spherically symmetric black holes with phantom global monopoles* - Faizuddin Ahmed
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Effective geometry of Bell-network states on a dipole graph* - Bekir Baytaş, Nelson Yokomizo
 
 1. [[]](https://arxiv.org/abs/) - *Title:
