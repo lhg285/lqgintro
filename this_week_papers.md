@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/12/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Signatures from the observed jet power and the radiative efficiency for rotating black holes in loop quantum gravity**
+ - **Authors:** Zhengwei Cheng, Songbai Chen, Jiliang Jing
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We study the radiative efficiency and the jet power in the spacetime of the rotating black hole in loop quantum gravity (LQG), which has an extra LQG parameter. It is shown that with the increase of the LQG parameter, the conversion efficiency decreases for the slowly rotating black hole, but increases for the rapidly rotating black hole, the jet power increases for different black hole spins. With the observed data from the well-known sources A0620-00, H1743-322, XTE J1550-564, GRS1124-683, GRO J1655-40, and GRS1915+105, we make some constraints on the black hole spin parameter and the LQG parameter. The presence of the LQG parameter broadens the allowed range of the black hole spin parameter for sources A0620-00, H1743-322, XTE J1550-564 and GRO J1655-40. However, for the source GRS 1915+105, there is no overlap between observational constrain parameter regions, which implies that the rotating LQG black hole cannot simultaneously account for the observed jet power and the radiative efficiency as in other black hole spacetimes. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Accelerated detector in a superposed spacetime* - Lakshay Goel, Everett A. Patterson, María Rosa Preciado-Rivas, Mahdi Torabian, Robert B. Mann, Niayesh Afshordi
+
+
+
 ### Wed - 09/11/24
 
 #### Loop quantum gravity related papers
