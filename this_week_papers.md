@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/13/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Probing Quantum Gravity Effects with Eccentric Extreme Mass-Ratio Inspirals**
+ - **Authors:** Guoyang Fu, Yunqi Liu, Bin Wang, Jian-Pin Wu, Chao Zhang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper, we investigate the impact of loop quantum gravity (LQG) on extreme mass-ratio inspirals (EMRIs), and the results indicate that LQG effects cause the orbital decay to occur faster compared to the Schwarzschild case. Furthermore, we use the augmented analytic kludge approach to generate EMRI waveforms and study the LISA's capability to detect the LQG effect with faithfulness. Additionally, employing the Fisher information matrix method for parameter estimation, we estimate that after one year of observation, the uncertainty in $r_0$ reduces to approximately $6.59\times 10^{-4}$ with a signal-to-noise ratio of $49$. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 09/12/24
 
 #### Loop quantum gravity related papers

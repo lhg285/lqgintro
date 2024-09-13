@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Probing Quantum Gravity Effects with Eccentric Extreme Mass-Ratio Inspirals* - Guoyang Fu, Yunqi Liu, Bin Wang, Jian-Pin Wu, Chao Zhang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Gravitational lensing in holonomy corrected spherically symmetric black holes with phantom global monopoles* - Faizuddin Ahmed
 
 1. [[]](https://arxiv.org/abs/) - *Title:
