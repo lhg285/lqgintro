@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/17/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          $SU(\infty)$ Quantum Gravity and Cosmology* - Houri Ziaeepour
+
+
+
 ### Mon - 09/16/24
 
 #### Loop quantum gravity related papers
