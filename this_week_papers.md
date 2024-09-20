@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/20/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Geometry-Information Duality: Quantum Entanglement Contributions to Gravitational Dynamics* - Florian Neukart
+
+
+
 ### Thu - 09/19/24
 
 #### Loop quantum gravity related papers
