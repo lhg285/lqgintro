@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/24/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Exploring Nonlinear Electrodynamics Theories: Shadows of Regular Black Holes and Horizonless Ultra-Compact Objects* - Rahul Kumar Walia
+
+
+
 ### Mon - 09/23/24
 
 #### Loop quantum gravity related papers
