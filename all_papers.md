@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          The black hole shadow of quantum Oppenheimer-Snyder-de Sitter spacetime* - Shu Luo
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Probing Quantum Gravity Effects with Eccentric Extreme Mass-Ratio Inspirals* - Guoyang Fu, Yunqi Liu, Bin Wang, Jian-Pin Wu, Chao Zhang
 
 1. [[]](https://arxiv.org/abs/) - *Title:

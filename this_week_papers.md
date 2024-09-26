@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/26/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          The black hole shadow of quantum Oppenheimer-Snyder-de Sitter spacetime**
+ - **Authors:** Shu Luo
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this study, we investigate the black hole shadow of an exact black hole solution of the loop quantum gravity (LQG) theory. We discuss some of its optical characteristics after generalizing it to the rotational case, including null geodesics and black hole shadow. From these we can compare the impact of different theories on the most deeply understood characteristics of the black hole and get a new way to test the accuracy of the modified gravity theory. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 09/25/24
 
 #### Loop quantum gravity related papers
