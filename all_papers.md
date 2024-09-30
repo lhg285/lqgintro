@@ -13,6 +13,9 @@ permalink: /all_papers/
           Eccentric extreme mass-ratio inspirals: A gateway to probe quantum gravity effects* - Tieguang Zi, Shailesh Kumar
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Eccentric extreme mass-ratio inspirals: A gateway to probe quantum gravity effects* - Tieguang Zi, Shailesh Kumar
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           The black hole shadow of quantum Oppenheimer-Snyder-de Sitter spacetime* - Shu Luo
 
 1. [[]](https://arxiv.org/abs/) - *Title:
