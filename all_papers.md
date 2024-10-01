@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Comparing Analytic and Numerical Studies of Tensor Perturbations in Loop Quantum Cosmology* - Guillermo A. Mena Marugán, Antonio Vicente-Becerril, Jesús Yébana Carrilero
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Eccentric extreme mass-ratio inspirals: A gateway to probe quantum gravity effects* - Tieguang Zi, Shailesh Kumar
 
 1. [[]](https://arxiv.org/abs/) - *Title:

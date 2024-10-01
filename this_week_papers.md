@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 10/01/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Comparing Analytic and Numerical Studies of Tensor Perturbations in Loop Quantum Cosmology**
+ - **Authors:** Guillermo A. Mena Marugán, Antonio Vicente-Becerril, Jesús Yébana Carrilero
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We investigate the implications of different quantization approaches in Loop Quantum Cosmology for the primordial power spectrum of tensor modes. Specifically, we consider the hybrid and dressed metric approaches to derive the effective mass that governs the evolution of the tensor modes. Our study comprehensively examines the two resulting effective masses and how to estimate them in order to obtain approximated analytic solutions to the tensor perturbation equations. Since Loop Quantum Cosmology incorporates preinflationary effects in the dynamics of the perturbations, we do not have at our disposal a standard choice of privileged vacuum, like the Bunch--Davies state in quasi-de Sitter inflation. We then select the vacuum state by a recently proposed criterion which removes unwanted oscillations in the power spectrum and guarantees an asymptotic diagonalization of the Hamiltonian in the ultraviolet. This vacuum is usually called the NO-AHD (from the initials of Non-Oscillating with Asymptotic Hamiltonian Diagonalization) vacuum. Consequently, we compute the power spectrum by using our analytic approximations and by introducing a suitable numerical procedure, adopting in both cases an NO-AHD vacuum. With this information, we compare the different spectra obtained from the hybrid and the dressed metric approaches, as well as from the analytic and numerical procedures. In particular, this proves the remarkable accuracy of our~approximations. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Mon - 09/30/24
 
 #### Loop quantum gravity related papers
