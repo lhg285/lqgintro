@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/02/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Subsystem entropy in 2d CFT and KdV ETH* - Liangyu Chen, Anatoly Dymarsky, Jia Tian, Huajia Wang
+
+
+
 ### Tue - 10/01/24
 
 #### Loop quantum gravity related papers
