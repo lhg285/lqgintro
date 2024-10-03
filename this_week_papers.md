@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/03/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Quasinormal modes of a charged loop quantum black hole**
+ - **Authors:** Li-Gang Zhu, Guoyang Fu, Shulan Li, Dan Zhang, Jian-Pin Wu
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ This paper systematically investigates the quasinormal modes (QNMs) of a scalar field around a charged loop quantum black hole (BH). The BH is characterized by two key parameters: the quantum parameter $b_0$ and the charge parameter $Q$. We explore two scenarios: one where the multipole quantum number $l=0$, in which only the gravitational potential is relevant, and another where $l > 0$, in which both $Q$ and $b_0$ jointly influence the quasinormal frequencies (QNFs). For $l=0$, quantum gravity effects lead to a pronounced overtone outburst in the QNFs, with the outburst and accompanying oscillatory patterns becoming more pronounced as the overtone number increases. For $l > 0$, the overtone outburst disappears due to the centrifugal potential's suppressive the quantum gravity effect. However, a non-monotonic behavior in the first two overtones with respect to $b_0$ is observed, indicating that subtle quantum gravity effects persist. This behavior vanishes as $Q$ increases, further confirming the suppressive influence of the centrifugal potential on the quantum gravity effect. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Finite-temperature CFT in Rindler Vacuum* - Iftekher S. Chowdhury, Binay Prakash Akhouri, Shah Haque, Eric Howard
+
+
+
 ### Wed - 10/02/24
 
 #### Loop quantum gravity related papers
