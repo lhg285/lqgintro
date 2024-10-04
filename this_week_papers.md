@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/04/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          The horocycle regulator: exact cutoff-independence in AdS/CFT* - Sristy Agrawal, Oliver DeWolfe, Kenneth Higginbotham, Joshua Levin
+
+
+
 ### Thu - 10/03/24
 
 #### Loop quantum gravity related papers
