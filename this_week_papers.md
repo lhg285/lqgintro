@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 10/08/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Do causal sets have symmetries?* - Christoph Minz
+
+
+
 ### Mon - 10/07/24
 
 #### Loop quantum gravity related papers
