@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/10/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Euclidean actions and static black hole entropy in teleparallel theories* - Iberê Kuntz, Gregorio Paci, Omar Zanusso
+
+
+
 ### Wed - 10/09/24
 
 #### Loop quantum gravity related papers
