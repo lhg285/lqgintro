@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/11/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Scalar Perturbations of Regular Black Holes derived from a Non-Singular Collapse Model in Asymptotic Safety* - Andrea Spina, Samuele Silveravalle, Alfio Bonanno
+
+
+
 ### Thu - 10/10/24
 
 #### Loop quantum gravity related papers
