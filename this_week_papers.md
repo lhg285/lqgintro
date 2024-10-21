@@ -6,38 +6,18 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 10/18/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Thu - 10/17/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Wed - 10/16/24
+### Mon - 10/21/24
 
 #### Loop quantum gravity related papers
 
 #### **Title:
-          The semiclassical propagator for coherent state on twisted geometry**
- - **Authors:** Gaoping Long, Hongguang Liu, Cong Zhang
+          Black Holes Inside and Out 2024: visions for the future of black hole physics**
+ - **Authors:** Niayesh Afshordi, Abhay Ashtekar, Enrico Barausse, Emanuele Berti, Richard Brito, Luca Buoninfante, Raúl Carballo-Rubio, Vitor Cardoso, Gregorio Carullo, Mihalis Dafermos, Mariafelicia De Laurentis, Adrian del Rio, Francesco Di Filippo, Astrid Eichhorn, Roberto Emparan, Ruth Gregory, Carlos A. R. Herdeiro, Jutta Kunz, Luis Lehner, Stefano Liberati, Samir D. Mathur, Samaya Nissanke, Paolo Pani, Alessia Platania, Frans Pretorius, Misao Sasaki, Paul Tiede, William Unruh, Matt Visser, Robert M. Wald
  - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
+General Relativity and Quantum Cosmology (gr-qc); High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
  - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
  - **Abstract**
- A new set of twisted geometric variables is introduced to parametrize the holonomy-flux phase space in loop quantum gravity. It is verified that these new geometric variables, after symplectic reduction with respect to the Gauss constraint, form a Poisson algebra which is analogue to that in quantum mechanics. This property ensures that these new geometric variables provide a simple path measure, upon which a new formulation of coherent state path integral based on twisted geometry coherent state is established in loop quantum gravity. Especially, this path integral is analytically computable by expanding the corresponding effective action around the complex evolution trajectories at second order, and the result gives the semi-classical approximation of the quantum propagator between twisted geometry coherent state in LQG. 
+ The gravitational physics landscape is evolving rapidly, driven by our ability to study strong-field regions, in particular black holes. Black Holes Inside and Out gathered world experts to discuss the status of the field and prospects ahead. We hope that the ideas and perspectives are a source of inspiration. Structure: Black Hole Evaporation - 50 Years by William Unruh The Stability Problem for Extremal Black Holes by Mihalis Dafermos The Entropy of Black Holes by Robert M. Wald The Non-linear Regime of Gravity by Luis Lehner Black Holes Galore in D > 4 by Roberto Emparan Same as Ever: Looking for (In)variants in the Black Holes Landscape by Carlos A. R. Herdeiro Black Holes, Cauchy Horizons, and Mass Inflation by Matt Visser The Backreaction Problem for Black Holes in Semiclassical Gravity by Adrian del Rio Black Holes Beyond General Relativity by Enrico Barausse and Jutta Kunz Black Holes as Laboratories: Searching for Ultralight Fields by Richard Brito Primordial Black Holes from Inflation by Misao Sasaki Tests of General Relativity with Future Detectors by Emanuele Berti Black Holes as Laboratories: Tests of General Relativity by Ruth Gregory and Samaya Nissanke Simulating Black Hole Imposters by Frans Pretorius Black Hole Spectroscopy: Status Report by Gregorio Carullo VLBI as a Precision Strong Gravity Instrument by Paul Tiede Testing the nature of compact objects and the black hole paradigm by Mariafelicia De Laurentis and Paolo Pani Some Thoughts about Black Holes in Asymptotic Safety by Alessia Platania Black Hole Evaporation in Loop Quantum Gravity by Abhay Ashtekar How the Black Hole Puzzles are Resolved in String Theory by Samir D. Mathur Quantum Black Holes: From Regularization to Information Paradoxes by Niayesh Afshordi and Stefano Liberati 
 
 #### Spin foam related papers
 
@@ -48,49 +28,11 @@ There is no new related paper today
 #### Other related papers
 
 1. [[]](https://arxiv.org/abs/) - *Title:
-          Shadows and parameter estimation of rotating quantum corrected black holes and constraints from EHT observation of M87* and Sgr A** - Heena Ali, Shafqat Ul Islam, Sushant G. Ghosh
-
-
-
-### Tue - 10/15/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Absorption, Scattering, Geodesics, Shadows and Lensing Phenomena of Black Holes in Effective Quantum Gravity* - N. Heidari, A. A. Araújo Filho, R. C. Pantig, A. Övgün
-
-
-
-### Mon - 10/14/24
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Absorption, Scattering, Geodesics, Shadows and Lensing Phenomena of Black Holes in Effective Quantum Gravity* - N. Heidari, A. A. Araújo Filho, R. C. Pantig, A. Övgün
+          Weak Gravity Conjecture Validation with Photon Spheres of Quantum Corrected AdS-Reissner-Nordstrom Black Holes in Kiselev Spacetime* - Mohammad Reza Alipour, Mohammad Ali S. Afshar, Saeed Noori Gashti, Jafar Sadeghi
 
 
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/10/14/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2024/10/21/archived_weekly_papers.html)
