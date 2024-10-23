@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/23/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Traces of quantum fuzziness on the black hole shadow and particle deflection in the multi-fractional theory of gravity* - Reggie C. Pantig
+
+
+
 ### Tue - 10/22/24
 
 #### Loop quantum gravity related papers
