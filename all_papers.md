@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          The shadow and observational images of the non-singular rotating black holes in loop quantum gravity* - Guo-Ping Li, He-Bin Zheng, Ke-Jian He, Qing-Quan Jiang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Comparing Analytic and Numerical Studies of Tensor Perturbations in Loop Quantum Cosmology* - Guillermo A. Mena Marugán, Antonio Vicente-Becerril, Jesús Yébana Carrilero
 
 1. [[]](https://arxiv.org/abs/) - *Title:

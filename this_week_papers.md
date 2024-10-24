@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/24/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          The shadow and observational images of the non-singular rotating black holes in loop quantum gravity**
+ - **Authors:** Guo-Ping Li, He-Bin Zheng, Ke-Jian He, Qing-Quan Jiang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ By considering the celestial light source and the thin disk source, we employ the backward ray-tracing method to carefully study the shadow, inner shadow and observational images of the non-singular rotating black holes in loop quantum gravity. The results show that the increase of quantum parameter $\lambda$ causes the shadow to shrink, while increases the deviation from circularity. And, the shadow's angular diameter of M87* impose stronger constraints on the observed properties of the no-singulgar rotating black holes by comparing with SgrA*. For a celestial light source, the parameter $\lambda$ indeed influences the distortion of light around black hole shadow, but this effect is relatively small and only becomes noticeable when extremely close to the shadow. When a thin accretion disk around black hole, it turns out that for an observer at any position, the parameter $\lambda$ has little effect on the shape of the inner shadow. However, it decreases the size of the inner shadow, reduces the observed light intensity, and narrows the redshifted shadow images, regardless of whether the accretion disk is prograde or retrograde. Meanwhile, it is true that the thin disk images of black hole cannot effectively reflect the internal structure of black hole. Finally, we can conclude that a key observational feature of these non-singular rotating black holes is that the larger the black hole's spin parameter, the smaller the upper limit of $\lambda'$s effect. And, the parameter $\lambda$ decreases the gravitational field's strength, thereby weakens the observed images. This could provide a possible way to constraining black hole parameters, identifying quantum gravity effects, and distinguishing loop quantum gravity black holes, even if it cannot be used to distinguish the non-singular properties of black hole. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 10/23/24
 
 #### Loop quantum gravity related papers
