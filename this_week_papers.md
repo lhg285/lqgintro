@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/25/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          From $SU(2)$ holonomies to holographic duality via tensor networks**
+ - **Authors:** Grzegorz Czelusta, Jakub Mielczarek
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Tensor networks provide a powerful tool for studying many-body quantum systems, particularly making quantum simulations more efficient. In this article, we construct a tensor network representation of the spin network states, which correspond to $SU(2)$ gauge-invariant discrete field theories. Importantly, the spin network states play a central role in the Loop Quantum Gravity (LQG) approach to the Planck scale physics. Our focus is on the Ising-type spin networks, which provide a basic model of quantum space in LQG. It is shown that the tensor network approach improves the previously introduced methods of constructing quantum circuits for the Ising spin networks by reducing the number of qubits involved. It is also shown that the tensor network approach is convenient for implementing holographic states involving the bulk-boundary conjecture, which contributes to establishing a link between LQG and holographic duality. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Astrophysical Consequences of Black Holes in Asymptotically Safe Quantum Gravity: Shadows and Strong Gravitational Lensing* - Somi Aktar, Niyaz Uddin Molla, Farook Rahaman, G. Mustafa
+
+
+
 ### Thu - 10/24/24
 
 #### Loop quantum gravity related papers
