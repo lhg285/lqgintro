@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/31/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Nonsingular black holes as dark matter* - Paul C. W. Davies, Damien A. Easson, Phillip B. Levin
+
+
+
 ### Wed - 10/30/24
 
 #### Loop quantum gravity related papers
