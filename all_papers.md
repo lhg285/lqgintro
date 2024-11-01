@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum dust collapse with cosmological constant and methods for constructing conformal diagrams* - Michał Bobula, Tomasz Pawłowski
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Formation of nonsingular spherical black holes with holonomy corrections* - Asier Alonso-Bardaji
 
 1. [[]](https://arxiv.org/abs/) - *Title:
