@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/06/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Klein-Gordon and Schr\"{o}dinger solutions in Lovelock quantum gravity* - M. Bousder, A.Riadsolh, A. El Fatimy, M. El Belkacemi, H. Ez-Zahraouy
+
+
+
 ### Tue - 11/05/24
 
 #### Loop quantum gravity related papers
