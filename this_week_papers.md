@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/07/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational renormalization group solutions and paticular effective actions* - Daiki Yamaguchi
+
+
+
 ### Wed - 11/06/24
 
 #### Loop quantum gravity related papers
