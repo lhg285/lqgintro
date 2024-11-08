@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/08/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Renormalization group improved cosmology in the presence of a stiff matter era* - Gopinath Guin, Soham Sen, Sunandan Gangopadhyay
+
+
+
 ### Thu - 11/07/24
 
 #### Loop quantum gravity related papers
