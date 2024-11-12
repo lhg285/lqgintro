@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/12/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Echoes from Beyond: Detecting Gravitational Wave Quantum Imprints with LISA* - Nils Deppe, Lavinia Heisenberg, Henri Inchauspé, Lawrence E. Kidder, David Maibach, Sizheng Ma, Jordan Moxon, Kyle C. Nelli, William Throwe, Nils L. Vu
+
+
+
 ### Mon - 11/11/24
 
 #### Loop quantum gravity related papers
