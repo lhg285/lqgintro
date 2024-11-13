@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/13/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          The thermodynamic profile of AdS black holes in Lorentz invariance-violating Bumblebee and Kalb-Ramond gravity* - Syed Masood, Said Mikki
+
+
+
 ### Tue - 11/12/24
 
 #### Loop quantum gravity related papers
