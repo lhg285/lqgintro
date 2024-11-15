@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          (2+1) Lorentzian quantum cosmology from spin-foams: chances and obstacles for semi-classicality* - Alexander F. Jercher, José Diogo Simão, Sebastian Steinhausa
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quantum dust collapse with cosmological constant and methods for constructing conformal diagrams* - Michał Bobula, Tomasz Pawłowski
 
 1. [[]](https://arxiv.org/abs/) - *Title:
