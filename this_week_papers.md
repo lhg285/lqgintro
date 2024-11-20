@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/20/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Rips and regular future scenario with Holographic Dark Energy: A comprehensive look* - I. Brevik, Maxim Khlopov, S.D. Odintsov, Alexander V. Timoshkin, Oem Trivedi
+
+
+
 ### Tue - 11/19/24
 
 #### Loop quantum gravity related papers
