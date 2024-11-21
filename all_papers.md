@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Traversable Wormholes Sourced by Dark Matter in Loop Quantum Cosmology* - Marcos V. de S. Silva, G. Alencar, R. M. P. Neves, Celio R. Muniz
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           (2+1) Lorentzian quantum cosmology from spin-foams: chances and obstacles for semi-classicality* - Alexander F. Jercher, José Diogo Simão, Sebastian Steinhausa
 
 1. [[]](https://arxiv.org/abs/) - *Title:
