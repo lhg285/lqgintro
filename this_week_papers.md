@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/22/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Spinning Particle Dynamics and ISCO in Covariant Loop Quantum Gravity**
+ - **Authors:** Yongbin Du, Yunlong Liu, Xiangdong Zhang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper, we investigate the motion of spinning particles in the background of covariant loop quantum gravity black holes, focusing on two distinct effective metric solutions. Both metrics incorporate a quantum parameter $\zeta$, which quantifies loop quantum corrections. When $\zeta$ approaches zero, the spacetime reduces to the classical Schwarzschild solution. Using the pole-dipole approximation, we derive the equations of motion for spinning particles, accounting for the spin-curvature coupling. Our analysis reveals significant deviations in the behavior of the Innermost Stable Circular Orbit (ISCO) due to quantum effects. In the first effective metric, as $\zeta$ increases, the ISCO's radial position shifts, and for sufficiently large values of $\zeta$ (greater than 4.55), the ISCO disappears, allowing particles to hover above the black hole or oscillate radially. In contrast, in the second metric, ISCOs persist even for large values of $\zeta$, albeit with a more restrictive spin range. These findings highlight the impact of loop quantum gravity corrections on the dynamics of spinning particles and provide insights into potential observational consequences for gravitational wave detections. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 11/21/24
 
 #### Loop quantum gravity related papers

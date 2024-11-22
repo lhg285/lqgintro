@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Spinning Particle Dynamics and ISCO in Covariant Loop Quantum Gravity* - Yongbin Du, Yunlong Liu, Xiangdong Zhang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Traversable Wormholes Sourced by Dark Matter in Loop Quantum Cosmology* - Marcos V. de S. Silva, G. Alencar, R. M. P. Neves, Celio R. Muniz
 
 1. [[]](https://arxiv.org/abs/) - *Title:
