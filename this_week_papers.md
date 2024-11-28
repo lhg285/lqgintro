@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/28/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Lessons for loop quantum gravity from emergent modified gravity**
+ - **Authors:** Idrus Husin Belfaqih, Martin Bojowald, Suddhasattwa Brahma, Erick I. Duque
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Most of the potential physical effects of loop quantum gravity have been derived in effective models that modify the constraints of canonical general relativity in specific forms. Emergent modified gravity evaluates important conditions that ensure the existence of a compatible geometrical space-time interpretation of canonical solutions, as well as phase-space covariance under different choices of canonical variables. This setting, specialized to modifications suggested by loop quantum gravity, is therefore an important contribution to physical evaluations of this approach to quantum gravity. Here, it is shown that emergent modified gravity restricts several ambiguities that existed in previous formulations, rules out several specific candidates, and provides a unified treatment of different types of (holonomy) modifications that had been thought to be physically distinct. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 11/27/24
 
 #### Loop quantum gravity related papers

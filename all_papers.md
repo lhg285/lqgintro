@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Lessons for loop quantum gravity from emergent modified gravity* - Idrus Husin Belfaqih, Martin Bojowald, Suddhasattwa Brahma, Erick I. Duque
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Spinning Particle Dynamics and ISCO in Covariant Loop Quantum Gravity* - Yongbin Du, Yunlong Liu, Xiangdong Zhang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
