@@ -13,6 +13,9 @@ permalink: /all_papers/
           Black hole tunneling in loop quantum gravity* - Hongwei Tan, Rong-Zhen Guo, Jingyi Zhang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Black hole tunneling in loop quantum gravity* - Hongwei Tan, Rong-Zhen Guo, Jingyi Zhang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Lessons for loop quantum gravity from emergent modified gravity* - Idrus Husin Belfaqih, Martin Bojowald, Suddhasattwa Brahma, Erick I. Duque
 
 1. [[]](https://arxiv.org/abs/) - *Title:
