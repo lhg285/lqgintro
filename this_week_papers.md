@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/03/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Deformed algebraic structure of angular momenta: GUP perspective**
+ - **Authors:** Gaurav Bhandari, S. D. Pathak, Manabendra Sharma, Anzhong Wang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ The prediction of a minimal length scale by various quantum gravity candidates (such as string/M theory, Doubly Special Relativity, Loop Quantum Gravity and others) have suggested modification of Heisenberg Uncertainty Principle (HUP), resulting in the Generalized Uncertainty Principle (GUP). In this short review, we investigate the origins of the GUP and examine higher-order models, focusing on the linear plus quadratic form of the GUP. We extend the concept of minimal length to minimal angular resolution, which plays a crucial role in modifying angular momentum and its associated algebra. A comparison is made between the standard angular momentum commutator algebra and that modified by the GUP. Finally, we review its application in the hydrogen atom spectra and and discuss future endeavors. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular black holes from Kiselev anisotropic fluid* - Luis C. N. Santos
+
+
+
 ### Mon - 12/02/24
 
 #### Loop quantum gravity related papers
