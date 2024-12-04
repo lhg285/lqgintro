@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/04/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Quantum-reduced loop gravity: New perspectives on the kinematics and dynamics**
+ - **Authors:** Ilkka Mäkinen
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We present a systematic approach to the kinematics of quantum-reduced loop gravity, a model originally proposed by Alesci and Cianfrani as an attempt to probe the physical implications of loop quantum gravity. We implement the quantum gauge-fixing procedure underlying quantum-reduced loop gravity by introducing a master constraint operator on the kinematical Hilbert space of loop quantum gravity, representing a set of gauge conditions which classically constrain the densitized triad to be diagonal. The standard Hilbert space of quantum-reduced loop gravity can be recovered as a space of solutions of the master constraint operator, while on the other hand the master constraint approach provides a useful starting point for considering possible generalizations of the standard construction. We also examine the quantum dynamics of states consisting of a single six-valent node in the quantum-reduced framework. We find that the Hamiltonian which governs the dynamics of such states bears a close formal resemblance to the Hamiltonian constraint of Bianchi I models in loop quantum cosmology. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Spacetime-curvature induced uncertainty principle: linking the large-structure global effects to the local black hole physics* - Reggie C. Pantig, Gaetano Lambiase, Ali Övgün, Nikko John Leo S. Lobos
+
+
+
 ### Tue - 12/03/24
 
 #### Loop quantum gravity related papers
