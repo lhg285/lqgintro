@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/05/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Low-curvature quantum corrections from unitary evolution of de Sitter space**
+ - **Authors:** Steffen Gielen, Rita B. Neves
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We study the quantum dynamics of de Sitter space formulated as a minisuperspace model with flat spatial hypersurfaces in unimodular gravity, both in the Wheeler-DeWitt approach and in loop quantum cosmology (LQC). Time evolution is defined naturally in unimodular time, which appears as conjugate to the cosmological (integration) constant. We show that requiring unitary time evolution "resolves" the de Sitter horizon where the flat slicing breaks down and leads to strong quantum effects there, even though locally nothing special happens at this surface. For a cosmological constant that is far below the Planck scale, loop quantum gravity corrections do not alter the main results in any substantial way. This model illustrates the fundamental clash between general covariance and unitarity in quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 12/04/24
 
 #### Loop quantum gravity related papers
