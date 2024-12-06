@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/06/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular black holes from thin-shell collapse* - Pablo Bueno, Pablo A. Cano, Robie A. Hennigar, Ángel J. Murcia
+
+
+
 ### Thu - 12/05/24
 
 #### Loop quantum gravity related papers
