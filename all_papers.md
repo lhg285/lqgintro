@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational quantum speed limit* - Nicola Pranzini, Lorenzo Maccone
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Low-curvature quantum corrections from unitary evolution of de Sitter space* - Steffen Gielen, Rita B. Neves
 
 1. [[]](https://arxiv.org/abs/) - *Title:
