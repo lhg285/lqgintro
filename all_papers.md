@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Hamiltonian Theory: generalizations to higher dimensions, supersymmetry and modified gravity* - Norbert Bodendorfer, Konstantin Eder, Xiangdong Zhang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Gravitational quantum speed limit* - Nicola Pranzini, Lorenzo Maccone
 
 1. [[]](https://arxiv.org/abs/) - *Title:

@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/10/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Hamiltonian Theory: generalizations to higher dimensions, supersymmetry and modified gravity**
+ - **Authors:** Norbert Bodendorfer, Konstantin Eder, Xiangdong Zhang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Loop quantum gravity in its Hamiltonian form relies on a connection formulation of the gravitational phase space with three key properties: 1.) a compact gauge group, 2.) real variables, and 3.) canonical Poisson brackets. In conjunction, these properties allow to construct a well defined kinematical quantization of the holonomy flux-algebra on top of which the remaining constraints can be implemented. While this idea has traditionally been mainly used for Einstein gravity, any gravitational theory with the above properties can be accommodated. In this paper, we are going to review three strands of work building on this observation, namely the study of higher-dimensional loop quantum gravity, supersymmetric extensions of loop quantum gravity, as well as the quantization of modified gravitational theories. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Mon - 12/09/24
 
 #### Loop quantum gravity related papers
