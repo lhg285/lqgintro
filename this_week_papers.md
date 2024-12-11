@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/11/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Lecture Notes in Loop Quantum Gravity. LN2: Cauchy problems and pre-quantum states**
+ - **Authors:** S.Coriasco, L.Fatibene, S.Garruto, A.Orizzonte
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We discuss the structure of covariant equations, relating analytical properties of solutions to algebraic properties of the corresponding differential operator, specifically of its principal symbol. The principal symbol and its globality is discussed for a general quasi-linear PDE system, regardless the algebraic structure the configuration space can have. We also discuss how the typical relativistic model can be under-determined and over-determined at the same time as well as how one can define out of it a well-posed Cauchy problem. This issue leads us to pre-quantum configurations and Cauchy bubbles as the way to set up evolution problems in a compact region of spacetime, taking into account that relativistic models are defined on bare manifolds. The typical application we shall sketch is standard GR. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Semiclassical world is one of infinite many cloneworlds in common spacetime* - Lajos Diósi
+
+
+
 ### Tue - 12/10/24
 
 #### Loop quantum gravity related papers
