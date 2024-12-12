@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/12/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Non-Vacuum Solutions in Cotton Theory* - Serkan Doruk Hazinedar, Yaghoub Heydarzade, Maryam Ranjbar
+
+
+
 ### Wed - 12/11/24
 
 #### Loop quantum gravity related papers
