@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/13/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Hilbert space formalisms for group field theory**
+ - **Authors:** Steffen Gielen
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Group field theory is a background-independent approach to quantum gravity whose starting point is the definition of a quantum field theory on an auxiliary group manifold (not interpreted as spacetime). Group field theory models can be seen as an extension of matrix and tensor models by additional data, and are traditionally defined through a functional integral whose perturbative expansion generates a sum over discrete geometries. More recently, some efforts have been directed towards formulations of group field theory based on a Hilbert space and operators, in particular in applications to cosmology. This is an attempt to review some of these formulations and their main ideas, to disentangle these constructions as much as possible from applications and phenomenology, and to put them into a wider context of quantum gravity research. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Principles for a Distinguished Global Vacuum: Entropy and the Vacuum State in Causal Set Theory* - Joshua Y. L. Jones
+
+
+
 ### Thu - 12/12/24
 
 #### Loop quantum gravity related papers
