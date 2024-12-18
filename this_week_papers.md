@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/18/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational waves from regular black holes in extreme mass-ratio inspirals* - Shailesh Kumar, Tieguang Zi
+
+
+
 ### Tue - 12/17/24
 
 #### Loop quantum gravity related papers
