@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/19/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Ekpyrosis in Quantum Gravitational Anisotropic Bouncing Models**
+ - **Authors:** Rachel Brown, A. Meenakshi McNamara, Sahil Saini, Parampreet Singh
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We explore the isotropization of the universe starting from potentially large anisotropies in the bouncing models using the ekpyrotic mechanism. As an example of a concrete non-singular bouncing mechanism, we consider the effective description of loop quantum cosmology for Bianchi-I and Bianchi-IX spacetimes for ekpyrotic and ekpyrotic-like potentials. For both of these spacetimes the cosmological singularity is resolved via multiple short-duration non-singular bounces. We perform a large number of numerical simulations for a wide range of initial conditions and find that the relative strength of the anisotropies at the end of the bounce regime is noticeably reduced in more than $90\%$ of the simulations, providing strong evidence for the isotropization ability of the ekpyrotic potentials. While the ekpyrosis phase in all the simulations is found to be rather short-lived, isotropization occurs over cycles of rapid non-singular bounces in the Planck regime via enhancement of the contribution of the (isotropic) energy density relative to the anisotropies at the bounces. Achieving isotropization is found to be easier in Bianchi-I spacetimes when compared to Bianchi-IX spacetimes. Our results demonstrate that, while ekpyrosis might itself be insufficient to tame anisotropies at a single bounce, it can be significant when coupled with non-singular cycles in the bounce regime. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 12/18/24
 
 #### Loop quantum gravity related papers
