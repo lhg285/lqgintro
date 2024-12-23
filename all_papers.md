@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Relational Observables in Group Field Theory* - Luca Marchetti, Edward Wilson-Ewing
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Ekpyrosis in Quantum Gravitational Anisotropic Bouncing Models* - Rachel Brown, A. Meenakshi McNamara, Sahil Saini, Parampreet Singh
 
 1. [[]](https://arxiv.org/abs/) - *Title:
