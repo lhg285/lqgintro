@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/24/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          One-loop corrections to near extremal Kerr thermodynamics from semiclassical Virasoro blocks**
+ - **Authors:** Paolo Arnaudo, Giulio Bonelli, Alessandro Tanzini
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We propose a method to perform an exact calculation of one-loop quantum corrections to black hole entropy in terms of Virasoro semiclassical blocks. We analyse in detail four-dimensional Kerr black hole and show that in the near-extremal limit a branch of long-lived modes arises. We prove that the contribution of these modes accounts for a $(s-1/2)\log T_{\text{Hawking}}$ correction to the entropy for massless particles of spin $s=1,2$. We show that in the full calculation performed in the exact Kerr background the leading contribution actually is sourced by the near-horizon region only, and as such has a universal validity for any asymptotic behavior at infinity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          On the Cutoff Scale Identification of FLRW Cosmology in Asymptotically Safe Gravity* - Chiang-Mei Chen, Rituparna Mandal, Nobuyoshi Ohta
+
+
+
 ### Mon - 12/23/24
 
 #### Loop quantum gravity related papers
