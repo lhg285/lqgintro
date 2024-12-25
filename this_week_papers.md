@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/25/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Testing loop quantum gravity by quasi-periodic oscillations: rotating blackholes**
+ - **Authors:** Jafar Khodagholizadeh, Ghadir Jafari, Alireza Allahyari, Ali Vahedi
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We investigate a compelling model of a rotating black hole that is deformed by the effects of loop quantum gravity (LQG). We present a simplified metric and explore two distinct geometries: one in which the masses of the black hole and white hole are equal, and another in which they differ. Our analysis yields the radius of the innermost stable circular orbits (ISCO), as well as the energy and angular momentum of a particle within this framework. Additionally, we find the frequency of the first-order resonance separately. We constrain the model by the quasi-periodic oscillations (QPO) of the X-ray binary GRO J1655-40. We show that $\lambda=0.15^{+0.23}_{-0.14}$ at $1\sigma$ confidence level for equal mass black hole and white hole geometry. For the other geometry we get $\lambda=0.11^{+0.07}_{-0.07}$ at $1\sigma$ confidence this http URL encounter a degeneracy in the parameter space that hinders our ability to constrain $\lambda$ with greater precision. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 12/24/24
 
 #### Loop quantum gravity related papers

@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Testing loop quantum gravity by quasi-periodic oscillations: rotating blackholes* - Jafar Khodagholizadeh, Ghadir Jafari, Alireza Allahyari, Ali Vahedi
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Relational Observables in Group Field Theory* - Luca Marchetti, Edward Wilson-Ewing
 
 1. [[]](https://arxiv.org/abs/) - *Title:
