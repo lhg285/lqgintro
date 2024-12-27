@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/27/24
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Covariant LTB collapse in models of loop quantum gravity**
+ - **Authors:** Martin Bojowald, Erick I. Duque, Dennis Hartmann
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Models of gravitational collapse provide important means to test whether non-classical space-time effects motivated for instance by quantum gravity can be realized in generic ways in physically relevant situations. Here, a detailed analysis of marginally bound Lemaitre-Tolman-Bondi space-times is given in emergent modified gravity, which in particular includes a covariant formulation of holonomy modifications usually considered in models of loop quantum gravity. As a result, generic collapse in this setting is shown to imply a physical singularity that removes the bouncing behavior seen in vacuum space-times with the same type of modifications. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 12/26/24
 
 #### Loop quantum gravity related papers
