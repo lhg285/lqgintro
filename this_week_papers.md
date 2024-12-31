@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/31/24
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Good tachyons, bad bradyons: role reversal in Einstein-nonlinear-electrodynamics models* - Marco A. A. de Paula, Haroldo C. D. Lima Junior, Pedro V. P. Cunha, Carlos A. R. Herdeiro, Luís C. B. Crispino
+
+
+
 ### Mon - 12/30/24
 
 #### Loop quantum gravity related papers
