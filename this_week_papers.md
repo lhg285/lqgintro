@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/07/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          A microscopic realization of dS$_3$* - Scott Collier, Lorenz Eberhardt, Beatrix Mühlmann
+
+
+
 ### Mon - 01/06/25
 
 #### Loop quantum gravity related papers
