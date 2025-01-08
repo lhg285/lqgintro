@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/08/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Repulsive quantum gravitoelectric-gravitomagnetic interaction* - Di Hao, Jiawei Hu, Hongwei Yu
+
+
+
 ### Tue - 01/07/25
 
 #### Loop quantum gravity related papers
