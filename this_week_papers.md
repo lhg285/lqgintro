@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/09/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Testing general covariance in effective models motivated by Loop Quantum Gravity**
+ - **Authors:** Juan Carlos Del Águila, Hugo A. Morales
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this work we introduce a criterion for testing general covariance in effective quantum gravity theories. It adapts the criterion based on general spacetime diffeomorphisms of the Einstein-Hilbert action to the case of effective canonical models. While the main purpose is to test models obtained in Loop Quantum Gravity, the criterion is not limited to those physical systems and may be applied to any canonically formulated modified theory of gravity. The approach here is hence not that of finding an effective model, but rather to analyze a given one represented by a quantum corrected Hamiltonian. Specifically, we will apply the criterion to spherically symmetric spacetimes in the vacuum with inverse triad and holonomy modifications that arise as a consequence of the loop quantization procedure. It is found that, in addition to the initial modifications of the Hamiltonian, quantum corrections of the classical metric itself are needed as well in order to obtain generally covariant models. A comparison with a recent alternative criterion is included in the discussion. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 01/08/25
 
 #### Loop quantum gravity related papers

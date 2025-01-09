@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Testing general covariance in effective models motivated by Loop Quantum Gravity* - Juan Carlos Del Águila, Hugo A. Morales
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Covariant LTB collapse in models of loop quantum gravity* - Martin Bojowald, Erick I. Duque, Dennis Hartmann
 
 1. [[]](https://arxiv.org/abs/) - *Title:
