@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/17/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Dimensional Reduction and K\"ahler Metric for Metric Moduli in Imaginary Self-Dual Flux* - Andrew R. Frey, Ratul Mahanta
+
+
+
 ### Thu - 01/16/25
 
 #### Loop quantum gravity related papers
