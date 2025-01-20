@@ -6,11 +6,18 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 01/17/25
+### Mon - 01/20/25
 
 #### Loop quantum gravity related papers
 
-There is no new related paper today 
+#### **Title:
+          Loop Quantum Gravitational Signatures via Love Numbers**
+ - **Authors:** Meysam Motaharfar, Parampreet Singh
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Loop quantum gravitational effects can resolve the central singularity of black holes while potentially leaving tiny traces of quantization in the exterior spacetime. We show the way these residues can, in principle, be explored using tidal Love numbers (TLNs). We consider loop quantized Schwarzschild black hole, in particular the Ashtekar-Olmedo-Singh (AOS) model, and study the static response to external tidal fields of spin zero (scalar field), spin one (vector field), and spin two (axial gravitational field) types. We find that, in contrast to the classical theory, where TLNs vanish, they are non-vanishing and negative for all three responses and for all multipoles. Besides, the magnitude of TLNs decreases as the black hole mass increases, and TLNs, in response to the axial gravitational field, have the largest magnitude among these three responses. Our results show that for black holes of mass $M \gtrsim 4.3 \times 10^{4} M_{\textrm{Pl}}$, the AOS model is consistent with current and next-generation detection limits for TLNs. Our findings suggest that the quantum deformability of loop quantum black holes, arising from the inherent fuzziness of spacetime geometry, reveals a fundamentally distinct internal structure compared to their classical counterparts. This unique feature manifests as quantum hair, which, in principle, can be detected by future observations. 
 
 #### Spin foam related papers
 
@@ -18,90 +25,5 @@ There is no new related paper today
 
 
 
-#### Other related papers
 
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Dimensional Reduction and K\"ahler Metric for Metric Moduli in Imaginary Self-Dual Flux* - Andrew R. Frey, Ratul Mahanta
-
-
-
-### Thu - 01/16/25
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          EFT & Species Scale: Friends or foes?* - Bruno Valeixo Bento, João Melo
-
-
-
-### Wed - 01/15/25
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Constraining the curvature-induced quantum gravity scales via gamma-ray bursts* - Dmitry D. Ofengeim, Tsvi Piran
-
-
-
-### Tue - 01/14/25
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Towards a Non-singular Paradigm of Black Hole Physics* - Raúl Carballo-Rubio, Francesco Di Filippo, Stefano Liberati, Matt Visser, Julio Arrechea, Carlos Barceló, Alfio Bonanno, Johanna Borissova, Valentin Boyanov, Vitor Cardoso, Francesco Del Porro, Astrid Eichhorn, Daniel Jampolski, Prado Martín-Moruno, Jacopo Mazza, Tyler McMaken, Antonio Panassiti, Paolo Pani, Alessia Platania, Luciano Rezzolla, Vania Vellucci
-
-
-
-### Mon - 01/13/25
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Universal thermodynamic topological classes of black holes in perfect fluid dark matter background* - Muhammad Rizwan, Mubasher Jamil, M. Z. A. Moughal
-
-
-
-
-
-
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2025/01/13/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2025/01/20/archived_weekly_papers.html)

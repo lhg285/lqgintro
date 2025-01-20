@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Loop Quantum Gravitational Signatures via Love Numbers* - Meysam Motaharfar, Parampreet Singh
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Testing general covariance in effective models motivated by Loop Quantum Gravity* - Juan Carlos Del Águila, Hugo A. Morales
 
 1. [[]](https://arxiv.org/abs/) - *Title:
