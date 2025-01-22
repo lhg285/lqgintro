@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/22/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          A state sum for four-dimensional Lorentzian quantum geometry in terms of edge vectors**
+ - **Authors:** Roukaya Dekhil, Matteo Laudonio, Daniele Oriti
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We present the construction of a new state sum model for $4d$ Lorentzian quantum gravity based on the description of quantum simplicial geometry in terms of edge vectors. Quantum states and amplitudes for simplicial geometry are built from irreducible representations of the translation group, then related to the representations of the Lorentz group via expansors, leading to interesting (and intricate) non-commutative structures. We also show how the new model connects to the Lorentzian Barrett-Crane spin foam model, formulated in terms of quantized triangle bivectors. 
+
 ### Tue - 01/21/25
 
 #### Loop quantum gravity related papers

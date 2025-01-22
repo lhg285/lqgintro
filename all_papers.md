@@ -13,6 +13,9 @@ permalink: /all_papers/
           A state sum for four-dimensional Lorentzian quantum geometry in terms of edge vectors* - Roukaya Dekhil, Matteo Laudonio, Daniele Oriti
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          A state sum for four-dimensional Lorentzian quantum geometry in terms of edge vectors* - Roukaya Dekhil, Matteo Laudonio, Daniele Oriti
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Loop Quantum Gravitational Signatures via Love Numbers* - Meysam Motaharfar, Parampreet Singh
 
 1. [[]](https://arxiv.org/abs/) - *Title:
