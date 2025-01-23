@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/23/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Non-linear equation of motion for higher curvature semiclassical gravity* - Naman Kumar
+
+
+
 ### Wed - 01/22/25
 
 #### Loop quantum gravity related papers
