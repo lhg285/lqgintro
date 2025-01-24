@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/24/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Barrow entropies in black hole thermodynamics**
+ - **Authors:** Salvatore Capozziello, Mehdi Shokri
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We study the thermodynamic features of static, spherically-symmetric Schwarzschild black holes adopting different types of Barrow entropy. Specifically, in addition to the standard Barrow entropy, we consider a logarithmic-corrected type of this entropy by taking into account some loop quantum gravity effects. Moreover, we investigate the black hole thermodynamics from the viewpoint of Barrow entropy in presence of non-extensivity effects coming from the Tsallis statistics. Finally, we compare the results obtained for different Barrow-based entropies. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 01/23/25
 
 #### Loop quantum gravity related papers

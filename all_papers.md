@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Barrow entropies in black hole thermodynamics* - Salvatore Capozziello, Mehdi Shokri
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           A state sum for four-dimensional Lorentzian quantum geometry in terms of edge vectors* - Roukaya Dekhil, Matteo Laudonio, Daniele Oriti
 
 1. [[]](https://arxiv.org/abs/) - *Title:
