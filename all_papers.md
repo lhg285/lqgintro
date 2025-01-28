@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          The two-vertex model of loop quantum gravity: anisotropic reduced sectors* - Iñaki Garay, Luis J. Garay, Diego H. Gugliotta
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Barrow entropies in black hole thermodynamics* - Salvatore Capozziello, Mehdi Shokri
 
 1. [[]](https://arxiv.org/abs/) - *Title:
