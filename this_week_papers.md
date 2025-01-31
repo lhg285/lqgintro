@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/31/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Supersymmetric Grey Galaxies, Dual Dressed Black Holes and the Superconformal Index* - Sunjin Choi, Diksha Jain, Seok Kim, Vineeth Krishna, Goojin Kwon, Eunwoo Lee, Shiraz Minwalla, Chintan Patel
+
+
+
 ### Thu - 01/30/25
 
 #### Loop quantum gravity related papers
