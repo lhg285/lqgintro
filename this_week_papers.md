@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/07/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Non-uniqueness of the shockwave dynamics in effective loop quantum gravity**
+ - **Authors:** Francesco Fazzini
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Spherically symmetric effective dust collapse inspired by effective loop quantum cosmology predicts a bounce when the stellar energy density becomes planckian, which in turn inevitably leads to shell-crossing singularity formation. An extension of the spacetime beyond such singularities is possible through weak solutions of the equations of motion in integral form, leading to the shockwave model. In this work, we show explicitly that such an extension is not unique, and that relevant features like the black hole life-time strongly depend on the choice of the integral form of the equation of motion. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 02/06/25
 
 #### Loop quantum gravity related papers

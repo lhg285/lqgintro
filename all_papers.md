@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Non-uniqueness of the shockwave dynamics in effective loop quantum gravity* - Francesco Fazzini
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           The two-vertex model of loop quantum gravity: anisotropic reduced sectors* - Iñaki Garay, Luis J. Garay, Diego H. Gugliotta
 
 1. [[]](https://arxiv.org/abs/) - *Title:
