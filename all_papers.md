@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Black Hole Evaporation in Loop Quantum Gravity* - Abhay Ashtekar
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Non-uniqueness of the shockwave dynamics in effective loop quantum gravity* - Francesco Fazzini
 
 1. [[]](https://arxiv.org/abs/) - *Title:

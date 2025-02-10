@@ -6,28 +6,18 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 02/07/25
+### Mon - 02/10/25
 
 #### Loop quantum gravity related papers
 
 #### **Title:
-          Non-uniqueness of the shockwave dynamics in effective loop quantum gravity**
- - **Authors:** Francesco Fazzini
+          Black Hole Evaporation in Loop Quantum Gravity**
+ - **Authors:** Abhay Ashtekar
  - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Quantum Physics (quant-ph)
  - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
  - **Abstract**
- Spherically symmetric effective dust collapse inspired by effective loop quantum cosmology predicts a bounce when the stellar energy density becomes planckian, which in turn inevitably leads to shell-crossing singularity formation. An extension of the spacetime beyond such singularities is possible through weak solutions of the equations of motion in integral form, leading to the shockwave model. In this work, we show explicitly that such an extension is not unique, and that relevant features like the black hole life-time strongly depend on the choice of the integral form of the equation of motion. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Thu - 02/06/25
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
+ The conference \emph{Black Holes Inside and Out} marked the 50th anniversary of Hawking's seminal paper on black hole radiance. It was clear already from Hawking's analysis that a proper quantum gravity theory would be essential for a more complete understanding of the evaporation process. This task was undertaken in Loop Quantum Gravity (LQG) two decades ago and by now the literature on the subject is quite rich. The goal of this contribution is to summarize a mainstream perspective that has emerged. The intended audience is the broader gravitational physics community, rather than quantum gravity experts. Therefore, the emphasis is on conceptual issues, especially on the key features that distinguish the LQG approach, and on concrete results that underlie the paradigm that has emerged. This is \emph{not} meant to be an exhaustive review. Rather, it is a broad-brush stroke portrait of the present status. Further details can be found in the references listed. 
 
 #### Spin foam related papers
 
@@ -35,52 +25,5 @@ There is no new related paper today
 
 
 
-#### Other related papers
 
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Constructing regular black holes from multi-polytropic equations of state* - Seyed Naseh Sajadi, Supakchai Ponglertsakul, Orlando Luongo
-
-
-
-### Wed - 02/05/25
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Formation of regular black hole from baryonic matter* - Vitalii Vertogradov, Ali Övgün, Daniil Shatov
-
-
-
-### Mon - 02/03/25
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Reconciling fractional entropy and black hole entropy compositions* - Manosh T. Manoharan, N. Shaji
-
-
-
-
-
-
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2025/02/03/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2025/02/10/archived_weekly_papers.html)
