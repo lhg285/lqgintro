@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 02/11/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          An Airy Tale at Large $N$* - Nikolay Bobev, Pieter-Jan De Smet, Junho Hong, Valentin Reys, Xuao Zhang
+
+
+
 ### Mon - 02/10/25
 
 #### Loop quantum gravity related papers
