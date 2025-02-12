@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/12/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Stochastic Clocks in ADM-Based Canonical Gravity**
+ - **Authors:** Pradosh Keshav MV
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ The problem of time in canonical quantum gravity remains one of the most significant challenges, primarily due to the ``frozen'' formalism emerging from the Wheeler--DeWitt equation. Within the ADM formalism, we introduce a novel approach in which a scalar field is treated as a stochastic clock. By imposing a divergence-free condition on the scalar momentum, we integrate out quantum gravitational fluctuations and derive an effective noise term via the Hubbard--Stratonovich transformation. This noise drives dynamic adjustments in spacetime foliations, enabling a Schrödinger-like evolution that preserves diffeomorphism invariance and, upon noise averaging, maintains unitary evolution. Interestingly, by introducing stochastic variations in the foliations, the quantum indeterminacy of the clock recasts time as a diffusive process emerging from quantum fluctuations -- where correlations between matter and geometry replace an absolute time parameter. This is considerably a potential pathway for understanding quantum time evolution while maintaining background independence in canonical quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Transition from Regular Black Holes to Wormholes in Covariant Effective Quantum Gravity: Scattering, Quasinormal Modes, and Hawking Radiation* - R. A. Konoplya, O. S. Stashko
+
+
+
 ### Tue - 02/11/25
 
 #### Loop quantum gravity related papers
