@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/13/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          The one-loop effective action from the coherent state path integral of loop quantum gravity**
+ - **Authors:** Renata Ferrero, Muxin Han, Hongguang Liu
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We adopt a novel approach to combine path integral methods with Loop Quantum Gravity (LQG). Our approach builds upon the recently developed coherent state path integral formulation of LQG to compute the one-loop effective action. We compare this methodology with the conventional Quantum Field Theory (QFT) prescription for path integrals and extend the formalism to account for the dependence on boundary (coherent) states. This work aims to explore two aspects: to compare our results with the divergences observed in one-loop calculations of Einstein gravity testing UV-finiteness and to initiate an exploration of the IR effective properties of LQG. We compute the effective action around flat spacetime obtaining analytical and numerical results in the long and short wavelength approximations, respectively. Due to the one-loop dynamics of the LQG area, we find a divergence-free effective action. We study the propagator and the dynamical modes and derive the quantum equation of motion at one loop. We ensure consistency with the semiclassical approximation in the long wavelength limit and, beyond this approximation, analyze numerical scaling as the lattice size increases. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum Spacetime Leaps: Higher Dimensional Energetic Causal Sets* - Vasco Gil Gomes
+
+
+
 ### Wed - 02/12/25
 
 #### Loop quantum gravity related papers
