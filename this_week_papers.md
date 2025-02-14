@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/14/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          The shadow and accretion disk images of the rotation loop quantum black bounce**
+ - **Authors:** Ke-Jian He, Huan Ye, Xiao-Xiong Zeng, Li-Fang Li, Peng Xu
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper, we study the shadow and observational image of the Kerr-like Loop Quantum Gravity (LQG) inspired black bounce with the help of the celestial light source and the thin disk source by employing the backward ray-tracing method. The results indicate that both the LQG parameter alpha and the rotation parameter a contribute to a reduction in the shadow size; however, the influence of a is predominant, while the effect of alpha circular orbit. One can find that the correlation parameter (a, alpha), along with the observer's inclination angle, affect the image's asymmetry and the distortion of the inner shadow. As the inclination increases, the direct and lensed images diverge, creating a structure resembling a hat. Meanwhile, we also investigate the redshift distribution of the direct lensed images of the accretion disk under different parameters and observation angle. The results show that the distribution of redshift and observed intensity is obviously related to the behavior of accretion flow. These results may provide a potential approach to limit black hole parameters, detect quantum gravity effects, and distinguish the LQG black hole from other black hole models. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular black holes in Lovelock with degenerated ground state* - Milko Estrada, Bastian Astudillo, Rodrigo Aros
+
+
+
 ### Thu - 02/13/25
 
 #### Loop quantum gravity related papers
