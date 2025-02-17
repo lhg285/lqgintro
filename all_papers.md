@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          The Statistical Mechanics of Hawking Radiation* - Noah M. MacKay
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Black Hole Evaporation in Loop Quantum Gravity* - Abhay Ashtekar
 
 1. [[]](https://arxiv.org/abs/) - *Title:
