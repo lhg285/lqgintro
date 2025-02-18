@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 02/18/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Lessons from gauge fixing and polymerization of loop quantum black holes with a cosmological constant**
+ - **Authors:** Geeth Ongole, Parampreet Singh, Anzhong Wang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Loop quantization of Schwarzschild black holes with a cosmological constant for polymerization parameters which are constant is studied in the effective spacetime description. We show that for the positive cosmological constant there can be an appearance of large quantum effects at small spacetime curvatures. These effects can manifest as an additional black hole horizon. While the central singularity is resolved in all the cases, these limitations demonstrate incompatibility of the Kantowski-Sachs gauge and schemes with fixed polymerization parameters in the presence of a positive cosmological constant. In contrast, the case of a negative cosmological constant is free of such problematic features. Noted limitations are similar to those in the $\mu_o$ scheme for the loop quantization of cosmological models. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Simpler Embeddings of Causal Sets into Minkowski Spacetime* - Steven Johnston
+
+
+
 ### Mon - 02/17/25
 
 #### Loop quantum gravity related papers
