@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Charged quantum Oppenheimer-Snyder model* - S. Habib Mazharimousavi
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           The Statistical Mechanics of Hawking Radiation* - Noah M. MacKay
 
 1. [[]](https://arxiv.org/abs/) - *Title:

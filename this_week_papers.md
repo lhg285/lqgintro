@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/19/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Charged quantum Oppenheimer-Snyder model**
+ - **Authors:** S. Habib Mazharimousavi
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In the framework of loop quantum cosmology, particularly within the quantum Oppenheimer-Snyder model, the semiclassical Ashtekar-Pawlowski-Singh (APS) metric is associated with a static, spherically symmetric black hole that incorporates quantum effects derived from the APS metric. This quantum-corrected black hole can be interpreted as a modified Schwarzschild black hole, where the Schwarzschild metric function is adjusted by an additional term proportional to $\frac{M^{2}}{r^{4}}$, with $r$ denoting the radial coordinate and $M,$ the black hole mass. In this study, we show that such a quantum-mechanically modified black hole can arise in the context of nonlinear electrodynamics with either electric or magnetic charge. This charged, quantum-corrected solution is then matched to a dust ball of constant mass $M_{APS}$, governed by the APS metric, at a timelike thin-shell possessing nonzero mass $m$ and electric charge $Q$ or magnetic charge $P$. Analytically, it is demonstrated that the thin-shell oscillates around an equilibrium radius $r=R_{eq}$, which is expressed in terms of $% M_{APS}$, $m$, and $Q$ or $P$. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 02/18/25
 
 #### Loop quantum gravity related papers
