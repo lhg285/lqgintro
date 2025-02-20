@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Late-time cosmic acceleration from quantum gravity* - Daniele Oriti, Xiankai Pang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Charged quantum Oppenheimer-Snyder model* - S. Habib Mazharimousavi
 
 1. [[]](https://arxiv.org/abs/) - *Title:

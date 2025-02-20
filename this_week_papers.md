@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 02/20/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Late-time cosmic acceleration from quantum gravity**
+ - **Authors:** Daniele Oriti, Xiankai Pang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We deepen the analysis of the cosmological acceleration produced by quantum gravity dynamics in the formalism of group field theory condensate cosmology, treated at the coarse-grained level via a phenomenological model, in the language of hydrodynamics on minisuperspace. Specifically, we conduct a detailed analysis of the late-time evolution, which shows a phantom-like phase followed by an asymptotic De Sitter expansion. We argue that the model indicates a recent occurrence of the phantom crossing and we extract a more precise expression for the effective cosmological constant, linking its value to other parameters in the model and to the scale of the quantum bounce in the early universe evolution. Additionally, we show how the phantom phase produced by our quantum gravity dynamics increases the inferred value of the current Hubble parameter based on observed data, indicating a possible quantum gravity mechanism for alleviating the Hubble tension. Our results represent a concrete example of how quantum gravity can provide an explanation for large-scale cosmological puzzles, in an emergent spacetime scenario. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 02/19/25
 
 #### Loop quantum gravity related papers
