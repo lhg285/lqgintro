@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/21/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Zooming into the horizon region of black hole-type objects* - Jesse Daas, Cristobal Laporte, Frank Saueressig, Tim van Dijk
+
+
+
 ### Thu - 02/20/25
 
 #### Loop quantum gravity related papers
