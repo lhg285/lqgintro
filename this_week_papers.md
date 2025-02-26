@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/26/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Revisiting black holes surrounded by cloud and fluid of strings in general relativity* - Luis Cesar Nunes dos Santos
+
+
+
 ### Tue - 02/25/25
 
 #### Loop quantum gravity related papers
