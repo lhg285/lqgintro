@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 02/28/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          The Ising model as a window on quantum gravity with matter* - Romuald A. Janik
+
+
+
 ### Thu - 02/27/25
 
 #### Loop quantum gravity related papers
