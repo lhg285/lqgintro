@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Gentle spaghettification in effective LQG dust collapse* - Francesco Fazzini
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Late-time cosmic acceleration from quantum gravity* - Daniele Oriti, Xiankai Pang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
