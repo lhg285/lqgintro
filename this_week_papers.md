@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 03/04/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Signatures of Quantum Gravity in Gravitational Wave Memory* - Nils Deppe, Lavinia Heisenberg, Lawrence E. Kidder, David Maibach, Sizheng Ma, Jordan Moxon, Kyle C. Nelli, William Throwe, Nils L. Vu
+
+
+
 ### Mon - 03/03/25
 
 #### Loop quantum gravity related papers
