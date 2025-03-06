@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/06/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Quantum representation of reduced twisted geometry in loop quantum gravity**
+ - **Authors:** Gaoping Long, Cong Zhang, Hongguang Liu
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this article, the quantum representation of the algebra among reduced twisted geometries (with respect to the Gauss constraint) is constructed in the gauge invariant Hilbert space of loop quantum gravity. It is shown that the reduced twisted geometric variables not only describe the spatial discrete geometry more clearly, but also form a simple Poisson algebra which is analogous to that in quantum mechanics. By regularizing the reduced twisted geometric variables properly, the fundamental algebra of reduced twisted geometry is established, with the gauge invariant Hilbert space in loop quantum gravity as the corresponding quantum representation space. This quantum representation also leads to fundamental operators associated with reduced twisted geometry. Based on these fundamental operators, a new type of extrinsic curvature operator is constructed in loop quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 03/05/25
 
 #### Loop quantum gravity related papers

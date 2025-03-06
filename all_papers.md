@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum representation of reduced twisted geometry in loop quantum gravity* - Gaoping Long, Cong Zhang, Hongguang Liu
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Gentle spaghettification in effective LQG dust collapse* - Francesco Fazzini
 
 1. [[]](https://arxiv.org/abs/) - *Title:
