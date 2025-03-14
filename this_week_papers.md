@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/14/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Scalar Quasinormal Modes of Rotating Regular Black Holes* - Fech Scen Khoo
+
+
+
 ### Thu - 03/13/25
 
 #### Loop quantum gravity related papers
