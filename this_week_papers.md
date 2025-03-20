@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/20/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Covariant effective spacetimes of spherically symmetric electro-vacuum with a cosmological constant* - Jinsong Yang, Cong Zhang, Yongge Ma
+
+
+
 ### Wed - 03/19/25
 
 #### Loop quantum gravity related papers
