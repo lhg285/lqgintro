@@ -13,6 +13,9 @@ permalink: /all_papers/
           Black Hole Shadows Modelling in Extended gravity: Rotation Accounting and coupled effects* - Stanislav Alexeyev, Oleg Zenin, Artem Baiderin
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Black Hole Shadows Modelling in Extended gravity: Rotation Accounting and coupled effects* - Stanislav Alexeyev, Oleg Zenin, Artem Baiderin
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Primodial power spectrum in loop quantum cosmology for different regularizations* - Maciej Kowalczyk, Guillermo A. Mena Marugán, Tomasz Pawłowski
 
 1. [[]](https://arxiv.org/abs/) - *Title:
