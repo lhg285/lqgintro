@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Particle Deflections around Microscopic Loop Quantum Black Holes with Rigorous Quantum Parameters* - Haida Li, Xiangdong Zhang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Black Hole Shadows Modelling in Extended gravity: Rotation Accounting and coupled effects* - Stanislav Alexeyev, Oleg Zenin, Artem Baiderin
 
 1. [[]](https://arxiv.org/abs/) - *Title:

@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 03/27/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Particle Deflections around Microscopic Loop Quantum Black Holes with Rigorous Quantum Parameters**
+ - **Authors:** Haida Li, Xiangdong Zhang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ The detection of quantum gravity effects is highly limited in both macroscopic and microscopic scenarios: The small quantum parameter makes most large-scale observations practically indistinguishable from general relativity. While at the Planck scale, where the effect of quantum gravity is undoubtedly significant, the energy requirement is remarkably high for any test particle as a probe. In this work, by focusing on the inner-most stable circular orbit (ISCO) of both massless and massive particles around a microscopic loop quantum black hole, we show that given the current knowledge of ultra-high-energy particles, quantum corrections of relative scale $>10^{-10}$ can appear when the radius of the black hole horizon remains larger than the wavelength of high-energy Gamma rays, where the classical photon trajectory may still hold to a certain degree. In addition, more significant corrections can be observed when considering low velocity massive particles. Potentially, our results could suggest a new area for testing the effects of quantum gravity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 03/26/25
 
 #### Loop quantum gravity related papers
