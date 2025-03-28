@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 03/28/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Numerical Study of Wheeler-Dewitt Equation beyond Slow-roll approximation* - Jie Jiang, Deog Ki Hong, Dong-han Yeom
+
+
+
 ### Thu - 03/27/25
 
 #### Loop quantum gravity related papers
