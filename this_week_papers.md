@@ -6,11 +6,18 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 03/28/25
+### Mon - 03/31/25
 
 #### Loop quantum gravity related papers
 
-There is no new related paper today 
+#### **Title:
+          Asymptotically safe canonical quantum gravity: Gaussian dust matter**
+ - **Authors:** Renata Ferrero, Thomas Thiemann
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In a recent series of publications we have started to investigate possible points of contact between the canonical (CQG) and the asymptotically safe (ASQG) approach to quantum gravity, despite the fact that the CQG approach is exclusively for Lorentzian signature gravity while the ASQG approach is mostly for Euclidean signature gravity. Expectedly, the simplest route is via the generating functional of time ordered N-point functions which requires a Lorentzian version of the Wetterich equation and heat kernel methods employed in ASQG. In the present contribution we consider gravity coupled to Gaussian dust matter. This is a generally covariant Lorentzian signature system, which can be considered as a field theoretical implementation of the idealisation of a congruence of collision free test observers in free fall, filling the universe. The field theory version correctly accounts for geometry -- matter backreaction and thus in principle serves as a dark matter model. Moreover, the intuitive geometric interpretation selects a preferred reference frame that allows to disentangle gauge degrees of freedom from observables. The CQG treatment of this theory has already been considered in the past. For this particular matter content it is possible to formulate the quantum field theory of observables as a non-linear $\sigma$ model described by a highly non-linear conservative Hamiltonian. This allows to apply techniques from Euclidean field theory to derive the generating functional of Schwinger N-point functions which can be treated with the standard Euclidean version of the heat kernel methods employed in ASQG. The corresponding Euclidean action is closely related to Euclidean signature gravity but not identical to it despite the fact that the underlying Hamiltonian is for Lorentzian signature gravity. 
 
 #### Spin foam related papers
 
@@ -21,81 +28,11 @@ There is no new related paper today
 #### Other related papers
 
 1. [[]](https://arxiv.org/abs/) - *Title:
-          Numerical Study of Wheeler-Dewitt Equation beyond Slow-roll approximation* - Jie Jiang, Deog Ki Hong, Dong-han Yeom
-
-
-
-### Thu - 03/27/25
-
-#### Loop quantum gravity related papers
-
-#### **Title:
-          Particle Deflections around Microscopic Loop Quantum Black Holes with Rigorous Quantum Parameters**
- - **Authors:** Haida Li, Xiangdong Zhang
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
- - **Abstract**
- The detection of quantum gravity effects is highly limited in both macroscopic and microscopic scenarios: The small quantum parameter makes most large-scale observations practically indistinguishable from general relativity. While at the Planck scale, where the effect of quantum gravity is undoubtedly significant, the energy requirement is remarkably high for any test particle as a probe. In this work, by focusing on the inner-most stable circular orbit (ISCO) of both massless and massive particles around a microscopic loop quantum black hole, we show that given the current knowledge of ultra-high-energy particles, quantum corrections of relative scale $>10^{-10}$ can appear when the radius of the black hole horizon remains larger than the wavelength of high-energy Gamma rays, where the classical photon trajectory may still hold to a certain degree. In addition, more significant corrections can be observed when considering low velocity massive particles. Potentially, our results could suggest a new area for testing the effects of quantum gravity. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Wed - 03/26/25
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Momentum-Resolved Probing of Lorentz-Violating Dispersion Relations via Unruh-DeWitt Detector* - Hao Xu
-
-
-
-### Tue - 03/25/25
-
-#### Loop quantum gravity related papers
-
-#### **Title:
-          Black Hole Shadows Modelling in Extended gravity: Rotation Accounting and coupled effects**
- - **Authors:** Stanislav Alexeyev, Oleg Zenin, Artem Baiderin
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
- - **Abstract**
- Using an improved version of the Newman-Janis algorithm, we obtain metrics of rotating black holes for a set of extended gravity theories that extend general relativity in different ways: the Horndeski model, the bumblebee model, the Gauss-Bonnet scalar gravity, the loop quantum gravity, the conformal gravity, and $f(Q)$ (symmetric teleparallel gravity STEGR). The obtained metrics are used to model black hole shadows. It is shown that for some models the critical values of the angular momentum $a_{crit}$ emerge. The previous conclusion that the extended gravity theory corrects by itself the effects of rotation in both directions is confirmed. This appears to be important for further modelling of shadow profiles taking into account the constantly increasing accuracy of black hole images. Thus, when rotation is taken into account black hole shadow images, as the GW170817 test or the post-Newtonian formalism, can serve as a meaningful way to test and constrain extended theories of gravity. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-### Mon - 03/24/25
-
-#### Loop quantum gravity related papers
-
-#### **Title:
-          Black Hole Shadows Modelling in Extended gravity: Rotation Accounting and coupled effects**
- - **Authors:** Stanislav Alexeyev, Oleg Zenin, Artem Baiderin
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
- - **Abstract**
- Using an improved version of the Newman-Janis algorithm, we obtain metrics of rotating black holes for a set of extended gravity theories that extend general relativity in different ways: the Horndeski model, the bumblebee model, the Gauss-Bonnet scalar gravity, the loop quantum gravity, the conformal gravity, and $f(Q)$ (symmetric teleparallel gravity STEGR). The obtained metrics are used to model black hole shadows. It is shown that for some models the critical values of the angular momentum $a_{crit}$ emerge. The previous conclusion that the extended gravity theory corrects by itself the effects of rotation in both directions is confirmed. This appears to be important for further modelling of shadow profiles taking into account the constantly increasing accuracy of black hole images. Thus, when rotation is taken into account black hole shadow images, as the GW170817 test or the post-Newtonian formalism, can serve as a meaningful way to test and constrain extended theories of gravity. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
+          Comparing Bondi and Novikov-Thorne accretion disk luminosity around regular black holes* - Salvatore Capozziello, Serena Gambino, Orlando Luongo
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2025/03/24/archived_weekly_papers.html)
+
+
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2025/03/31/archived_weekly_papers.html)
