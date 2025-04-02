@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/02/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Holographic tensor network for double-scaled SYK* - Kazumi Okuyama
+
+
+
 ### Tue - 04/01/25
 
 #### Loop quantum gravity related papers
