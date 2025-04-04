@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/04/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum maximally symmetric space-times* - Pedro Meert, Andrea Giusti, Roberto Casadio
+
+
+
 ### Thu - 04/03/25
 
 #### Loop quantum gravity related papers
