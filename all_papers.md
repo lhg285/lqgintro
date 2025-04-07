@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Probing loop quantum effects through solar system experiments: observational signatures and parameter constraints* - Wen-Juan Ai, Ruo-Ting Chen, Jian-Pin Wu
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Particle Deflections around Microscopic Loop Quantum Black Holes with Rigorous Quantum Parameters* - Haida Li, Xiangdong Zhang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
