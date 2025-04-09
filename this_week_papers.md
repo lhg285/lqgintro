@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/09/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          The lifetime of white hole remnants is $M^5$* - Pierre Martin-Dussaud
+
+
+
 ### Tue - 04/08/25
 
 #### Loop quantum gravity related papers
