@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 04/10/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Complex Chern-Simons Theory with $k=8\mathbb{N} and An Improved Spinfoam Model with Cosmological Constant**
+ - **Authors:** Muxin Han, Qiaoyin Pan
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ This paper presents an improvement to the four-dimensional spinfoam model with cosmological constant ($\Lambda$-SF model) in loop quantum gravity. The original $\Lambda$-SF model, defined via ${\rm SL}(2,\mathbb{C})$ Chern-Simons theory on graph-complement 3-manifolds, produces finite amplitudes and reproduces curved 4-simplex geometries in the semi-classical limit. However, extending the model to general simplicial complexes necessitated ad hoc, non-universal phase factors in face amplitudes, complicating systematic constructions. We resolve this issue by redefining the vertex amplitude using a novel set of phase space coordinates that eliminate the extraneous phase factor, yielding a universally defined face amplitude. Key results include: (1) The vertex amplitude is rigorously shown to be well-defined for Chern-Simons levels $k \in 8\mathbb{N}$, compatible with semi-classical analysis ($k \to \infty$). (2) The symplectic structure of the Chern-Simons phase space is modified to accommodate ${\rm SL}(2,\mathbb{C})$ holonomies, relaxing quantization constraints to $\mathrm{Sp}(2r,\mathbb{Z}/4)$. (3) Edge amplitudes are simplified using constraints aligned with colored tensor models, enabling systematic gluing of 4-simplices into complexes dual to colored graphs. (4) Stationary phase analysis confirms consistency of critical points with prior work, recovering Regge geometries with curvature determined by $\Lambda$. These advancements streamline the spinfoam amplitude definition, facilitating future studies of colored group field theories and continuum limits of quantum gravity. The results establish a robust framework for 4D quantum gravity with non-zero $\Lambda$, free of previous ambiguities in face amplitudes. 
+
+#### Spin foam related papers
+
+#### **Title:
+          Complex Chern-Simons Theory with $k=8\mathbb{N} and An Improved Spinfoam Model with Cosmological Constant**
+ - **Authors:** Muxin Han, Qiaoyin Pan
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ This paper presents an improvement to the four-dimensional spinfoam model with cosmological constant ($\Lambda$-SF model) in loop quantum gravity. The original $\Lambda$-SF model, defined via ${\rm SL}(2,\mathbb{C})$ Chern-Simons theory on graph-complement 3-manifolds, produces finite amplitudes and reproduces curved 4-simplex geometries in the semi-classical limit. However, extending the model to general simplicial complexes necessitated ad hoc, non-universal phase factors in face amplitudes, complicating systematic constructions. We resolve this issue by redefining the vertex amplitude using a novel set of phase space coordinates that eliminate the extraneous phase factor, yielding a universally defined face amplitude. Key results include: (1) The vertex amplitude is rigorously shown to be well-defined for Chern-Simons levels $k \in 8\mathbb{N}$, compatible with semi-classical analysis ($k \to \infty$). (2) The symplectic structure of the Chern-Simons phase space is modified to accommodate ${\rm SL}(2,\mathbb{C})$ holonomies, relaxing quantization constraints to $\mathrm{Sp}(2r,\mathbb{Z}/4)$. (3) Edge amplitudes are simplified using constraints aligned with colored tensor models, enabling systematic gluing of 4-simplices into complexes dual to colored graphs. (4) Stationary phase analysis confirms consistency of critical points with prior work, recovering Regge geometries with curvature determined by $\Lambda$. These advancements streamline the spinfoam amplitude definition, facilitating future studies of colored group field theories and continuum limits of quantum gravity. The results establish a robust framework for 4D quantum gravity with non-zero $\Lambda$, free of previous ambiguities in face amplitudes. 
+
 ### Wed - 04/09/25
 
 #### Loop quantum gravity related papers
