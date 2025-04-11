@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/11/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular Black Hole Models in the Transition from Baryonic Matter to Quark Matter* - Vitalii Vertogradov, Ali Övgün
+
+
+
 ### Thu - 04/10/25
 
 #### Loop quantum gravity related papers
