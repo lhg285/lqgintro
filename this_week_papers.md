@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 04/18/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Circular orbits and accretion disk around a deformed-Schwarzschild black hole in loop quantum gravity**
+ - **Authors:** Kourosh Nozari, Sara Saghafi, Milad Hajebrahimi, Kimet Jusufi
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper, we study the motion of neutral and electrically charged particles in the vicinity of a deformed-Schwarzschild black hole inspired by Loop Quantum Gravity (LQG). To examine the motion of an electrically charged test particle, we propose an expression for electromagnetic 4-potential that contains the impacts of loop quantum gravity. This electromagnetic 4-potential satisfies approximately the covariant Maxwell's equations to first order in the loop quantum effects. We explore the effects of the loop quantum correction parameter on the particle geodesics. We investigate the innermost stable circular orbits (ISCOs) for both neutral and electrically charged particles in detail, demonstrating that the loop quantum parameter significantly influences on the ISCO radius, causing it to shrink. Finally, we explore the accretion disk around the loop quantum black hole. We delve into the electromagnetic radiation flux, temperature, differential luminosity, and the spectral luminosity as radiation properties of the accretion disk in detail. We show that the loop quantum correction parameter shifts the profile of the electromagnetic flux and accretion disk temperature towards the central object, leading to a slight increase in these quantities. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 04/17/25
 
 #### Loop quantum gravity related papers

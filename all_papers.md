@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Circular orbits and accretion disk around a deformed-Schwarzschild black hole in loop quantum gravity* - Kourosh Nozari, Sara Saghafi, Milad Hajebrahimi, Kimet Jusufi
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Complex Chern-Simons Theory with $k=8\mathbb{N} and An Improved Spinfoam Model with Cosmological Constant* - Muxin Han, Qiaoyin Pan
 
 1. [[]](https://arxiv.org/abs/) - *Title:
