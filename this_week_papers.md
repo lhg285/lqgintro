@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 04/22/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Comparing top-down and bottom-up holographic defects and boundaries* - William Harvey, Kristan Jensen, Takahiro Uzu
+
+
+
 ### Fri - 04/18/25
 
 #### Loop quantum gravity related papers
