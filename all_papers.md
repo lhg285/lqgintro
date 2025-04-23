@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Effective loop cosmology is a mere symplectic modification of standard cosmology* - Abraham Espinoza-García
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Circular orbits and accretion disk around a deformed-Schwarzschild black hole in loop quantum gravity* - Kourosh Nozari, Sara Saghafi, Milad Hajebrahimi, Kimet Jusufi
 
 1. [[]](https://arxiv.org/abs/) - *Title:

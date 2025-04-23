@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 04/23/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Effective loop cosmology is a mere symplectic modification of standard cosmology**
+ - **Authors:** Abraham Espinoza-García
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ It is shown that several prescriptions for the effective continuum limit of the flat Friedmann-Lemaitre-Robertson-Walker loop quantum cosmology can be understood as the exact classical limit of the Wheeler-DeWitt quantization of certain dynamical systems -- which are themeselves symplectic modifications of the standard Friedmann-Lemaitre-Robertson-Walker model. It is also demonstrated that a similar situation holds for two highly relevant anisotropic models. The required symplectic modifications are explicitly constructed. It is argued that this state of affairs makes the case for the associated Wheeler-DeWitt framework to be considered as an alternate quantum cosmology paradigm. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 04/22/25
 
 #### Loop quantum gravity related papers
