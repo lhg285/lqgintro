@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/01/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Quantization of Anisotropic Topological Yang Mills Theory**
+ - **Authors:** Emil Albrychiewicz, Andrés Franco Valiente, Viola Zixin Zhao
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We continue our investigation into anisotropic topological field theories which arise from a tropical limit of conventional isotropic topological field theories. We analyze both the TBF theory and the tropical analogue of 2D topological Yang-Mills theory (TrYM) through a direct path integral calculation which probes a deformed analytic torsion and also through canonical quantization. The explicit construction of the Hilbert space of TrYM theory demonstrates that the TrYM theory provides an example of a solvable field theory where anisotropy properties and topological invariance can simultaneously hold. We show that the partition function has an asymptotic limit, which verifies that the dimension of the moduli space of tropicalized flat connection on a Riemann surface of genus $g>1$ is precisely given by $(g-1) \operatorname{rank}(\mathfrak{g})$. We conjecture that the large $N$ expansion of the associated matrix model of 2D TrYM is associated to the wedge region of nonequilibrium string theory. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Scalar quasinormal modes, Lyapunov exponents and radii of null geodesics of rotating regular black holes* - Yating Peng, Jia-Hui Huang
+
+
+
 ### Wed - 04/30/25
 
 #### Loop quantum gravity related papers
