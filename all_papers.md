@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Origins of Thermalization in Semiclassical Cosmology* - Michael Osei
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Effective loop cosmology is a mere symplectic modification of standard cosmology* - Abraham Espinoza-García
 
 1. [[]](https://arxiv.org/abs/) - *Title:

@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/02/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Origins of Thermalization in Semiclassical Cosmology**
+ - **Authors:** Michael Osei
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We discuss the effect of accelerated frames in cosmology, and obtain origins of thermalization of the cosmic evolution of the semi-classical universe. We implement a transformation in super-space, and the WKB wave function defined on super space has a Bogoliubov transformation. In the transformed frame we find the density matrix which is mixed, and this is the sign of a thermal system. Whereas this result does not have the same interpretations of a particle thermalization in accelerated frames, one can show the super space transformation similar to a double Rindler transformation of real space-time coordinates. We also discuss the implications of the super-space transformation in loop quantum cosmology. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 05/01/25
 
 #### Loop quantum gravity related papers
