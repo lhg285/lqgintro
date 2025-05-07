@@ -6,6 +6,39 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/07/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Deep learning spinfoam vertex amplitudes: the Euclidean Barrett-Crane model**
+ - **Authors:** Hanno Sahlmann, Waleed Sherif
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Computational Physics (physics.comp-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Spinfoam theories propose a well-defined path-integral formulation for quantum gravity and are hoped to provide the dynamics of loop quantum gravity. However, it is computationally hard to calculate spinfoam amplitudes. The well-studied Euclidean Barrett-Crane model provides an excellent setting for testing analytical and numerical tools to probe spinfoam models. We explore a data-driven approach to accelerating spinfoam computations by showing that the vertex amplitude is an object that can be learned from data using deep learning. We divide the learning process into a classification and a regression task: Two networks are independently engineered to decide whether the amplitude is zero or not and to predict the precise numerical value, respectively. The trained networks are tested with several accuracy measures. The classifier in particular demonstrates robust generalisation far outside the training domain, while the regressor demonstrates high predictive accuracy in the domain it is trained on. We discuss limitations, possible improvements, and implications for future work. 
+
+#### Spin foam related papers
+
+#### **Title:
+          Deep learning spinfoam vertex amplitudes: the Euclidean Barrett-Crane model**
+ - **Authors:** Hanno Sahlmann, Waleed Sherif
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Computational Physics (physics.comp-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Spinfoam theories propose a well-defined path-integral formulation for quantum gravity and are hoped to provide the dynamics of loop quantum gravity. However, it is computationally hard to calculate spinfoam amplitudes. The well-studied Euclidean Barrett-Crane model provides an excellent setting for testing analytical and numerical tools to probe spinfoam models. We explore a data-driven approach to accelerating spinfoam computations by showing that the vertex amplitude is an object that can be learned from data using deep learning. We divide the learning process into a classification and a regression task: Two networks are independently engineered to decide whether the amplitude is zero or not and to predict the precise numerical value, respectively. The trained networks are tested with several accuracy measures. The classifier in particular demonstrates robust generalisation far outside the training domain, while the regressor demonstrates high predictive accuracy in the domain it is trained on. We discuss limitations, possible improvements, and implications for future work. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Spectral dimensionality of spacetime around a radiating Schwarzschild black-hole* - Mauricio Bellini, Juan Ignacio Musmarra, Pablo Alejandro Sanchez, Alan Sebastian Morales
+
+
+
 ### Tue - 05/06/25
 
 #### Loop quantum gravity related papers
