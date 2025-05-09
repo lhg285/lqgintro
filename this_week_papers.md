@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/09/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Why Do We Want a Theory of Quantum Gravity?* - Karen Crowther
+
+
+
 ### Thu - 05/08/25
 
 #### Loop quantum gravity related papers
