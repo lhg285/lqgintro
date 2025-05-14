@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Cosmological scalar perturbations for a metric reconstructed from group field theory* - Steffen Gielen, Lisa Mickel
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Origins of Thermalization in Semiclassical Cosmology* - Michael Osei
 
 1. [[]](https://arxiv.org/abs/) - *Title:
