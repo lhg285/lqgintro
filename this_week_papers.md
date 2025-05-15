@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 05/15/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Entropy in Loop Quantum Cosmology**
+ - **Authors:** Alejandro Corichi, Omar Gallegos
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ The Generalized First Law (GFL) and the Generalized Second Law (GSL) of thermodynamics are searched for effective and alternative cosmic models using the entropy as a function of the apparent area, transforming the effective cosmological model into the standard form in cosmology. The general conditions of the GSL validity are analyzed for the entropy as a general function and for logarithmic corrections to the usual Black Hole entropy. In particular, we study the GFL and the regions where the GSL is valid for an effective Loop Quantum Cosmology model with spatially flat curvature taking every possible value of the logarithmic correction factor. In addition, we explore the possibility of having negative temperature, where the validity conditions for an alternative generalized second law (AGSL) are studied. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 05/14/25
 
 #### Loop quantum gravity related papers
