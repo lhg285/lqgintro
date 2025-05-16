@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/16/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular black holes from Oppenheimer-Snyder collapse* - Pablo Bueno, Pablo A. Cano, Robie A. Hennigar, Ángel J. Murcia, Aitor Vicente-Cano
+
+
+
 ### Thu - 05/15/25
 
 #### Loop quantum gravity related papers
