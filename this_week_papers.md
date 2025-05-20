@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 05/20/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Can we distinguish whether black holes have singularities or not through echoes and light rings?* - Xiao-Pin Rao, Hyat Huang
+
+
+
 ### Mon - 05/19/25
 
 #### Loop quantum gravity related papers
