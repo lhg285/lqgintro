@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/21/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Spectrum of BPS black holes in $AdS_3 \times S^3 \times S^3 \times S^1$* - Matthew Heydeman, Xiaoyi Shi, Gustavo J. Turiaci
+
+
+
 ### Tue - 05/20/25
 
 #### Loop quantum gravity related papers
