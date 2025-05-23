@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/23/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**
+ - **Authors:** Andrea Addazi, Salvatore Capozziello, Jinglong Liu, Antonino Marciano, Giuseppe Meluccio, Xuan-Lin Su
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We propose a scenario according to which the ultraviolet completion of General Relativity is realized through a stochastic gradient flow towards a topological BF theory. Specifically, we consider the stochastic gradient flow of a pre-geometric theory proposed by Wilczek. Its infrared limit exists, and corresponds to a fixed point where stochastic fluctuations vanish. Diffeomorphism symmetries are restored in this limit, where the theory is classical and expressed by the Einstein-Hilbert action. The infrared phase then corresponds to the classical theory of General Relativity, the quantization of which becomes meaningless. Away from the infrared limit, in the pre-geometric phase of the stochastic gradient flow, the relevant fields of the Wilczek theory undergo stochastic fluctuations. The theory can be quantized perturbatively, generating corrections to the classical Einstein-Hilbert action. The stochastic gradient flow also possesses an ultraviolet fixed point. The theory flows to a topological BF action, to which general non-perturbative quantization methods can be applied. Two phase transitions occur along the thermal time dynamics, being marked by: i) the breakdown of the topological BF symmetries in the ultraviolet regime, which originates the pre-geometric phase described by the Wilczek theory; ii) the breakdown of the parental symmetries characterizing the Wilczek theory, from which General Relativity emerges. The problem of quantizing the Einstein-Hilbert action of gravity finally becomes redundant. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Test-Field vs Physical Quasi-Normal Modes in Scalar-Tensor Theories* - Alexandre Arbey, Etera R. Livine, Clara Montagnon
+
+
+
 ### Thu - 05/22/25
 
 #### Loop quantum gravity related papers
