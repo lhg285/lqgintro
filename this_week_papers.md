@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 05/28/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          It from ETH: Multi-interval Entanglement and Replica Wormholes from Large-$c$ BCFT Ensemble* - Hao Geng, Ling-Yan Hung, Yikun Jiang
+
+
+
 ### Tue - 05/27/25
 
 #### Loop quantum gravity related papers
