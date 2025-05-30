@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 05/30/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Thermodynamics of four-dimensional regular black holes with an infinite tower of regularized curvature corrections* - Adolfo Cisterna, Mokhtar Hassaine, Ulises Hernandez-Vera
+
+
+
 ### Thu - 05/29/25
 
 #### Loop quantum gravity related papers
