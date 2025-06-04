@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 06/04/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          A short overview on the Black Hole-Tower Correspondence and Species Thermodynamics* - Alvaro Herráez, Dieter Lüst, Joaquin Masias, Carmine Montella
+
+
+
 ### Tue - 06/03/25
 
 #### Loop quantum gravity related papers
