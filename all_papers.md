@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Could Planck Star Remnants be Dark Matter?* - Oem Trivedi, Abraham Loeb
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Love Numbers of Covariant Loop Quantum Black Holes* - Meysam Motaharfar, Parampreet Singh
 
 1. [[]](https://arxiv.org/abs/) - *Title:
