@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 06/06/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Dust shell in effective loop quantum black hole model**
+ - **Authors:** Hanno Sahlmann, Cong Zhang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this work, the dynamics of a dust shell in an effective theory of spherically symmetric gravity containing quantum corrections from loop quantum gravity is investigated. To provide a consistent framework for including the dust, we go beyond the standard formulation of the effective theory by introducing an action that includes not only the effective Hamiltonian constraint, but also the diffeomorphism constraint, along with appropriate gauge-fixing and boundary terms. By adding the dust shell action and substituting vacuum solutions for the interior and exterior regions, we derive a reduced action in which only the shell radius $\mathfrak{x}$ and the exterior black hole mass appear as dynamical variables. Varying the reduced action yields the evolution equation for $\mathfrak{x}$, which is then solved numerically to explore the dynamical properties of the dust shell and the continuity properties of the metric. Finally, our approach is compared with previous studies to highlight key differences and improvements. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 06/05/25
 
 #### Loop quantum gravity related papers

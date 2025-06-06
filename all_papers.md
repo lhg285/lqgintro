@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Dust shell in effective loop quantum black hole model* - Hanno Sahlmann, Cong Zhang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Could Planck Star Remnants be Dark Matter?* - Oem Trivedi, Abraham Loeb
 
 1. [[]](https://arxiv.org/abs/) - *Title:
