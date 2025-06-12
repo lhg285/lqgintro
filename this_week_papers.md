@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/12/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Off-shell double copy theories in BV**
+ - **Authors:** Maor Ben-Shahar, Francesco Bonechi, Maxim Zabzine
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We present a construction of the double copy for gauge theories that exhibit off-shell color-kinematics duality within the Batalin-Vilkovitsky (BV) formalism. As illustrative examples, we consider the double copies of Chern-Simons theory, four-dimensional BF theory, and two-dimensional Yang-Mills theory, and we discuss possible gravity interpretations for these cases. We formalize the construction and demonstrate that Kodaira-Spencer gravity, Kähler gravity, and their generalizations, fit naturally within this framework. In particular, Kodaira-Spencer gravity emerges as a gauge theory describing deformations of generalized complex structures, while the double copy of Chern-Simons theory captures the deformation of the Courant bracket. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          York's Cavity Formalism and Quantum Modified Thermodynamics of (2+1)D Black Holes* - Prince A Ganai, Nadeem Ul Islam, Nazir A Ganaie
+
+
+
 ### Wed - 06/11/25
 
 #### Loop quantum gravity related papers
