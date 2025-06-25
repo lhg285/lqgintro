@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Nonlocal correlations for semiclassical states in loop quantum gravity* - Filipe H. C. Menezes, Nelson Yokomizo
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Anomaly freedom in effective Loop Quantum Cosmology refined: extended functional dependence of the counter-terms* - Maxime De Sousa, Aurélien Barrau, Killian Martineau
 
 1. [[]](https://arxiv.org/abs/) - *Title:
