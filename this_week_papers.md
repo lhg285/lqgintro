@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 06/26/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Emergent Lorentzian Geometries from Spin-Foams and Group Field Theories**
+ - **Authors:** Alexander F. Jercher
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ The emergence of Lorentzian geometries in spin-foams and group field theories is investigated. The spectral dimension of periodic Euclidean spin-foam frusta is studied. At large scales, the spectral dimension is generically four. At lower scales, a non-trivial flow of the spectral dimension is observed, sensitive to quantum effects, curvature induced oscillations and the parameters of the theory. The removal of numerical cutoffs and a thermodynamic limit is discussed, suggesting a phase transition from zero to four large-scale dimensions. Lorentzian Regge calculus for (3+1) cosmology, modelled with Lorentzian 4-frusta, coupled to a massless free scalar field is studied. It is shown that causal regularity, solutions to the Regge equations and a continuum limit only exist if the cells connecting neighboring slices are timelike. The dynamics can be expressed relationally only in the small deficit angle limit. Effective (2+1) spin-foam cosmology with a minimally coupled massive scalar field is investigated. The scalar field mass is shown to ensure convergence of the path integral. The classicality of expectation values is shown to be intimately connected to causal regularity and the path integral measure. A causal completion of the Barrett-Crane group field theory model is developed. Its amplitudes are explicitly computed in spin representation using methods from integral geometry. A Landau-Ginzburg analysis is applied to the complete Barrett-Crane (BC) group field theory model. It is shown that mean-field theory is generically self-consistent, and that timelike faces do not contribute to the critical behavior. Employing the complete BC model, a physical Lorentzian reference frame is coupled, and scalar cosmological perturbations are extracted from entangled GFT coherent states. The dynamics of these perturbations are shown to agree with classical results up to quantum corrections. 
+
+#### Spin foam related papers
+
+#### **Title:
+          Emergent Lorentzian Geometries from Spin-Foams and Group Field Theories**
+ - **Authors:** Alexander F. Jercher
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ The emergence of Lorentzian geometries in spin-foams and group field theories is investigated. The spectral dimension of periodic Euclidean spin-foam frusta is studied. At large scales, the spectral dimension is generically four. At lower scales, a non-trivial flow of the spectral dimension is observed, sensitive to quantum effects, curvature induced oscillations and the parameters of the theory. The removal of numerical cutoffs and a thermodynamic limit is discussed, suggesting a phase transition from zero to four large-scale dimensions. Lorentzian Regge calculus for (3+1) cosmology, modelled with Lorentzian 4-frusta, coupled to a massless free scalar field is studied. It is shown that causal regularity, solutions to the Regge equations and a continuum limit only exist if the cells connecting neighboring slices are timelike. The dynamics can be expressed relationally only in the small deficit angle limit. Effective (2+1) spin-foam cosmology with a minimally coupled massive scalar field is investigated. The scalar field mass is shown to ensure convergence of the path integral. The classicality of expectation values is shown to be intimately connected to causal regularity and the path integral measure. A causal completion of the Barrett-Crane group field theory model is developed. Its amplitudes are explicitly computed in spin representation using methods from integral geometry. A Landau-Ginzburg analysis is applied to the complete Barrett-Crane (BC) group field theory model. It is shown that mean-field theory is generically self-consistent, and that timelike faces do not contribute to the critical behavior. Employing the complete BC model, a physical Lorentzian reference frame is coupled, and scalar cosmological perturbations are extracted from entangled GFT coherent states. The dynamics of these perturbations are shown to agree with classical results up to quantum corrections. 
+
 ### Wed - 06/25/25
 
 #### Loop quantum gravity related papers

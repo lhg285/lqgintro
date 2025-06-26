@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Emergent Lorentzian Geometries from Spin-Foams and Group Field Theories* - Alexander F. Jercher
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Nonlocal correlations for semiclassical states in loop quantum gravity* - Filipe H. C. Menezes, Nelson Yokomizo
 
 1. [[]](https://arxiv.org/abs/) - *Title:
