@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/03/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Bouncing Bianchi Models with Deformed Commutation Relations**
+ - **Authors:** Gabriele Barca, Steffen Gielen
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We study the anisotropic Bianchi I and Bianchi II models in vacuum in the framework of deformed commutation relations (DCRs). Working in a parametrisation of the spatial metric by a volume and two anisotropy variables, we propose modified Poisson brackets that for the volume alone reproduce the bounce dynamics of effective loop quantum cosmology (LQC), with additional modifications for anisotropy degrees of freedom. We derive effective Friedmann equations and observe cosmological bounces both in Bianchi I and Bianchi II. For Bianchi II, we find that the cosmological bounce now interacts with the usual reflection seen in the Kasner indices in various interesting ways, in close similarity again with what had been seen in LQC. This suggests that the DCR framework could model more general quantum-gravity inspired bounce scenarios in a relatively straightforward way. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          The Crossed Product, Modular (Tomita) Dynamics and its Role in the Transition of Type $III$ to Type $II_{\infty}$ v.Neumann Algebras and Connections to Quantum Gravity* - Manfred Requardt
+
+
+
 ### Wed - 07/02/25
 
 #### Loop quantum gravity related papers
