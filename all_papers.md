@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Renormalization group flows in area-metric gravity* - Johanna Borissova, Bianca Dittrich, Astrid Eichhorn, Marc Schiffer
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Pseudo-Complex Gravity as a Geometric Resolution of the Black Hole Information Paradox* - Fridolin Weberand Peter O. Hess, Cesar A. Zen Vasconcellos
 
 1. [[]](https://arxiv.org/abs/) - *Title:
