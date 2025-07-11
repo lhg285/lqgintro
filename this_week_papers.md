@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/11/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Polymer Black Hole Surrounded by Quintessence**
+ - **Authors:** M. C. Araújo, J. G. Lima, C. R. Muniz, J. Furtado
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In this paper, we study the polymer black hole solution surrounded by a quintessence field. The influence of quintessence on the polymer black hole is investigated through its thermodynamic properties, such as the Hawking temperature, entropy, and specific heat, which allow us to address the question of thermodynamic stability. We then calculate bounds on the electromagnetic greybody factors and photon emission rates of the black hole, highlighting the interplay between quintessence and quantum gravity effects in determining these phenomena. We also examine the effects of quintessence and quantum gravity on the geodesics and shadows of massless particles around the black hole. Our results are further compared with observational data of the Sagittarius A black hole from the Event Horizon Telescope (EHT) collaboration. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational Quasinormal Modes and Grey-Body Factors of Bonanno-Reuter Regular Black Holes* - S. V. Bolokhov, Milena Skvortsova
+
+
+
 ### Thu - 07/10/25
 
 #### Loop quantum gravity related papers
