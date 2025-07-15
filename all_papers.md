@@ -13,6 +13,9 @@ permalink: /all_papers/
           Singularities in loop quantum cosmology* - Martin Bojowald, Manuel Diaz, Erick I. Duque
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Singularities in loop quantum cosmology* - Martin Bojowald, Manuel Diaz, Erick I. Duque
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Renormalization group flows in area-metric gravity* - Johanna Borissova, Bianca Dittrich, Astrid Eichhorn, Marc Schiffer
 
 1. [[]](https://arxiv.org/abs/) - *Title:
