@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/16/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Causal structure and topology change in (2+1)-dimensional simplicial gravity* - Seth K. Asante, Björn Borgolte
+
+
+
 ### Tue - 07/15/25
 
 #### Loop quantum gravity related papers
