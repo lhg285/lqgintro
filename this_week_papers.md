@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 07/17/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Conformal Turaev-Viro Theory**
+ - **Authors:** Thomas Hartman
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We define and study Conformal Turaev-Viro (CTV) theory, a dual formulation of Virasoro TQFT based on triangulating 3-manifolds with tetrahedra. Edges of the triangulation are labeled by continuous conformal weights, and tetrahedra are glued together weighted by the Cardy density of states. We demonstrate that the CTV partition function is equal to the modular S-transform of the Virasoro TQFT amplitude-squared, $|Z_{Vir}|^2$. This is analogous to a known result for discrete spin networks. The derivation uses a variant of the chain-mail formalism, adapted to the Virasoro context. As a CFT application, we derive formulae for the S-transforms of the squared Virasoro crossing kernels. These results lay the topological foundation to study the exact path integral of pure AdS$_3$ quantum gravity by triangulations. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Testing the effective action approach to bubble nucleation in holography* - Oscar Henriksson, Niko Jokela, Xin Li
+
+
+
 ### Wed - 07/16/25
 
 #### Loop quantum gravity related papers
