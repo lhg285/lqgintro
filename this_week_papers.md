@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/18/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Space-based mm/mg-scale Laser Interferometer for Quantum Gravity* - Nobuyuki Matsumoto, Katsuta Sakai, Kosei Hatakeyama, Kiwamu Izumi, Daisuke Miki, Satoshi Iso, Akira Matsumura, Kazuhiro Yamamoto
+
+
+
 ### Thu - 07/17/25
 
 #### Loop quantum gravity related papers
