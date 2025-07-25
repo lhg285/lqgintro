@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 07/25/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Topological dark energy from spacetime foam: A challenge for $Λ$CDM* - Fotios K. Anagnostopoulos, Stylianos A. Tsilioukas, Emmanuel N. Saridakis
+
+
+
 ### Thu - 07/24/25
 
 #### Loop quantum gravity related papers
