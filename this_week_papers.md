@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 07/30/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quasinormal modes of regular black holes surrounded by skewed dark matter distributions* - Chen Lan, Ying-Lei Tian, Hao Yang, Zhen-Xiao Zhang, Yan-Gang Miao
+
+
+
 ### Tue - 07/29/25
 
 #### Loop quantum gravity related papers
