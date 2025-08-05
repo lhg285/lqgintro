@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 08/05/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular black holes without mass-inflation instability and gravastars from modified gravity* - Astrid Eichhorn, Pedro G. S. Fernandes
+
+
+
 ### Mon - 08/04/25
 
 #### Loop quantum gravity related papers
