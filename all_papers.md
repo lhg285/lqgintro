@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum Oppenheimer-Snyder Black Hole with Quintessential Dark Energy and a String Clouds: Geodesics, Perturbative Dynamics, and Thermal Properties* - Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Singularities in loop quantum cosmology* - Martin Bojowald, Manuel Diaz, Erick I. Duque
 
 1. [[]](https://arxiv.org/abs/) - *Title:
