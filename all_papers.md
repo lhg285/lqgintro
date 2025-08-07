@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Hamiltonian analysis of an Effective action coupled to the Palatini action in 4 dimensions* - Ricardo Escobedo, Roberto Santos-Silva, Claudia Moreno, Rafael Hernández-Jiménez
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quantum Oppenheimer-Snyder Black Hole with Quintessential Dark Energy and a String Clouds: Geodesics, Perturbative Dynamics, and Thermal Properties* - Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı
 
 1. [[]](https://arxiv.org/abs/) - *Title:
