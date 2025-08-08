@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/08/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Nonequilibrium Phase Transitions in Large $N$ Matrix Quantum Mechanics* - Minjae Cho
+
+
+
 ### Thu - 08/07/25
 
 #### Loop quantum gravity related papers
