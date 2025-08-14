@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/14/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Foundational Structure of Local Amplitudes in Quantum Gravity* - Charalampos Theofilis, Wolfgang Wieland
+
+
+
 ### Wed - 08/13/25
 
 #### Loop quantum gravity related papers
