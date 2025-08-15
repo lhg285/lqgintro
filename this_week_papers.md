@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/15/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Quantum-Corrected Deformation of RN-AdS Black Holes with a Cloud of Strings Immersed in Quintessential-like Fluid**
+ - **Authors:** Faizuddin Ahmed, Abdelmalek Bouzenada
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Inspired by Loop Quantum Gravity (LQG), we investigate the Reissner-Nordström (RN) black hole (BH) solution coupled with a cloud of strings in an anti-de Sitter (AdS) background, surrounded by a quintessence-like fluid. We begin by analyzing the optical properties of the BH through null geodesic motion, deriving an effective potential that governs photon dynamics. This effective potential is central to understanding key phenomena such as photon trajectories, circular null orbits, photon sphere, and the resulting BH shadow. Subsequently, we study the dynamics of neutral test particles by deriving effective potential that describes their motion. Using the potential, we compute the specific energy and specific angular momentum of neutral particles in circular orbits around the BH and analyze the outcomes. We also investigate the innermost stable circular orbits (ISCO) and demonstrate how various geometrical and physical properties influence the radius of ISCO. Furthermore, we explore the thermodynamic properties of the BH solution by deriving key quantities such as the Hawking temperature, entropy, Gibbs free energy, internal energy, and specific heat capacity. Throughout the study, we demonstrate that the geodesic structure, scalar field behavior, and thermodynamic properties are significantly influenced by parameters such as the string cloud, quantum correction, electric charge, the surrounding quintessence-like fluid, and the AdS curvature radius. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 08/14/25
 
 #### Loop quantum gravity related papers

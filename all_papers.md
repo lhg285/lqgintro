@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum-Corrected Deformation of RN-AdS Black Holes with a Cloud of Strings Immersed in Quintessential-like Fluid* - Faizuddin Ahmed, Abdelmalek Bouzenada
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Hamiltonian analysis of an Effective action coupled to the Palatini action in 4 dimensions* - Ricardo Escobedo, Roberto Santos-Silva, Claudia Moreno, Rafael Hernández-Jiménez
 
 1. [[]](https://arxiv.org/abs/) - *Title:
