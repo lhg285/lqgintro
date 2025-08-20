@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/20/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Effects of non-minimal scalar field couplings with curvature tensors on perturbations in non-commutative Schwarzschild spacetimes* - Majid Karimabadi, Davood Mahdavian Yekta, S. A. Alavi
+
+
+
 ### Tue - 08/19/25
 
 #### Loop quantum gravity related papers
