@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/21/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Energy Extraction and Evolution of Regular Black Holes: The Case of Bardeen Spacetime* - Vitalii Vertogradov, Angel Rincon
+
+
+
 ### Wed - 08/20/25
 
 #### Loop quantum gravity related papers
