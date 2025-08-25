@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Interacting Scalar Field Cosmology from Full Quantum Gravity* - Tom R. Ladstätter, Luca Marchetti
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quantum-Corrected Deformation of RN-AdS Black Holes with a Cloud of Strings Immersed in Quintessential-like Fluid* - Faizuddin Ahmed, Abdelmalek Bouzenada
 
 1. [[]](https://arxiv.org/abs/) - *Title:
