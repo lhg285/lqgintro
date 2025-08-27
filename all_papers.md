@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          ER = EPR in Loop Quantum Gravity: the Immirzi Parameter and the Continuum Limit* - Fabrizio Tamburini
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Interacting Scalar Field Cosmology from Full Quantum Gravity* - Tom R. Ladstätter, Luca Marchetti
 
 1. [[]](https://arxiv.org/abs/) - *Title:

@@ -6,6 +6,30 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 08/27/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          ER = EPR in Loop Quantum Gravity: the Immirzi Parameter and the Continuum Limit**
+ - **Authors:** Fabrizio Tamburini
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We recast the finite-region analysis of Einstein's equations that underpins the ER=EPR program into the loop quantum gravity (LQG) framework. By translating curvature-energy uncertainty relations into holonomy-flux kinematics, and by identifying Planckian Einstein-Rosen throats with single-puncture cuts through spin networks, we obtain a precise dictionary between entanglement and quantum geometry. Within this dictionary we derive the Barbero-Immirzi parameter directly from the entanglement/area increment of a minimal bridge, and show that a boundary edge-mode construction renders the Bekenstein - Hawking entropy coefficient universal and independent of $\gamma$ under a natural complex polarization. We further establish a refinement renormalization flow for spin-foam amplitudes driven by the finite-region curvature energy bound, which suppresses bubble divergences and yields a regulator-independent continuum limit under explicit conditions. Finally, we indicate observational consequences that follow from an $N$-party generalized uncertainty relation. 
+
+#### Spin foam related papers
+
+#### **Title:
+          ER = EPR in Loop Quantum Gravity: the Immirzi Parameter and the Continuum Limit**
+ - **Authors:** Fabrizio Tamburini
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We recast the finite-region analysis of Einstein's equations that underpins the ER=EPR program into the loop quantum gravity (LQG) framework. By translating curvature-energy uncertainty relations into holonomy-flux kinematics, and by identifying Planckian Einstein-Rosen throats with single-puncture cuts through spin networks, we obtain a precise dictionary between entanglement and quantum geometry. Within this dictionary we derive the Barbero-Immirzi parameter directly from the entanglement/area increment of a minimal bridge, and show that a boundary edge-mode construction renders the Bekenstein - Hawking entropy coefficient universal and independent of $\gamma$ under a natural complex polarization. We further establish a refinement renormalization flow for spin-foam amplitudes driven by the finite-region curvature energy bound, which suppresses bubble divergences and yields a regulator-independent continuum limit under explicit conditions. Finally, we indicate observational consequences that follow from an $N$-party generalized uncertainty relation. 
+
 ### Tue - 08/26/25
 
 #### Loop quantum gravity related papers
