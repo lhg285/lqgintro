@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 08/28/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Causal Viscous Fluids and Non-Singular Cosmological Bounces**
+ - **Authors:** L. Yildiz, D. Kayki, E. Gudekli
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We investigate the realization of non-singular bouncing cosmologies driven by causal bulk-viscous fluids within General Relativity, $f(R)$ gravity, and Loop Quantum Cosmology. Building on the no-go result of Eckart theory in spatially flat universes, we show that the Israel--Stewart formulation, which incorporates finite relaxation times, permits controlled violations of the null energy condition at the bounce while remaining consistent with thermodynamic and causality requirements. Analytical bounce solutions are constructed from parametrized scale factors, yielding explicit constraints on the viscosity coefficient and relaxation time that guarantee positive entropy production and stable perturbations. In extended gravity frameworks, we demonstrate that higher-curvature corrections in $f(R)$ models and quantum geometry effects in Loop Quantum Cosmology further enhance the robustness of viscous bounces. Our results establish a unified description in which bulk viscosity provides a physically consistent mechanism for singularity resolution across different theories of gravity, highlighting distinctive conditions under which smooth cosmological bounces can occur. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 08/27/25
 
 #### Loop quantum gravity related papers

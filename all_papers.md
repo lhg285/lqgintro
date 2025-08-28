@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Causal Viscous Fluids and Non-Singular Cosmological Bounces* - L. Yildiz, D. Kayki, E. Gudekli
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           ER = EPR in Loop Quantum Gravity: the Immirzi Parameter and the Continuum Limit* - Fabrizio Tamburini
 
 1. [[]](https://arxiv.org/abs/) - *Title:
