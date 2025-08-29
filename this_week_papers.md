@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 08/29/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          TASI lectures on Matrix Theory from a modern viewpoint* - Henry W. Lin
+
+
+
 ### Thu - 08/28/25
 
 #### Loop quantum gravity related papers
