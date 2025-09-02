@@ -13,6 +13,9 @@ permalink: /all_papers/
           Loopy Black-Hole Remnants* - Asier Alonso-Bardaji
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Loopy Black-Hole Remnants* - Asier Alonso-Bardaji
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Causal Viscous Fluids and Non-Singular Cosmological Bounces* - L. Yildiz, D. Kayki, E. Gudekli
 
 1. [[]](https://arxiv.org/abs/) - *Title:
