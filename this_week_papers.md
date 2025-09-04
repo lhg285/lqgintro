@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/04/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Deflection Angle of Regular Black Holes in Nonlinear Electrodynamics: Gauss-Bonnet Theorem, Time Delay, Shadow, and Greybody Bound* - Susmita Sarkar, Nayan Sarkar, Hasrat Hussian Shah, Pankaj Balo, Farook Rahaman
+
+
+
 ### Wed - 09/03/25
 
 #### Loop quantum gravity related papers
