@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/05/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Unveiling horizons in quantum critical collapse* - Marija Tomašević, Chih-Hung Wu
+
+
+
 ### Thu - 09/04/25
 
 #### Loop quantum gravity related papers
