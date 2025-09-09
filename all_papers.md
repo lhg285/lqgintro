@@ -13,6 +13,9 @@ permalink: /all_papers/
           Effective LQG dynamics of a thin shell and the fate of a collapsing star* - Francesco Fazzini
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Effective LQG dynamics of a thin shell and the fate of a collapsing star* - Francesco Fazzini
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Loopy Black-Hole Remnants* - Asier Alonso-Bardaji
 
 1. [[]](https://arxiv.org/abs/) - *Title:

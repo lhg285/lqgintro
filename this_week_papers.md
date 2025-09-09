@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/09/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Effective LQG dynamics of a thin shell and the fate of a collapsing star**
+ - **Authors:** Francesco Fazzini
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Effective models inspired by loop quantum gravity typically resolve the central singularity by replacing it with a bounce of the matter density in the Planckian regime. In the specific model analyzed here, this bounce is generally followed by the formation of shell-crossing singularities. The purpose of this work is to provide a physically meaningful extension of spacetime beyond the shell-crossing singularity. To this end, we derive the dynamics of a dust thin shell within the effective Hamiltonian framework. The motion of the shell remains timelike throughout: after undergoing a quantum-gravitational bounce, it expands and eventually emerges from the white-hole vacuum region. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Mon - 09/08/25
 
 #### Loop quantum gravity related papers
