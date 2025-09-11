@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/11/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Timelike convergence condition in regular black-hole spacetimes with (anti-)de Sitter core* - Johanna Borissova, Stefano Liberati, Matt Visser
+
+
+
 ### Wed - 09/10/25
 
 #### Loop quantum gravity related papers
