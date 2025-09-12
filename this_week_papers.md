@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/12/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Self-dual monopole loops, instantons and confinement* - Mendel Nguyen, Mithat Ünsal
+
+
+
 ### Thu - 09/11/25
 
 #### Loop quantum gravity related papers
