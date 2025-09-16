@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 09/16/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Observing Spacetime* - Vijay Balasubramanian, Tom Yildirim
+
+
+
 ### Mon - 09/15/25
 
 #### Loop quantum gravity related papers
