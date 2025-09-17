@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 09/17/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular Black Holes from Proper-Time flow in Quantum Gravity and their Quasinormal modes, Shadow and Hawking radiation* - Alfio Bonanno, Roman A. Konoplya, Giovanni Oglialoro, Andrea Spina
+
+
+
 ### Tue - 09/16/25
 
 #### Loop quantum gravity related papers
