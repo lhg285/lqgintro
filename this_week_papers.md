@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 09/19/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Charting GLOBs in Asymptotically Safe Gravity* - Francesco Del Porro, Jonas Pfeiffer, Alessia Platania, Samuele Silveravalle
+
+
+
 ### Thu - 09/18/25
 
 #### Loop quantum gravity related papers
