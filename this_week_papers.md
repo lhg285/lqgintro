@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/02/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Geodesics in Quantum Gravity**
+ - **Authors:** Benjamin Koch, Ali Riahinia, Angel Rincon
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We investigate the motion of test particles in quantum-gravitational backgrounds by introducing the concept of q--desics, quantum-corrected analogs of classical geodesics. Unlike standard approaches that rely solely on the expectation value of the spacetime metric, our formulation is based on the expectation value of quantum operators, such as the the affine connection-operator. This allows us to capture richer geometric information. We derive the q--desic equation using both Lagrangian and Hamiltonian methods and apply it to spherically symmetric static backgrounds obtained from canonical quantum gravity. Exemplary results include, light-like radial motion and circular motion with quantum gravitational corrections far above the Planck scale. This framework provides a refined description of motion in quantum spacetimes and opens new directions for probing the interface between quantum gravity and classical general relativity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 10/01/25
 
 #### Loop quantum gravity related papers

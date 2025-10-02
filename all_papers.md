@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Geodesics in Quantum Gravity* - Benjamin Koch, Ali Riahinia, Angel Rincon
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Effective LQG dynamics of a thin shell and the fate of a collapsing star* - Francesco Fazzini
 
 1. [[]](https://arxiv.org/abs/) - *Title:
