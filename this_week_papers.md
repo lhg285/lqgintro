@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/03/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quasinormal ringing and Unruh-Verlinde temperature of the Frolov Black Hole* - Akshat Pathrikar
+
+
+
 ### Thu - 10/02/25
 
 #### Loop quantum gravity related papers
