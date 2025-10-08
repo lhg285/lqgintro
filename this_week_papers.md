@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/08/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Probing regular black holes with sub-Planckian curvature through periodic orbits and their gravitational wave radiation* - Soroush Zare, Tao Zhu, Luis M. Nieto, Shuo Lu, Hassan Hassanabadi
+
+
+
 ### Tue - 10/07/25
 
 #### Loop quantum gravity related papers
