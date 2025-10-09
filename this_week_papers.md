@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/09/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Bonanno-Reuter regular black hole: quasi-resonances, grey-body factors and absorption cross-sections of a massive scalar field* - Zainab Malik
+
+
+
 ### Wed - 10/08/25
 
 #### Loop quantum gravity related papers
