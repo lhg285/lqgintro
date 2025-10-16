@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/16/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Primordial magnetogenesis in loop quantum cosmology**
+ - **Authors:** Ganga R. Nair, V. Sreenath
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Primordial magnetic fields (PMFs) are magnetic fields generated during the early universe. These fields are thought to be the seeds of extragalactic magnetic fields. The origin of PMFs is not well known. Further, if they are indeed sources of extragalactic fields, then there is a possibility that observations of extragalactic magnetic fields could provide insights into the primordial physics. With this motivation, we study the generation of the primordial magnetic field in the context of loop quantum cosmology (LQC). In LQC, inflation is preceded by a quantum bounce. In this work, we consider an electromagnetic field coupled to the background as a test field and study its evolution through the bounce and through the subsequent inflationary phase. We investigate the power spectra generated in LQC and show that it is scale-dependent. We study the power spectra with different initial conditions, discuss equivalent forms of coupling functions, investigate backreaction, and compute the amount of primordial magnetic field which can be measured today. We conclude the article with a summary and discussion of the results. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Singularity avoidance in black hole interiors by quantum gravity effects* - Takeshi Chiba, Hiroki Matsui, Keiju Murata
+
+
+
 ### Wed - 10/15/25
 
 #### Loop quantum gravity related papers
