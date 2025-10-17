@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/17/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Quantum Damping of Cosmological Shear: A New Prediction from Loop Quantum Cosmologies**
+ - **Authors:** Wen-Cong Gan, Leila L. Graef, Rudnei O. Ramos, Gustavo S. Vicente, Anzhong Wang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We analyze the dynamics of the Bianchi I universe in modified loop quantum cosmology (Model I, or mLQC-I), uncovering a robust mechanism for isotropization. As in the standard LQC, the classical singularities are resolved by quantum bounce. Remarkably, mLQC-I exhibits a distinctive feature: following the bounce, the shear is dynamically suppressed and decays rapidly to zero within the deep quantum regime. This occurs independently of the collapsing matter fields, leading to a natural quantum isotropization. Consequently, the three spatial directions expand rapidly to macroscopic scales, producing a homogeneous and isotropic universe directly from the quantum epoch without fine-tuning. Our findings demonstrate that mLQC-I not only resolves singularities but also provides a more effective pathway for suppressing anisotropies than other models, thereby reinforcing its viability as a description of the early universe. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Thu - 10/16/25
 
 #### Loop quantum gravity related papers

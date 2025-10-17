@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum Damping of Cosmological Shear: A New Prediction from Loop Quantum Cosmologies* - Wen-Cong Gan, Leila L. Graef, Rudnei O. Ramos, Gustavo S. Vicente, Anzhong Wang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Information paradox and island of covariant black holes in LQG* - Yongbin Du, Jia-Rui Sun, Xiangdong Zhang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
