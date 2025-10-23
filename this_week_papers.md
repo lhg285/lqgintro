@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/23/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          A Closeness Function on Coarse Grained Lorentzian Geometries* - Sumati Surya
+
+
+
 ### Wed - 10/22/25
 
 #### Loop quantum gravity related papers
