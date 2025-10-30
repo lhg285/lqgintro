@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Highly damped Quasi-Normal Modes of a Loop Quantum Black Hole* - Clara Montagnon
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quantum Damping of Cosmological Shear: A New Prediction from Loop Quantum Cosmologies* - Wen-Cong Gan, Leila L. Graef, Rudnei O. Ramos, Gustavo S. Vicente, Anzhong Wang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
