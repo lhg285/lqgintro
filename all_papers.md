@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Entanglement Entropy in Loop Quantum Gravity through Quantum Error Correction* - Sean Tobin
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Highly damped Quasi-Normal Modes of a Loop Quantum Black Hole* - Clara Montagnon
 
 1. [[]](https://arxiv.org/abs/) - *Title:
