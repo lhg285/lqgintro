@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/05/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Black holes in a dense infinite medium: a toy-model regularizing the Schwarzschild metric* - Aurélien Barrau, Killian Martineau, Hanane Zelgoum
+
+
+
 ### Tue - 11/04/25
 
 #### Loop quantum gravity related papers
