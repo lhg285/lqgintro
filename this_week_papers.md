@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/06/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Testing Quantum Gravity with Gravitational Waves from the ringdown of binary Black Holes coalescences: A New Frontier in Fundamental Physics* - Marco Danilo Claudio Torri, Fulvio Ricci, Marco Giammarchi, Lino Miramonti, Valerio Toso, Chiara Sigala
+
+
+
 ### Wed - 11/05/25
 
 #### Loop quantum gravity related papers
