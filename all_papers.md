@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum-corrected gravitational collapse and multi-messenger signatures: Beyond spherical symmetry in loop quantum gravity* - Hoang Van Quyet
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Entanglement Entropy in Loop Quantum Gravity through Quantum Error Correction* - Sean Tobin
 
 1. [[]](https://arxiv.org/abs/) - *Title:
