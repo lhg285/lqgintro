@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/13/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Gibbons-Hawking Entropy and BMN Strings* - Min-xin Huang
+
+
+
 ### Wed - 11/12/25
 
 #### Loop quantum gravity related papers
