@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/14/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Boosting Gravity-Induced Entanglement through Parametric Resonance* - Yuka Shiomatsu, Youka Kaku, Akira Matsumura, Tomohiro Fujita
+
+
+
 ### Thu - 11/13/25
 
 #### Loop quantum gravity related papers
