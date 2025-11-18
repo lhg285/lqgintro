@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/18/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Noncommutative black holes in extended anti-de Sitter phase space* - Athanasios G. Tzikas
+
+
+
 ### Mon - 11/17/25
 
 #### Loop quantum gravity related papers
