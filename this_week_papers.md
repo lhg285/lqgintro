@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/20/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Hermitian formulation for mass dimension one fermions: Flat and curved space-times* - Gabriel Brandão de Gracia, Rodolfo José Bueno Rogerio
+
+
+
 ### Wed - 11/19/25
 
 #### Loop quantum gravity related papers
