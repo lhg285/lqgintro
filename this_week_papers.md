@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/21/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Modifications of Newtonian dynamics from higher moments of quantum spin connection in precanonical quantum gravity**
+ - **Authors:** M.E. Pietrzyk, V.A. Kholodnyi, I.V. Kanattšikov, J. Kozicki
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Building upon previous work that derived an alternative to (galactic) dark matter in the form of Modified Newtonian Dynamics (MOND), with a specific theoretical interpolating function, from the motion of a non-relativistic test particle in the gravitational field of a point mass immersed in the non-relativistic static limit of the spin connection foam -- which represents the quantum analogue of Minkowski spacetime within precanonical quantum gravity -- we now show the consequences of using higher moments (third and fourth) of the corresponding geodesic equation with a random spin connection term. These higher moments lead to more general quantum modifications of the Newtonian potential (qMOND potentials expressed in terms of Gauss and Appell hypergeometric functions), more general (steeper) MOND interpolating functions, and a new modification of MOND at low accelerations (mMOND) that features an almost-flat asymptotic rotation curve $\propto r^{-1/18}$, which is expected to operate at approximately the same galactic scales as MOND. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          From minimal-length quantum theory to modified gravity* - Rocco D'Agostino, Pasquale Bosso, Giuseppe Gaetano Luciano
+
+
+
 ### Thu - 11/20/25
 
 #### Loop quantum gravity related papers
