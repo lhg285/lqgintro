@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Krylov Complexity in Canonical Quantum Cosmology* - Meysam Motaharfar, Maxwell R. Siebersma, Parampreet Singh
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quantum-corrected gravitational collapse and multi-messenger signatures: Beyond spherical symmetry in loop quantum gravity* - Hoang Van Quyet
 
 1. [[]](https://arxiv.org/abs/) - *Title:
