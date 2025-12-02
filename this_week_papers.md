@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/02/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Gravitational Spectra and Wave Propagation in Regular Black Holes Supported by a Dehnen Halo* - Bekir Can Lütfüoğlu, Abubakir Shermatov, Javlon Rayimbaev, Muhammad Matyoqubov, Otaboyev Sirajiddin
+
+
+
 ### Mon - 12/01/25
 
 #### Loop quantum gravity related papers
