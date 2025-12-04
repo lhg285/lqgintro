@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/04/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Constraining Zero-Point Length from Gravitational Baryogenesis* - Ava Shahbazi Sooraki, Ahmad Sheykhi
+
+
+
 ### Wed - 12/03/25
 
 #### Loop quantum gravity related papers
