@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          (Pre)-Inflationary Dynamics with Starobinsky Potential in Noncommutative Effective LQC* - Luis Rey Díaz-Barrón, Abraham Espinoza-García, Sinuhé Pérez-Payán, José Socorro
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quantum coherent dynamics of quasiclassical spacetimes* - S. Wang, A. Sajeendran, D. Yeom, R. B. Mann, J. Foo
 
 1. [[]](https://arxiv.org/abs/) - *Title:
