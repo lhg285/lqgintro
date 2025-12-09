@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/09/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Tidal Love numbers for regular black holes* - Rui Wang, Qi-Long Shi, Wei Xiong, Peng-Cheng Li
+
+
+
 ### Mon - 12/08/25
 
 #### Loop quantum gravity related papers
