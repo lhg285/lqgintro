@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/10/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Thermodynamic Phase Transitions and Quantum Entropy Corrections in the Simpson-Visser Regular Black Hole* - Vinayak Joshi, Ashok B. Joshi
+
+
+
 ### Tue - 12/09/25
 
 #### Loop quantum gravity related papers
