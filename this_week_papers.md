@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/11/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular black hole sourced by the Dehnen-type distribution of matter: The sound of the event horizon* - Erdinç Ulaş Saka
+
+
+
 ### Wed - 12/10/25
 
 #### Loop quantum gravity related papers
