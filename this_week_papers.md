@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/12/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Degenerate higher-order scalar-tensor theories in metric-affine gravity* - Hamed Bouzari Nezhad
+
+
+
 ### Thu - 12/11/25
 
 #### Loop quantum gravity related papers
