@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 12/17/25
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Holographic Codes from Enriched Link Entanglement in Spin Networks**
+ - **Authors:** Mai Qi, Eugenia Colafranceschi
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We introduce an enriched entanglement structure for spin networks, inspired by tensor-network constructions, in which internal links can carry a controlled and discrete amount of entanglement. In the spin-network picture, vertices are dual to simplices and links are dual to their faces. Standard spin-network gluing corresponds to fully identifying two simplices along a face, implemented by a maximally entangled, gauge-invariant singlet state on the corresponding link, while unglued faces correspond to links carrying no entanglement. Working on a complete graph, we promote this binary choice to a controlled and tunable structure by allowing each link to carry a variable amount of entanglement, interpolating between product states and the fully entangled singlet. The additional link variables therefore control not only the amount of entanglement but also the extent to which gauge invariance at internal links is preserved or broken, admitting an interpretation in terms of emergent edge-mode-like degrees of freedom. Within this framework, spin-network contraction defines a bulk-to-boundary map from link-entanglement data to boundary states. Adapting techniques developed in random tensor networks, we show that in a suitable large-spin regime the map is a co-isometry in expectation value. Restricting to a code subspace defined by configurations in which links are either effectively glued or open, with small fluctuations around this pattern, the map becomes an exact isometry. This yields a discrete and geometrically meaningful realization of holographic and error-correcting features within the spin-network Hilbert space. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum Correlations and Gravity: From the Emergence of a Cosmological Constant to the Gravitation of Particles in Superposition* - Johas Morales, Yuri Bonder
+
+
+
 ### Tue - 12/16/25
 
 #### Loop quantum gravity related papers
