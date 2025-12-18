@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 12/18/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Black Holes and Abelian Instantons* - Isabel Garcia Garcia, Elliot Maderazo
+
+
+
 ### Wed - 12/17/25
 
 #### Loop quantum gravity related papers
