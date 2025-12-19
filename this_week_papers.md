@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 12/19/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Integrable models from 4d holomorphic BF theory**
+ - **Authors:** Lewis T. Cole, Ben Hoare
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We show how to construct 2d field theories with holomorphic integrability from defect setups in 4d holomorphic BF. In a simple example setup, we explicitly construct the 2d theory and perform an initial classical analysis. Making use of the symmetries, we are able to write down an infinite family of solutions to the equations of motion. Comparing with more typical integrable systems, we explain how 2d holomorphic integrability sits between the standard notions of integrability in one and two dimensions. These 2d theories are designed as toy models for integrable theories in three and four dimensions, many of which can be understood as partially or totally holomorphic. We comment on the implications for higher-dimensional integrability and aspects of quantization in the concluding remarks. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Holographic interpolations of defect CFTs* - George Georgiou, Dimitrios Zoakos
+
+
+
 ### Thu - 12/18/25
 
 #### Loop quantum gravity related papers
