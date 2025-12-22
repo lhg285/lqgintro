@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Effective potential in $SO(N)$ symmetric scalar field theories in curved spacetime* - V.A. Filippov, R.M. Iakhibbaev, D. M. Tolkachev
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           (Pre)-Inflationary Dynamics with Starobinsky Potential in Noncommutative Effective LQC* - Luis Rey Díaz-Barrón, Abraham Espinoza-García, Sinuhé Pérez-Payán, José Socorro
 
 1. [[]](https://arxiv.org/abs/) - *Title:
