@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/23/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Slowly rotating Black Holes in DHOST Theories* - Hugo Candan, Karim Noui, David Langlois
+
+
+
 ### Mon - 12/22/25
 
 #### Loop quantum gravity related papers
