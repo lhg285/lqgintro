@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 12/30/25
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Acceleration Radiation of Freely Falling Atoms in Bardeen Regular Black Hole Spacetimes* - Ali Övgün, Reggie C. Pantig, Bobomurat Ahmedov, Uktamjon Uktamov
+
+
+
 ### Mon - 12/29/25
 
 #### Loop quantum gravity related papers
