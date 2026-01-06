@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/06/26
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Gravitation and Spacetime: Emergent from Spinor Interactions -- How?**
+ - **Authors:** Martin Rainer
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Newtonian gravity arises as the nonrelativistic, static, weak-field limit of some Lorentzian spacetime geometry solving the generally covariant Einstein equations for a given matter field configuration. Spacetime geometry has a local description in the spinor basis of Penrose. The breakdown of relativistic quantum (field) theory at small distances suggests that, the Lorentzian geometry is to be modified below some regularization length. The thermodynamic correspondence, e.g. for black holes or other horizons, indicates that, Lorentzian spacetime is an emergent geometric description of an ensemble of more fundamental constituents. The independent derivations of the area law of the Bekenstein-Hawking entropy by string theory and loop quantum gravity show that, (some) properties of spacetime do not depend on the nature of its fundamental constituents (in leading order). Whether, on a fundamental scale, spacetime gravity has its own classical or quantum constituents (like e.g. in loop quantum gravity), or it is just an effective theory, deriving from expectation values of quantum matter operators (like in spinor gravity or causal fermion systems), this is still open. We compare some very different classical and quantum approaches to spacetime geometry, all deriving in one way or another from spinors, and comment on questions for future research in order to clarify their relations. We propose that both, the causal structure and the spin networks for generation of discrete geometry arise via projection from all particle spinors (fermionic and bosonic) within a causal double cone region and their spin interwining interaction events onto a spatial section of this double cone region. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Mon - 01/05/26
 
 #### Loop quantum gravity related papers
