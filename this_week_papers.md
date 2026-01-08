@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/08/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Discrete gravitational diagram technique in the soft synchronous gauge**
+ - **Authors:** V.M. Khatsymovsky
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ This paper develops our work on the consequences of the Regge calculus, where some edge length scale arises as an optimal starting point of the perturbative expansion with taking into account a bell-shaped form of the measure obtained using functional integration over connection. A "hypercubic" structure is considered (some variables are frozen), it is described by the metric $g_{\lambda \mu}$ at the sites. The edge length scale as some maximum point of the measure is $\sim \eta^{1 / 2}$, where $\eta$ defines the free factor like $ ( - \det \| g_{\lambda \mu} \| )^{ \eta / 2}$ in the measure and should be a large parameter to ensure true action upon integration over connection. A priori, the perturbative expansion may contain increasing powers of $\eta$, but this does not happen for the starting point inside some neighborhood of the maximum point of the measure, and it does happen outside this neighborhood. This appears to be a dynamic mechanism for establishing the edge length scale. We use a discrete version of the soft synchronous gauge in the principal value type prescription we discuss in a recent paper arXiv:2601.02181. This allows one to fix the timelike length scale at a low level for which the measure is known in closed form. This gauge is considered together with a refined finite-difference form of the action to match the analytical properties of the propagator to the continuum case. 
+
 ### Wed - 01/07/26
 
 #### Loop quantum gravity related papers

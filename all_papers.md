@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Discrete gravitational diagram technique in the soft synchronous gauge* - V.M. Khatsymovsky
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Gravitation and Spacetime: Emergent from Spinor Interactions -- How?* - Martin Rainer
 
 1. [[]](https://arxiv.org/abs/) - *Title:
