@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/09/26
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          From Loop Quantum Gravity to a Theory of Everything**
+ - **Authors:** Adrian P. C. Lim
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Witten described how a path integral quantization of Wilson Loop observables will define Jones polynomial type of link invariants, using the Chern-Simons gauge theory in $\mathbb{R}^3$. In this gauge theory, a compact Lie group ${\rm G}$, together with a representation of its Lie Algebra $\mathfrak{g}$, describe the symmetry group and fundamental forces acting on the particles respectively. However, it appears that this theory might be part of a bigger theory. We will incorporate this theory into the Einstein-Hilbert theory, which when reformulated and quantized using a ${\rm SU}(2) \times {\rm SU}(2)$ gauge group, gives us a quantized theory of gravity in $\mathbb{R}^4$. In this theory, we can quantize area, volume and curvature into quantum operators. By using both the Chern-Simons and Einstein-Hilbert action, we will write down a path integral expression, and compute the Wilson Loop observable for a time-like hyperlink in $\mathbb{R}^4$, each component loop is coloured with a representation for the Lie Algebra $\mathfrak{g} \times [\mathfrak{su}(2) \times \mathfrak{su}(2)]$, unifying the fundamental forces with gravity. This Wilson Loop observable can be computed using link diagrams, and it can be written as a state model, satisfying a Homfly-type skein relations. We will show that the Wilson Loop observable remains an eigenstate for the quantum operators corresponding to spin curvature, but it is not an eigenstate for the area and volume quantized operators, unless the representation for $\mathfrak{g}$ is trivial. This implies that in the Planck scale where quantum gravity is important, we see that all the particles are indistinguishable, hence the fundamental forces disappear and only interaction between matter and space-time remains. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Reconstructing Minkowski geometry from causal separations* - Chenyang Amy Hu (Westview High School, Carnegie Mellon University), David A. Meyer (UC San Diego), Eleanor J. Q. Meyer (The Bishop's School)
+
+
+
 ### Thu - 01/08/26
 
 #### Loop quantum gravity related papers
