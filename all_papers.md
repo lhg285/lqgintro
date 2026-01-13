@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Radiation properties and images of loop quantum Reissner-Nordström black hole with a thin accretion disk* - Qian Li, Jia-Hui Huang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Discrete gravitational diagram technique in the soft synchronous gauge* - V.M. Khatsymovsky
 
 1. [[]](https://arxiv.org/abs/) - *Title:
