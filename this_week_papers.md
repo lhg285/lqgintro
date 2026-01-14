@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/14/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          On Causality and Predictivity* - Damiano Anselmi
+
+
+
 ### Tue - 01/13/26
 
 #### Loop quantum gravity related papers
