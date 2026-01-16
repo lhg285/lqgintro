@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/16/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          BRST Symmetry Violation and Fundamental Limitations of Asymptotic Safety in Quantum Gravity* - Farrukh A. Chishtie
+
+
+
 ### Thu - 01/15/26
 
 #### Loop quantum gravity related papers
