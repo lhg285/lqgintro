@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 01/21/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          What is a Gravitational Path Integral? {\it or} Gravitational Path Integrals as Fluctuating Gravito-Hydrodynamics* - T. Banks
+
+
+
 ### Tue - 01/20/26
 
 #### Loop quantum gravity related papers
