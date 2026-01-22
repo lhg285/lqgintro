@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum Backreaction in Effective Brans-Dicke Bianchi I Cosmology* - Hector Hugo Hernandez Hernandez, Gustavo Alejandro Sanchez Herrera
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Radiation properties and images of loop quantum Reissner-Nordström black hole with a thin accretion disk* - Qian Li, Jia-Hui Huang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
