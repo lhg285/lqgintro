@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/23/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Exactly Solvable 1+1d Chiral Lattice Gauge Theories* - Sahand Seifnashri
+
+
+
 ### Thu - 01/22/26
 
 #### Loop quantum gravity related papers
