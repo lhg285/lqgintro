@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 01/27/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Vacuum structure of gapped QCD$_2$ theories from the infinite Hamiltonian lattice* - Ross Dempsey, Anna-Maria E. Glück, Silviu S. Pufu, Benjamin T. Søgaard
+
+
+
 ### Mon - 01/26/26
 
 #### Loop quantum gravity related papers
