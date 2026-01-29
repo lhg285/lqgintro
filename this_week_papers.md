@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 01/29/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Classical emergence of the quantum-backreacted BTZ black hole from exponential electrodynamics* - Julio A. Méndez-Zavaleta, Efraín Rojas, José Joaquín Suárez-Garibay
+
+
+
 ### Wed - 01/28/26
 
 #### Loop quantum gravity related papers
