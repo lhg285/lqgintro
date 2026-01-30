@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 01/30/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Twisting Twistor space**
+ - **Authors:** Tim Meier, Eggon Viana
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We construct twisted noncommutative gauge theories on twistor space and show that they are equivalent to four-dimensional twist-noncommutative gauge theories. In particular, we study twists of the Poincaré algebra. We explain how such a twist leads to twisted noncommutative twistor space and how to construct noncommutative versions of BF theory and holomorphic Chern-Simons theory on noncommutative supertwistor space. We show how those theories are equivalent to noncommutative versions of Yang-Mills theory and supersymmetric Yang-Mills theory, respectively. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          GUP effects on Hawking temperature in a hot NUT Kerr Newman Kasuya Anti de Sitter black hole* - Heisnam Shanjit Singh, Khileswar Chandi
+
+
+
 ### Thu - 01/29/26
 
 #### Loop quantum gravity related papers
