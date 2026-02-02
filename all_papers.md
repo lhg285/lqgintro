@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Elementary blocks of Loop Quantum Gravity* - Mehdi Assanioussi, Etera R. Livine
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quantum Backreaction in Effective Brans-Dicke Bianchi I Cosmology* - Hector Hugo Hernandez Hernandez, Gustavo Alejandro Sanchez Herrera
 
 1. [[]](https://arxiv.org/abs/) - *Title:

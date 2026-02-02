@@ -6,63 +6,18 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 01/30/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-#### **Title:
-          Twisting Twistor space**
- - **Authors:** Tim Meier, Eggon Viana
- - **Subjects:** Subjects:
-High Energy Physics - Theory (hep-th)
- - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
- - **Abstract**
- We construct twisted noncommutative gauge theories on twistor space and show that they are equivalent to four-dimensional twist-noncommutative gauge theories. In particular, we study twists of the Poincaré algebra. We explain how such a twist leads to twisted noncommutative twistor space and how to construct noncommutative versions of BF theory and holomorphic Chern-Simons theory on noncommutative supertwistor space. We show how those theories are equivalent to noncommutative versions of Yang-Mills theory and supersymmetric Yang-Mills theory, respectively. 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          GUP effects on Hawking temperature in a hot NUT Kerr Newman Kasuya Anti de Sitter black hole* - Heisnam Shanjit Singh, Khileswar Chandi
-
-
-
-### Thu - 01/29/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Classical emergence of the quantum-backreacted BTZ black hole from exponential electrodynamics* - Julio A. Méndez-Zavaleta, Efraín Rojas, José Joaquín Suárez-Garibay
-
-
-
-### Wed - 01/28/26
+### Mon - 02/02/26
 
 #### Loop quantum gravity related papers
 
 #### **Title:
-          Critical collapse of a massive scalar field in semi-classical loop quantum gravity**
- - **Authors:** Li-Jie Xin, Xiangdong Zhang
+          Elementary blocks of Loop Quantum Gravity**
+ - **Authors:** Mehdi Assanioussi, Etera R. Livine
  - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc)
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
  - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
  - **Abstract**
- We investigate critical phenomena during the gravitational collapse of a massive scalar field under two distinct semi-classical loop quantum gravity (LQG) approaches within spherical symmetry. Numerical simulations reveal that the massive scalar field in both semi-classical frameworks exhibits two distinct types of critical behavior, consistent with the classical scenario. When the scalar field's mass parameter is small, type II critical phenomena emerge, with the resulting echoing periods and critical exponents precisely matching those obtained in general relativity. In contrast, a large mass parameter triggers type I critical phenomena, where the resulting black holes possess a finite minimum mass. These findings suggest that semi-classical corrections from LQG have a negligible impact on the dynamics of critical collapse. 
+ We embark on the vast program of integrating the dynamics of Loop Quantum Gravity (LQG). Adopting the strategy of decomposing spin network states into small blocks of (quantum) geometry which can later be glued back together, we focus on the more modest objective of studying the Hamiltonian dynamics on the {\it candy graph}, that is two nodes linked together by an arbitrary number of edges and also having open edges. This elementary setting allows both for curvature to develop around the bulk loops and both non-trivial boundary data and dynamics on the open edges. We study this system at the classical level and leave the detailed of its quantum regime for future investigation. Working on a single loop with two external legs, we show how the LQG Hamiltonian ansatz reduces to a pair of non-linear differential equations, similar to the cubic Schrödinger equation, on the areas carried by the bulk links. We provide analytical solutions to this evolution equation, identifying oscillatory modes (bounded modes) and divergent modes (similar to bouncing cosmological trajectories). This provides an explicit template for future investigations of LQG dynamics on more sophisticated spin network architecture built as arrays of candy graphs. 
 
 #### Spin foam related papers
 
@@ -70,52 +25,5 @@ There is no new related paper today
 
 
 
-#### Other related papers
 
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Telling tails and quasi-resonances in the vicinity of Dymnikova regular black hole* - Bekir Can Lütfüoğlu, Javlon Rayimbaev, Bekzod Rahmatov, Fayzullo Shayimov, Ikram Davletov
-
-
-
-### Tue - 01/27/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Vacuum structure of gapped QCD$_2$ theories from the infinite Hamiltonian lattice* - Ross Dempsey, Anna-Maria E. Glück, Silviu S. Pufu, Benjamin T. Søgaard
-
-
-
-### Mon - 01/26/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Compact Stars Sourced by Dark Matter Halos and Their Frozen States* - Yuan Yue, Yong-Qiang Wang
-
-
-
-
-
-
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2026/01/26/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2026/02/02/archived_weekly_papers.html)
