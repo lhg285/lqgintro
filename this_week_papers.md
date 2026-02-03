@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 02/03/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Causal spinfoam vertex for 4d Lorentzian quantum gravity**
+ - **Authors:** Eugenio Bianchi, Chaosong Chen, Mauricio Gamonal
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We introduce a new causal spinfoam vertex for $4$d Lorentzian quantum gravity. The causal data are encoded in Toller $T$-matrices, which add to Wigner $D$-matrices $T^{(+)}+T^{(-)}=D$, and for which we provide a Feynman $\mathrm{i}\varepsilon$ representation. We discuss how the Toller poles cancel in the EPRL vertex, how the Livine-Oriti model is obtained in the Barrett-Crane limit, and how spinfoam causal data are distinct from Regge causal data. In the large-spin limit, we show that only Lorentzian Regge geometries with causal data compatible with the spinfoam data are selected, resulting in a single exponential $\exp(+\mathrm{i}\, S_{\mathrm{Regge}}/\hbar)$ and a new form of causal rigidity. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Scattering sections from regular black holes immersed in perfect fluid dark matter* - Omar Pedraza, L. A. López, Isaac Fernández
+
+
+
 ### Mon - 02/02/26
 
 #### Loop quantum gravity related papers
