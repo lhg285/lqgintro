@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 02/04/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Charged Superradiant Instability of Spherically Symmetric Regular Black Holes in de Sitter Spacetime: Time- and Frequency-Domain Analysis* - Yizhi Zhan, Hengyu Xu, Haowei Chen, Shao-Jun Zhang
+
+
+
 ### Tue - 02/03/26
 
 #### Loop quantum gravity related papers
