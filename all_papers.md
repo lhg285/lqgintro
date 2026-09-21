@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Massive scalar's self-mass from gravitons in de Sitter* - Dražen Glavan, Shun-Pei Miao, Tomislav Prokopec, Richard P. Woodard
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Elementary blocks of Loop Quantum Gravity* - Mehdi Assanioussi, Etera R. Livine
 
 1. [[]](https://arxiv.org/abs/) - *Title:

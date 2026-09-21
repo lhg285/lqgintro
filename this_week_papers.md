@@ -6,69 +6,31 @@ permalink: /this_week_papers/
 
 
 
-### Wed - 02/04/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Charged Superradiant Instability of Spherically Symmetric Regular Black Holes in de Sitter Spacetime: Time- and Frequency-Domain Analysis* - Yizhi Zhan, Hengyu Xu, Haowei Chen, Shao-Jun Zhang
-
-
-
-### Tue - 02/03/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-#### **Title:
-          Causal spinfoam vertex for 4d Lorentzian quantum gravity**
- - **Authors:** Eugenio Bianchi, Chaosong Chen, Mauricio Gamonal
- - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
- - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
- - **Abstract**
- We introduce a new causal spinfoam vertex for $4$d Lorentzian quantum gravity. The causal data are encoded in Toller $T$-matrices, which add to Wigner $D$-matrices $T^{(+)}+T^{(-)}=D$, and for which we provide a Feynman $\mathrm{i}\varepsilon$ representation. We discuss how the Toller poles cancel in the EPRL vertex, how the Livine-Oriti model is obtained in the Barrett-Crane limit, and how spinfoam causal data are distinct from Regge causal data. In the large-spin limit, we show that only Lorentzian Regge geometries with causal data compatible with the spinfoam data are selected, resulting in a single exponential $\exp(+\mathrm{i}\, S_{\mathrm{Regge}}/\hbar)$ and a new form of causal rigidity. 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Scattering sections from regular black holes immersed in perfect fluid dark matter* - Omar Pedraza, L. A. López, Isaac Fernández
-
-
-
-### Mon - 02/02/26
+### Mon - 09/21/26
 
 #### Loop quantum gravity related papers
 
 #### **Title:
-          Elementary blocks of Loop Quantum Gravity**
- - **Authors:** Mehdi Assanioussi, Etera R. Livine
+          Massive scalar's self-mass from gravitons in de Sitter**
+ - **Authors:** Dražen Glavan, Shun-Pei Miao, Tomislav Prokopec, Richard P. Woodard
  - **Subjects:** Subjects:
-General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+General Relativity and Quantum Cosmology (gr-qc)
  - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
  - **Abstract**
- We embark on the vast program of integrating the dynamics of Loop Quantum Gravity (LQG). Adopting the strategy of decomposing spin network states into small blocks of (quantum) geometry which can later be glued back together, we focus on the more modest objective of studying the Hamiltonian dynamics on the {\it candy graph}, that is two nodes linked together by an arbitrary number of edges and also having open edges. This elementary setting allows both for curvature to develop around the bulk loops and both non-trivial boundary data and dynamics on the open edges. We study this system at the classical level and leave the detailed of its quantum regime for future investigation. Working on a single loop with two external legs, we show how the LQG Hamiltonian ansatz reduces to a pair of non-linear differential equations, similar to the cubic Schrödinger equation, on the areas carried by the bulk links. We provide analytical solutions to this evolution equation, identifying oscillatory modes (bounded modes) and divergent modes (similar to bouncing cosmological trajectories). This provides an explicit template for future investigations of LQG dynamics on more sophisticated spin network architecture built as arrays of candy graphs. 
+ We compute the fully renormalized one-graviton-loop contribution to the self-mass of a massive scalar field in de Sitter space. The computation is performed using dimensional regularization and the divergences are absorbed by BPHZ counterterms. This self-mass can be used to study one-loop quantum-gravitational corrections to the dynamics of massive spectator scalars in inflation. 
 
 #### Spin foam related papers
 
-There is no new related paper today 
+#### **Title:
+          A Functorial Theory of Defects in Abelian Chern-Simons Theory**
+ - **Authors:** Daniel Galviz
+ - **Subjects:** Subjects:
+Mathematical Physics (math-ph); Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th); Quantum Algebra (math.QA)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Recent work has constructed Abelian Chern-Simons theories as categorical TQFTs, allowing us to naturally incorporate categorical defects and construct defect extensions of Abelian Chern-Simons TQFTs. We first identify the Turaev-Viro realizations of Abelian Chern-Simons theory in the center and doubled pointed modular cases, clarifying the distinction between single bulk realizations and canonical doubled ones. Alternatively, the Alterfold construction supplies the associated topological boundaries, domain walls, and condensation sectors, establishing an explicit Alterfold/Chern-Simons dictionary. We show that the finite quadratic module is the invariant controlling the bulk theory, its topological symmetries, orientation-reversal invariance, and defects. We further show that multicomponent Abelian BF theory arises as the extended TQFT of an off-diagonal Abelian Chern-Simons theory, placing it naturally within the same extended framework. Finally, we demonstrate that recently proposed Abelian Chern-Simons dualities do not define a genuine TQFT duality. These results provide a concrete model for defects in Abelian topological orders and suggest a route toward the non-Abelian case. 
 
 
 
 
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2026/02/02/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2026/09/21/archived_weekly_papers.html)
