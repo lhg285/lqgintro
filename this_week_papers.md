@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 09/24/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Generalized Regular Black Holes with Tunable Cores and Geodesic Properties* - Hassan Hassanabadi
+
+
+
 ### Wed - 09/23/26
 
 #### Loop quantum gravity related papers
