@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/02/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Phenomenology of dynamical trapped regions* - Julio Arrechea, Stefano Liberati, Hooman Neshat, Vania Vellucci
+
+
+
 ### Thu - 10/01/26
 
 #### Loop quantum gravity related papers
