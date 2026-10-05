@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Dynamics of Regge calculus with torsion* - Ruijue Yan, You Ding, Yongge Ma, Cong Zhang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Closing the Loop: from EPRL-FK spinfoams to Regge dynamics* - Matteo Bruno, Pietro Donà, Gowrisankar Sreeram
 
 1. [[]](https://arxiv.org/abs/) - *Title:
