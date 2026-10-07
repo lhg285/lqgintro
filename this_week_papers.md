@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/07/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Dynamic Quantum Wormholes: Path-Integral State Selection and the Quantum Throat Trajectory in an Exactly Solvable Thin-Shell Model* - Rikpratik Sengupta, Paulo Vargas Moniz
+
+
+
 ### Tue - 10/06/26
 
 #### Loop quantum gravity related papers
