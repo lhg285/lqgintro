@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/08/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular black holes do not violate the first law of thermodynamics* - Bobir Toshmatov, Bobomurat Ahmedov, Nozima Isamadinova, Chengxun Yuan
+
+
+
 ### Wed - 10/07/26
 
 #### Loop quantum gravity related papers
