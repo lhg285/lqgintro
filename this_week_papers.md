@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/09/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Acceleration radiation, quasinormal modes and quasi-bound states in generic rotating regular black holes* - Uktamjon Uktamov, Ali Övgün, Reggie C. Pantig, Bobomurat Ahmedov
+
+
+
 ### Thu - 10/08/26
 
 #### Loop quantum gravity related papers
