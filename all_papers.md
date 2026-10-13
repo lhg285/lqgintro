@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Dynamics of Reheating in Modified Loop Quantum Cosmologies: mLQCI-I* - Jared Fier, Rui Pan, Jamal Saeed, Anzhong Wang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Dynamics of Regge calculus with torsion* - Ruijue Yan, You Ding, Yongge Ma, Cong Zhang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
