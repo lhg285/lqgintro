@@ -6,6 +6,39 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/15/26
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Pseudo-spectral methods in gravitational lensing: Spin precession in loop quantum black hole spacetimes**
+ - **Authors:** Xiankai Pang, Xiao-Kan Guo
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Gravitational lensing is usually treated as an initial value problem: for a given impact parameter of an unbound orbit, one computes the resulting deflection angle. In this paper we advocate the inverse point of view. For a prescribed deflection angle, the orbit is selected by two boundary conditions at spatial infinity, so that the lensing problem becomes a well-defined two-point boundary value problem, with the impact parameter playing the role of a nonlinear eigenvalue. We show that pseudo-spectral methods based on Chebyshev collocation solve this boundary value problem accurately at modest computational cost, and that the parallel transport equations governing the spin precession of the particle reduce to a single linear system on the same grid. As a concrete application, we compute the spin precession of massive particles in backward scattering off two black hole spacetimes from loop quantum gravity: the covariant effective metric and the self-dual loop quantum black hole. All equations are written for a general static, spherically symmetric line element with three free functions, so that both spacetimes are handled on the same footing. We find that the quantum corrections are most pronounced for slowly moving particles, while in the ultra-relativistic limit the universal spin flip is always recovered. The flip itself is universal, but the rate at which it is approached is not: the derivative of $\cos\xi$ with respect to the particle speed at $v=1$ is a strong-field quantity in every backward channel and depends clearly on the quantum parameters of both spacetimes. The framework is not restricted to the models studied 
+
+#### Spin foam related papers
+
+#### **Title:
+          Higher Dressing and Shift-Invariance in 4D Topological BF Theory**
+ - **Authors:** J. François, L. Ravera
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ A characteristic feature of topological field theories is the absence of local propagating degrees of freedom. In four-dimensional BF theory with cosmological term, we make this feature manifest by exactly reducing the finite non-Abelian shift symmetry. We do so by identifying a higher dressing field, a 1-form compensating the shift, allowing to build from first principles the composite shift-invariant field $\boldsymbol{B}=B-\lambda^{-1}F$. In terms of this dressed field, the dynamics becomes algebraic and sets $\boldsymbol{B}=0$, directly exposing the absence of local propagating degrees of freedom. This provides the first explicit instance of the higher-form Dressing Field Method. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          No-Go Theorem for Phantom Crossing in Scalar-Tensor Gravity with Non-Minimal Derivative Coupling and Soft Scale-Invariance Breaking* - Reza Baghbani
+
+
+
 ### Wed - 10/14/26
 
 #### Loop quantum gravity related papers
