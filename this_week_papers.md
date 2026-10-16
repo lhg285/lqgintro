@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/16/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Infrared-Finite Positivity Bounds in 4D Gravity* - Ziyu Dong
+
+
+
 ### Thu - 10/15/26
 
 #### Loop quantum gravity related papers
