@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Group averaging and the geometry of physical quantum states: from normalizable solutions to solvable loop quantum cosmology* - Alejandro Corichi
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Dynamics of Reheating in Modified Loop Quantum Cosmologies: mLQCI-I* - Jared Fier, Rui Pan, Jamal Saeed, Anzhong Wang
 
 1. [[]](https://arxiv.org/abs/) - *Title:

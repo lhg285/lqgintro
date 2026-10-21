@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/21/26
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Group averaging and the geometry of physical quantum states: from normalizable solutions to solvable loop quantum cosmology**
+ - **Authors:** Alejandro Corichi
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ In canonical quantum gravity the physical states solve the constraints but are typically not normalizable in the kinematical Hilbert space. Group averaging constructs them from normalizable kinematical seeds. We describe the geometry of this seed-to-state map in the language of geometric quantum mechanics. When averaging is an orthogonal projection, the admissible kinematical rays form a holomorphic vector bundle over the physical ray space. The embedded exact solutions form its zero section, and its fibers are strictly larger than gauge orbits. Observables descend to the base exactly when the Hessian of the squared constraint vanishes along their flow. For distributional physical states, group averaging on an explicit Sobolev test space yields an affine bundle of representatives. Its sections are embeddings of the physical ray space whose images contain no exact solutions. The test-space inner product singles out one of them, and narrowing the seed profile gives Weyl sequences of approximate solutions. We apply this to solvable loop quantum cosmology. Group averaging reproduces the Klein--Gordon physical inner product on an explicit test space. Because the scalar-field momentum enters the constraint quadratically, the constraint spectrum has an edge near the shell. The canonical section is then mode-dependent and not Kähler isometric, and the canonical seeds of small universes are biased off the shell. The edge also separates the Page--Wootters state from the slice of the Klein--Gordon solution. An ideal clock shows none of these effects. The results separate the canonical structures, namely physical rays, physical geometry and Dirac observables, from those that depend on a choice of seeds, test space or clock. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Tue - 10/20/26
 
 #### Loop quantum gravity related papers
