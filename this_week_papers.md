@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/22/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Rotating Barrow entropy-inspired wormholes versus black holes: null trajectories, shadow morphology, and exotic matter* - A. Errehymy, G. Yergaliyeva, S. K. Maurya, B. Turimov, I. Ibragimov, J. Rayimbaev
+
+
+
 ### Wed - 10/21/26
 
 #### Loop quantum gravity related papers
