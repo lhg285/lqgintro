@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 10/23/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Regular magnetic black holes with anti-de Sitter cores in scalar-tensor gravity with nonlinear electrodynamics: ghost-free construction and axial stability* - Rustam Ibadov, Najibullokhon Shukurullokhon
+
+
+
 ### Thu - 10/22/26
 
 #### Loop quantum gravity related papers
