@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Minkowski metric signature as a statistical prediction of piecewise-flat quantum gravity* - Mihailo Djordjevic, Igor Prlina, Marko Vojinovic
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Group averaging and the geometry of physical quantum states: from normalizable solutions to solvable loop quantum cosmology* - Alejandro Corichi
 
 1. [[]](https://arxiv.org/abs/) - *Title:
