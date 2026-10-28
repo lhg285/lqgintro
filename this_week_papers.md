@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 10/28/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Black holes from a nonlocal equation of state: horizon geometry, singularity structure and thermodynamics* - Hishan Farfán-Bachiloglu, C. R. Muniz, Francisco Tello-Ortiz
+
+
+
 ### Tue - 10/27/26
 
 #### Loop quantum gravity related papers
