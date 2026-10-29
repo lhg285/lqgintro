@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 10/29/26
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          The Disordered Universe 2025: Features in a $Λ>0$ Universe**
+ - **Authors:** Samuel Brian, Yakov Landau, Tommaso Marini, Daniel McLoughlin, Polina Petriakova, Rajat Sharma, Dionysios Anninos, Paolo Benincasa, Guilherme Leite Pimentel
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ A complete understanding of cosmology, from its earliest epoch all the way to the current dark energy dominated era, requires the development of a mathematical framework that incorporates quantum features in an expanding universe. Such a framework, alongside a description of the underlying degrees of freedom, is so far lacking. Several of the pertinent challenges and puzzles already arise upon considering even the most idealised model of an expanding universe --- the de Sitter spacetime and fluctuations thereof. In these lectures, we review some elementary ideas of the de Sitter physics, passing through the representation theory of the de Sitter group, aspects of canonical quantum gravity, all the way to attempts in describing quasi-local features. Throughout, we highlight open problems that motivate ongoing efforts to understand quantum gravity and cosmology in universes with $\Lambda>0$. These notes are based on a series of lectures held during the La Ricotta Summer School: The Disordered Universe 2025 from 21 July to 1 August 2025. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Reconstruction of the Riemann tensor from causal order and element counts* - Nathan Madsen
+
+
+
 ### Wed - 10/28/26
 
 #### Loop quantum gravity related papers
