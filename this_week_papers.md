@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/04/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum superposition of Cosmic String spacetimes* - Enrique Arias, Shoshauna Gauvin, Willy Izquierdo, Robert B. Mann
+
+
+
 ### Tue - 11/03/26
 
 #### Loop quantum gravity related papers
