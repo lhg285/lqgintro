@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quasi-Normal Modes of Covariant Loop Quantum Black Holes* - Chao Zhang, Sushant G. Ghosh, Anzhong Wang
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Primordial Gravitational Waves in Loop Quantum Cosmology: Regularization Ambiguities and Initial State Dependence* - Mah Noor Jamil, Parampreet Singh
 
 1. [[]](https://arxiv.org/abs/) - *Title:
