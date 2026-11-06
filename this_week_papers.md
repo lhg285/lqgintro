@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/06/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          The quasi-topological space of quasi-topological gravities* - Pablo Bueno, Robie A. Hennigar, Matteo G. Marrone, Ángel J. Murcia
+
+
+
 ### Thu - 11/05/26
 
 #### Loop quantum gravity related papers
