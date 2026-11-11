@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/11/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Periodic orbits and gravitational wave radiation of a phantom Dirac--Born--Infeld regular black hole Gravity* - N. Heidari, A. A. Araújo Filho, Iarley P. Lobo, V. B. Bezerra
+
+
+
 ### Tue - 11/10/26
 
 #### Loop quantum gravity related papers
