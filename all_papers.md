@@ -13,6 +13,9 @@ permalink: /all_papers/
           Non-singular cosmology from effective LQG-inspired black holes* - V. F. C. Belo, F. G. S. Menezes, S. M. Rupf, I. P. R. Baranov, H. A. Borges
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Non-singular cosmology from effective LQG-inspired black holes* - V. F. C. Belo, F. G. S. Menezes, S. M. Rupf, I. P. R. Baranov, H. A. Borges
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Quasi-Normal Modes of Covariant Loop Quantum Black Holes* - Chao Zhang, Sushant G. Ghosh, Anzhong Wang
 
 1. [[]](https://arxiv.org/abs/) - *Title:
