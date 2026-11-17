@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/17/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Superstars, quantum wormholes and von Neumann algebras* - Vijay Balasubramanian, Ryo Nemoto, Masaki Shigemori
+
+
+
 ### Mon - 11/16/26
 
 #### Loop quantum gravity related papers
