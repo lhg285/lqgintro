@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/18/26
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Primordial Non-Gaussianity and Correlation-Function Perturbativity in mLQC-I: The Hybrid Approach**
+ - **Authors:** Rui Pan, Jamal Saeed, Anzhong Wang
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We investigate primordial non-Gaussianity and the perturbative consistency of scalar perturbations in modified loop quantum cosmology I (mLQC-I) within the hybrid approach. We construct the cubic interaction Hamiltonian in the canonical representation of the quadratic theory and derive an exact finite-momentum in-in expression for the tree-level bispectrum. We consider two initial-state prescriptions: a Gaussian state specified at the bounce and the de Sitter vacuum specified at a remote contracting surface. We assess the retained nonlinear-conversion correction through $\Xi=|\Delta P_R/P_R^{(0)}|$. For the bounce state, a conservative, cancellation-independent, finite-window absolute-integrand estimate is below $6\times10^{-6}$ at all five sampled momenta. For the remote de Sitter state, the signed correction is dominated by cancellations and decreases from $\Xi\simeq9.9\times10^{-2}$ at one tenth of the bounce-curvature scale to $\Xi\simeq2.3\times10^{-4}$ at that scale. Although the retained two-point corrections remain below unity, the bispectrum can have large pointwise amplitudes: the bounce state yields an equilateral $f_{\rm NL}$ with root-mean-square amplitude over oscillation phase of order $10^3$--$10^4$, while the remote state can yield much larger values. The dominant rapid oscillation is organized approximately by $k_t=k_1+k_2+k_3$, with $\Delta k_t\simeq5.7\times10^{-4}m_{\rm P}$, while the triangle-shape envelope varies slowly. For the illustrative bounce-to-present mapping adopted here, CMB-projection diagnostics indicate substantial phase averaging. Thus, large pointwise primordial non-Gaussianity can coexist with a small retained correction to the two-point function. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Thermodynamics and interior structure of density-responsive regular black holes* - Martin Drobczyk
+
+
+
 ### Tue - 11/17/26
 
 #### Loop quantum gravity related papers
