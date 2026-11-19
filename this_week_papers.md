@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/19/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Hidden wormholes from an action principle in $D=4$* - Francesco Del Porro, Alessia Platania, Samuele Silveravalle
+
+
+
 ### Wed - 11/18/26
 
 #### Loop quantum gravity related papers
