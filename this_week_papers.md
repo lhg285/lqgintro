@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/20/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Regge Dilaton Gravity from Feynman Diagrams**
+ - **Authors:** Florian Girelli, Christopher Pollack
+ - **Subjects:** Subjects:
+High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Baratin and Freidel showed that closed Feynman diagrams in three and four Euclidean dimensions can be expressed as expectation values of observables in a Regge-type topological model \cite{baratin_hidden_2007, baratin_hidden_2007-1}. We extend their analysis to two dimensions with spherical, flat, or hyperbolic background geometry. Specifically, we show that the reduced Feynman amplitude of any closed (planar) scalar graph can be represented as an observable insertion in the partition function of either a discretized BF theory, whose gauge group is the isometry group of the background, or a homogeneous Regge discretization of linear dilaton gravity. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          A relativistic gravitisation of quantum theory?* - Samuel Fedida, Adrian Kent
+
+
+
 ### Thu - 11/19/26
 
 #### Loop quantum gravity related papers
