@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Numerical Implementation and Tests of the Quadratic Effective Action for Lorentzian Spinfoam Amplitudes* - Dongxue Qu, Sean Tobin, Hongguang Liu, Muxin Han
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Non-singular cosmology from effective LQG-inspired black holes* - V. F. C. Belo, F. G. S. Menezes, S. M. Rupf, I. P. R. Baranov, H. A. Borges
 
 1. [[]](https://arxiv.org/abs/) - *Title:

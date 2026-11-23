@@ -6,123 +6,31 @@ permalink: /this_week_papers/
 
 
 
-### Fri - 11/20/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-#### **Title:
-          Regge Dilaton Gravity from Feynman Diagrams**
- - **Authors:** Florian Girelli, Christopher Pollack
- - **Subjects:** Subjects:
-High Energy Physics - Theory (hep-th); General Relativity and Quantum Cosmology (gr-qc)
- - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
- - **Abstract**
- Baratin and Freidel showed that closed Feynman diagrams in three and four Euclidean dimensions can be expressed as expectation values of observables in a Regge-type topological model \cite{baratin_hidden_2007, baratin_hidden_2007-1}. We extend their analysis to two dimensions with spherical, flat, or hyperbolic background geometry. Specifically, we show that the reduced Feynman amplitude of any closed (planar) scalar graph can be represented as an observable insertion in the partition function of either a discretized BF theory, whose gauge group is the isometry group of the background, or a homogeneous Regge discretization of linear dilaton gravity. 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          A relativistic gravitisation of quantum theory?* - Samuel Fedida, Adrian Kent
-
-
-
-### Thu - 11/19/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Hidden wormholes from an action principle in $D=4$* - Francesco Del Porro, Alessia Platania, Samuele Silveravalle
-
-
-
-### Wed - 11/18/26
+### Mon - 11/23/26
 
 #### Loop quantum gravity related papers
 
 #### **Title:
-          Primordial Non-Gaussianity and Correlation-Function Perturbativity in mLQC-I: The Hybrid Approach**
- - **Authors:** Rui Pan, Jamal Saeed, Anzhong Wang
+          Strong Coupling of Cosmological Perturbations in mLQC-I: The Hybrid Approach**
+ - **Authors:** Jamal Saeed, Rui Pan, Anzhong Wang
  - **Subjects:** Subjects:
 General Relativity and Quantum Cosmology (gr-qc)
  - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
  - **Abstract**
- We investigate primordial non-Gaussianity and the perturbative consistency of scalar perturbations in modified loop quantum cosmology I (mLQC-I) within the hybrid approach. We construct the cubic interaction Hamiltonian in the canonical representation of the quadratic theory and derive an exact finite-momentum in-in expression for the tree-level bispectrum. We consider two initial-state prescriptions: a Gaussian state specified at the bounce and the de Sitter vacuum specified at a remote contracting surface. We assess the retained nonlinear-conversion correction through $\Xi=|\Delta P_R/P_R^{(0)}|$. For the bounce state, a conservative, cancellation-independent, finite-window absolute-integrand estimate is below $6\times10^{-6}$ at all five sampled momenta. For the remote de Sitter state, the signed correction is dominated by cancellations and decreases from $\Xi\simeq9.9\times10^{-2}$ at one tenth of the bounce-curvature scale to $\Xi\simeq2.3\times10^{-4}$ at that scale. Although the retained two-point corrections remain below unity, the bispectrum can have large pointwise amplitudes: the bounce state yields an equilateral $f_{\rm NL}$ with root-mean-square amplitude over oscillation phase of order $10^3$--$10^4$, while the remote state can yield much larger values. The dominant rapid oscillation is organized approximately by $k_t=k_1+k_2+k_3$, with $\Delta k_t\simeq5.7\times10^{-4}m_{\rm P}$, while the triangle-shape envelope varies slowly. For the illustrative bounce-to-present mapping adopted here, CMB-projection diagnostics indicate substantial phase averaging. Thus, large pointwise primordial non-Gaussianity can coexist with a small retained correction to the two-point function. 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Thermodynamics and interior structure of density-responsive regular black holes* - Martin Drobczyk
-
-
-
-### Tue - 11/17/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
-
-#### Spin foam related papers
-
-There is no new related paper today 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Superstars, quantum wormholes and von Neumann algebras* - Vijay Balasubramanian, Ryo Nemoto, Masaki Shigemori
-
-
-
-### Mon - 11/16/26
-
-#### Loop quantum gravity related papers
-
-There is no new related paper today 
+ We study nonlinear perturbative consistency of scalar perturbations in modified loop quantum cosmology I (mLQC-I) within the hybrid approach. We express the quadratic and cubic Hamiltonians in a common canonical representation before imposing the background constraint and adopt a minimal sector-preserving cubic regularization. Near the pre-bounce quantum-geometrical de Sitter phase, nonlinear coefficients become strongly enhanced. The $\alpha_I^3/\kappa$ term survives the leading ultraviolet cubic kernel for fixed nondegenerate triangles in the selected frequency assignment. This enhancement occurs in four inflationary potentials, with formal suppression scales sensitive to their normalization. In an assumed factorized quartic continuation, a selected lapse contact does not cancel enhanced cubic exchange in an analytic scattering family. However, the derived quartic Legendre contribution cancels that lapse contact at $V=K_\phi$ in the Hamiltonian. The full amplitude remains unresolved: omitted quartic sectors are not proved subleading, and the formal scales do not determine a physical cutoff. For an instantaneous quadratic state initialized at the bounce, the equilateral cubic diagnostic first reaches unity at $K\simeq0.6483m_{\rm P}$. Evolution over $0\le t/t_{\rm P}\le10$ lowers this crossing to $K\simeq0.64626m_{\rm P}$. Sampled shape and independent frequency-assignment tests do not lower these thresholds. A fourth-order adiabatic ultraviolet tail can be attached without changing the tested finite modes. These results identify pre-bounce nonlinear enhancement and a candidate bounce-state window. Broader evolution and shape tests, renormalized backreaction, observational mode mapping on a consistently normalized background, and a complete fourth-order theory remain necessary to establish interacting consistency. 
 
 #### Spin foam related papers
 
 #### **Title:
-          Twisting IKKT with branes**
- - **Authors:** Fabian Hahner, Natalie M. Paquette
+          Numerical Implementation and Tests of the Quadratic Effective Action for Lorentzian Spinfoam Amplitudes**
+ - **Authors:** Dongxue Qu, Sean Tobin, Hongguang Liu, Muxin Han
  - **Subjects:** Subjects:
-High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph)
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
  - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
  - **Abstract**
- Motivated by the conjectural relationship between the IKKT matrix model and type IIB string theory, we classify supersymmetric twists of the matrix model, allowing for both dynamical and kinematical supercharges. Beyond the two twists available at any finite $N$, which we studied in our previous work, we find five additional classes at infinite rank which require non-commuting backgrounds associated with D-branes in IIB supergravity. Together, these twists realize representatives of every equivalence class of twisting supercharges in flat-space type IIB supergravity recently classified by the first author; however, the precise form of the orbit stratification differs. This difference is related to a higher central extension of the IIB superalgebra that appears in our treatment of the IKKT model in the BV formalism. Expanding around the non-commutative backgrounds gives worldvolume theories on products of A- and B-branes, including four-dimensional BF theory on an emergent D3-brane. We relate all these twists to deformations of BCOV theory (the closed string field theory of the topological B-model) using the open-closed duality of classical string field theory. For one of the twists with Spin$(7)$ symmetry, we also show the localization of the IKKT partition function by Moore, Nekrasov, and Shatashvili can be directly reconstructed with the BV formalism, with their auxiliary field completion encoded by quadratic antifield terms. Throughout, we provide self-contained treatments of the formal techniques we employ. 
-
-
-
-#### Other related papers
-
-1. [[]](https://arxiv.org/abs/) - *Title:
-          Exact model of a gravitational wave and electromagnetic radiation in DHOST gravity theory: wave solutions and testable effects* - Konstantin E. Osetrin
+ In the pure integral representation of Lorentzian EPRL spinfoam amplitudes, the integration over non-geometric variables in the large-spin limit defines an effective action for Regge geometries. Expanding this effective action to quadratic order around a flat background recovers the classical Regge action $iS_{\mathrm{Regge}}$ at leading order, supplemented by a curvature correction quadratic in the bulk deficit angles $\varepsilon$. In this work, we numerically implement this effective-action framework and validate its analytic predictions using two Julia packages: LorentzianSimplexSolver, for the computation of real and complex critical-point data, and Effective-Spinfoam, for the evaluation of the effective action. We apply this workflow to the double-$\Delta_3$ complex, the $1$-$5$ Pachner move, its refinement, and a $24$-simplex hypercube triangulation. Two complementary numerical tests are performed: first, starting from the real critical point of a flat background, we verify that the leading term reproduces the quadratic Regge action and evaluate the $\varepsilon^2$ curvature correction across a range of the Barbero-Immirzi parameter $\gamma$. Power-law fits confirm that in the small-$\gamma$ regime, the $\varepsilon^2$ correction is of higher order in $\gamma$ than the Regge action. Second, for a sample of curved geometries with finite length perturbations $\delta\ell$, we numerically solve the full nonlinear critical equations at fixed perturbed edge lengths for complex critical points. By comparing the direct action evaluation at complex critical points with the quadratic effective action, we demonstrate that the latter accurately reproduces the nonlinear complex critical-point action up to remainders of cubic order in $\delta\ell$. 
 
 
 
 
-
-
-[New papers last week]({{site.url}}/archived/weekly/pre-prints/2026/11/16/archived_weekly_papers.html)
+[New papers last week]({{site.url}}/archived/weekly/pre-prints/2026/11/23/archived_weekly_papers.html)
