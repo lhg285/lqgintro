@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Tue - 11/24/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          String breaking in a (1+1)-dimensional $e^+e^-$ collider* - Ross Dempsey, Anna-Maria E. Glück, Silviu S. Pufu, Benjamin T. Søgaard
+
+
+
 ### Mon - 11/23/26
 
 #### Loop quantum gravity related papers
