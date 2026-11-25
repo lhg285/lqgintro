@@ -6,6 +6,32 @@ permalink: /this_week_papers/
 
 
 
+### Wed - 11/25/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+#### **Title:
+          Regge calculus for $f(R)$ gravity with torsion**
+ - **Authors:** Xiao-Kan Guo
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ We formulate $f(R)$ gravity with spacetime torsion in Regge calculus, but without an \emph{ad hoc} geometric definition of torsion. Working in D'Adda's formulation of simplicial gravity with coordinates, we show that the axial sector of the torsion is carried by a massless Kalb--Ramond two-form, which in four dimensions is dual to a single scalar on the dual vertices. The discretized theory is therefore pure Regge gravity coupled to two scalar fields, the scalaron and the axion, without a geometric definition of torsion on the Regge lattice. We derive the lattice action and the complete set of discrete equations of motion, and we verify the continuum limit. For a homogeneous and isotropic lattice we obtain the discrete Friedmann--Raychaudhuri system, compute the exact kinetic and curvature coefficients for a regular triangulation of $\mathbb S^3$, and show that the discrete equations reproduce the continuum closed solution at first order in the evolution time step. The results therefore present a very special case in which the torsional effects are completely described by scalar fields on the Regge lattice and there is no need of a full discrete differential calculus. 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          QTG minimons* - Valeri P. Frolov
+
+
+
 ### Tue - 11/24/26
 
 #### Loop quantum gravity related papers
