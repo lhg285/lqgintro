@@ -6,6 +6,23 @@ permalink: /this_week_papers/
 
 
 
+### Thu - 11/26/26
+
+#### Loop quantum gravity related papers
+
+#### **Title:
+          Quantum black hole evaporation from thin shell collapse: a complete effective picture**
+ - **Authors:** Michał Bobula, Francesco Fazzini
+ - **Subjects:** Subjects:
+General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Theory (hep-th)
+ - **Arxiv link:** [https://arxiv.org/abs/](https://arxiv.org/abs/)
+ - **Abstract**
+ Quantum gravity is expected to play a central role in resolving classical singularities and providing a complete, predictive spacetime picture. In this paper, we develop an effective model inspired by loop quantum gravity that aims to fulfill this expectation, providing a unified description of thin shell collapse, black hole formation, evaporation, and remnant dynamics. The framework exhibits general validity, holding across different effective equations of motion, matter sources, and evaporation laws. Specifically, we incorporate backreaction within a quasi-static approximation, modeling the radiation as null dust and matching the ingoing and outgoing fluxes across an evaporation surface using the Darmois-Israel junction conditions. For an evaporation law governed by the Stefan-Boltzmann law, we find that the final stage of evaporation yields an extremal black hole extending into a new asymptotic region, featuring both event and Cauchy horizons. Conversely, under the Schwinger approach, no event or Cauchy horizons form, instead, a temporary dynamical trapped region emerges, and the resulting spacetime remains globally hyperbolic. Under this variant, our model predicts a horizonless null remnant escaping to future null infinity. 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
 ### Wed - 11/25/26
 
 #### Loop quantum gravity related papers

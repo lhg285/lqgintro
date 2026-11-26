@@ -10,6 +10,9 @@ permalink: /all_papers/
 
 
 1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum black hole evaporation from thin shell collapse: a complete effective picture* - Michał Bobula, Francesco Fazzini
+
+1. [[]](https://arxiv.org/abs/) - *Title:
           Numerical Implementation and Tests of the Quadratic Effective Action for Lorentzian Spinfoam Amplitudes* - Dongxue Qu, Sean Tobin, Hongguang Liu, Muxin Han
 
 1. [[]](https://arxiv.org/abs/) - *Title:
