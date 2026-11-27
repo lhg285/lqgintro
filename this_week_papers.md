@@ -6,6 +6,25 @@ permalink: /this_week_papers/
 
 
 
+### Fri - 11/27/26
+
+#### Loop quantum gravity related papers
+
+There is no new related paper today 
+
+#### Spin foam related papers
+
+There is no new related paper today 
+
+
+
+#### Other related papers
+
+1. [[]](https://arxiv.org/abs/) - *Title:
+          Quantum critical collapse to an extremal black hole* - Hugo Lange, Harvey S. Reall
+
+
+
 ### Thu - 11/26/26
 
 #### Loop quantum gravity related papers
